@@ -41,6 +41,8 @@ Phiên bản đầu tiên giải quyết một luồng hoàn chỉnh:
 | [10 — Nguồn tài liệu](docs/10-nguon-tai-lieu.md) | Toàn bộ link gốc và nguồn bổ sung |
 | [11 — Bối cảnh hackathon](docs/11-hackathon-tham-khao.md) | Yêu cầu/tiêu chí cuộc thi để tham khảo |
 | [12 — Nhật ký quyết định](docs/12-nhat-ky-quyet-dinh.md) | ADR và các quyết định ban đầu |
+| [13 — Bản đồ nguồn ngoài](docs/13-ban-do-nguon-ngoai.md) | Tám upstream được ghim và cách dùng theo milestone |
+| [14 — Chính sách cập nhật upstream](docs/14-chinh-sach-cap-nhat-upstream.md) | Bootstrap, update, release gate và rollback submodule |
 
 ## Bắt đầu nhanh
 
@@ -56,9 +58,18 @@ gcloud auth application-default login
 
 Sao chép `.env.example` thành `.env`, điền project/location và **không commit secret**. Xem đầy đủ tại [hướng dẫn thiết lập](docs/02-thiet-lap-google-cloud-adk.md).
 
+Để lấy đầy đủ tám repository nguồn tham khảo đã ghim, kể cả submodule lồng:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File ./scripts/bootstrap.ps1
+```
+
+Checkout mặc định lấy đầy đủ lịch sử và tự bật Windows long paths cho các lệnh Git. CI hoặc máy tạm có thể dùng `-Shallow`; xem [bản đồ nguồn ngoài](docs/13-ban-do-nguon-ngoai.md) và [third-party notices](THIRD_PARTY_NOTICES.md).
+
 ## Trạng thái
 
 - [x] Chốt phạm vi, kiến trúc tham chiếu và nguồn tài liệu.
+- [x] Ghim source upstream chính thức và bổ sung quy trình bootstrap/kiểm tra.
 - [ ] Scaffold ứng dụng ADK và schema miền nghiệp vụ.
 - [ ] Xây dựng vertical slice ingest → breakdown → approval → export.
 - [ ] Thêm RAG có citation và bộ eval.

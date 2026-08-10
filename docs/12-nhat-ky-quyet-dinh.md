@@ -52,13 +52,23 @@ Mỗi quyết định có trạng thái `proposed`, `accepted`, `superseded` ho�
 - **Quyết định:** Code/docs của repository theo Apache-2.0; user content/generated artifacts có rights metadata riêng và không được commit.
 - **Hệ quả:** Cần asset manifest, consent/provenance và fixtures có quyền rõ.
 
+## ADR-0007 — Upstream chính thức được ghim bằng Git submodule
+
+- **Trạng thái:** accepted
+- **Ngày:** 2026-08-10
+- **Bối cảnh:** Dự án cần tra cứu implementation, notebook và protocol gốc; chỉ lưu link dễ bị drift, còn sao chép file làm mất lịch sử và attribution.
+- **Quyết định:** Ghim tám repository chính thức trong `ext/` bằng Git submodule, mặc định checkout full history và hỗ trợ `-Shallow` riêng cho CI. Runtime dependency vẫn được khóa bằng package manager; production không import từ `ext/`.
+- **Hệ quả tích cực:** Nguồn tái tạo được, commit review rõ, giữ nguyên license/NOTICE và có thể rollback bằng gitlink.
+- **Đánh đổi/rủi ro:** Clone tốn thêm dung lượng/thời gian, nested submodule và Windows long paths cần bootstrap riêng, upstream có thể chứa nội dung ngoài phạm vi dự án.
+- **Cách kiểm chứng/rollback:** `scripts/verify-submodules.ps1` kiểm tra đủ đường dẫn, SHA, dirty/shallow state; rollback bằng cách hoàn nguyên gitlink hoặc loại bỏ submodule trong một ADR thay thế.
+
 ## ADR cần quyết định trước M1
 
-- ADR-0007: Operational database (PostgreSQL/managed alternative).
-- ADR-0008: UI stack và auth provider.
-- ADR-0009: RAG Engine vs Vertex AI Search vs BigQuery/vector store.
-- ADR-0010: Agent Engine vs Cloud Run boundary.
-- ADR-0011: IaC/CI runner và region/data residency.
+- ADR-0008: Operational database (PostgreSQL/managed alternative).
+- ADR-0009: UI stack và auth provider.
+- ADR-0010: RAG Engine vs Vertex AI Search vs BigQuery/vector store.
+- ADR-0011: Agent Engine vs Cloud Run boundary.
+- ADR-0012: IaC/CI runner và region/data residency.
 
 ## Mẫu ADR
 

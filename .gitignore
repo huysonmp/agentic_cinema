@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+service-account*.json
+credentials*.json
+
+# Build and tooling
+dist/
+build/
+.terraform/
+*.tfstate
+*.tfstate.*
+.idea/
+.vscode/
+
+# Generated or user-owned media/data
+data/raw/
+data/processed/
+artifacts/
+outputs/
+uploads/
+*.mp4
+*.mov
+*.wav
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

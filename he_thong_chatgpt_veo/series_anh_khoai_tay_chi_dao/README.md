@@ -15,6 +15,7 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 - Media automation: [khảo sát official Veo/image API và Flow v0.1](agents/08_google-media-api-feasibility-discovery-v0.1.md); owner muốn auto sau approval/lệnh thử, route/account/budget chưa chốt. Chưa adapter, chưa access tài khoản, chưa paid run; Flow manual baseline chưa bị thay ngầm
 - Route hiện hành: owner chọn C; [Flow UI read probe và kế hoạch ghép](agents/09_flow-ui-route-c-probe-and-assembly-plan.md) đã đọc/click được project/settings/menu trên flow.google.com, giữ “Luôn luôn xác nhận”; chưa generation/editing/download test, chưa cap/request approved. Tài liệu 08 giữ lịch sử trước chọn route
 - P6–P14: chưa mở sản xuất; chưa gọi Veo hoặc release
+- Phạm vi bàn giao EP01: [owner tự dựng Canva, hỗ trợ bàn giao clip cảnh/đoạn có QC và chỉ dẫn nối](episodes/ep01_pilot/35_owner-canva-assembly-and-shot-delivery-decision.md); chưa có media, chưa miễn QC master hoặc duyệt request tạo.
 - Script Lab EP01: đã chạy thử `NON-FINAL`; [kết quả vòng 1](episodes/ep01_pilot/script_lab/08_script-lab-pilot-evaluation-v0.1.md) — chưa có kịch bản sẵn sàng sản xuất
 - Episode đang mở: `EP01_PILOT`
 

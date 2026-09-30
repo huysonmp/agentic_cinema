@@ -1,5 +1,7 @@
 # EP01 — Pilot
 
+P6 update: [intake và request40](40_p6-reference-intake-and-character-trial-request-v0.1.md) có text sources/Flow preflight và hai prompt base với count/cap/stop. Chờ owner duyệt chạy; chưa food visual verification hoặc output media.
+
 **Hiện hành:** [owner duyệt Q0 và V1A/V2A/V3A](38_p5-content-handoff-and-p6-direction-approval.md); P5 CONTENT_BASELINE_APPROVED_FOR_P6_HANDOFF, P6 OPEN_FOR_DESIGN_PREPARATION / ASSET_APPROVAL_PENDING. [Spec/sample plan39](39_p6-character-voice-design-and-sample-plan-v0.1.md) chưa tạo asset; các status pending cue/review trong lịch sử bên dưới không thay biên bản38.
 
 - **Status:** P5_C_V0.5_OWNER_CONTENT_APPROVED / FINAL_REVIEW_PENDING / AI_PERFORMANCE_UNTESTED

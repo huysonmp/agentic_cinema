@@ -35,6 +35,8 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 
 ## Nguyên tắc
 
+P6 mới: [reference intake và request thử base40](episodes/ep01_pilot/40_p6-reference-intake-and-character-trial-request-v0.1.md) đã kiểm text nguồn/Flow UI read-only, chưa visual food verification. Hai prompt nhân vật text-only chờ duyệt chạy, chưa media/credit spent.
+
 - `Markdown/JSON/CSV` là source of truth cho quyết định và metadata.
 - Bản đã duyệt không ghi đè; tạo revision mới.
 - Agent tạo proposal; owner quyết định.

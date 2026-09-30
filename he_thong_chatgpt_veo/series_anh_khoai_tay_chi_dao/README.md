@@ -11,6 +11,7 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 - P4 EP01: đã chạy concept/rework; owner chọn hướng C qua hội thoại, ghi ở [approval](episodes/ep01_pilot/33_p5-c-v0.5-owner-content-approval.md); không giả quality panel PASS
 - P5 EP01: `C_V0.5_OWNER_CONTENT_APPROVED / FINAL_REVIEW_PENDING / AI_PERFORMANCE_UNTESTED` — [bản đầy đủ](episodes/ep01_pilot/32_p5-script-c-v0.5-approved-content.md) và [biên bản](episodes/ep01_pilot/33_p5-c-v0.5-owner-content-approval.md); kết Khoai gắp cho Đào để chữa cháy. Chưa media/generation hoặc toàn bộ P5 quality pass. Giữ A; D chưa tiếp tục, không tự DROP
 - Tier 1: thiết kế Option A `APPROVED`; [runtime v0.1](agents/quality_system/02_runtime-contract-and-stage-map-v0.1.md) có prompt/rubric/fixture, [probe đầu](agents/quality_system/05_tier1-behavior-probe-report-v0.1.md) và [retest/readiness](agents/quality_system/06_flow-fixture-retest-and-runtime-readiness-v0.1.md); chờ review version trước run trên EP01
+- Agent production P6–P14: [đề xuất các vị trí còn thiếu v0.1](agents/07_p6-p14-agent-opportunity-proposal-v0.1.md), bảy role ưu tiên và bốn role downstream; chưa duyệt/triển khai, không tự mở generation
 - P6–P14: chưa mở sản xuất; chưa gọi Veo hoặc release
 - Script Lab EP01: đã chạy thử `NON-FINAL`; [kết quả vòng 1](episodes/ep01_pilot/script_lab/08_script-lab-pilot-evaluation-v0.1.md) — chưa có kịch bản sẵn sàng sản xuất
 - Episode đang mở: `EP01_PILOT`

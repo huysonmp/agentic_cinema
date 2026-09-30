@@ -22,6 +22,8 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 
 ## Cấu trúc
 
+**Quyết định mới nhất:** [approval38](episodes/ep01_pilot/38_p5-content-handoff-and-p6-direction-approval.md) xác nhận Q0 + V1A/V2A/V3A. P5 nội dung được chuyển giao có dependency media; P6 mở chuẩn bị thiết kế, chưa asset/generation approval. [Design/sample plan39](episodes/ep01_pilot/39_p6-character-voice-design-and-sample-plan-v0.1.md) là draft. Các dòng pending cue/direction ở trên là lịch sử trước approval38.
+
 | Folder | Chức năng |
 |---|---|
 | `00_governance/` | Project Foundation Pack và phê duyệt P0 |

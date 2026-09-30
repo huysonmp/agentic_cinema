@@ -1,5 +1,7 @@
 # EP01 — Pilot
 
+**Hiện hành:** [owner duyệt Q0 và V1A/V2A/V3A](38_p5-content-handoff-and-p6-direction-approval.md); P5 CONTENT_BASELINE_APPROVED_FOR_P6_HANDOFF, P6 OPEN_FOR_DESIGN_PREPARATION / ASSET_APPROVAL_PENDING. [Spec/sample plan39](39_p6-character-voice-design-and-sample-plan-v0.1.md) chưa tạo asset; các status pending cue/review trong lịch sử bên dưới không thay biên bản38.
+
 - **Status:** P5_C_V0.5_OWNER_CONTENT_APPROVED / FINAL_REVIEW_PENDING / AI_PERFORMANCE_UNTESTED
 - **Current stage:** cuối P5: P0–P3 đã duyệt, owner chọn C và chấp nhận nội dung v0.5; chưa full quality pass, chưa duyệt hình/giọng/shot/prompt hoặc video
 - **Outcome:** một video TikTok dọc khoảng 30 giây, đi đủ P2–P14.

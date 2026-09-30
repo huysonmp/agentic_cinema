@@ -30,6 +30,8 @@ Owner chọn C để sửa tiếp: [C-v0.4 với payoff nhanh tay lấy nem và 
 
 **Cập nhật quyết định hiện hành:** owner chấp nhận kết chữa cháy gắp cho Đào; [C-v0.5 đầy đủ](32_p5-script-c-v0.5-approved-content.md) thay v0.4 để phát triển tiếp, có [approval record](33_p5-c-v0.5-owner-content-approval.md). Các status trong đoạn lịch sử trên không thay quyết định này. Final review chưa chạy đúng v0.5; kiểm nhịp bằng đầu ra AI, không yêu cầu người diễn. Chưa P5 full quality PASS hoặc generation authority.
 
+[Gap register review cuối P5](34_p5-final-review-gap-register-c-v0.5.md) ghi ba việc còn mở: independent narrative/khẩu ngữ, exact claim/fiction review, alignment thính với brief. Các việc timing/action/voice/media thuộc P6–P12, không yêu cầu human rehearsal. [Bảy vị trí production đã duyệt chuẩn bị](../../agents/production_team/01_owner-preparation-approval.md), có package PROD7-v0.1 chưa test hành vi/episode run.
+
 Owner đã duyệt toàn bộ thiết kế [Tier 1 quality agents/checkers](../../agents/quality_system/01_tier1-owner-approval-2026-09-30.md). Đây là quyền triển khai contract và test fixture; chưa mở generation hoặc release approval.
 
 [Runtime v0.1 và stage map](../../agents/quality_system/02_runtime-contract-and-stage-map-v0.1.md), [sáu role prompts](../../agents/quality_system/03_tier1-role-prompts-v0.1.md) và [behavior fixtures](../../agents/quality_system/04_tier1-behavioral-fixtures-v0.1.md) đã được tạo. Runtime version cần owner review trước run trên artifact EP01; có prompt không đồng nghĩa đã QC media thật.

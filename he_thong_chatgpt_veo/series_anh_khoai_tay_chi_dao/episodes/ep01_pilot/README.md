@@ -4,6 +4,7 @@
 - **Current stage:** cuối P5: P0–P3 đã duyệt, owner chọn C và chấp nhận nội dung v0.5; chưa full quality pass, chưa duyệt hình/giọng/shot/prompt hoặc video
 - **Outcome:** một video TikTok dọc khoảng 30 giây, đi đủ P2–P14.
 - **Phân công bàn giao hiện hành:** [owner tự dựng Canva, hỗ trợ bàn giao clip pack theo cảnh/đoạn](35_owner-canva-assembly-and-shot-delivery-decision.md). Giữ kiểm chất lượng từng clip và khả năng nối; chưa media, chưa master QC PASS.
+- **Update cuối P5:** [hai review độc lập exact C-v0.5 hoàn tất](36_p5-v0.5-final-paper-reviews-and-cue-decision.md), cue decision pending; [P6 hình/giọng](37_p6-visual-voice-direction-proposal-v0.1.md) mới là proposal. Cập nhật này ưu tiên hơn trạng thái pending review trong các đoạn lịch sử dưới đây.
 
 Món pilot: Nem Bùi – Bắc Ninh. Wordplay “thả thính” là một hướng sáng tạo cũ, chưa được duyệt; không suy claim “đãi khách” từ trò chơi chữ. Episode brief P3 v0.1 đã được owner duyệt; concept và script chưa khóa.
 

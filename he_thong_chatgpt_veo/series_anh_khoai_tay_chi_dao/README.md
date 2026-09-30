@@ -18,6 +18,7 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 - Phạm vi bàn giao EP01: [owner tự dựng Canva, hỗ trợ bàn giao clip cảnh/đoạn có QC và chỉ dẫn nối](episodes/ep01_pilot/35_owner-canva-assembly-and-shot-delivery-decision.md); chưa có media, chưa miễn QC master hoặc duyệt request tạo.
 - Script Lab EP01: đã chạy thử `NON-FINAL`; [kết quả vòng 1](episodes/ep01_pilot/script_lab/08_script-lab-pilot-evaluation-v0.1.md) — chưa có kịch bản sẵn sàng sản xuất
 - Episode đang mở: `EP01_PILOT`
+- Cập nhật review cuối P5: [hai paper reviews độc lập đã hoàn tất](episodes/ep01_pilot/36_p5-v0.5-final-paper-reviews-and-cue-decision.md), không yêu cầu đổi thoại; cue thính/món/nơi chờ xác nhận. Có [đề xuất hướng hình/giọng P6](episodes/ep01_pilot/37_p6-visual-voice-direction-proposal-v0.1.md), chưa tạo asset hoặc mở production.
 
 ## Cấu trúc
 

@@ -1,0 +1,40 @@
+# EP01 — Pilot
+
+- **Status:** P5_C_V0.5_OWNER_CONTENT_APPROVED / FINAL_REVIEW_PENDING / AI_PERFORMANCE_UNTESTED
+- **Current stage:** cuối P5: P0–P3 đã duyệt, owner chọn C và chấp nhận nội dung v0.5; chưa full quality pass, chưa duyệt hình/giọng/shot/prompt hoặc video
+- **Outcome:** một video TikTok dọc khoảng 30 giây, đi đủ P2–P14.
+
+Món pilot: Nem Bùi – Bắc Ninh. Wordplay “thả thính” là một hướng sáng tạo cũ, chưa được duyệt; không suy claim “đãi khách” từ trò chơi chữ. Episode brief P3 v0.1 đã được owner duyệt; concept và script chưa khóa.
+
+Xem [01_input-review-nem-bui.md](01_input-review-nem-bui.md).
+
+Pack P2 cũ tại [02_p2-research-pack-nem-bui.md](02_p2-research-pack-nem-bui.md) là tư liệu lịch sử; baseline được duyệt là [v0.2](06_p2-research-pack-v0.2.md) kèm [E1](07_p2-v0.2-erratum-and-owner-gate.md). Không bản P2 nào tự duyệt lời thoại.
+
+Owner đã chấp nhận [ranh giới claim P2](03_p2-claim-boundary-decision.md), duyệt [gói P2 v0.2 + E1](08_p2-approval-record.md) và [Episode Brief P3 v0.1](10_p3-approval-record.md) với D1=A, D2=A. P4 chưa có concept pass; Script Lab cũ vẫn `NON-FINAL`.
+
+P4 đã chạy vòng 1; xem [decision packet](15_p4-round1-decision-packet-v0.1.md). Chưa có owner shortlist P4 chính thức; P5 chỉ mở thử nghiệm theo ngoại lệ bên dưới.
+
+Owner đã chọn ngoại lệ B để thử hai hướng A và B ở P5; xem [ủy quyền test](16_p5-provisional-test-decision-2026-09-30.md) và [hai test script](17_p5-provisional-test-scripts-v0.1.md). Đây là thử nghiệm tạm thời, chưa phải script production.
+
+Hai bản đã qua lượt ngôn ngữ đầu tiên và có [candidate rewrite v0.2](20_p5-language-rewrite-candidates-v0.2.md); bản v0.1 giữ nguyên để so sánh. Timed read vẫn chưa chạy.
+
+Hai context đọc lạnh đảo thứ tự và Fact Auditor đã [chẩn đoán v0.2](22_p5-v0.2-independent-read-and-claim-review.md). Đây là paper diagnostic trước timed read, không formal P5 pass. [Hai bản sửa v0.3](23_p5-test-scripts-v0.3.md) đã có [review tiếng Việt/kịch tính, fresh cold reader và delta claim check](24_p5-v0.3-independent-review-and-owner-packet.md). Packet 24 là recommendation tại thời điểm review, không decision của owner.
+
+Owner đã [giữ A-v0.3 làm một hướng thử và hiệu chỉnh cách kể](25_owner-creative-correction-and-a-v0.3-retention.md): Khoai–Đào gặp món tự nhiên trong câu chuyện đời thường, không mặc định nhiệm vụ sản xuất/giới thiệu món. Giữ nguyên A-v0.3, chưa script lock hoặc quyền generate; không tự thực thi đề nghị quay P4 cả hai ở packet 24.
+
+Theo [yêu cầu thêm ít nhất hai hướng thử](26_owner-expanded-script-test-set.md), đã viết và phản biện [C/D đời thường v0.2.1](28_p5-additional-everyday-test-scripts-v0.2.1.md), có [lịch sử rework](27_p5-additional-drafts-and-review-history.md) và [packet A/C/D](29_p5-expanded-test-set-owner-packet.md). C/D là candidate đề nghị thử tiếp, chưa owner chọn, chưa timed read hay script lock.
+
+Owner đánh giá C/D nhạt, yêu cầu cải thiện: [hai chuyện viết lại v0.3](30_p5-everyday-script-rebuild-v0.3.md) là bản hiện hành để đọc, do root viết; chưa reviewer độc lập/owner duyệt. TEST_FURTHER của v0.2 không áp cho v0.3. C có ký ức mới dạng fiction chưa canon; D còn rủi ro lệch trục thính P3, không tự đổi brief. Bản cũ và packet 29 giữ làm lịch sử.
+
+Owner chọn C để sửa tiếp: [C-v0.4 với payoff nhanh tay lấy nem và bị Đào bắt gặp](31_p5-script-c-v0.4-owner-payoff-revision.md) là bản hiện hành của C; v0.3 giữ lịch sử. Exact v0.4 chưa duyệt/review độc lập/timed read; D tạm không xử lý lượt này, không DROP; A vẫn giữ nguyên.
+
+**Cập nhật quyết định hiện hành:** owner chấp nhận kết chữa cháy gắp cho Đào; [C-v0.5 đầy đủ](32_p5-script-c-v0.5-approved-content.md) thay v0.4 để phát triển tiếp, có [approval record](33_p5-c-v0.5-owner-content-approval.md). Các status trong đoạn lịch sử trên không thay quyết định này. Final review chưa chạy đúng v0.5; kiểm nhịp bằng đầu ra AI, không yêu cầu người diễn. Chưa P5 full quality PASS hoặc generation authority.
+
+Owner đã duyệt toàn bộ thiết kế [Tier 1 quality agents/checkers](../../agents/quality_system/01_tier1-owner-approval-2026-09-30.md). Đây là quyền triển khai contract và test fixture; chưa mở generation hoặc release approval.
+
+[Runtime v0.1 và stage map](../../agents/quality_system/02_runtime-contract-and-stage-map-v0.1.md), [sáu role prompts](../../agents/quality_system/03_tier1-role-prompts-v0.1.md) và [behavior fixtures](../../agents/quality_system/04_tier1-behavioral-fixtures-v0.1.md) đã được tạo. Runtime version cần owner review trước run trên artifact EP01; có prompt không đồng nghĩa đã QC media thật.
+
+[Textual behavior probe](../../agents/quality_system/05_tier1-behavior-probe-report-v0.1.md) đã chạy trên Case hư cấu, giữ ranh giới unknown/authority; không phải EP01 hoặc media run.
+
+FLOW output đã có [retest và readiness](../../agents/quality_system/06_flow-fixture-retest-and-runtime-readiness-v0.1.md); runtime version vẫn chờ owner review, media/production capabilities chưa được kiểm.
+

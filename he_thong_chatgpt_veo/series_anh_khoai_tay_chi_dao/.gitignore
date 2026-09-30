@@ -1,0 +1,9 @@
+# Media and editor working files are owner-managed locally.
+media/raw/**
+media/selected/**
+media/masters/**
+media/editor-projects/**
+
+# Keep documentation files inside media folders trackable.
+!media/**/README.md
+

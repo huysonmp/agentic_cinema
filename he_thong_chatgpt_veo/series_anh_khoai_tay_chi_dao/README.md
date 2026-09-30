@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái hiện hành — 2026-09-30, P6
+
+Ưu tiên bản ghi này hơn các dòng lịch sử bên dưới. [Approval45](episodes/ep01_pilot/45_p6-owner-v03-visual-baseline-approval.md) khóa hướng hình bộ đôi v0.3; không tự duyệt mọi angle/expression. [Vòng46](episodes/ep01_pilot/46_p6-consistency-front-profile-run-v01.md), [47](episodes/ep01_pilot/47_p6-expression-diagnostics-v01.md), [48](episodes/ep01_pilot/48_p6-static-hand-prop-diagnostics-v01.md) đã tạo và lưu local9still mới, root QC. Exact Khoai profile, Đào eyeline và grip đũa chưa đạt brief; geometry phần khuất cần owner review. P6 chưa complete, chưa voice/motion/food visual lock/video. Primary duo giữ nguyên; media gitignored, commit chỉ metadata/docs. Cumulative cap200credit theo41, số dư Flow1.050 sau vòng và observed delta0.
+
 Folder làm việc chính thức của series TikTok AI về món ăn và văn hóa vùng miền.
 
 ## Trạng thái

@@ -1,5 +1,13 @@
 # EP01 — Pilot
 
+## Hiện hành — P6 sau vòng thử 2026-09-30
+
+Ưu tiên phần này hơn các dòng trạng thái lịch sử bên dưới. P5 nội dung đã handoff theo38; [owner duyệt visual baseline bộ đôi v0.3](45_p6-owner-v03-visual-baseline-approval.md). Đã thực hiện [5 ảnh angle/rework](46_p6-consistency-front-profile-run-v01.md), [2 ảnh expression](47_p6-expression-diagnostics-v01.md), [2 ảnh hand/prop](48_p6-static-hand-prop-diagnostics-v01.md). Tổng9output mới đã lưu local và root review; không đồng nghĩa QC PASS hoặc owner duyệt từng asset. Góc Khoai chưa exact90°, eyeline Đào và grip đũa cần sửa. Primary duo45 vẫn là nguồn identity, geometry phần khuất chưa chốt.
+
+P6 ACTIVE_DIAGNOSTICS / OWNER_REVIEW_PENDING, chưa hoàn tất. Food visual, voice và motion chưa kiểm; chưa video/master. Cap tổng200credit theo41; Flow số dư sau vòng vẫn1.050, UI0 mỗi still request và observed delta0. Không upload reference mới. Media tại media/raw/ep01_p6_consistency/ là gitignored; docs chứa manifest/hash, không có binary trên GitHub.
+
+## Lịch sử trước vòng P6 hiện hành
+
 Authority mới nhất: [owner cho thử P6 trong tổng200 credit, dùng in-app browser](41_p6-owner-trial-authority-200credits-and-iab-login.md); thay cap40/no-retry của proposal40. Đã mở tab Google xác minh cho owner; chưa generate.
 
 P6 update: [intake và request40](40_p6-reference-intake-and-character-trial-request-v0.1.md) có text sources/Flow preflight và hai prompt base với count/cap/stop. Chờ owner duyệt chạy; chưa food visual verification hoặc output media.

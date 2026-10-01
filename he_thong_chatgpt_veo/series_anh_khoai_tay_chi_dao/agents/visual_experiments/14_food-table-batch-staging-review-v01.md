@@ -66,3 +66,7 @@ Không xếp hạng sức hút hoặc chọn cuối thay owner. Ba ảnh là alt
 - Giả định: hai ghế cạnh gần là hai vị trí intended; người bên phải sẽ là Đào. Đây là giả định layout, chưa phải character placement đã xác thực.
 - Còn mở: primary food fidelity; frame với nhân vật; turn/reach/chuyển nem; clean revision; chọn candidate và lock variation.
 - Bước tiếp theo: owner xem ba bố cục với limits này; trên candidate owner chọn, operator chuẩn bị revision sạch và P6 placement theo quyền hiện có, cấp food primary cho CONT. P7 phải kiểm action states; chỉ video/transition đúng version mới có thể đóng temporal findings. Không promote full P6 hoặc mở video gate từ report bàn trống này.
+
+## Adjudication note — watermark exception sau review
+
+2026-10-01, root cung cấp exception: dấu sao dưới-phải là watermark nền tảng được brief yêu cầu giữ, không thuộc prohibited commercial logos. Cold observation và bằng chứng vị trí/count dấu sao giữ nguyên. TST-01 được phân loại lại thành `ACCEPTABLE_VARIATION / RESOLVED_BY_BRIEF_EXCEPTION`; clean/remove/crop action và clean-revision dependency chỉ vì dấu sao được rút lại. Không đề xuất xóa hoặc crop watermark. Các cụm “clean residue action”, “revision sạch” và DEFECT residue phía trên là recommendation lịch sử trước khi exception được cấp, không còn là action hiện hành. Static table disposition cả ba vẫn KEEP_FOR_OWNER_REVIEW. TST-02 food-fidelity HOLD và TST-03 action-readiness HOLD giữ nguyên; note này không cấp asset approval hoặc temporal pass.

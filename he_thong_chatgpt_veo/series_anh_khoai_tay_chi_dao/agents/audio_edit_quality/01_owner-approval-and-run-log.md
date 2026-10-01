@@ -26,3 +26,11 @@ Context từng vai trò mới, không nhận đáp án `08_oracle-and-root-verif
 ### Completion ưu tiên hơn các checkpoint phía trên
 
 AEQ-DLG-R2 COMPLETE: report02_dialogue-r2.md; root xác nhận closureDLG-ROOT-01, không numerical30sallocation thiếuinput. AEQ-CUT-R1 COMPLETE: report04_cut-audit-r1.md; independentprobe/hash actualcontrol8s/repeat13.5s, duplicateB detection vàscope limits đúng. Root verification08:13/13behaviorcases afterretest,5/5unit tests; không production/audio/lip-syncpass. Bốn vai trò đã thực chạy; không suy promptfileexistence làrun.
+
+## Follow-up V01 visual — 2026-10-01
+
+Owner yêu cầu `làm tiếp đi nào`: tiếp tục kiểm V01 và chuẩn bị V02, không suy thành nghe đạt. AEQ-VIS-R1 giao context /root/aeq_cut_audit_test theo profile AV-CUT: đọc contract02/request85 và actual sample grid/raw metadata/ASR, không root kết luận mới hoặc oracle. Output `reports/05_v01-visual-r1.md`, DISPATCHED / REVIEW_PENDING tại checkpoint này. Đây là follow-up cùng context đã chạy cut test, không cold context mới; lượt đầu không nhận root visual findings.
+
+Sampling local source V01 giữ nguyên, select frame n=0,12,...180 ở24fps, grid4×4 gồm0;0.5;...7.5s. Trích frame phục vụ QC, không generation/credit/API/production assembly. Lip-sync/Dao silent cần evidence riêng, không từ sample grid.
+
+AEQ-VIS-R1 COMPLETE: report05 đã ghi hình thực, gesture ngoài facial-only scope và extra text cần xác minh nguồn. Root đã đọc report; trích/xem frame native1s không overlay xác nhận text nằm trong V01. Không đóng finding sửa chữ/gesture, chỉ đóng nghi vấn nguồn text. Source SHA256 không đổi. Voice/lip-sync vẫn chưa PASS, V02 chưa submit. Biên bản91 là trạng thái mới nhất.

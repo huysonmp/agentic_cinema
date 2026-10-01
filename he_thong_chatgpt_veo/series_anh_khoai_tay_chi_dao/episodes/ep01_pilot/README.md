@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — kiểm hình V01
+
+[Biên bản 91](91_v01-visual-review-and-v02-readiness.md): root và AV-CUT đã xem 16 frame mẫu. Khoai có gesture ngoài giới hạn facial-only; nhãn tên không mong muốn được root xác minh nằm trong frame native. V01 chưa đạt visual sạch, vẫn dùng được để owner nghe thử voice. Chưa xác nhận lip-sync/voice; V02 chưa chạy và không credit mới.
+
 ## Mới nhất — bốn agent voice/dựng đã chạy thử
 
 [Kết quả 90](90_audio-edit-agent-trial-and-readiness.md): bốn vai trò đã chạy; 13 tình huống hành vi đạt sau một lượt kiểm lại, 5 unit tests đạt. Diagnostic nối đúng dài 8 giây, diagnostic lặp dài 13,5 giây. Agent ghép lời R1 tự gán 30 giây bị root yêu cầu sửa; R2 đã sửa. Chưa xác nhận voice, lip-sync hoặc ghép các cảnh production; V02 chưa chạy, điểm duyệt nghe ở 88 giữ nguyên. Không phát sinh generation hoặc credit mới.

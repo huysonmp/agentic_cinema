@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — P6 sau vòng thử 2026-09-30
+## Hiện hành — P6 ngày 2026-10-01
+
+Cập nhật ưu tiên: [đối soát/preflight57](57_p6-food-reconcile-and-hand-preflight-2026-10-01.md) giữ F-NB-02 `UNRECONCILED`, không retry. [T1 có kiểm soát58](58_p6-t1-controlled-chopstick-direction-2026-10-01.md) upload I04 vào asset riêng và tạo đúng một output I06: hướng đầu đũa sang phải, giữ cấu trúc tay nhìn thấy. Chưa duyệt grip/contact phần khuất, motion NOT_TESTED. I05 và local I04 giữ nguyên. P6 OPEN; không voice/video. Media local gitignored, commit chỉ tài liệu. Các số dư/số output trong đoạn dưới là snapshot lịch sử, không tổng hiện hành.
+
+## Snapshot P6 ngày 2026-09-30
 
 Update mới nhất: [rework49](49_p6-targeted-profile-eyeline-grip-rework-v01.md) đã tạo/lưu6output versions nữa (3generation +3editor revisions). Root thấy E-D03 sửa được left gaze, chưa owner approval; profile screenRIGHT và functional chopstick grip vẫn fail. Tổng15output versions từ46–49, không15asset cards riêng. Số dư sau49 vẫn1.050/observed delta0; primary45 không thay. Các kết luận lỗi46–48 bên dưới là baseline trước rework.
 
@@ -57,4 +61,3 @@ Owner đã duyệt toàn bộ thiết kế [Tier 1 quality agents/checkers](../.
 [Textual behavior probe](../../agents/quality_system/05_tier1-behavior-probe-report-v0.1.md) đã chạy trên Case hư cấu, giữ ranh giới unknown/authority; không phải EP01 hoặc media run.
 
 FLOW output đã có [retest và readiness](../../agents/quality_system/06_flow-fixture-retest-and-runtime-readiness-v0.1.md); runtime version vẫn chờ owner review, media/production capabilities chưa được kiểm.
-

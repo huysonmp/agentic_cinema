@@ -8,5 +8,6 @@
 | AP-FIX-01 | CONT-AP / BEHAVIOR_FIXTURE | Tier1 contract/CONT; VE02; fixtures03 IDs07–10 | 06_cont-fixture-results-v01.md | COMPLETED; root calibration09 ALIGNED, không production pass |
 | AP-MEDIA-01 | CONT-AP / MEDIA_REVIEW | primary45 actual; I04/I05 actual, không maker logs | 07_cont-grip-media-review-v01.md | COMPLETED; actual view_image3JPEG, cả hai REWORK; không motion/P6 pass |
 | VE-PILOT-01 | VEXP / PAPER_PROPOSAL + actual still inspection | 53–56, primary45/I04/I05; report07 sau độc lập reviewer | 08_vexp-grip-food-pilot-proposal-v01.md | COMPLETED; actual3JPEG + reviewer07; tests NOT_RUN; root disposition09 |
+| AP-MEDIA-02 | CONT-AP / MEDIA_REVIEW | I06 actual cold; I04 + primary sau cold; không maker prompt/log | 10_cont-i06-static-review-v01.md | COMPLETED; actual3JPEG; orientation/visible pose MET, grip HOLD; context từng xem I04 nên không fresh blind; không motion/P6 pass |
 
 Target paths media: `../../media/raw/ep01_p6_character_base/EP01_P6_PAIR_CONCEPT_v0.3.jpg` và `../../media/raw/ep01_p6_consistency/H-K-I04_v0.1.jpg`, `H-K-I05_v0.1.jpg`. Relative tính từ visual_experiments nên actual dispatch dùng absolute workspace paths; manifest episode55 giữ checksum. Food output không có, chỉ execution log56; không giả media.

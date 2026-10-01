@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Ưu tiên hiện hành — local QC và ghép Flow
+
+[Biên bản89](89_local-media-qc-install-and-flow-assembly-decision.md): owner duyệt bộ local FFmpeg/FFprobe + faster-whisper; Gemini API deferred. Bộ local đã cài và ASR chạy trên V01 thật; có hai ASR mismatch cần nghe kiểm, không voice PASS. Flow live có `Thêm vào cảnh`; ưu tiên Scenebuilder khi đủ clip đạt gate, chưa scene/master export. V02 NOT_SUBMITTED, listening gate88 giữ nguyên. Các mục dưới là lịch sử.
+
 ## Hiện hành — P6 ngày 2026-10-01
 
 Latest [64](64_p6-input-decisions-approved-2026-10-01.md): owner chọn1A/2A/3A/4A; setvenphốchiềutối, rootresearchfood, recheckF02rồipreparerequestriêng, ưu tiênvoiceFlow/Veo. F02livecheck vẫnunresolved. [65](65_p6-food-evidence-set-spec-and-f03-request-v01.md) thêmactualfoodvisualevidence + setdraft + exactF03 request **chờ duyệt submit**, chưa tạo món/video hoặc đóngP6.

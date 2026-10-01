@@ -2,6 +2,8 @@
 
 ## Hiện hành — P6 ngày 2026-10-01
 
+Reference grip hiện hành: [owner chọn hai ảnh existing62](62_p6-owner-existing-grip-reference-selection-2026-10-01.md) — current `Potato character holding wooden …` = I03, `Hand holding wooden chopsticks` = I05; live download/hash bằng raw đã lưu. Owner xác nhận dáng/hướng cầm này đúng để tiếp tục, không dùng geometry I07/I09; chưa motion/P6 approval. Không tạo thêm lượt sửa grip trong vòng62.
+
 Ưu tiên mới nhất: [owner bác grip61](61_p6-owner-grip-rejection-2026-10-01.md) — I09 OWNER_REJECTED/REWORK do phản hồi cầm đũa ngược; rút recommendation ở60, I07 HOLD chờ kiểm reference. PASS bounded-review11/12 giữ lịch sử, không xác nhận grip đúng. Không generation mới trong vòng ghi nhận phản hồi.
 
 Mới nhất: [vòng visibility/integration59](59_p6-grip-visibility-loop-2026-10-01.md) thêm3submit/3output I07–I09. I07 cận tay đủ static-readability theo CONT11; I08 không đạt waist-up target; I09 diagnostic3:4 đã có mặt+tay+đũa trong khung nửa người. [Gói owner xem60](60_p6-grip-owner-review-packet-2026-10-01.md) trình cặp I07/I09, chưa owner approval và không motion/P6 pass. Video cuối vẫn9:16; diagnostic3:4 không đổi delivery spec. Food vẫn không retry. Ưu tiên dòng này hơn snapshot trước.

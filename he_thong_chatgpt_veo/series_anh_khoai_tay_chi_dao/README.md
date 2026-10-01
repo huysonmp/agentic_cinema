@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+[Approval/preflight86](episodes/ep01_pilot/86_p6-voice-probe-approval-and-cost-preflight.md): owner duyệt request85; UI thực Quality/frames/9:16/720p/8giây/x1 báo100credit/lượt. Hai probe dự kiến200; HOLD trước submit vì phần cap200 cũ chưa đối soát đủ. Đề nghị ngân sách riêng200 cho hai probe, chưa được cấp. Không generation hoặc voice take trong vòng này;85 không còn pending request approval, nhưng budget gate còn mở.
+
 [Request thử tiếng85](episodes/ep01_pilot/85_p6-vietnamese-voice-probe-request-v01.md) đã chuẩn bị hai probe ký ức/đối đáp, chưa submit. UI Flow được đọc thực, confirmation Luôn luôn; exact giá/mode và phần cap còn lại chưa đối soát. Voice vẫn NOT_TESTED; request85 chờ duyệt, không tự coi lệnh tiếp tục là duyệt mọi generation.
 
 **Quyết định mới nhất:** [approval84](episodes/ep01_pilot/84_p7-owner-coverage-choreography-approval.md) ghi owner `d1a, d2a`: ưu tiên mạch nhìn liền A, B dự phòng có điều kiện; duyệt staging tay/cốc/đũa/bát D2A ở lớp giấy. D1/D2 không còn pending. `OWNER_PAPER_DIRECTION_APPROVED / P6_OPEN / P7_PASS_WITH_ACTIONS / GENERATION_BLOCKED`. Voice tiếng Việt thực chưa tạo/nghe/chọn; bước chuẩn bị ưu tiên là probe tiếng và kiểm tuyến tài khoản trước trình exact request. Chưa chạy voice/video, chưa đo30 giây; các dòng chờ D1/D2 bên dưới là lịch sử trước84.

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Cập nhật mới — Codex chịu trách nhiệm tạo refs, OPEN đang rework
+
+[104](104_t2-reference-image-execution-and-owner-responsibility-correction.md) sửa việc giao owner chuẩn bị: root tạo, owner kiểm/chọn. [105](105_t2-reference-image-attempts-and-rework-gate.md) lưu4actual Flow outputs OPEN chưa đạt bố cục hoặc sai nền; chưa END/camera video. Gói giấy101/102 vẫn là intent, không inputs đã hoàn tất. Đề xuất xin quyền công cụ ảnh tích hợp Codex nếu đổi route khỏi Flow; không tự chuyển API/provider. P6 OPEN, shot direction100 giữ approved.
+
 ## Ưu tiên hiện hành — T2 shot direction đã duyệt, chuẩn bị refs/probe
 
 [Approval100](100_t2-shot-approval-and-reference-preparation.md) ghi owner duyệt cách quay T2 sau storyboard/retest99: món→mắt Khoai, giữ S02, J23 cắt cùng phía trục, giữ causal path A và ranh giới S04/S05. [Brief101](101_t2-reference-frame-briefs-v0.1.md) chuẩn bị hai neutral reference endpoints; [request102](102_t2-camera-attention-probe-request-draft-v0.1.md) tách thử camera khỏi thoại/tay/món. Đây tài liệu chuẩn bị, không media mới/request execution/credit approval. P6 còn mở, P7 shot direction đã duyệt; refs/voice/route/giá và actual quality còn gate riêng. Các mục “mới nhất” bên dưới giữ lịch sử, không ưu tiên hơn approval100.

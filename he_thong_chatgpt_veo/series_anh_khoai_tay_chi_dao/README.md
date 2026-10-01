@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+[Phản hồi nghe V01 — 92](episodes/ep01_pilot/92_p6-v01-owner-voice-feedback-and-retest-proposal.md): owner nhận xét giọng Khoai chưa đủ ấm/trầm, nhịp kể đều và thiếu truyền cảm. `V01_OWNER_VOICE_NOT_ACCEPTED / KHOAI_VOICE_SELECTION_OPEN / V02_HOLD`. Hướng thử lại ở 92 mới là đề xuất, không generation approval; không dùng phần10credit dành V02 để retry. Các trạng thái LISTENING_PENDING bên dưới giữ lịch sử trước phản hồi này; phát âm/lip-sync và full playback vẫn chưa đóng.
+
 [Lượt Lite88](episodes/ep01_pilot/88_p6-lite-voice-budget-approval-and-v01-run.md): ngân sách riêng20 được owner duyệt; V01 tạo đúng một lần, tải bản gốc vào owner/project, UI8giây. GiáUI10, số dư sau1.040/observed delta10 so mốc trước1.050. `LISTENING_PENDING`, chưa audio PASS/voice selection; V02 chưa submit, Quality chưa mở. Bước tiếp owner nghe mẫuV01 rồi xử lý lỗi hoặc chạyV02 trong phần10 còn lại.
 
 [Hướng Lite-first87](episodes/ep01_pilot/87_p6-lite-first-voice-test-direction-and-preflight.md) theo owner thay vòng Quality đầu: UI Lite/frames/720p/8giây/9:16/x1 giá10credit, đã gắn ảnh đầu v0.8. Hai probe dự kiến tối đa20, còn budget hold do cap cũ chưa đối soát; đề nghị20 riêng chưa duyệt. Chưa nhập prompt/submit/audio. Chỉ xem xét Quality sau basic voice test, không auto nâng model; đề nghị Quality200 tại86 không còn là vòng đầu hiện hành.

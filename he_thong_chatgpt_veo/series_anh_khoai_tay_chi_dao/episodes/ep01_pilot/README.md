@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Ưu tiên hiện hành — T2 shot direction đã duyệt, chuẩn bị refs/probe
+
+[Approval100](100_t2-shot-approval-and-reference-preparation.md) ghi owner duyệt cách quay T2 sau storyboard/retest99: món→mắt Khoai, giữ S02, J23 cắt cùng phía trục, giữ causal path A và ranh giới S04/S05. [Brief101](101_t2-reference-frame-briefs-v0.1.md) chuẩn bị hai neutral reference endpoints; [request102](102_t2-camera-attention-probe-request-draft-v0.1.md) tách thử camera khỏi thoại/tay/món. Đây tài liệu chuẩn bị, không media mới/request execution/credit approval. P6 còn mở, P7 shot direction đã duyệt; refs/voice/route/giá và actual quality còn gate riêng. Các mục “mới nhất” bên dưới giữ lịch sử, không ưu tiên hơn approval100.
+
 ## Mới nhất — kiểm hình V01
 
 [Biên bản 91](91_v01-visual-review-and-v02-readiness.md): root và AV-CUT đã xem 16 frame mẫu. Khoai có gesture ngoài giới hạn facial-only; nhãn tên không mong muốn được root xác minh nằm trong frame native. V01 chưa đạt visual sạch, vẫn dùng được để owner nghe thử voice. Chưa xác nhận lip-sync/voice; V02 chưa chạy và không credit mới.

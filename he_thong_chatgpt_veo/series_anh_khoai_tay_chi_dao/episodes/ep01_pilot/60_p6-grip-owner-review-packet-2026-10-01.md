@@ -1,5 +1,7 @@
 # P6 — Grip: gói ảnh để owner xem
 
+**SUPERSEDED recommendation:** owner phản hồi “cầm đũa ngược” với I09. [Record61](61_p6-owner-grip-rejection-2026-10-01.md) ưu tiên: I09 OWNER_REJECTED/REWORK, rút đề nghị chọn ref; I07 HOLD chờ kiểm lại cùng họ grip. Nội dung packet bên dưới là lịch sử trình duyệt, không recommendation hiện hành.
+
 Ngày2026-10-01. Đây là packet lựa chọn, không approval. Kế thừa authority và exact prompts/results ở59. Nhân vật/body/outfit baseline45 không đổi, scriptC-v0.5 không đổi. P6 OPEN.
 
 ## Hai ảnh chính

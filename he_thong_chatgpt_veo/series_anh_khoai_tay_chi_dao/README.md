@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+[Paper pilot đạo diễn97](episodes/ep01_pilot/97_directing-paper-pilot-owner-decision-packet.md) đã thực chạy DIR/DOP/ACT/EDIT + integration + independentpaperreviewR1 + boundedDIRR2; [runlog08](agents/directing_team/08_ep01-paper-pilot-run-log.md), artifacts01–07. T1baselinecontrol, T2food-led, T3listening-led; đề nghị phát triển T2 trước, chưa owner chọn hoặc kiểm hấp dẫn trên media. R2 rootread-back không là reviewerR2pass; CR-01 A-through-transfer vẫnpending; giữ32/78/84/93. 12behaviorfixtures NOT_EXECUTED, không generation/credit/shotlock mới. Trạng thái PILOT_NOT_RUN bên dưới là lịch sử trước97.
+
 [Thiết kế đạo diễn96](episodes/ep01_pilot/96_directing-team-design-approval-and-handoff.md) đã triển khai sau owner approval: [operating model DIRECT-v0.1](agents/directing_team/01_approval-and-operating-model.md), DIR/DOP/ACT prompts và EDITv0.2; có12fixture chưa thực thi và root desk-review. CTD/SHOT/EDIT cũ đã nối addendum tránh chồng chéo. PAPER_PILOT_NOT_RUN, không generation/credit, không đổi script/ref/coverage/voice đã duyệt. Bước tiếp là tạo và so treatment paper trên EP01, không coi thiết kế agent là đã sản xuất/phê duyệt chất lượng.
 
 [Vòng kiểm tổng thể94](episodes/ep01_pilot/94_integrated-v01-quality-review-r1.md) hoàn tất phạm vi hiện có: [CINE-LIGHT R1](agents/audio_edit_quality/reports/06_cine-light-v01-r1.md) đã chạy độc lập; root read-back sửa hai thiếu sót về nguồn chữ và phân loại gesture. Không confirmed lighting defect; framing gần hơn là proposal theo chức năng shot, không thu hồi ref78. Voice V01 vẫn không chọn, full motion/lip-sync/real scene joins/master chưa đạt chứng nhận. Không generation/credit.

@@ -2,6 +2,8 @@
 
 ## Hiện hành — P6 ngày 2026-10-01
 
+Đang chuẩn bị [gói đầu vào/work packages63](63_p6-next-input-decisions-and-work-package-2026-10-01.md): bốn quyết định bối cảnh, cách xác nhận món, xử lý request món unresolved và hướng thử tiếng. DRAFT_FOR_OWNER_DECISION, không generation/voice/video approval mới hoặc P6complete. Grip refs62 giữ nguyên.
+
 Reference grip hiện hành: [owner chọn hai ảnh existing62](62_p6-owner-existing-grip-reference-selection-2026-10-01.md) — current `Potato character holding wooden …` = I03, `Hand holding wooden chopsticks` = I05; live download/hash bằng raw đã lưu. Owner xác nhận dáng/hướng cầm này đúng để tiếp tục, không dùng geometry I07/I09; chưa motion/P6 approval. Không tạo thêm lượt sửa grip trong vòng62.
 
 Ưu tiên mới nhất: [owner bác grip61](61_p6-owner-grip-rejection-2026-10-01.md) — I09 OWNER_REJECTED/REWORK do phản hồi cầm đũa ngược; rút recommendation ở60, I07 HOLD chờ kiểm reference. PASS bounded-review11/12 giữ lịch sử, không xác nhận grip đúng. Không generation mới trong vòng ghi nhận phản hồi.

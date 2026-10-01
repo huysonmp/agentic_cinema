@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — bốn agent voice/dựng đã chạy thử
+
+[Kết quả 90](90_audio-edit-agent-trial-and-readiness.md): bốn vai trò đã chạy; 13 tình huống hành vi đạt sau một lượt kiểm lại, 5 unit tests đạt. Diagnostic nối đúng dài 8 giây, diagnostic lặp dài 13,5 giây. Agent ghép lời R1 tự gán 30 giây bị root yêu cầu sửa; R2 đã sửa. Chưa xác nhận voice, lip-sync hoặc ghép các cảnh production; V02 chưa chạy, điểm duyệt nghe ở 88 giữ nguyên. Không phát sinh generation hoặc credit mới.
+
 ## Ưu tiên hiện hành — local QC và ghép Flow
 
 [Biên bản89](89_local-media-qc-install-and-flow-assembly-decision.md): owner duyệt bộ local FFmpeg/FFprobe + faster-whisper; Gemini API deferred. Bộ local đã cài và ASR chạy trên V01 thật; có hai ASR mismatch cần nghe kiểm, không voice PASS. Flow live có `Thêm vào cảnh`; ưu tiên Scenebuilder khi đủ clip đạt gate, chưa scene/master export. V02 NOT_SUBMITTED, listening gate88 giữ nguyên. Các mục dưới là lịch sử.

@@ -13,3 +13,13 @@
 | AP-MEDIA-04 | CONT-AP / MEDIA_REVIEW | I09 actual cold; I07/I06 + primary sau cold; không maker prompt/QC | 12_cont-i09-integrated-grip-review-v01.md | COMPLETED; actual4JPEG; bounded static identity+grip-readability PASS_FOR_NEXT_GATE; retainedcontext không freshblind; không motion/asset/P6 approval |
 
 Target paths media: `../../media/raw/ep01_p6_character_base/EP01_P6_PAIR_CONCEPT_v0.3.jpg` và `../../media/raw/ep01_p6_consistency/H-K-I04_v0.1.jpg`, `H-K-I05_v0.1.jpg`. Relative tính từ visual_experiments nên actual dispatch dùng absolute workspace paths; manifest episode55 giữ checksum. Food output không có, chỉ execution log56; không giả media.
+
+## 2026-10-01 — TABLE-BATCH01
+
+Episode73 có pre-dispatch register, actual output manifest và root adjudication. Dòng food chưa có ở đoạn trên giữ lịch sử lượt56, không áp dụng cho batch mới này.
+
+| Run | Role/mode | Inputs | Output | Status |
+|---|---|---|---|---|
+| FOOD-TABLE-BATCH01 | Food/leaf evidence / MEDIA_REVIEW+RESEARCH | A/B/C cold, rồi F05/two owner-authorized photos; source text | 13_food-table-batch-evidence-review-v01.md | COMPLETED; six actual images; REWORK all three, sprigs UNKNOWN |
+| TABLE-BATCH01-STAGING | CONT / MEDIA_REVIEW | A/B/C cold, rồi script32/serving invariants | 14_food-table-batch-staging-review-v01.md | COMPLETED; static counts/layout limited pass, action HOLD; root73 watermark exception supersedes remove action |
+| TABLE-BATCH01-SELECTION | VEXP / MEDIA_REVIEW+PROPOSAL_ONLY | Six actual images, maker73, final13/14 | 15_food-table-batch-selection-v01.md | COMPLETED; C proposed repair base; L01/F01 NOT_RUN; no owner asset approval/P6 closure |

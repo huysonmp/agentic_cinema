@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6
 
+Mốc ưu tiên mới nhất: [loạt bàn ăn73 và independent review](episodes/ep01_pilot/73_p6-table-batch-and-independent-agent-review-2026-10-01.md). Một request Flow x3 đã có ba actual still A/B/C, lưu owner folder và project media. Food reviewer13: cả ba REWORK do silhouette lá sung và drift texture nem; CONT14: bộ phục vụ/layout đọc được nhưng action chưa kiểm. VEXP15 tổng hợp chọn base sửa, không approve asset. F05 giữ approval texture theo71; không đổi primary nhân vật45. P6 vẫn OPEN; chưa voice/video. Các mốc bên dưới là lịch sử, không phải trạng thái ưu tiên hiện hành.
+
 Mốc mới nhất: [F-NB-03 approval và kết quả66](episodes/ep01_pilot/66_p6-f03-approved-food-trial-2026-10-01.md). Owner duyệt request65; đã chạy đúng một lần Nano Banana Pro / Image / 9:16 / x1, giá UI 0 tín dụng. Flow từ chối do chính sách và báo chưa tính phí; không có ảnh đầu ra, không tự retry. F02 vẫn UNRECONCILED. Hướng grip hiện hành theo [owner selection62](episodes/ep01_pilot/62_p6-owner-existing-grip-reference-selection-2026-10-01.md); không dùng I09 bị owner bác làm canon. [Quyết định đầu vào64](episodes/ep01_pilot/64_p6-input-decisions-approved-2026-10-01.md) và [evidence/request65](episodes/ep01_pilot/65_p6-food-evidence-set-spec-and-f03-request-v01.md) là mốc chuẩn bị hiện hành. P6 chưa đóng; chưa voice/video. Các mốc bên dưới giữ lịch sử, không thay quyết định mới nhất.
 
 Mới nhất: [vòng sửa49](episodes/ep01_pilot/49_p6-targeted-profile-eyeline-grip-rework-v01.md), thêm6output versions đã lưu local/QC. Edit cục bộ sửa eyeline Đào ở mức root provisional; profile Khoai và grip đũa chưa đạt. Primary45 không đổi, P6 chưa complete, chưa video; số dư1.050/observed delta0. Các thông tin46–48 sau đây giữ mốc trước rework.

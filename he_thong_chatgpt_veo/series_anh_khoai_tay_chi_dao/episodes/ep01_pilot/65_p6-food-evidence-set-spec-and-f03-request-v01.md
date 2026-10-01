@@ -39,4 +39,4 @@ Proposed two samples later: Khoai đoạn “Mùi này làm anh nhớ cái chả
 
 ## Tổng hợp
 
-Đãxácđịnh:4directionsapproved, F02vẫnunresolved, có actualfoodimage quan sátthêm. Quyếtđịnh:soạnF03 riêng, textonly khônguploadsource; setvenphốnhư1A. Giảđịnh:platingplain/bànđủrộng làworkingdesign khôngfacts. Cònmở:F03approval+candidateQC, portion/lá/photoprov sâu hơn, setstyleframe và voiceprobe. Tiếp:ownerduyệt exactF03 mộtlượt; thựcoperatorpreflight→generate→save→review nếuđủđiềukiện; khôngvideo.
+Đã xác định: bốn hướng đã được duyệt; F02 vẫn chưa đối soát; có thêm ảnh món được quan sát trực tiếp. Quyết định: soạn F03 riêng, chỉ dùng mô tả chữ, không upload ảnh nguồn; bối cảnh ven phố theo1A. Giả định: đĩa đơn giản và mặt bàn đủ rộng là thiết kế làm việc, không phải fact về địa phương. Còn mở: duyệt F03 và kiểm candidate, hình phần nem được gắp, provenance ảnh sâu hơn, style frame bối cảnh và mẫu tiếng. Tiếp theo: owner duyệt exact F03 một lượt; operator kiểm cài đặt → tạo → lưu → review nếu đủ điều kiện; không chạy video.

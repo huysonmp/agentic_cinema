@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+[Lượt Lite88](episodes/ep01_pilot/88_p6-lite-voice-budget-approval-and-v01-run.md): ngân sách riêng20 được owner duyệt; V01 tạo đúng một lần, tải bản gốc vào owner/project, UI8giây. GiáUI10, số dư sau1.040/observed delta10 so mốc trước1.050. `LISTENING_PENDING`, chưa audio PASS/voice selection; V02 chưa submit, Quality chưa mở. Bước tiếp owner nghe mẫuV01 rồi xử lý lỗi hoặc chạyV02 trong phần10 còn lại.
+
 [Hướng Lite-first87](episodes/ep01_pilot/87_p6-lite-first-voice-test-direction-and-preflight.md) theo owner thay vòng Quality đầu: UI Lite/frames/720p/8giây/9:16/x1 giá10credit, đã gắn ảnh đầu v0.8. Hai probe dự kiến tối đa20, còn budget hold do cap cũ chưa đối soát; đề nghị20 riêng chưa duyệt. Chưa nhập prompt/submit/audio. Chỉ xem xét Quality sau basic voice test, không auto nâng model; đề nghị Quality200 tại86 không còn là vòng đầu hiện hành.
 
 [Approval/preflight86](episodes/ep01_pilot/86_p6-voice-probe-approval-and-cost-preflight.md): owner duyệt request85; UI thực Quality/frames/9:16/720p/8giây/x1 báo100credit/lượt. Hai probe dự kiến200; HOLD trước submit vì phần cap200 cũ chưa đối soát đủ. Đề nghị ngân sách riêng200 cho hai probe, chưa được cấp. Không generation hoặc voice take trong vòng này;85 không còn pending request approval, nhưng budget gate còn mở.

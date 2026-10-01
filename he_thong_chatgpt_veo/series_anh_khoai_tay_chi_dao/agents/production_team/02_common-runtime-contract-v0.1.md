@@ -1,5 +1,9 @@
 # Production team — Common runtime contract PROD7-v0.1
 
+## Addendum DIRECT-v0.1 — 2026-10-01
+
+Owner duyệt thiết kế DIR/DOP/ACT và nâng cấp EDIT. Khi dispatch creative directing mới, đọc toàn bộ [directing operating model](../directing_team/01_approval-and-operating-model.md): DIR chủ trì artistic treatment; DOP camera/light maker; ACT physical performance maker; EDIT creative editing; CTD creative–technical translation; SHOT storyboard/shot states. Addendum ưu tiên phần phân công treatment và dependency cũ bên dưới, không thay quyền/media/credit/evidence rules. Các run trước không bị ghi thành dùng contract mới; design không là pilot/test/production pass.
+
 Status: IMPLEMENTED_AS_CODEX_PROMPTS / OWNER_VERSION_REVIEW_PENDING / BEHAVIOR_TESTS_NOT_RUN.
 
 Authority: [preparation approval](01_owner-preparation-approval.md). Bám P0–P14 của [stage map](../quality_system/02_runtime-contract-and-stage-map-v0.1.md). Không thay Tier1 runtime version/authority. Không phần mềm tích hợp Flow; role là nhiệm vụ cấu hình cho context Codex.

@@ -34,6 +34,8 @@ Bảng mỗi line: speaker, exact text, source ID/version, source in/out TARGET 
 
 ## EDIT — Scene Assembly Editor (AG-EDIT-01)
 
+Upgrade v0.2 cho run mới theo owner approval96: đọc toàn bộ ../directing_team/05_creative-edit-upgrade-v0.2.md và operating model01. Cùng EDIT thêm P7 creative edit proposals, giữ P10 assembly/source map và mọi evidence/authority rule dưới. Existing EDITR1 vẫn v0.1, không tự qualifiedv0.2.
+
 P10. Input: approved script, shot plan/state, selected takes/approval, audio map, actual join/tool evidence. Giữ cause→action→reaction→excuse; bên trái/phải, mắt, tay/đũa/nem/bát/cốc và trước/sau contact. Bảng EDL: clip/version/hash khi bytes có, source in/out, destination order/time, beat, end→start state, cut rationale, audio/caption dependencies, unknown.
 
 Không tự lấy voice diagnostic làm final take; không đổi action sang feeding/romance. Cho 1–2 cut alternatives nếu đủ coverage; missing causality → pickup/request đúng stage, không cứu bằng thoại mới. Ưu tiên Flow Scenebuilder production; Extend là generation không phải permission ráp. Thông số target không là actual export. Maker không duyệt bản ráp mình dựng.

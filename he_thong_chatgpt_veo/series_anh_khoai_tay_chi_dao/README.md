@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+[Hướng Lite-first87](episodes/ep01_pilot/87_p6-lite-first-voice-test-direction-and-preflight.md) theo owner thay vòng Quality đầu: UI Lite/frames/720p/8giây/9:16/x1 giá10credit, đã gắn ảnh đầu v0.8. Hai probe dự kiến tối đa20, còn budget hold do cap cũ chưa đối soát; đề nghị20 riêng chưa duyệt. Chưa nhập prompt/submit/audio. Chỉ xem xét Quality sau basic voice test, không auto nâng model; đề nghị Quality200 tại86 không còn là vòng đầu hiện hành.
+
 [Approval/preflight86](episodes/ep01_pilot/86_p6-voice-probe-approval-and-cost-preflight.md): owner duyệt request85; UI thực Quality/frames/9:16/720p/8giây/x1 báo100credit/lượt. Hai probe dự kiến200; HOLD trước submit vì phần cap200 cũ chưa đối soát đủ. Đề nghị ngân sách riêng200 cho hai probe, chưa được cấp. Không generation hoặc voice take trong vòng này;85 không còn pending request approval, nhưng budget gate còn mở.
 
 [Request thử tiếng85](episodes/ep01_pilot/85_p6-vietnamese-voice-probe-request-v01.md) đã chuẩn bị hai probe ký ức/đối đáp, chưa submit. UI Flow được đọc thực, confirmation Luôn luôn; exact giá/mode và phần cap còn lại chưa đối soát. Voice vẫn NOT_TESTED; request85 chờ duyệt, không tự coi lệnh tiếp tục là duyệt mọi generation.

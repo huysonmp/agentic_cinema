@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+[T2 đã được owner chọn98](episodes/ep01_pilot/98_t2-direction-owner-selection.md). [Storyboard T2 và gói duyệt99](episodes/ep01_pilot/99_t2-storyboard-owner-review-packet.md) đã thực chạy SHOT/CTD, reviewer giấyR1, SHOT bổ sung composition/J23 và reviewer retestR2. PAPER_READY_FOR_OWNER riêng specification, chưa shot/camera/crop approval hoặc media PASS; motion/cue/voice/route/cost còn mở. Giữ S04 chưa thả→S05 thả, CR-01pending. Không tạo media/credit. Trạng thái chờ chọnT2 trong97 và dòng cũ bên dưới là lịch sử.
+
 [Paper pilot đạo diễn97](episodes/ep01_pilot/97_directing-paper-pilot-owner-decision-packet.md) đã thực chạy DIR/DOP/ACT/EDIT + integration + independentpaperreviewR1 + boundedDIRR2; [runlog08](agents/directing_team/08_ep01-paper-pilot-run-log.md), artifacts01–07. T1baselinecontrol, T2food-led, T3listening-led; đề nghị phát triển T2 trước, chưa owner chọn hoặc kiểm hấp dẫn trên media. R2 rootread-back không là reviewerR2pass; CR-01 A-through-transfer vẫnpending; giữ32/78/84/93. 12behaviorfixtures NOT_EXECUTED, không generation/credit/shotlock mới. Trạng thái PILOT_NOT_RUN bên dưới là lịch sử trước97.
 
 [Thiết kế đạo diễn96](episodes/ep01_pilot/96_directing-team-design-approval-and-handoff.md) đã triển khai sau owner approval: [operating model DIRECT-v0.1](agents/directing_team/01_approval-and-operating-model.md), DIR/DOP/ACT prompts và EDITv0.2; có12fixture chưa thực thi và root desk-review. CTD/SHOT/EDIT cũ đã nối addendum tránh chồng chéo. PAPER_PILOT_NOT_RUN, không generation/credit, không đổi script/ref/coverage/voice đã duyệt. Bước tiếp là tạo và so treatment paper trên EP01, không coi thiết kế agent là đã sản xuất/phê duyệt chất lượng.

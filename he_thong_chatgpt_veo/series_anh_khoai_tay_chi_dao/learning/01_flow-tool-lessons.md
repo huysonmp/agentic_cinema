@@ -39,3 +39,5 @@ Bài học thao tác: khi index thẻ không còn đúng và click lỗi, đọc
 ### L-005: mùi của món nguội không được minh họa bằng hơi nóng
 
 Chủ dự án thấy N01 có khói dù nem nguội; prompt đã cấm `extra steam` nhưng vẫn chưa đạt. Kiểm nguồn và frame tại hồ sơ 131, chưa có đối chứng nguyên nhân. Đề xuất mô tả trạng thái vật lý tích cực (món nguội, không khí trên đĩa trong và tĩnh), loại rõ khói/hơi/heat shimmer/đường mùi; diễn mùi bằng phản ứng nhân vật. Không bảo đảm prompt sửa sẽ đạt cho tới khi thử. Checklist món phải kiểm nhiệt độ và vật lý, không dùng vẻ đẹp hoặc độ hấp dẫn bù lỗi này.
+
+Kiểm thực tế 133–134: đã thử ba mẫu prompt v1.1 nhưng cả ba vẫn có vệt hơi ở frame kiểm, một mẫu thêm chữ và một mẫu cầm đũa ngoài yêu cầu. Giả thuyết prompt sửa đủ mạnh chưa được xác nhận; không đưa bản này vào công thức đã kiểm chứng. Nên tách lớp hình/động tác với thoại/mùi để kiểm nguyên nhân, không lặp nguyên gói thất bại. Ba mẫu là bằng chứng của bộ này, không là thống kê tỷ lệ lỗi của Veo nói chung. Lưu file thành công không đồng nghĩa chất lượng nội dung đạt.

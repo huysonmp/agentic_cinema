@@ -35,3 +35,35 @@ A living photograph of the supplied reference, held for eight seconds. Both adul
 Chưa submit tại đăng ký. Giữ source/current mouthpose tốt hơn instruction nhìn xuống; body heldpose chặt hơn, không suy sẽ thành công trước thử.
 
 R03 SUBMITTED actual10/Lite/frames9:16/720p8s/x1, START OPEN7/ENDblank; click một lần sau exactprompt/read-back;119_R03_PRE.jpg. Chưa output/costdelta. Current round3 submitted/2saved; quotes30credit, actual balance phải đối soát.
+
+R03 OUTPUT_SAVED asset `3e3c5f62-51f6-4469-9a0e-b30f3cb9ebf6`,native `Two_adults_posing_at_table_20261002072511.mp4`3.605.373bytes,projectR03.mp4/owner119_R03.mp4; SHA256 `804AD677BB154F1D268A634B8D23AA32DE760D62DCCBAE828158E819901328C6`. Decode clean,720×1280/24fps/8s/audio stream. Root16samples: Khoai lifts both hands approx0.75s, a hand1.25s; nhiều blink/Đào eyeline-face state changes. Table/framing toàn samples giữ được, steam không thấy. **REWORK gesture**, không kết luận model không thể idle. Screenshot119_R03_RESULT.jpg.
+
+## R04 — endpoint constraint, registered
+
+Giữ exact prompt R03, đổi riêng END từblank thành chính OPEN7 (START=END), để kiểm biên đầu/cuối có giảm spontaneousgesture. Không ảnh endpoint mới, không production canon; không ép endpoint giả cho camera tilt. Chỉ submit nếu vẫn Lite/frames9:16/720p8s/x1 quote10; nếu route/model/giá đổi HOLD. Planned cumulative40/100,đãsubmit3. Chưa chạy.
+
+R04 SUBMITTED sau actual UI vẫnLite/frames9:16/720p8s/x1/quote10, hai thumbnail cùngOPEN7; click một lần, composer reset.119_R04_PRE.jpg. UI balance afterR04submit980 so baseline118=1.020: observed delta40 phù hợp4quotes10. R04 output còn pending; không coi debit=output. Screenshot119_BALANCE_AFTER_R04.jpg local-only accountpanel. P6 trial total balance-delta từmốc1.050 trướcV01 tới980=70, cap200 không bị vượt; không thay billing audit.
+
+R04 OUTPUT_SAVED asset `ea550b0a-495a-40ff-8c5c-4aefd0a71e9f`,native `Adults_posing_at_wooden_table_20261002073036.mp4`1.942.524bytes,projectR04.mp4/owner119_R04.mp4, SHA256 `6EC24F488A5E7C5BBD1B778F0FDCCA89984645B41CCD0BFB3DA4E4C44EA70AE8`. Decode clean/720×1280/24fps/8s/audio stream. Root16samples: Đào opens mouth and lifts bothhands ~1.25–2.75s, Khoai mouthopens~4.75–5.75s. Composition/meal preserved samples. **REWORK**, START=END không đủ khóa chuyển động giữa clip.119_R04_RESULT.jpg.
+
+## R05 — cinemagraph only-eyelids, registered
+
+Giữ START=END OPEN7, cùng config/quoteexpected10; đổi prompt. Exact:
+
+Create an eight-second locked-off cinemagraph from the supplied image. Animate ONLY the eyelids of the two foreground figures, with one gentle blink. Their lips are sealed in the original closed-mouth smile. Their heads, shoulders, arms, wrists and all four hands are held in the original pose for all eight seconds. The entire tabletop, food, herbs, bowls, sauces, chopsticks and glass are a static still-life layer. Keep the camera, framing, scale, lighting and background fixed. Every object retains its exact original position and size. Clear still air above the table. Silent audio. Preserve the native video watermark.
+
+Chỉ là behavior-control diagnostic, không yêu cầu production clip trở thành cinemagraph. Registerednot submitted; cumulative planned50/100.
+
+R05 SUBMITTED: actualquote10/Lite/frames9:16/720p8s/x1; START=END OPEN7;exactpromptread-back/clickonce/composerreset;119_R05_PRE.jpg. Output pending.
+
+R05 OUTPUT_SAVED asset `2d9e5320-1373-459a-8121-6ef690dbee33`,native `Animate_eyelids_of_two_figures_20261002073653.mp4`1.854.027bytes,projectR05.mp4/owner119_R05.mp4;SHA256 `9F7F6EC007DBA1AE19CC6902FB0E409A190E0AC6C9B3A6969C9066125253DF1B`. Decode clean/720×1280/24fps/8s/audio stream. Root16samples: both handgestures ~0.75–1.25s,Khoai many later gestures, prolonged eyesclosedstates/miệnghá. Table/framing samples preserved. **REWORK**.119_R05_RESULT.jpg.
+
+## Research checkpoint và R06 — motion-only minimal, registered
+
+Google official image-to-video bestpractice đọc2026-10-02: [nguồn](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/video/best-practice),sectionsPrompt for motion only/Use general terms/Direct camera. Ảnh đã mang character/scene/style, nên prompt chuyển động và tránh mô tả lại. Đây là hướng dẫn GoogleCloud/AgentPlatform, không bảo đảm FlowLite hay controlendpoint; không dùng API negativePrompt giả trong UI. Suy luận cầntest: giảm dư thừa prompt có thể giúp idlecontrol; chưa causalconclusion.
+
+R06: START=END OPEN7 nhưR05, cùngLite/frames9:16/720p8s/x1/expected10, đổi exactprompt:
+
+Locked camera. The subjects hold their exact starting pose for eight seconds, with closed lips and hands resting on the table. Only their eyelids blink gently once. All other scene elements remain still. Silent audio. Preserve the native video watermark.
+
+Plannedcumulative60/100. Chưa submit.

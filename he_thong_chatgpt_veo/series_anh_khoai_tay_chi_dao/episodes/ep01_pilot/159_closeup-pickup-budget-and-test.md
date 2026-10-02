@@ -2,6 +2,8 @@
 
 ## Quyết định của owner
 
+Sau khi được trình C01 kèm giới hạn riêng động tác gắp, owner trả lời “ok”. Ghi nhận chấp nhận C01 cho phạm vi này; chưa duyệt toàn tập, continuity, voice hoặc Quality. Tiếp nối ở hồ sơ 160.
+
 Owner cấp tiếp 200 credit để test. Cộng 24 còn từ 158: **224 credit được phép dùng**, không phải toàn bộ số dư tài khoản. Giữ bộ ba Lite theo quyết định trước; Quality riêng chưa dùng. Chỉ trình owner bản đã qua kiểm nội bộ, không tự duyệt tập hoàn chỉnh.
 
 ## Hướng thử tiếp

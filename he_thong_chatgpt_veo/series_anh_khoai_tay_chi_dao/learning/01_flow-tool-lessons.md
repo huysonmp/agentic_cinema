@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-02 — probe nâng nem 160: source pose phải rõ
+
+END gần môi v0.1 bị loại trước Veo và chỉnh v0.2 có gap; tuy nhiên ba Lite vẫn sai động tác/hướng nhìn. Kiểm inventory và ảnh cuối chưa đủ: START/END Đào gần chính diện, chỉ cúi mắt về cốc, không biểu đạt rõ đang quay đi. Sợi nem nguồn rủ về bát, đầu ra kéo dài hơn; đây là giả thuyết source contribution chưa xác nhận nguyên nhân riêng. Preflight cần kiểm trạng thái hành động của từng nhân vật, hướng mắt/đầu và continuity phần nem với insert C01, không chỉ số đạo cụ. Sửa nguồn từng nhóm biến, không đổ lỗi một từ hoặc retry nguyên prompt. N02 kiểm dày thấy mở miệng/tiếp xúc vùng môi dù endpoint an toàn: endpoint không chứng minh trajectory. Ròng 30, trial còn184; không ghép ba bản lỗi hoặc dùng đoạn sau ăn để chuyển nem cho Đào.
+
 ## 2026-10-02 — probe cận cảnh gắp 159
 
 Tách một động tác kẹp–nhấc–giữ với START/END mới cho một ứng viên có hình chuyển động đúng trong các khung kiểm. Chưa đủ để kết luận đây là công thức ổn định: hai trong ba lượt lỗi âm thanh, không có ba video đối chiếu. Không dùng việc đưa miệng ra ngoài khung để gọi lỗi ăn đã xử lý ở cảnh rộng. Kiểm continuity khi trở về hai nhân vật, phần nem và trục máy; giữ trạng thái ứng viên riêng cơ học. Nhịp khoảng 3s chờ trước nhấc cần xử lý khi dựng, không kéo nguyên clip 8s vào tập 30s. Đối soát actual 514 so với lần trước 524 => ròng 10, không trừ giá dự kiến 30 khi hai lỗi không tính phí. Imagegen dùng scene source + grip I05 để dựng START; chỉ hai khung START/END được nạp vào Veo, không trộn ảnh studio grip vào scene.

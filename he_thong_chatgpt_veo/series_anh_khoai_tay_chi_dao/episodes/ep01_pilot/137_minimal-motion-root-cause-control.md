@@ -47,6 +47,8 @@ Bước tiếp: lấy đủ ba file gốc, đối soát từng file với ô m�
 
 ### Phục hồi M01 qua tab mới theo yêu cầu owner
 
+**Cập nhật sau cùng:** đã tải đủ M02/M03 và kiểm kỹ thuật, ảnh mẫu cả ba theo [review 138](138_minimal-control-review-and-root-cause-update.md). Lỗi tải đã phục hồi; nguyên nhân tab cũ vẫn mở. Không có generation/credit mới. Nội dung chưa đạt giữ tư thế; lỗi hơi chưa thấy trong 16 mẫu mỗi clip, chưa chứng nhận sạch toàn thời lượng.
+
 Owner yêu cầu mở tab mới và tải lại. Đã mở cùng URL asset M01 trong tab IAB mới, chọn tải 720p bản gốc; sau 20 giây có `Subjects_holding_poses_at_table_20261002151930.mp4` trong Downloads. Đã sao chép thành `C:/Users/PC/Downloads/du_an_nem_bui/137_minimal_motion_control/M01.mp4`: 1.939.066 byte, 8 giây, 720×1280, có stream audio và video, giải mã ffmpeg exit 0. SHA-256 `2B7FE619034F0B365BCD32B9E3EDB1B2695FD4A7C46CE5D38ED4F92FC80F52D7`.
 
 Trạng thái mới: **M01_DOWNLOADED / M02_M03_PENDING / CONTENT_QC_PENDING**. Ảnh tab mới: `D:/Workspace/agentic_cinema/artifacts/opening137-r1/fresh-tab-download.png`. Không generation/credit mới. Mở tab mới là biện pháp phục hồi thành công cho lần này, không là bằng chứng xác nhận cache, token, mạng hoặc trạng thái tab là nguyên nhân. Tab mới và thời điểm khác cùng thay đổi; chưa có phép thử phân biệt. Không sửa hoặc xóa nhật ký thất bại trước đó.

@@ -46,6 +46,8 @@ Kiểm tiếp 135–136: bỏ thoại và mô tả mùi/chảo, cả ba vẫn c�
 
 ### L-006: truy lỗi cuối chặng theo chuỗi nguồn, không chỉ sửa câu lệnh cuối
 
+Review 138 đã tải đủ ba M0: chưa thấy hơi trong 16 ảnh mỗi clip nhưng cả ba tự diễn tay/miệng. Bài học: tách từng tiêu chí, không dùng việc giảm một lỗi để gọi cả clip PASS; khác biệt sau khi bỏ nhiều nhóm chỉ hỗ trợ giả thuyết cấp nhóm. Bước truy tiếp phải thêm lại riêng một nhóm và giữ nhật ký actual settings, không khẳng định từ khóa gây lỗi hoặc ảnh nguồn chắc chắn vô can. Tab mới tải đủ bộ, xác nhận workaround vận hành, chưa xác nhận cơ chế lỗi tải.
+
 Phục hồi tải M01 của 137: mở tab mới cùng URL video theo yêu cầu owner và tải 720p thành công; file có đủ hình/âm thanh, giải mã sạch. Có thể thử tab mới trước khi đề nghị owner tải hộ hoặc tạo lại. Đây là workaround kiểm chứng một lần, chưa xác nhận nguyên nhân tab cũ thất bại; không gán cho cache/token khi chưa có bằng chứng.
 
 Owner yêu cầu ghi kinh nghiệm truy nguyên nhân cốt lõi. Đã lập [quy trình tám bước](02_root-cause-tracing-protocol.md): đóng băng bằng chứng, định nghĩa lỗi, truy phiên bản ngược, lập giả thuyết kèm phản chứng, thử kiểm soát, thêm lại từng lớp, kiểm hồi quy và chốt phạm vi kết luận. Tách nguyên nhân tạo lỗi khỏi nguyên nhân lỗi lọt cổng kiểm. Một workaround không là nguyên nhân đã xác nhận.

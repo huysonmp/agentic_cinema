@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Mới nhất — hành động gắp:** [155](episodes/ep01_pilot/155_pickup-action-sequential-probe.md) chạy Veo Lite Frames x3: hai video tạo/tải được, một lỗi âm thanh không tính phí. Đã thấy gắp/nâng nem, nhưng cả hai ăn nem thay vì dừng; chưa đạt để trao vào bát hoặc ghép thoại. Prompt chỉ định tay lấy cốc chưa hợp bố cục. Ròng 20, số dư actual 614, khoản thử mới còn 114; chưa Quality. File tại `C:/Users/PC/Downloads/du_an_nem_bui/155_pickup_action`. Tiếp theo tách thử nhấc/giữ nem. Các dòng dưới là lịch sử.
+
 **Mới nhất — khóa hình với cặp giọng:** [154](episodes/ep01_pilot/154_visual-lock-voice-pair-retest.md) đã tạo/tải ba Omni Flash 360p/8s với nhóm mô tả hình rõ hơn, giữ OPEN7/K20/D06/thoại. Các khung kiểm giữ hai nhân vật rau quả và món dạng ụ sợi, nhưng mặt/tỷ lệ và texture nem chưa sát source. Chưa production PASS; đề nghị owner xem R01 trước, nghe giọng/nhịp/lip-sync. Ròng18, số dư actual634, khoản thử mới còn134; chưa Quality. File `C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock`. Các dòng dưới là lịch sử.
 
 **Mới nhất — thử cặp giọng:** owner đã [chọn Orus K20 / Aoede D06](episodes/ep01_pilot/152_owner-selected-voice-pair-k20-d06.md); [probe 153](episodes/ep01_pilot/153_voice-pair-integration-probe.md) tạo/tải đủ ba Omni 1.1 Flash 360p/8s, không phải Veo Lite. File giải mã sạch; V02/V03 biến Đào thành người, V01 giữ nhân vật nhưng đổi hình món. Chưa winner hoặc production PASS; owner cần nghe identity/accent/nhịp. Ròng 18 credit, số dư actual 652, khoản thử mới còn 152; Quality riêng chưa dùng. File ở `C:/Users/PC/Downloads/du_an_nem_bui/153_voice_pair`. Các trạng thái bên dưới là lịch sử.

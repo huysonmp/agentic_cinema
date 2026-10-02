@@ -40,6 +40,8 @@ Kết quả media và bài học về diễn xuất/thoại: chờ kiểm sau kh
 
 ### L-004: bộ tạo lại 130 đã nhận đủ file
 
+Thử hành động 155: ba đầu ra được yêu cầu nhưng chỉ hai thành công, một lỗi âm thanh không tính phí; ròng 20 không phải giá quote 30. Hai take gắp được nhưng đều ăn nem, nên chưa đạt trạng thái để chữa cháy/gắp vào bát. Khi prompt chỉ định tay, phải đối chiếu giải phẫu nhân vật với vị trí đạo cụ trên màn hình: cốc ngoài phía phải màn hình gần tay trái Đào, không phải tay phải. Đây là lỗi chuẩn bị đầu vào đã xác định. Giả thuyết “đưa về miệng” khiến model hoàn tất ăn chưa được xác nhận. Tách kiểm nhấc/giữ vật trước, rồi điểm dừng gần miệng, sau đó trao bát; không sửa kịch bản chỉ để hợp lỗi model. 16 khung mỗi clip cộng kiểm dày đoạn cuối phát hiện lỗi mà thumbnail đẹp không cho thấy. Giữ tách technical PASS, động tác thành phần và toàn cảnh PASS; không gọi agent độc lập đã review khi chỉ người điều phối tự kiểm.
+
 Theo yêu cầu chủ dự án, tạo một yêu cầu Lite x3 cùng ảnh/prompt, tổng giá 30. Tải lần lượt từ menu thẻ thư viện, giữ tab và kiểm file trước khi chuyển clip; nhận đủ ba MP4. ffprobe và giải mã sạch, hash/path lưu tại tài liệu 130. Đây là đường thực hiện đã thành công trong vòng này, không phải kết luận nguyên nhân Stopped của vòng cũ. Không tuyên bố tạo lại luôn chữa được lỗi tải; cần kiểm lại đường tải trên tài sản cũ ở một vòng diagnostic riêng nếu cần tìm nguyên nhân.
 
 Bài học thao tác: khi index thẻ không còn đúng và click lỗi, đọc lại AX/screenshot, dùng nút menu của đúng thẻ; không lặp click hoặc generation mù. x3 là một yêu cầu ba đầu ra, phải ghi khác ba lần x1. Sau hoàn tất trả x1, và kiểm lại giá/cấu hình trước lần gửi sau. Thông báo tải chỉ là tín hiệu trung gian; file/hash/giải mã mới là bằng chứng nhận file.

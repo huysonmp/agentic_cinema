@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Mới nhất:** đã lưu [quy trình truy nguyên nhân gốc](learning/02_root-cause-tracing-protocol.md) và chạy [đối chứng tối giản 137](episodes/ep01_pilot/137_minimal-motion-root-cause-control.md): đủ ba ô Lite, ròng 30 credit, số dư 770; tổng thử 280/400, còn 120. Tải file chưa thành công sau các đường thử đã ghi nhận; QC native và kết luận nguyên nhân còn mở. Không chạy lại/Quality chỉ để xử lý lỗi tải. Các dòng dưới là lịch sử, không số dư hiện hành.
+
 **Cập nhật mới nhất:** [phép thử hình không thoại 135](episodes/ep01_pilot/135_silent-cool-food-diagnostic.md) đã có và tải đủ ba video sau phục hồi lỗi âm thanh; [review 136](episodes/ep01_pilot/136_silent-cool-food-review.md) vẫn thấy hơi trắng, tự diễn tay/miệng và một mẫu thêm chữ. Chưa chọn mẫu, Quality vẫn giữ. Chi phí ròng 30, trần thử 400, đã dùng 250, còn 150; số dư Flow 800. File xem tại `C:/Users/PC/Downloads/du_an_nem_bui/135_silent_cool_food_lite`. Những trạng thái bên dưới là lịch sử, không phải việc tiếp theo hiện hành.
 
 **Gói thử tiếp theo đã chuẩn bị:** [hai câu mở và động tác định kéo đĩa — 126](episodes/ep01_pilot/126_opening-dialogue-action-lite-request.md). Đề nghị cùng OPEN7 để kiểm nối với B, một lượt Lite tối đa 10 credit. Phạm vi dùng OPEN7 cho thoại/hành động và chi phí cần chủ dự án duyệt; giá phải đọc lại giao diện. Chưa chạy, không tiêu credit. Không nối thẳng B với bàn v0.8 vì khác bố cục; điểm nối thực và voice còn mở.

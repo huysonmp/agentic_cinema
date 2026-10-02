@@ -1,64 +1,71 @@
-# T2 — kết quả 10 lượt Lite và quyết định tiếp theo
+# T2 — kết quả 10 lượt Lite và hướng tiếp theo
 
-Ngày: 2026-10-02. Trạng thái: **VÒNG THỬ ĐÃ KẾT THÚC / CHƯA CÓ BẢN ĐẠT ĐỂ SẢN XUẤT**.
+Ngày: 2026-10-02. Bản biên tập lại tiếng Việt. Số liệu và kết luận không đổi; bản cũ còn trong lịch sử Git.
 
-## 1. Điều đã thực hiện và xác định
+## 1. Kết quả chính
 
-Theo owner “cứ thử đi, tầm 10 lần cũng dc”, đã chạy đủ 10 lượt mới trên Flow, Veo 3.1 Lite, Frames, dọc 9:16, x1. Tất cả native output dài8s,720×1280,24fps, có audio stream và full technical decode không báo lỗi. Mỗi lượt có quote10 trước khi bấm tạo, ảnh bằng chứng, prompt, asset ID, file và SHA256 trong [nhật ký119](119_t2-idle-performance-experiment-round.md).
+Đã tạo, tải và lưu đủ 10 clip bằng Veo 3.1 Lite, chế độ Frames, dọc 9:16, một đầu ra mỗi lượt. Mỗi clip dài 8 giây, độ phân giải 720×1280, 24 fps, có luồng âm thanh. Giải mã toàn bộ file không báo lỗi.
 
-Đối soát số dư UI: **1.020 → 920, giảm100credit**, phù hợp10 quotes. Tổng từ mốc1.050 trướcV01 tới920 là130credit trong cap200 hiện có. Không phải sao kê charge từng giao dịch; không mua thêm credit, không nâng Quality.
+Số dư giao diện từ 1.020 xuống 920: giảm 100 credit, phù hợp 10 lượt có giá hiển thị 10 credit. Đây là đối soát số dư, không phải sao kê từng giao dịch. Từ mốc 1.050 trước V01 đến 920 là 130 credit trong ngân sách thử cũ 200 credit.
 
-Input thống nhất: OPEN7 đã được duyệt cho chẩn đoán. Không tạo input mới hoặc thay script/canon. Đối chứng dùng START riêng hoặc START=END cùng ảnh; không dùng frame của clip lỗi làm chuẩn mới.
+**Chưa có clip đạt toàn bộ yêu cầu hoặc được chọn làm đầu ra sản xuất.** Không chạy lượt thứ 11 trong vòng này.
 
-## 2. Kết quả đối chiếu
+Đầu vào thống nhất là OPEN7 trong phạm vi thử nghiệm đã duyệt. Có lượt dùng ảnh đầu riêng, có lượt dùng cùng ảnh cho đầu và cuối. Không dùng ảnh trích từ clip lỗi làm chuẩn mới.
 
-Đánh giá sau đây do root kiểm16 ảnh mẫu/clip, không phải independent agent review. Thời điểm lỗi xấp xỉ theo samples; không thay thế xem liên tục toàn clip. Tất cả audio content vẫn **UNKNOWN**: có stream không có nghĩa đã nghe hoặc đã đạt.
+## 2. Kết quả từng lượt
 
-| Lượt | Điều kiện | Điều thấy trong ảnh mẫu | Kết luận |
+Root kiểm 16 ảnh mẫu mỗi clip, khoảng 0,25–7,75 giây. Các mốc lỗi chỉ xấp xỉ theo ảnh mẫu. Chưa nghe đầy đủ âm thanh, chưa kiểm liên tục toàn bộ hình–tiếng và chưa có review độc lập cho bộ này.
+
+| Lượt | Điều kiện | Lỗi hoặc kết quả quan sát | Kết luận |
 |---|---|---|---|
-| R01 | A: nghỉ tự nhiên, START riêng | Tay ổn, giữ bàn ăn; tự thêm mist/steam khoảng1.75–3.75s | Candidate riêng về tay; tổng thể REWORK |
-| R02 | A: lặp nguyên promptR01 | Khoai giơ tay/mở miệng; rau và món bị dịch/biến đổi | REWORK |
-| R03 | B: living photograph, START riêng | Khoai giơ tay đầu clip; trạng thái mặt thay đổi | REWORK |
-| R04 | B: cùng ảnh START=END | Đào giơ hai tay khoảng1.25–2.75s; miệng thay đổi | REWORK |
-| R05 | C: chỉ chớp mắt, START=END | Cả hai vẫn cử động tay; mắt/miệng ngoài chỉ dẫn | REWORK |
-| R06 | D: motion-only ngắn, START=END | Đào cử động tay khoảng0.75–1.25s; phần sau trông ổn hơn | REWORK toàn8s; chỉ cân nhắc đoạn sau nếu kiểm liên tục |
-| R07 | D: START riêng | Hai người giơ tay đầu clip, Khoai còn cử động cuối | REWORK |
-| R08 | E: đứng yên tuyệt đối, START riêng | Vẫn có tay, đầu và miệng chuyển động | REWORK |
-| R09 | E: đứng yên tuyệt đối, START=END | Khoai giơ tay khoảng1.25s; miệng mở nhiều mẫu | REWORK |
-| R10 | A: lặp nguyên lần thứ ba | Khoai giơ hai tay khoảng0.75–3.25s; miệng/đầu thay đổi | REWORK |
+| R01 | Prompt A: nghỉ tự nhiên; ảnh đầu riêng | Tay ổn trong mẫu nhưng thêm hơi khói khoảng 1,75–3,75 giây | Cần sửa |
+| R02 | Lặp nguyên prompt A | Khoai giơ tay, mở miệng; rau và món bị dịch hoặc biến đổi | Cần sửa |
+| R03 | Prompt B: ảnh chân dung có chuyển động nhẹ; ảnh đầu riêng | Khoai giơ tay đầu clip; trạng thái mặt thay đổi | Cần sửa |
+| R04 | Prompt B; cùng ảnh đầu–cuối | Đào giơ hai tay khoảng 1,25–2,75 giây; miệng thay đổi | Cần sửa |
+| R05 | Prompt C: chỉ chớp mắt; cùng ảnh đầu–cuối | Tay, mắt và miệng vẫn chuyển động ngoài yêu cầu | Cần sửa |
+| R06 | Prompt D ngắn, chỉ dẫn chuyển động; cùng ảnh đầu–cuối | Đào cử động tay khoảng 0,75–1,25 giây; phần sau trông ổn hơn trong mẫu | Chưa đạt cả clip |
+| R07 | Prompt D; ảnh đầu riêng | Hai người giơ tay đầu clip, Khoai cử động thêm cuối clip | Cần sửa |
+| R08 | Prompt E: đứng yên tuyệt đối; ảnh đầu riêng | Tay, đầu và miệng vẫn chuyển động | Cần sửa |
+| R09 | Prompt E; cùng ảnh đầu–cuối | Khoai giơ tay khoảng 1,25 giây; miệng mở ở nhiều mẫu | Cần sửa |
+| R10 | Lặp nguyên prompt A lần thứ ba | Khoai giơ hai tay khoảng 0,75–3,25 giây; đầu và miệng thay đổi | Cần sửa |
 
-Điểm tích cực: nhiều lượt giữ được cả món, rau, đồ chấm và hai nhân vật trong khung hình. Điểm chưa đạt: **khóa diễn xuất nghỉ**, không phải chỉ bố trí lại bàn ăn. R01 không lặp lại được ởR02/R10; START=END cũng không giữ yên phần giữa ở các lượt đã thử.
+Nhiều lượt giữ được món, rau, đồ chấm và hai nhân vật trong khung. Tuy nhiên việc giữ nguyên tư thế nghỉ chưa ổn định: R01 không lặp lại được ở R02/R10; cùng ảnh đầu–cuối cũng không khóa được chuyển động giữa clip.
 
-Đây là bằng chứng của bộ input/prompt/route hiện tại, không kết luận Veo nói chung hoặc Quality luôn thất bại. Không fixed seed, số mẫu ít và nhiều nhóm prompt thay đổi; không suy ra quan hệ nhân quả từ so sánh này.
+Kết quả này chỉ áp dụng cho các đầu vào, prompt và cấu hình đã thử. Không kết luận mọi clip Lite hoặc Quality đều thất bại. Không có seed cố định; số mẫu ít và các nhóm prompt thay đổi, nên không suy ra quan hệ nhân quả chắc chắn.
 
-## 3. Các quyết định đã chốt và ranh giới
+## 3. Hướng tiếp theo và quyết định mới
 
-- Đã dùng đủ10 lượt được duyệt; dừng vòng này, không tự chạy lượt11.
-- Không chọn production winner từ bộ10clip; không nâng Quality để chữa lỗi điều khiển chưa giải quyết.
-- Không đổi kịch bản32C-v0.5, nhân vật, claim món ăn hoặc trạng thái canon.
-- P6/P7 vẫn OPEN. VoiceV02, kiểm tiếng Việt/đồng bộ môi và CR-01 bàn giaoS04→S05 chưa được giải quyết trong vòng này.
-- Media và screenshots lưu local, không đưa lênGit; tài liệu/manifest được commit và push.
+Ba phương án đã trình:
 
-## 4. Hướng tiếp theo đề xuất — chưa được duyệt hoặc triển khai
+- A: dùng chuyển động 2D có kiểm soát trên ảnh cho phần dẫn mắt của cảnh mở; dùng Veo cho diễn xuất.
+- B: giữ hoàn toàn Veo, thay thử nghiệm đứng yên bằng một hành động nhỏ có chủ đích.
+- C: xem liên tục và nghe R06 để kiểm xem có đoạn ngắn tận dụng được hay không.
 
-**Khuyến nghị A: tách chức năng cảnh mở khỏi diễn xuất nhân vật.**
+**Chủ dự án đã chọn A**, được ghi tại [tài liệu 121](121_hybrid-opening-approval-and-production-readiness-audit.md). Không hỏi lại lựa chọn A/B/C.
 
-Cảnh cần giữ nguyên bàn ăn và điều khiển góc nhìn chính xác: dùng ảnh đã duyệt, thử chuyển động2D có kiểm soát trong khâu ghép; còn cảnh có hành động theo kịch bản mới giaoVeo tạo chuyển động. Đây là thay đổi phương pháp sản xuất cần owner duyệt, không tự thay T2 đã chọn.
+Chuyển động 2D không tạo góc nhìn 3D hoặc vùng ảnh chưa tồn tại. Bản thử phải chứng minh giữ đủ bữa ăn, mặt và đạo cụ; không tự bỏ hành động hoặc thoại của kịch bản để phù hợp ảnh đứng yên. Chưa có bản thử local đạt hoặc được duyệt.
 
-Lợi ích dự kiến: không để model tự thêm tay/miệng trong cảnh chỉ cần dẫn mắt. Đánh đổi: chuyển động2D không tạo parallax/góc nhìn3D thật; nếu T2 cần lộ vùng chưa có trong ảnh, có thể phải chuẩn bị thêm khung tham chiếu, kiểm mép món và duyệt lại. Chỉ prototype mới xác định được có giữ chất điện ảnh không; chưa tuyên bố cải thiện chất lượng.
+Ngân sách Quality riêng tối đa 100 credit đã được duyệt có điều kiện tại [tài liệu 122](122_conditional-quality-approval-and-owner-actions.md): chỉ thử sau khi đầu vào, prompt và thử nghiệm tương ứng đạt trên Lite. Bộ 10 clip này không đáp ứng điều kiện đó.
 
-**B: giữ hoàn toànVeo, chuyển từ yêu cầu “nghỉ bất động” sang một hành động nhỏ có chủ đích theo kịch bản.** Phải có chỉ đạo diễn xuất/góc máy cụ thể trước chạy; không hợp thức hóa cử chỉ lỗi hiện có. Có thể tự nhiên hơn nhưng vẫn phải chứng minh timing, continuity và bàn ăn không trôi. Cần duyệt thử mới và credit riêng.
+## 4. File bàn giao vòng thử
 
-**C: xem liên tụcR06 và kiểm audio trước, thử tận dụng một đoạn ngắn phía sau.** Chi phí credit mới bằng0 cho kiểm/ghép local; rủi ro mất thời lượng hoặc nhịp cảnh. Chưa cắt clip hay duyệt đoạn; ảnh mẫu chưa đủ chứng minh đoạn nào liên tục sạch.
+Thư mục: C:\Users\PC\Downloads\du_an_nem_bui.
 
-Đề xuất bước kế tiếp: owner chọnA/B/C. Tôi ưu tiênA để kiểm khả năng điều khiển cảnh mở, với một prototype local trước, rồi trình cạnh bảnVeo để so sánh. Không cần thêm agent mới chỉ để đổi prompt: cần chạy đúng vai trò đạo diễn/EDIT/QC đã thiết kế và ghi output thật; agent độc lập chỉ được ghi đã review khi thực sự thực hiện.
+- Clip nguyên bản: 119_R01.mp4 đến 119_R10.mp4.
+- Bảng ảnh theo thời gian: 119_R01_sheet.png đến 119_R10_sheet.png.
+- Bằng chứng giao diện: 119_R##_PRE.jpg và 119_R##_RESULT.jpg.
+- Prompt nguyên văn, mã clip, file và SHA256: [nhật ký 119](119_t2-idle-performance-experiment-round.md).
 
-## 5. Bàn giao để xem
+Ảnh tài khoản dùng đối soát số dư chỉ lưu local, không nhúng công khai. Giữ hình mờ gốc. Media không đưa lên Git; tài liệu và hồ sơ truy xuất được quản lý phiên bản.
 
-Folder local owner: `C:\Users\PC\Downloads\du_an_nem_bui`.
+## 5. Tổng hợp
 
-Cả10nativeclip: `119_R01.mp4` đến `119_R10.mp4`. Ảnh kiểm theo thời gian: `119_R01_sheet.png` đến `119_R10_sheet.png`. Bằng chứng UI: `119_R##_PRE.jpg` và `119_R##_RESULT.jpg`. Accountpanel balance lưu local riêng, không nhúng công khai.
+Đã xác định: đủ 10 đầu ra, không có clip đạt toàn bộ mục tiêu trạng thái nghỉ.
 
-Để xem nhanh tương phản: R01 (tay tốt nhưng thêm khói), R06 (đầu clip lỗi, sau có thể đáng kiểm tiếp), R10 (lặpA vẫn giơ tay). Native watermark được giữ nguyên.
+Đã chốt: dừng vòng thử; chọn hướng A; không đổi kịch bản C-v0.5, nhân vật hoặc claim món ăn.
 
-**Giả định đang dùng:** OPEN7 phù hợp để chẩn đoán, chưa đồng nghĩa duyệt mọi biến thể hoặc toàn tập. **Còn mở:** phương pháp cảnh mở; full audiovisual/independentQC; hành động có chủ đích; voice; continuity; ghép30s và owner duyệt final. Chưa có đầu ra bàn giao hoàn chỉnh của tập1.
+Giả định: OPEN7 phù hợp cho chẩn đoán, chưa tự trở thành đầu vào cuối cho mọi cảnh.
+
+Còn mở: giọng, đầu vào theo cảnh, diễn xuất, nối cảnh, bản ráp khoảng 30 giây và nghiệm thu. P6/P7 vẫn mở.
+
+Bước tiếp theo: thiết kế bổ sung cảnh mở kết hợp, tạo bản thử local và chuẩn bị các gói thử Lite đúng mục tiêu. Không tự nâng Quality hoặc chọn sản phẩm cuối.

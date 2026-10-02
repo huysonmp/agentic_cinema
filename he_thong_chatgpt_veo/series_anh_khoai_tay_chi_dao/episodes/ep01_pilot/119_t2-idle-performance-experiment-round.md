@@ -1,5 +1,7 @@
 # T2 idle-performance — vòng thử có kiểm soát
 
+Ghi chú biên tập ngày 2026-10-02: phần dưới là nhật ký kỹ thuật của các lượt đã chạy. Giữ nguyên prompt tiếng Anh, mã clip, hash, số liệu và các trạng thái tại thời điểm ghi để truy xuất. Phần diễn giải tiếng Việt đã được biên tập tại tài liệu 120; quyết định Quality hiện hành ở tài liệu 122. Không coi nhật ký này là bản văn trình duyệt đã biên tập toàn bộ.
+
 ## Trạng thái cuối vòng — 2026-10-02
 
 **10/10 lượt đã tạo, tải và lưu. Không có production PASS. Dừng phát sinh lượt mới.** Kết quả/đề xuất dễ đọc tại [120 — gói kết quả để owner xem](120_t2-idle-round-results-and-next-decision.md). Các dòng REGISTERED/pending bên dưới là nhật ký thời điểm, được thay thế bởi OUTPUT_SAVED tương ứng.

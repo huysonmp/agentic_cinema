@@ -31,6 +31,10 @@ Sau khi nhận file, tôi chạy giải mã/metadata/hash, ASR không gợi ý l
 
 ## Tổng hợp vòng này
 
+### Kiểm lại theo yêu cầu tải lại
+
+Chủ dự án yêu cầu chọn tải lại. Đã mở đúng từng mã R01–R03 và chọn 720p kích thước gốc thêm một lần mỗi clip. R02 và R03 hiện thông báo “Đã tải video của bạn xuống!”. Sau đó kiểm lại toàn bộ folder Downloads và đường Downloads trong Windows: vẫn là `C:/Users/PC/Downloads`, chưa có MP4 mới sau thời điểm tạo bộ 127. Vì vậy trạng thái nhận file local vẫn chưa hoàn tất; không dùng thông báo của trang làm bằng chứng bàn giao. Bằng chứng thao tác R03: `artifacts/opening127-r1/download-retry-r03.png`. Không bấm tạo, upscale hoặc Extend trong lần kiểm lại này.
+
 - Đã xác định: chạy thành công ba yêu cầu cùng điều kiện; chênh lệch số dư 30.
 - Đã chốt: mặc định ba Lite rồi review, nhật ký và bài học lưu theo governance 08.
 - Giả định: gói thoại/hành động có thể đạt trong 8 giây; chưa có bằng chứng xác nhận.

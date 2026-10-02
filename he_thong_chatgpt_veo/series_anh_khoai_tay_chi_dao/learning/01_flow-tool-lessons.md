@@ -24,4 +24,6 @@ Cách xử lý trong bộ 127: giữ tài sản và URL, đối soát số dư, 
 
 Điều kiện kiểm lại: khi có file, xác minh nội dung/mã clip, kích thước, hash và khả năng giải mã; ghi cách tải thực sự thành công. Lần sau thử đường tải với tài sản sẵn có trước khi mở bộ tạo mới nếu tình trạng chưa được giải quyết.
 
+Kiểm lại theo yêu cầu chủ dự án: chọn tải 720p gốc thêm một lần cho từng R01–R03, vẫn chưa có file local dù R02/R03 có thông báo thành công. Đường Downloads Windows không đổi. Bấm lại cùng tùy chọn chưa giải quyết được lỗi trong lần kiểm này; cần kiểm đường chuyển file hoặc hỗ trợ tải trực tiếp, không cần tạo lại media.
+
 Kết quả media và bài học về diễn xuất/thoại: chờ kiểm sau khi đủ ba file. Không kết luận từ trạng thái đang tạo hoặc thumbnail.

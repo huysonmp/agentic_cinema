@@ -67,3 +67,25 @@ R06: START=END OPEN7 nhưR05, cùngLite/frames9:16/720p8s/x1/expected10, đổi 
 Locked camera. The subjects hold their exact starting pose for eight seconds, with closed lips and hands resting on the table. Only their eyelids blink gently once. All other scene elements remain still. Silent audio. Preserve the native video watermark.
 
 Plannedcumulative60/100. Chưa submit.
+
+R06 SUBMITTED actualquote10/Lite/frames9:16/720p8s/x1;START=END OPEN7/clickonce/read-back;119_R06_PRE.jpg. Chưa output/delta mới.
+
+R06 OUTPUT_SAVED asset `696aad7c-538b-48dd-a99a-8ca1caa7dcbf`,native `Subjects_holding_pose_at_table_20261002074248.mp4`1.915.584bytes,projectR06.mp4/owner119_R06.mp4;SHA256 `640261F75A723977CA4A4A9B0A7F8ECEFC02E7EA5A7107D843990FDF19E97580`. Decode clean/720×1280/24fps/8s/audio stream. Root16samples: Đào moves ahand~0.75–1.25s,then later hands settled;mouth/head turns early;table/framing preserved. **REWORK**, partial idle usable-looking segment khôngwhole8sPASS.119_R06_RESULT.jpg.
+
+## R07 — motion-only endpoint ablation, registered
+
+Giữ exactpromptR06, STARTOPEN7 nhưngENDblank để so paired vs single reference cùngprompt. Configquoteexpected10/Lite/frames9:16/720p8s/x1 unchanged, cumulativeplanned70/100. Chưa submit. Không mượn frame extracted của failedclip làm canon.
+
+R07 SUBMITTED sau actual read-back cùngconfig/quote10; STARTOPEN7/ENDblank; clickonce/composerreset;119_R07_PRE.jpg. Chưa output/delta.
+
+R07 OUTPUT_SAVED asset `68c8e875-5b3e-4572-8ec5-000a0ab54138`,native `Subjects_holding_starting_pose_20261002074912.mp4`2.213.088bytes,projectR07.mp4/owner119_R07.mp4;SHA256 `7CBCF43DDD3A18CAD03C6479CC69C34C7625D7405687A1E0A537E6B1247BBDDE`. Decode clean/720×1280/24fps/8s/audio stream. Root16samples: bothgestures~0.75–1.25s,Khoai late~7.75s,mouthopen. Frame/meal samples intact. **REWORK**, single-start khôngkhóaidle vớiD.119_R07_RESULT.jpg.
+
+## R08 — zero-motion control, registered
+
+STARTOPEN7/ENDblank,cùngLite/frames9:16/720p8s/x1/expected10;prompt chỉfreezehold, bỏ cảblink để phân biệt blinkinstruction vs mặcđịnh motion. Khônglà production direction. Exact:
+
+An eight-second static freeze-frame hold of the supplied image. The entire image remains completely motionless and unchanged throughout: subjects, faces, mouths, hands, objects and background. Fixed camera and identical composition from beginning to end. Silent audio. Preserve the native video watermark.
+
+Plannedround80/100, chưa submit.
+
+R08 SUBMITTED actualread-back10/Lite/frames9:16/720p8s/x1;STARTOPEN7/ENDblank/clickonce/composerreset;119_R08_PRE.jpg. Output pending. Round8submitted7saved, no production winner.

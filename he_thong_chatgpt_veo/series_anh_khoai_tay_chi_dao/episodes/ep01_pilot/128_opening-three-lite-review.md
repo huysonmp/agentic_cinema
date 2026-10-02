@@ -33,6 +33,8 @@ Sau khi nhận file, tôi chạy giải mã/metadata/hash, ASR không gợi ý l
 
 ### Kiểm lại theo yêu cầu tải lại
 
+Chủ dự án bổ sung: các lượt tải đều hiện “Stopped”, chưa tải được. Đây là quan sát do chủ dự án báo; phần giao diện website mà công cụ đọc không hiển thị trình quản lý download của ứng dụng, nên chưa đọc được lý do dừng. Đã nạp lại trang R03, gửi yêu cầu tải native mới và thử đường `Lựa chọn khác → Tải dự án xuống` để xuất từ cảnh hiện có. Vẫn chưa có file mới trong Downloads khi kiểm. Trình phát chuyển trạng thái sang chạy và timeline tiến, nhưng điều đó không xác nhận file đã lưu hoặc toàn bộ nội dung đạt. Không tạo lại video, không upscale. Cần làm rõ “file mới” là bản xuất mới hay generation Lite mới trước khi phát sinh thêm credit; tạo lại chưa được chứng minh sẽ chữa lỗi tải. Bằng chứng local: `artifacts/opening127-r1/fresh-export-check.png`.
+
 Chủ dự án yêu cầu chọn tải lại. Đã mở đúng từng mã R01–R03 và chọn 720p kích thước gốc thêm một lần mỗi clip. R02 và R03 hiện thông báo “Đã tải video của bạn xuống!”. Sau đó kiểm lại toàn bộ folder Downloads và đường Downloads trong Windows: vẫn là `C:/Users/PC/Downloads`, chưa có MP4 mới sau thời điểm tạo bộ 127. Vì vậy trạng thái nhận file local vẫn chưa hoàn tất; không dùng thông báo của trang làm bằng chứng bàn giao. Bằng chứng thao tác R03: `artifacts/opening127-r1/download-retry-r03.png`. Không bấm tạo, upscale hoặc Extend trong lần kiểm lại này.
 
 - Đã xác định: chạy thành công ba yêu cầu cùng điều kiện; chênh lệch số dư 30.

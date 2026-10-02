@@ -1,5 +1,7 @@
 # Thêm 10 giọng nữ Đào — D06–D15
 
+**Quyết định sau bàn giao:** owner chốt **D06 — Aoede tuỳ chỉnh**, ID `0ce1551e-e74b-481c-bb9e-d31e04f8b352`; xem [152](152_owner-selected-voice-pair-k20-d06.md). Trạng thái chờ owner nghe/chọn bên dưới giữ làm lịch sử của batch, không ghi đè quyết định này. Chưa production/integration PASS.
+
 2026-10-02. Owner yêu cầu thêm mười option nữ, không tự coi D01–D05 đã bị loại. Giữ nguyên giọng Khoai đã chọn K20 theo [150](150_k20-selection-and-dao-voice-auditions.md). Scope: preview và lưu preset trong Flow, không video generation, Quality, đổi pipeline hoặc sửa script.
 
 ## Thiết kế và ranh giới

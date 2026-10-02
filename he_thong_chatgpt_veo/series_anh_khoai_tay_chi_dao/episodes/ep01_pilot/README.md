@@ -1,6 +1,8 @@
 # EP01 — Pilot
 
-## Hiện hành — tuyển giọng Khoai, chờ owner nghe
+## Hiện hành — cặp giọng đã được owner chọn
+
+[152 — approval cặp giọng](152_owner-selected-voice-pair-k20-d06.md): **Khoai K20 / Orus tuỳ chỉnh; Đào D06 / Aoede tuỳ chỉnh**. Tuyển giọng đã có quyết định owner, không còn chờ chọn Đào. Chưa nghiệm thu đối thoại/lời dài hoặc tích hợp video, chưa mở Quality từ approval này. Các trạng thái chờ chọn bên dưới là lịch sử.
 
 [151 — thêm mười mẫu nữ D06–D15](151_ten-more-dao-voice-auditions.md): tạo preview/lưu đủ 10 theo owner, tám nền mới và hai biến thể diễn trên nền cũ; kiểm sample/performance/ID đủ, chưa nghe nghiệm thu. Có tổng 15 mẫu nữ để chọn; K20 giữ lựa chọn Khoai từ 150. Chưa khóa Đào hoặc mở Quality/integration.
 

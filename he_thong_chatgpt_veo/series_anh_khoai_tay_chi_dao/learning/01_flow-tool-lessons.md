@@ -35,3 +35,7 @@ Kết quả media và bài học về diễn xuất/thoại: chờ kiểm sau kh
 Theo yêu cầu chủ dự án, tạo một yêu cầu Lite x3 cùng ảnh/prompt, tổng giá 30. Tải lần lượt từ menu thẻ thư viện, giữ tab và kiểm file trước khi chuyển clip; nhận đủ ba MP4. ffprobe và giải mã sạch, hash/path lưu tại tài liệu 130. Đây là đường thực hiện đã thành công trong vòng này, không phải kết luận nguyên nhân Stopped của vòng cũ. Không tuyên bố tạo lại luôn chữa được lỗi tải; cần kiểm lại đường tải trên tài sản cũ ở một vòng diagnostic riêng nếu cần tìm nguyên nhân.
 
 Bài học thao tác: khi index thẻ không còn đúng và click lỗi, đọc lại AX/screenshot, dùng nút menu của đúng thẻ; không lặp click hoặc generation mù. x3 là một yêu cầu ba đầu ra, phải ghi khác ba lần x1. Sau hoàn tất trả x1, và kiểm lại giá/cấu hình trước lần gửi sau. Thông báo tải chỉ là tín hiệu trung gian; file/hash/giải mã mới là bằng chứng nhận file.
+
+### L-005: mùi của món nguội không được minh họa bằng hơi nóng
+
+Chủ dự án thấy N01 có khói dù nem nguội; prompt đã cấm `extra steam` nhưng vẫn chưa đạt. Kiểm nguồn và frame tại hồ sơ 131, chưa có đối chứng nguyên nhân. Đề xuất mô tả trạng thái vật lý tích cực (món nguội, không khí trên đĩa trong và tĩnh), loại rõ khói/hơi/heat shimmer/đường mùi; diễn mùi bằng phản ứng nhân vật. Không bảo đảm prompt sửa sẽ đạt cho tới khi thử. Checklist món phải kiểm nhiệt độ và vật lý, không dùng vẻ đẹp hoặc độ hấp dẫn bù lỗi này.

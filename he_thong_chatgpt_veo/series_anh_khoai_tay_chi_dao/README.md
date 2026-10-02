@@ -78,6 +78,8 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 
 ## Cập nhật 2026-10-02: bộ ba Lite
 
+**Mới nhất:** [Bộ tạo lại và thử tải 130](episodes/ep01_pilot/130_regeneration-download-test.md) đã nhận đủ ba MP4 local và qua kiểm kỹ thuật; số dư 890 → 860, ngân sách thử cũ 190/200. Đầu ra ở `C:/Users/PC/Downloads/du_an_nem_bui/130_regeneration_lite`. Review thoại/giọng/diễn xuất và điểm nối chưa hoàn tất; Quality vẫn HOLD. Kết quả này không xác định nguyên nhân Stopped của lượt cũ.
+
 [Quy định ba lượt Lite và nhật ký công cụ](00_governance/08_three-lite-trials-and-tool-learning.md) đã được chủ dự án chốt. [Bộ thử 127](episodes/ep01_pilot/127_opening-three-lite-batch.md) đã tạo đủ ba lượt cùng prompt 126 và OPEN7; số dư giảm 30 credit. [Review 128](episodes/ep01_pilot/128_opening-three-lite-review.md) đang chờ file local, có hướng dẫn hỗ trợ tải; chưa kết luận chất lượng. [Bài học công cụ](learning/01_flow-tool-lessons.md) lưu quan sát và cách xử lý để tái sử dụng. Quality vẫn chưa mở cho gói này. Các dòng trạng thái cũ bên dưới là lịch sử; đọc hồ sơ mới theo thứ tự số.
 
 ## Cấu trúc

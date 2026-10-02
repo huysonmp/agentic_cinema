@@ -29,3 +29,9 @@ Kiểm lại theo yêu cầu chủ dự án: chọn tải 720p gốc thêm một
 Đính chính theo kiểm 129: chủ dự án tải thủ công được và đã có file MP4 local đọc được metadata. Không quy lỗi cho Flow hoặc nguồn video. Thử giữ tab và bấm tọa độ 720p trên R01 vẫn chưa nhận được file; chưa chứng minh nguyên nhân nằm ở kiểu click hoặc chuyển tab. Cần đối chiếu đường thao tác thủ công và bảng Downloads của ứng dụng trước khi kết luận. Không dùng generation mới để thay thế việc sửa phương thức tải.
 
 Kết quả media và bài học về diễn xuất/thoại: chờ kiểm sau khi đủ ba file. Không kết luận từ trạng thái đang tạo hoặc thumbnail.
+
+### L-004: bộ tạo lại 130 đã nhận đủ file
+
+Theo yêu cầu chủ dự án, tạo một yêu cầu Lite x3 cùng ảnh/prompt, tổng giá 30. Tải lần lượt từ menu thẻ thư viện, giữ tab và kiểm file trước khi chuyển clip; nhận đủ ba MP4. ffprobe và giải mã sạch, hash/path lưu tại tài liệu 130. Đây là đường thực hiện đã thành công trong vòng này, không phải kết luận nguyên nhân Stopped của vòng cũ. Không tuyên bố tạo lại luôn chữa được lỗi tải; cần kiểm lại đường tải trên tài sản cũ ở một vòng diagnostic riêng nếu cần tìm nguyên nhân.
+
+Bài học thao tác: khi index thẻ không còn đúng và click lỗi, đọc lại AX/screenshot, dùng nút menu của đúng thẻ; không lặp click hoặc generation mù. x3 là một yêu cầu ba đầu ra, phải ghi khác ba lần x1. Sau hoàn tất trả x1, và kiểm lại giá/cấu hình trước lần gửi sau. Thông báo tải chỉ là tín hiệu trung gian; file/hash/giải mã mới là bằng chứng nhận file.

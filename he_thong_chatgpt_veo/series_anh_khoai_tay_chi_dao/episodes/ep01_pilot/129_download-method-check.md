@@ -20,4 +20,8 @@ Vì cả cách bấm theo phần tử lẫn theo vị trí đều chưa tạo fi
 
 ## Bước tiếp theo
 
+### Kiểm bổ sung: mở lại và tải từ thẻ thư viện
+
+Theo yêu cầu mở lại, tab cũ không còn trong phiên nên đã mở tab Flow mới tại đúng R01. Sau đó về thư viện, mở menu ngữ cảnh thẻ `Two friends talking over meal` → `Tải xuống` → `720p kích thước gốc`, thay vì nút tải trong editor. Giữ nguyên tab và chờ; kiểm Downloads vẫn chỉ có file chủ dự án tải lúc 11:12:59, chưa có file R01. Công cụ bundle nguồn video vừa quan sát trong tab mới cũng lỗi fetch. Chưa xác định nguyên nhân của đường tải tự động; không tạo thêm video. Bằng chứng: `artifacts/opening127-r1/reopened-card-download.png`.
+
 Cần đối chiếu đúng bước tải thủ công thành công với đường điều khiển của tôi, đặc biệt có hộp thoại lưu/xác nhận hoặc thao tác ở bảng Downloads hay không. Cần một mô tả ngắn hoặc ảnh phần trạng thái tải và lý do dừng; không yêu cầu chủ dự án tạo lại video. Sau khi xác định cách nhận file, kiểm một lượt thành công trước rồi mới tải hai lượt còn lại. Quality và review bộ ba vẫn chưa hoàn tất.

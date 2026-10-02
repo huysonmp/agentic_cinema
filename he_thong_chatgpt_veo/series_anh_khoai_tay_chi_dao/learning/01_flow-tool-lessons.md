@@ -46,6 +46,8 @@ Kiểm tiếp 135–136: bỏ thoại và mô tả mùi/chảo, cả ba vẫn c�
 
 ### L-006: truy lỗi cuối chặng theo chuỗi nguồn, không chỉ sửa câu lệnh cuối
 
+Review 140: thêm riêng câu cấm hơi vào M0 thì cả ba M1 có vệt trắng vùng serving, trong khi 137/138 chưa thấy trong ảnh mẫu. Đây là bằng chứng hỗ trợ yếu tố câu cấm trong prompt chính, không xác nhận từng từ hoặc negativePrompt API. Bước cần làm để tăng độ tin cậy là tái lập control, giữ rõ khác biệt thời điểm/seed/fallback. Lỗi có trong native video nên không truy nhầm sang Canva/download. C01 có camera drift dù không thay câu máy; mọi gate khác vẫn phải review khi chỉ sửa một lỗi. Không lấy kết quả tốt của một gate làm PASS chung.
+
 Review 138 đã tải đủ ba M0: chưa thấy hơi trong 16 ảnh mỗi clip nhưng cả ba tự diễn tay/miệng. Bài học: tách từng tiêu chí, không dùng việc giảm một lỗi để gọi cả clip PASS; khác biệt sau khi bỏ nhiều nhóm chỉ hỗ trợ giả thuyết cấp nhóm. Bước truy tiếp phải thêm lại riêng một nhóm và giữ nhật ký actual settings, không khẳng định từ khóa gây lỗi hoặc ảnh nguồn chắc chắn vô can. Tab mới tải đủ bộ, xác nhận workaround vận hành, chưa xác nhận cơ chế lỗi tải.
 
 Phục hồi tải M01 của 137: mở tab mới cùng URL video theo yêu cầu owner và tải 720p thành công; file có đủ hình/âm thanh, giải mã sạch. Có thể thử tab mới trước khi đề nghị owner tải hộ hoặc tạo lại. Đây là workaround kiểm chứng một lần, chưa xác nhận nguyên nhân tab cũ thất bại; không gán cho cache/token khi chưa có bằng chứng.

@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Mới nhất — M1:** đã chạy [139](episodes/ep01_pilot/139_negative-sentence-controlled-test.md) và tải/review đủ [ba mẫu 140](episodes/ep01_pilot/140_negative-sentence-review-and-causal-evidence.md). Chỉ thêm câu cấm hơi vào M0: cả ba có vệt hơi trắng, tiếp tục lỗi tự diễn; C01 camera tiến gần. Giả thuyết câu cấm góp phần được hỗ trợ, chưa xác nhận nhân quả. Chưa winner/Quality. Ròng 30, số dư 740, tổng thử 310/400 còn 90. Đề xuất tái lập M0 ba mẫu nhưng chưa gửi. File trong `C:/Users/PC/Downloads/du_an_nem_bui/139_negative_sentence_control`; các số dư/trạng thái dưới là lịch sử.
+
 **Mới nhất — review 138:** [đã tải đủ và kiểm ba đối chứng M0](episodes/ep01_pilot/138_minimal-control-review-and-root-cause-update.md). File giải mã sạch; chưa thấy hơi trên món trong 16 ảnh mỗi clip, nhưng cả ba tự diễn tay/mở miệng nên chưa có production winner. Nguyên nhân khói chỉ khoanh vùng cấp nhóm, chưa xác nhận; Quality giữ. Không credit mới, số dư lần đọc gần nhất 770, ngân sách thử còn 120. Đề xuất thử riêng câu cấm đã ghi nhưng chưa chạy. Các trạng thái thiếu M02/M03 dưới đây là lịch sử.
 
 **Phục hồi tải mới nhất:** mở tab IAB mới cùng asset theo yêu cầu owner đã tải được M01 của [137](episodes/ep01_pilot/137_minimal-motion-root-cause-control.md), 8 giây 720×1280 có hình/âm thanh, giải mã sạch. M02/M03 và QC nội dung còn mở. Không credit mới; tab mới là workaround, nguyên nhân lỗi tải tab cũ chưa xác định.

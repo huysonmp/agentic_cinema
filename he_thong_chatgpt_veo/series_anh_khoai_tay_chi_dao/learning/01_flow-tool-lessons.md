@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-02 — probe cận cảnh gắp 159
+
+Tách một động tác kẹp–nhấc–giữ với START/END mới cho một ứng viên có hình chuyển động đúng trong các khung kiểm. Chưa đủ để kết luận đây là công thức ổn định: hai trong ba lượt lỗi âm thanh, không có ba video đối chiếu. Không dùng việc đưa miệng ra ngoài khung để gọi lỗi ăn đã xử lý ở cảnh rộng. Kiểm continuity khi trở về hai nhân vật, phần nem và trục máy; giữ trạng thái ứng viên riêng cơ học. Nhịp khoảng 3s chờ trước nhấc cần xử lý khi dựng, không kéo nguyên clip 8s vào tập 30s. Đối soát actual 514 so với lần trước 524 => ròng 10, không trừ giá dự kiến 30 khi hai lỗi không tính phí. Imagegen dùng scene source + grip I05 để dựng START; chỉ hai khung START/END được nạp vào Veo, không trộn ảnh studio grip vào scene.
+
 ## 2026-10-02 — khóa nhóm hình ảnh 154
 
 Mô tả rõ POTATO/PEACH FRUIT 3D và ụ nem sợi: ba Omni Flash mới giữ dạng nhân vật rau quả trong tám khung kiểm mỗi clip, món trở lại ụ sợi. Tuy vậy source fidelity khuôn mặt/tỷ lệ và texture nem còn lệch. Sửa nhiều chi tiết trong một nhóm không chứng minh một từ là nguyên nhân. Không nâng cải thiện phân loại thành production PASS. Reuse prompt trong màn edit không chuyển compose ra màn project khi back; kiểm compose trống rồi gắn input lại đúng ID, không submit nhầm route edit. Native download UI có file actual, không cần event để xác nhận. ASR vẫn gấp/gắp chưa nghe phân xử. Chi tiết tại [154](../episodes/ep01_pilot/154_visual-lock-voice-pair-retest.md).

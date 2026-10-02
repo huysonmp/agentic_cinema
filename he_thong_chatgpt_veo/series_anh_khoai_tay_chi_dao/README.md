@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+**Vòng10Lite2026-10-02 đã kết thúc:** [kết quả và quyết định tiếp120](episodes/ep01_pilot/120_t2-idle-round-results-and-next-decision.md), [manifest119](episodes/ep01_pilot/119_t2-idle-performance-experiment-round.md). Đã tạo/tải10nativeclips, full decode clean; root16samples/clip: toàn bộ OVERALL_REWORK do tay/miệng tự cử động hoặc thêm mist. Không full audiovisual/independent PASS. Số dư1.020→920, delta100credit; tổng từ trướcV01 là130/200. Dừng vòng, không Quality/voice/canon/production selection. P6/P7 OPEN. Đề xuất A/B/C trong120 cần owner chọn; trạng thái pending/hypothesis cũ bên dưới là lịch sử.
+
 **Static control2026-10-02:** [approval/run118](episodes/ep01_pilot/118_t2-static-camera-control-approval-and-run.md) actual một Lite10credit, native8s720×1280 saved. Root xem năm samples: full-serving/framing tốt hơn CAM02 nhưng Khoai và Đào tự giơ tay → **REWORK**. Gesture drift không chỉ xuất hiện ở tilt condition; n=1/condition, chưa causal conclusion/full audiovisual PASS. Số dư1.020, tổng CAM02+03=20credit; chưa nâng Quality/voice/canon, P6/P7 OPEN. Đề xuất test idle-performance wording riêng, chưa chạy.
 
 **Actual camera probe2026-10-02:** [approval/execution116](episodes/ep01_pilot/116_t2-camera-probe-budget-approval-and-execution.md), [QC117](episodes/ep01_pilot/117_t2-camera-probe-native-output-qc.md): đã upload OPEN7, chạy một Lite10credit và lưu native8s720×1280. Số dư1.040→1.030. Root bounded samples: **REWORK** do gesture tự phát và serving bị cắt mép; chưa full audiovisual/independent PASS, không production/canon hoặc Quality upgrade. V02 reserve không dùng, P6/P7 OPEN. Các trạng thái chưa upload/submit của114/115 bên dưới là lịch sử.

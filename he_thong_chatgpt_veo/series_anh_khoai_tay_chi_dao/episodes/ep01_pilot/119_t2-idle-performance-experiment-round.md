@@ -1,5 +1,13 @@
 # T2 idle-performance — vòng thử có kiểm soát
 
+## Trạng thái cuối vòng — 2026-10-02
+
+**10/10 lượt đã tạo, tải và lưu. Không có production PASS. Dừng phát sinh lượt mới.** Kết quả/đề xuất dễ đọc tại [120 — gói kết quả để owner xem](120_t2-idle-round-results-and-next-decision.md). Các dòng REGISTERED/pending bên dưới là nhật ký thời điểm, được thay thế bởi OUTPUT_SAVED tương ứng.
+
+Số dư UI trước vòng1.020 (118), sau vòng920 (119_BALANCE_FINAL.jpg): observed delta100, phù hợp10 lượt quote10. Tổng từ mốc1.050 trướcV01 tới920 là130/200credit; không đổi cap tổng. Đây là đối soát số dư UI, không phải sao kê billing từng giao dịch. Không dùng reserveV02, không nâng Quality.
+
+Root đã xem16 ảnh mẫu/clip (~0.25→7.75s) và full technical decode. Chưa nghe đầy đủ audio, chưa full audiovisual hoặc independent review; không gán agent PASS. R01 giữ tay tốt trong mẫu nhưng thêm mist/steam; R02–R10 có cử chỉ tự phát hoặc mở miệng. Tất cả OVERALL_REWORK. P6/P7 OPEN, không đổi script/canon/recipe approval.
+
 2026-10-02. Owner “cứ thử đi, tầm10lần cũngdc”: cho thử tối đa10 lượt Lite mới, dự trù quote10/lượt → cap100credit cho vòng119. Thay trần dưới50 của vòng camera trước trong phạm vi này, không nâng Quality/Extend/API/voice. Không thay script32/identity canon/recipe approval. START OPEN7 cùng SHA116/118, END trống,9:16/720p/8s/x1; read-back quote/model trước mỗi submit. Nếu giá>10 hoặc scope khác HOLD. Cumulative trial cap200 theo41 không bị xóa; vòng này không tự cho phép vượt cap tổng.
 
 Outcome: tìm prompt giữ idle performance (tay/miệng) và whole-serving, rồi thử camera nếu idle đạt. Tối đa10 không là phải dùng hết; dừng sớm nếu có candidate lặp lại hoặc thử tiếp không tạo thêm bằng chứng hữu ích. Mỗi condition stochastic, không fixed seed: không kết luận causal proof hoặc mọi clip Lite/Quality sẽ như vậy.
@@ -89,3 +97,23 @@ An eight-second static freeze-frame hold of the supplied image. The entire image
 Plannedround80/100, chưa submit.
 
 R08 SUBMITTED actualread-back10/Lite/frames9:16/720p8s/x1;STARTOPEN7/ENDblank/clickonce/composerreset;119_R08_PRE.jpg. Output pending. Round8submitted7saved, no production winner.
+
+R08 OUTPUT_SAVED asset `c678e028-3e9e-40cb-af5f-75f41ed20f25`,native `Video_freeze_frame_hold_20261002075540.mp4`2.364.694bytes,projectR08.mp4/owner119_R08.mp4;SHA256 `70CD9D0C4C15CE336CBFB08E82A7BB55DEA3983A8CF12FE4FA04270CA255301B`. Decode clean/720×1280/24fps/8s/audio stream. Root16samples: hai nhân vật vẫn gestures/headturn/mouthmovement đầu,giữa,cuối;table/framing preserved. **REWORK**, zero-motiontext không đủ khóa trong lượt này. Không suy API/modelQuality khác cũngfail.119_R08_RESULT.jpg.
+
+## R09 — zero-motion with endpoint, registered
+
+Giữ exactpromptR08, đổi ENDblank→OPEN7,STARTOPEN7; cùngLite/frames9:16/720p8s/x1/expected10. Cumulativeplanned90/100. Xác nhận zero-motion failure có/không endpoint cùngprompt, chưa submit.
+
+R09 SUBMITTED actualsameconfig/quote10/read-back;START=ENDOPEN7/clickonce/composerreset;119_R09_PRE.jpg. Output pending.
+
+R09 OUTPUT_SAVED asset `11a4332e-4ec8-4343-8ba3-bd704716054d`, native `Static_video_freeze_frame_hold_20261002080241.mp4`, 1.917.237 bytes; project R09.mp4 / owner119_R09.mp4. SHA256 `F0F855E9B4D0147BA19BFC8F1D643C77DED2792CA338D8D93427FE7650121BCC`. Decode clean / 720×1280 / 24fps / 8s / audio stream. Root16samples: Khoai lifts a hand around1.25s and opens mouth in multiple samples; meal/framing preserved. **REWORK**, paired endpoints do not freeze intermediate motion in this trial.119_R09_RESULT.jpg.
+
+## R10 — exact repeat A, registered
+
+Repeat the exact prompt A recorded for R01/R02, START OPEN7 / END blank. Same Lite / Frames / 9:16 / 720p / 8s / x1, submit only if actual quote remains10. This is the third sample of A, not a revised prompt or steam fix. Planned round100/100, final authorized trial; no eleventh generation. Not submitted yet.
+
+R10 SUBMITTED: actual UI read-back Video / Frames / 9:16 / 720p / 8s / x1, quote10, START OPEN7 / END blank; exact A; single generate click followed by composer reset. Screenshot119_R10_PRE.jpg. Output pending, ten submissions reached: stop generation.
+
+R10 OUTPUT_SAVED asset `61a72a51-acbd-4830-8060-4b2688a504a9`, native `Potato_and_peach_characters_waiting_20261002080950.mp4`, 3.367.605bytes; projectR10.mp4 / owner119_R10.mp4. SHA256 `C0AECD878B7F1B761954ECABC22CB3EE35BD8315108FB12B82BD8DC3AD2207DA`. Full decode clean,720×1280/24fps/8s/audio stream. Root16samples: Khoai lifts both hands around0.75–3.25s; mouths/head directions change; table/framing mostly preserved. **REWORK**, A now three samples, no repeatable whole-shot success.119_R10_RESULT.jpg. Audio UNKNOWN.
+
+Final UI balance920 verified in accountpanel, screenshot119_BALANCE_FINAL.jpg saved local only. No eleventh generation, Quality, Extend, upload, voice change, canon change or production selection in this round. Outputs and screenshots local/gitignored; manifest and review documents version-controlled.

@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Hiện hành — audit sai vùng giọng:** owner loại cả ba mẫu 145, tổng 12 mẫu 142/145 bị loại. [146](episodes/ep01_pilot/146_voice-accent-root-cause-audit.md) xác định thiếu nguồn/voice control đã kiểm chứng và thiếu actual nghe trước trình; 12 cặp MP4/WAV PCM khớp, không đổi giọng do extraction. Cơ chế model sinh sai accent chưa xác nhận. Dừng generation trong audit, khoản mới còn 170, số dư lần kiểm trước 620. Chưa có voice đạt, chưa đổi route hoặc Quality. Các trạng thái chờ chọn bên dưới là lịch sử.
+
 **Hiện hành — thử lại vùng giọng:** owner cấp thêm 200 credit; đã chạy [145, ba mẫu Lite kiểm giọng nam Bắc](episodes/ep01_pilot/145_northern-accent-only-lite-r1.md), tải MP4/WAV đủ, technical decode PASS, chưa nghe xác nhận accent/đúng lời/diễn. Dùng prompt tiếng Việt mô tả Hà Nội, một câu, cùng TABLE08; Hà Nội là giả định thử chưa canon. Ròng 30, số dư actual 620, khoản bổ sung còn 170; Quality riêng chưa dùng. Chờ owner nghe đúng Bắc trước mở rộng. Bộ 142/143 vẫn loại. Các trạng thái chờ chọn và số dư bên dưới là lịch sử.
 
 **Quyết định hiện hành:** owner loại cả chín mẫu giọng 142/143 vì sai vùng giọng (nghe là nam miền Nam); yêu cầu nam miền Bắc không đổi. [Biên bản và hướng sửa — 144](episodes/ep01_pilot/144_owner-rejects-southern-accent-voice-auditions.md). Chưa có voice đạt, chưa chạy thêm hoặc dùng Quality. Cần khóa accent bằng phép thử nhỏ trước phát triển sắc thái; ngân sách Lite cũ đã hết. Các trạng thái chờ chọn bên dưới là lịch sử.

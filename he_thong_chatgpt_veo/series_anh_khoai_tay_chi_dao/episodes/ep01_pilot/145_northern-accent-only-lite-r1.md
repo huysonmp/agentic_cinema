@@ -1,5 +1,7 @@
 # Thử riêng giọng nam miền Bắc — R1
 
+**Owner review mới nhất:** cả ba bị loại vì tiếp tục sai vùng giọng. OWNER_REJECTED / ACCENT_FAIL; các trạng thái chờ nghe bên dưới là lịch sử. [RCA chuỗi nguồn/điều khiển/QC — 146](146_voice-accent-root-cause-audit.md). Không tiếp tục chọn mẫu từ bộ này.
+
 Ngày 2026-10-02. Owner cấp thêm 200 credit và yêu cầu thử tiếp. Đây là trần thử bổ sung, không mua credit, không thay ngân sách Quality riêng. Số dư Flow trước thử đọc actual 650. Bộ 142/143 vẫn bị loại theo 144.
 
 ## Thiết kế và giả định

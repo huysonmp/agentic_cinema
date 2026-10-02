@@ -76,6 +76,10 @@ Folder làm việc chính thức của series TikTok AI về món ăn và văn h
 - Episode đang mở: `EP01_PILOT`
 - Cập nhật review cuối P5: [hai paper reviews đã hoàn tất36](episodes/ep01_pilot/36_p5-v0.5-final-paper-reviews-and-cue-decision.md), không yêu cầu đổi thoại; [approval38](episodes/ep01_pilot/38_p5-content-handoff-and-p6-direction-approval.md) đã duyệt Q0 và hướng hình/giọng. Media performance, text readability và disclosure vẫn cần kiểm ở stages tương ứng; image thử P6 không đóng các dependency đó
 
+## Cập nhật 2026-10-02: bộ ba Lite
+
+[Quy định ba lượt Lite và nhật ký công cụ](00_governance/08_three-lite-trials-and-tool-learning.md) đã được chủ dự án chốt. [Bộ thử 127](episodes/ep01_pilot/127_opening-three-lite-batch.md) đã tạo đủ ba lượt cùng prompt 126 và OPEN7; số dư giảm 30 credit. [Review 128](episodes/ep01_pilot/128_opening-three-lite-review.md) đang chờ file local, có hướng dẫn hỗ trợ tải; chưa kết luận chất lượng. [Bài học công cụ](learning/01_flow-tool-lessons.md) lưu quan sát và cách xử lý để tái sử dụng. Quality vẫn chưa mở cho gói này. Các dòng trạng thái cũ bên dưới là lịch sử; đọc hồ sơ mới theo thứ tự số.
+
 ## Cấu trúc
 
 **Quyết định mới nhất:** [approval38](episodes/ep01_pilot/38_p5-content-handoff-and-p6-direction-approval.md) xác nhận Q0 + V1A/V2A/V3A. P5 nội dung được chuyển giao có dependency media; P6 mở chuẩn bị thiết kế, chưa asset/generation approval. [Design/sample plan39](episodes/ep01_pilot/39_p6-character-voice-design-and-sample-plan-v0.1.md) là draft. Các dòng pending cue/direction ở trên là lịch sử trước approval38.

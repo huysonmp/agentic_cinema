@@ -1,0 +1,27 @@
+# Nhật ký học từ Flow và công cụ kiểm
+
+## 2026-10-02 — bộ thử 127
+
+### L-001: khôi phục tab khi phiên trình duyệt thay đổi
+
+Quan sát: kết nối cũ mất trước lúc gửi generation. Sau khi đọc lại inventory, đã nối lại đúng tab và đúng dự án; không tạo video trong quá trình khôi phục.
+
+Cách xử lý: đọc lại hướng dẫn và trạng thái tab; xác minh yêu cầu nào thực sự đã gửi trước khi thao tác. Không bấm tạo lại dựa riêng vào lỗi kết nối vì có thể trùng yêu cầu và tốn credit.
+
+Giới hạn: sự cố phiên kết nối không chứng minh Flow mất dữ liệu hoặc Veo lỗi. Chưa có thử nghiệm đối chứng về nguyên nhân.
+
+### L-002: chức năng sử dụng lại câu lệnh
+
+Quan sát: sau R01 và R02, dùng nút sử dụng lại câu lệnh đã phục hồi prompt đầy đủ và ảnh đầu vào; END trống, cấu hình vẫn 720p/8 giây/x1. Đã chụp màn hình trước mỗi lần gửi.
+
+Ứng dụng: thuận tiện cho bộ thử lặp lại, nhưng mỗi lần vẫn phải kiểm trạng thái phục hồi. Không coi nút này là bảo đảm mọi tham số luôn được giữ trong các phiên hoặc phiên bản Flow khác.
+
+### L-003: thông báo tải không phải bằng chứng đã lưu local
+
+Quan sát: Flow báo đã tải, nhưng chưa nhận được file ở các đường lưu đã kiểm. API chờ download hết thời gian; bundle các tài sản video quan sát trên trang lỗi fetch. Chưa xác định nguyên nhân; không khẳng định lỗi mạng, quyền hay hết hạn URL khi chưa có bằng chứng.
+
+Cách xử lý trong bộ 127: giữ tài sản và URL, đối soát số dư, nhờ chủ dự án tải native. Không generation lại để chữa lỗi vận chuyển file; không gọi clip đã bàn giao khi thiếu file/hash.
+
+Điều kiện kiểm lại: khi có file, xác minh nội dung/mã clip, kích thước, hash và khả năng giải mã; ghi cách tải thực sự thành công. Lần sau thử đường tải với tài sản sẵn có trước khi mở bộ tạo mới nếu tình trạng chưa được giải quyết.
+
+Kết quả media và bài học về diễn xuất/thoại: chờ kiểm sau khi đủ ba file. Không kết luận từ trạng thái đang tạo hoặc thumbnail.

@@ -26,4 +26,6 @@ Cách xử lý trong bộ 127: giữ tài sản và URL, đối soát số dư, 
 
 Kiểm lại theo yêu cầu chủ dự án: chọn tải 720p gốc thêm một lần cho từng R01–R03, vẫn chưa có file local dù R02/R03 có thông báo thành công. Đường Downloads Windows không đổi. Bấm lại cùng tùy chọn chưa giải quyết được lỗi trong lần kiểm này; cần kiểm đường chuyển file hoặc hỗ trợ tải trực tiếp, không cần tạo lại media.
 
+Đính chính theo kiểm 129: chủ dự án tải thủ công được và đã có file MP4 local đọc được metadata. Không quy lỗi cho Flow hoặc nguồn video. Thử giữ tab và bấm tọa độ 720p trên R01 vẫn chưa nhận được file; chưa chứng minh nguyên nhân nằm ở kiểu click hoặc chuyển tab. Cần đối chiếu đường thao tác thủ công và bảng Downloads của ứng dụng trước khi kết luận. Không dùng generation mới để thay thế việc sửa phương thức tải.
+
 Kết quả media và bài học về diễn xuất/thoại: chờ kiểm sau khi đủ ba file. Không kết luận từ trạng thái đang tạo hoặc thumbnail.

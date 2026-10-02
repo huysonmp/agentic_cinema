@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-02 — sửa nguồn 161 chưa đủ kiểm soát trajectory
+
+Đổi riêng pose trong một bước ảnh, tuft bước sau, END bước cuối có truy vết, nhưng chỉnh ảnh vẫn làm mound drift ngoài ý định. Do đó không gọi phép thử kiểm soát một biến hoặc canon sạch. Ba Lite tiếp tục vượt endpoint/sinh sợi dài; nguồn tuft ngắn không bảo đảm giữ shape qua video. Hai mẫu giữ gaze Đào tốt hơn, chỉ là quan sát đồng biến, chưa chứng minh nguyên nhân. Dừng lặp cùng đường nâng; thử tách bằng dựng cắt sang pose giữ và phản ứng, rồi chuyển bát riêng. Không dùng đoạn sau ăn để chữa cháy. Ghi tiêu chí vượt endpoint/không giữ chính xác, không nói tất cả đã cắn khi chỉ có contact vùng môi-mũi trong ảnh. Budget ròng30, trial còn154.
+
 ## 2026-10-02 — probe nâng nem 160: source pose phải rõ
 
 END gần môi v0.1 bị loại trước Veo và chỉnh v0.2 có gap; tuy nhiên ba Lite vẫn sai động tác/hướng nhìn. Kiểm inventory và ảnh cuối chưa đủ: START/END Đào gần chính diện, chỉ cúi mắt về cốc, không biểu đạt rõ đang quay đi. Sợi nem nguồn rủ về bát, đầu ra kéo dài hơn; đây là giả thuyết source contribution chưa xác nhận nguyên nhân riêng. Preflight cần kiểm trạng thái hành động của từng nhân vật, hướng mắt/đầu và continuity phần nem với insert C01, không chỉ số đạo cụ. Sửa nguồn từng nhóm biến, không đổ lỗi một từ hoặc retry nguyên prompt. N02 kiểm dày thấy mở miệng/tiếp xúc vùng môi dù endpoint an toàn: endpoint không chứng minh trajectory. Ròng 30, trial còn184; không ghép ba bản lỗi hoặc dùng đoạn sau ăn để chuyển nem cho Đào.

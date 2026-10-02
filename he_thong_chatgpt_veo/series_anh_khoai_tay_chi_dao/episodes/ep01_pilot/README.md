@@ -2,6 +2,8 @@
 
 ## Hiện hành — tuyển giọng Khoai, chờ owner nghe
 
+[150 — chọn K20 và tuyển giọng Đào](150_k20-selection-and-dao-voice-auditions.md): owner xác nhận K20/Orus ấm chắc; đây lựa chọn audition, chưa nghiệm thu tích hợp video. Đã tạo và lưu năm preview nữ D01–D05, chung lời dài/ngắn/chuyển biểu cảm, chờ owner nghe chọn. Trạng thái “Khoai chờ chọn” của 148/149 là lịch sử, không ghi đè quyết định K20.
+
 [149 — thêm mười mẫu K11–K20](149_ten-more-voice-auditions.md) theo owner chưa thấy bộ trước ổn: preview và lưu đủ 10, dùng tám base nam mới. Đã đối chiếu ID/sample/performance; còn chờ nghe accent/diễn, chưa khóa giọng hoặc tạo video. Danh sách bàn giao từ trên xuống K20 → K11, bộ trước giữ lịch sử đối chiếu. K16 giữ tên mã sau lưu chậm, các mẫu khác dùng tên base actual.
 
 [148 — mười preset audition](148_ten-voice-auditions-long-short-emotion.md) đã tạo preview và lưu đủ 10 ID, cùng đoạn thử câu dài/câu ngắn/chuyển biểu cảm. Tên actual trở về tên base; dùng bảng ID và chỉ dẫn diễn để phân biệt. Chưa nghiệm thu giọng Bắc hoặc chất lượng diễn, chưa xuất audio riêng, chưa dùng cho video/Quality. Các mục bên dưới là lịch sử, không ghi đè trạng thái này.

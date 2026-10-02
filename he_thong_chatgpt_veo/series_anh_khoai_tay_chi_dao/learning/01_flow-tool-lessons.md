@@ -54,6 +54,8 @@ Thử giọng 142/143: cố định lời và ảnh, mỗi hướng diễn ba m�
 
 Owner review 144 loại cả chín mẫu vì giọng miền Nam. Bài học bổ sung: accent là gate nền, phải nghe đạt trước khi nhân ba hướng diễn. Không dùng cùng chỉ dẫn accent chưa kiểm chứng để mở rộng hàng loạt. “Northern Vietnamese” trong prompt không tương đương output đúng Bắc; technical PASS không thay listening PASS. Nguyên nhân model/prompt cụ thể chưa xác định; không tuyên bố sửa vài từ sẽ chắc chắn đạt.
 
+Thử lại 145: tiếng Việt/Hà Nội cụ thể + một câu ngắn, ba mẫu; thay nhiều yếu tố nên nếu đạt cũng không quy công riêng tiếng Việt. Chờ nghe accent trước diễn; trần 200 không có nghĩa phải tiêu hết. Lưới không hiện thumbnail mới dù AX có title hết progress: reload một lần sau completion mở được asset, không tái sinh. Helper đọc prompt cần hỗ trợ ngôn ngữ actual hoặc đọc UI riêng; prompt field rỗng không được coi là đã đối chiếu.
+
 Review 138 đã tải đủ ba M0: chưa thấy hơi trong 16 ảnh mỗi clip nhưng cả ba tự diễn tay/miệng. Bài học: tách từng tiêu chí, không dùng việc giảm một lỗi để gọi cả clip PASS; khác biệt sau khi bỏ nhiều nhóm chỉ hỗ trợ giả thuyết cấp nhóm. Bước truy tiếp phải thêm lại riêng một nhóm và giữ nhật ký actual settings, không khẳng định từ khóa gây lỗi hoặc ảnh nguồn chắc chắn vô can. Tab mới tải đủ bộ, xác nhận workaround vận hành, chưa xác nhận cơ chế lỗi tải.
 
 Phục hồi tải M01 của 137: mở tab mới cùng URL video theo yêu cầu owner và tải 720p thành công; file có đủ hình/âm thanh, giải mã sạch. Có thể thử tab mới trước khi đề nghị owner tải hộ hoặc tạo lại. Đây là workaround kiểm chứng một lần, chưa xác nhận nguyên nhân tab cũ thất bại; không gán cho cache/token khi chưa có bằng chứng.

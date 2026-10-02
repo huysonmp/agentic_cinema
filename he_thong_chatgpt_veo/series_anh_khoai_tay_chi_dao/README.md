@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Mới nhất — khóa hình với cặp giọng:** [154](episodes/ep01_pilot/154_visual-lock-voice-pair-retest.md) đã tạo/tải ba Omni Flash 360p/8s với nhóm mô tả hình rõ hơn, giữ OPEN7/K20/D06/thoại. Các khung kiểm giữ hai nhân vật rau quả và món dạng ụ sợi, nhưng mặt/tỷ lệ và texture nem chưa sát source. Chưa production PASS; đề nghị owner xem R01 trước, nghe giọng/nhịp/lip-sync. Ròng18, số dư actual634, khoản thử mới còn134; chưa Quality. File `C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock`. Các dòng dưới là lịch sử.
+
 **Mới nhất — thử cặp giọng:** owner đã [chọn Orus K20 / Aoede D06](episodes/ep01_pilot/152_owner-selected-voice-pair-k20-d06.md); [probe 153](episodes/ep01_pilot/153_voice-pair-integration-probe.md) tạo/tải đủ ba Omni 1.1 Flash 360p/8s, không phải Veo Lite. File giải mã sạch; V02/V03 biến Đào thành người, V01 giữ nhân vật nhưng đổi hình món. Chưa winner hoặc production PASS; owner cần nghe identity/accent/nhịp. Ròng 18 credit, số dư actual 652, khoản thử mới còn 152; Quality riêng chưa dùng. File ở `C:/Users/PC/Downloads/du_an_nem_bui/153_voice_pair`. Các trạng thái bên dưới là lịch sử.
 
 **Hiện hành — capability giọng:** [147](episodes/ep01_pilot/147_flow-preset-voice-capability-and-owner-preview.md) kiểm actual Omni/Thành phần/Giọng nói, tạo một preview từ Algieba và lưu **Algieba tuỳ chỉnh** IDf491dbef-8fd8-4fb1-8b0d-945ab44c2abe; owner nghe trực tiếp Flow để duyệt accent. Chưa export audio local, chưa voice PASS, chưa tạo video hoặc đổi production pipeline. Số dư actual620 không giảm trong scope; khoản thử còn170. Các trạng thái bên dưới là lịch sử.

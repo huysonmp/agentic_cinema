@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-02 — khóa nhóm hình ảnh 154
+
+Mô tả rõ POTATO/PEACH FRUIT 3D và ụ nem sợi: ba Omni Flash mới giữ dạng nhân vật rau quả trong tám khung kiểm mỗi clip, món trở lại ụ sợi. Tuy vậy source fidelity khuôn mặt/tỷ lệ và texture nem còn lệch. Sửa nhiều chi tiết trong một nhóm không chứng minh một từ là nguyên nhân. Không nâng cải thiện phân loại thành production PASS. Reuse prompt trong màn edit không chuyển compose ra màn project khi back; kiểm compose trống rồi gắn input lại đúng ID, không submit nhầm route edit. Native download UI có file actual, không cần event để xác nhận. ASR vẫn gấp/gắp chưa nghe phân xử. Chi tiết tại [154](../episodes/ep01_pilot/154_visual-lock-voice-pair-retest.md).
+
 ## 2026-10-02 — probe cặp giọng 153
 
 Âm thanh thành phần cần ảnh đi kèm mới hoạt động. Click chip compose gỡ input chứ không mở detail; phải khôi phục đúng ID nếu gỡ nhầm. Đã gắn Orus K20/Aoede D06/OPEN7, nhưng ba Omni Flash 360p vẫn có hai bản biến Đào thành người và bản giữ Đào đổi hình món. Gắn preset/ảnh không thay nghiệm thu actual. Cụm “adult peach woman” là giả thuyết mơ hồ cần kiểm, không nguyên nhân đã chứng minh. ASR có đủ ba câu nhưng gấp/gắp chưa nghe phân xử, không dùng để chứng nhận voice/accent. Hai download event timeout vẫn có MP4 thực trong Downloads: đối soát file và decode trước retry/generation. Ròng 18 credit. Chi tiết và evidence ở [153](../episodes/ep01_pilot/153_voice-pair-integration-probe.md).

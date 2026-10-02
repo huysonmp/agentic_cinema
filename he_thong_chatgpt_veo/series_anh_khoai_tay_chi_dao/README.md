@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Gói thử tiếp theo đã chuẩn bị:** [hai câu mở và động tác định kéo đĩa — 126](episodes/ep01_pilot/126_opening-dialogue-action-lite-request.md). Đề nghị cùng OPEN7 để kiểm nối với B, một lượt Lite tối đa 10 credit. Phạm vi dùng OPEN7 cho thoại/hành động và chi phí cần chủ dự án duyệt; giá phải đọc lại giao diện. Chưa chạy, không tiêu credit. Không nối thẳng B với bàn v0.8 vì khác bố cục; điểm nối thực và voice còn mở.
+
 **Chủ dự án duyệt hướng chuyển động nhẹ B:** [quyết định — 125](episodes/ep01_pilot/125_owner-gentle-motion-direction-approval.md). Tiếp tục phát triển cảnh mở kết hợp từ B; chưa khóa thời lượng 4 giây, toàn cảnh, giọng hoặc điểm nối. Điều kiện đạt Lite trước Quality vẫn giữ, không có media hoặc credit mới trong lượt ghi nhận.
 
 **Đã dựng bản thử cảnh mở local R1:** [kết quả và hướng dẫn xem — 124](episodes/ep01_pilot/124_hybrid-opening-local-probe-r1-and-viewing-guide.md). Hai video 4 giây: khung tĩnh và tiến nhẹ 1,5%, dọc 1080×1920, không tiếng, không credit. Đo file và giải mã sạch; root kiểm ảnh mẫu, chưa kiểm chuyển động liên tục hoặc review độc lập. Chờ chủ dự án đánh giá kiểu chuyển động; chưa chứng minh dẫn mắt món → Khoai hoặc nối thoại, không production PASS. Bản local không thay điều kiện đạt Lite trước Quality.

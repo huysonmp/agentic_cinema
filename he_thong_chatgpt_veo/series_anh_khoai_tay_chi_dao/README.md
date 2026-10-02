@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-01, P6/P7
 
+**Static control2026-10-02:** [approval/run118](episodes/ep01_pilot/118_t2-static-camera-control-approval-and-run.md) actual một Lite10credit, native8s720×1280 saved. Root xem năm samples: full-serving/framing tốt hơn CAM02 nhưng Khoai và Đào tự giơ tay → **REWORK**. Gesture drift không chỉ xuất hiện ở tilt condition; n=1/condition, chưa causal conclusion/full audiovisual PASS. Số dư1.020, tổng CAM02+03=20credit; chưa nâng Quality/voice/canon, P6/P7 OPEN. Đề xuất test idle-performance wording riêng, chưa chạy.
+
 **Actual camera probe2026-10-02:** [approval/execution116](episodes/ep01_pilot/116_t2-camera-probe-budget-approval-and-execution.md), [QC117](episodes/ep01_pilot/117_t2-camera-probe-native-output-qc.md): đã upload OPEN7, chạy một Lite10credit và lưu native8s720×1280. Số dư1.040→1.030. Root bounded samples: **REWORK** do gesture tự phát và serving bị cắt mép; chưa full audiovisual/independent PASS, không production/canon hoặc Quality upgrade. V02 reserve không dùng, P6/P7 OPEN. Các trạng thái chưa upload/submit của114/115 bên dưới là lịch sử.
 
 **Single-start preflight2026-10-02:** [owner duyệt method và actual UI114](episodes/ep01_pilot/114_t2-single-start-method-approval-and-flow-preflight.md). Flow UI Lite/Khung hình/9:16/720p/8giây/x1 giá10credit, số dư1.040; có start/end pickers nhưng single-start serveracceptance chưa test. Banner uploadwarning, chưa thử upload. [Gói request115](episodes/ep01_pilot/115_t2-single-start-camera-request-owner-approval.md) chờ owner chọn OPEN7 diagnostic-only + upload + một lượt10credit riêng. Chưa upload/prompt/submit/video mới; không dùng reserveV02. P6/P7 OPEN; method A approved, không production input/wholeepisode approval.

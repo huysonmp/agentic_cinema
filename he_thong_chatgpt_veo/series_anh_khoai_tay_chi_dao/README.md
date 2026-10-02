@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Đã dựng bản thử cảnh mở local R1:** [kết quả và hướng dẫn xem — 124](episodes/ep01_pilot/124_hybrid-opening-local-probe-r1-and-viewing-guide.md). Hai video 4 giây: khung tĩnh và tiến nhẹ 1,5%, dọc 1080×1920, không tiếng, không credit. Đo file và giải mã sạch; root kiểm ảnh mẫu, chưa kiểm chuyển động liên tục hoặc review độc lập. Chờ chủ dự án đánh giá kiểu chuyển động; chưa chứng minh dẫn mắt món → Khoai hoặc nối thoại, không production PASS. Bản local không thay điều kiện đạt Lite trước Quality.
+
 **Ngân sách Quality có điều kiện đã duyệt:** [quyết định và việc chủ dự án cần xử lý — 122](episodes/ep01_pilot/122_conditional-quality-approval-and-owner-actions.md). Tối đa 100 credit cho một lượt Quality, chỉ sau khi đầu vào, prompt và thử nghiệm tương ứng đạt trên Lite. Chưa chạy Quality; không dùng khoản này để chạy thêm Lite. Không hỏi lại ngân sách đã duyệt.
 
 **Hướng cảnh mở kết hợp đã chọn:** [kiểm sẵn sàng — 121](episodes/ep01_pilot/121_hybrid-opening-approval-and-production-readiness-audit.md), [thiết kế bổ sung bản nháp — 123](episodes/ep01_pilot/123_hybrid-opening-design-draft.md). Đã biên tập lại tiếng Việt của 120–121. Công cụ nền hoạt động, nhưng giọng, đầu vào theo cảnh, động tác, nối cảnh, bản ráp và kiểm bản cuối còn thiếu. Bản thử local chưa dựng; P6/P7 vẫn mở.

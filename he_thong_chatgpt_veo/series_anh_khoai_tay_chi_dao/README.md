@@ -1,6 +1,8 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái hiện hành — 2026-10-02
+## Trạng thái hiện hành — 2026-10-03
+
+**Mới nhất — [162](episodes/ep01_pilot/162_multivariable-matrix.md):** owner duyệt ma trận A–D x3, đã gửi 12 + 5 lần thay lỗi âm thanh. A3/B3/C1 tải và giải mã sạch nhưng chưa qua gate diễn; D chưa có video để chấm. Tổng 10 lỗi âm thanh không tính phí, không xếp lỗi công cụ thành fail hình. Ròng70, số dư actual384, trial còn84, Quality riêng chưa dùng. Không chọn/ghép bản lỗi; ma trận chưa đủ mẫu C/D. Tiếp cần kiểm cách tạo không âm thanh hoặc duyệt probe nguồn giữ nem xa mặt, không tuyên bố kết luận nhân quả. Các dòng dưới là lịch sử.
 
 **Mới nhất — [161](episodes/ep01_pilot/161_source-pose-and-tuft-retest.md):** sửa nguồn thành ba bước pose Đào/tuft nhỏ/END dưới môi, lưu prompt/hash. X3 Lite tạo/tải/decode sạch, nhưng cả ba chưa đạt động tác: vượt endpoint vào vùng mũi-môi, sợi dài tái xuất hiện; R03 Đào nhìn lại sớm. R01/R02 giữ hướng cốc tốt hơn, chưa chứng minh nguyên nhân riêng. Không gửi bản lỗi cho owner ghép. Ròng 30, số dư actual **454**, trial còn **154**, Quality riêng chưa dùng. Tiếp ưu tiên thử dựng cắt C01 → pose giữ → phản ứng Đào, không retry nguyên đường nâng trong một clip. Các dòng dưới là lịch sử.
 

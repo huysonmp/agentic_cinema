@@ -1,5 +1,13 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — ma trận thực dụng 162 và lỗi âm thanh
+
+Làm đa phương án để sàng lọc nhanh, nhưng đổi cách dựng cũng đổi nhiệm vụ/khung nguồn nên không gọi factorial nhân quả. A/B có ba mẫu, C chỉ một, D không có hình dù thử lại lỗi: thiếu dữ liệu phải báo thiếu, không chấm lỗi render như lỗi diễn. Không cho tách nhịp prompt hoặc tư thế END đẹp tự vượt gate quỹ đạo. Ghi cả mẫu kém, không chỉ mẫu tốt.
+
+Phiên mới mặc định Omni x1 giá12 dù lượt trước Lite; luôn kiểm lại model/giá/source pair. Sau đổi Lite x3 giá30 mới gửi. Menu tải720p đã bấm nhưng chưa xuất hiện file: dùng `video.downloadMedia` trong giao diện browser được lưu file thực tế, sau đó copy có manifest ID và giải mã. Không dùng fetch/network hoặc tên auto-title để đoán file.
+
+12 yêu cầu ban đầu +5 thay lỗi: 7 video và10 lỗi âm thanh không tính phí; actual384 so mốc454, ròng70, trial84. B có đoạn giữ khá hơn nhưng vẫn vượt endpoint/đổi gaze; C tự đưa thức ăn vào miệng. Không dùng phần sau ăn để chữa cháy sang bát Đào. Giữ lỗi công cụ, lỗi nguồn, lỗi prompt và lỗi diễn là các lớp khác nhau; chưa chứng minh nguyên nhân gốc riêng. Không retry vô hạn hoặc tự chuyển Quality để tránh lỗi.
+
 ## 2026-10-02 — sửa nguồn 161 chưa đủ kiểm soát trajectory
 
 Đổi riêng pose trong một bước ảnh, tuft bước sau, END bước cuối có truy vết, nhưng chỉnh ảnh vẫn làm mound drift ngoài ý định. Do đó không gọi phép thử kiểm soát một biến hoặc canon sạch. Ba Lite tiếp tục vượt endpoint/sinh sợi dài; nguồn tuft ngắn không bảo đảm giữ shape qua video. Hai mẫu giữ gaze Đào tốt hơn, chỉ là quan sát đồng biến, chưa chứng minh nguyên nhân. Dừng lặp cùng đường nâng; thử tách bằng dựng cắt sang pose giữ và phản ứng, rồi chuyển bát riêng. Không dùng đoạn sau ăn để chữa cháy. Ghi tiêu chí vượt endpoint/không giữ chính xác, không nói tất cả đã cắn khi chỉ có contact vùng môi-mũi trong ảnh. Budget ròng30, trial còn154.

@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Quyết định hiện hành:** owner loại cả chín mẫu giọng 142/143 vì sai vùng giọng (nghe là nam miền Nam); yêu cầu nam miền Bắc không đổi. [Biên bản và hướng sửa — 144](episodes/ep01_pilot/144_owner-rejects-southern-accent-voice-auditions.md). Chưa có voice đạt, chưa chạy thêm hoặc dùng Quality. Cần khóa accent bằng phép thử nhỏ trước phát triển sắc thái; ngân sách Lite cũ đã hết. Các trạng thái chờ chọn bên dưới là lịch sử.
+
 **Hiện hành — giọng Khoai:** đã chạy [142](episodes/ep01_pilot/142_northern-khoai-voice-auditions.md), tải đủ chín mẫu K2/K3/K4 và trích audio cho [owner nghe chọn — 143](episodes/ep01_pilot/143_voice-audition-owner-listening-packet.md). File giải mã sạch, chưa chứng nhận chất giọng hoặc nội dung lời. Ròng 90 credit, số dư Flow actual 650; tổng thử 400/400 còn 0, Quality 100 riêng chưa dùng. K1/K5/giọng Đào chưa chạy, chưa winner, P6/P7 OPEN. Số dư và đề xuất bên dưới là lịch sử, không phải ngân sách hiện hành.
 
 **Quyết định mới nhất:** owner tạm dừng truy sâu lỗi hơi, không chạy tái lập M0 ở 140. [Biên bản và sáu nhóm việc còn lại — 141](episodes/ep01_pilot/141_owner-pauses-steam-investigation-and-production-backlog.md). Giữ prompt nền M0 không câu cấm làm workaround tạm; chưa production PASS. Quay lại P6/P7: ưu tiên giọng/nhịp, cảnh mở, hành động hài/trao món, ráp, hậu kỳ/kiểm và bàn giao. Không generation/credit mới; lần đọc số dư gần nhất 740, Lite còn 90, Quality riêng có điều kiện. Các đề xuất tái lập bên dưới là lịch sử, hiện không thực hiện.

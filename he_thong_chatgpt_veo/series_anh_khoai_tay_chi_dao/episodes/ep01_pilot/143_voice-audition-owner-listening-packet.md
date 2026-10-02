@@ -1,5 +1,7 @@
 # Gói nghe chọn giọng Khoai — Bắc, K2/K3/K4
 
+**Kết quả owner mới nhất:** cả chín mẫu bị loại vì owner nghe là giọng nam miền Nam, không đạt yêu cầu nam miền Bắc. Trạng thái OWNER_REJECTED / ACCENT_FAIL; không còn ứng viên để chọn. [Quyết định, lỗi phép thử và hướng sửa — 144](144_owner-rejects-southern-accent-voice-auditions.md). Các mục chờ nghe bên dưới là lịch sử trước phản hồi.
+
 Ngày 2026-10-02. Phạm vi thực hiện theo [142](142_northern-khoai-voice-auditions.md): chín mẫu, cùng TABLE08 và ba trích đoạn thoại, chỉ thay hướng diễn. Đây không phải cảnh hoàn chỉnh và không thay kịch bản 32.
 
 ## Đã xác định / quyết định / giới hạn

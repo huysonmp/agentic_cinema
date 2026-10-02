@@ -46,6 +46,8 @@ Kiểm tiếp 135–136: bỏ thoại và mô tả mùi/chảo, cả ba vẫn c�
 
 ### L-006: truy lỗi cuối chặng theo chuỗi nguồn, không chỉ sửa câu lệnh cuối
 
+Phục hồi tải M01 của 137: mở tab mới cùng URL video theo yêu cầu owner và tải 720p thành công; file có đủ hình/âm thanh, giải mã sạch. Có thể thử tab mới trước khi đề nghị owner tải hộ hoặc tạo lại. Đây là workaround kiểm chứng một lần, chưa xác nhận nguyên nhân tab cũ thất bại; không gán cho cache/token khi chưa có bằng chứng.
+
 Owner yêu cầu ghi kinh nghiệm truy nguyên nhân cốt lõi. Đã lập [quy trình tám bước](02_root-cause-tracing-protocol.md): đóng băng bằng chứng, định nghĩa lỗi, truy phiên bản ngược, lập giả thuyết kèm phản chứng, thử kiểm soát, thêm lại từng lớp, kiểm hồi quy và chốt phạm vi kết luận. Tách nguyên nhân tạo lỗi khỏi nguyên nhân lỗi lọt cổng kiểm. Một workaround không là nguyên nhân đã xác nhận.
 
 [Đối chứng 137](../episodes/ep01_pilot/137_minimal-motion-root-cause-control.md) đã tạo ba mẫu M0, cùng OPEN7, bỏ nhóm mô tả/cấm/diễn tay/thoại; 30 credit. Vì thay nhiều nhóm so với 135, không dùng kết quả để buộc lỗi cho một từ. Tải native chưa được; thumbnail hoặc xem trước nhỏ không đủ để đóng lỗi hơi. Bài học vận hành đã xác định: thông báo tải không thay file hiện hữu; lỗi xuất file cần hồ sơ riêng, không tiêu thêm credit để tái sinh khi chưa chứng minh video hỏng. Hiệu quả M0 vẫn chưa kiểm chứng, không thêm vào công thức thành công.

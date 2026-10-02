@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-02
 
+**Chủ dự án duyệt hướng chuyển động nhẹ B:** [quyết định — 125](episodes/ep01_pilot/125_owner-gentle-motion-direction-approval.md). Tiếp tục phát triển cảnh mở kết hợp từ B; chưa khóa thời lượng 4 giây, toàn cảnh, giọng hoặc điểm nối. Điều kiện đạt Lite trước Quality vẫn giữ, không có media hoặc credit mới trong lượt ghi nhận.
+
 **Đã dựng bản thử cảnh mở local R1:** [kết quả và hướng dẫn xem — 124](episodes/ep01_pilot/124_hybrid-opening-local-probe-r1-and-viewing-guide.md). Hai video 4 giây: khung tĩnh và tiến nhẹ 1,5%, dọc 1080×1920, không tiếng, không credit. Đo file và giải mã sạch; root kiểm ảnh mẫu, chưa kiểm chuyển động liên tục hoặc review độc lập. Chờ chủ dự án đánh giá kiểu chuyển động; chưa chứng minh dẫn mắt món → Khoai hoặc nối thoại, không production PASS. Bản local không thay điều kiện đạt Lite trước Quality.
 
 **Ngân sách Quality có điều kiện đã duyệt:** [quyết định và việc chủ dự án cần xử lý — 122](episodes/ep01_pilot/122_conditional-quality-approval-and-owner-actions.md). Tối đa 100 credit cho một lượt Quality, chỉ sau khi đầu vào, prompt và thử nghiệm tương ứng đạt trên Lite. Chưa chạy Quality; không dùng khoản này để chạy thêm Lite. Không hỏi lại ngân sách đã duyệt.

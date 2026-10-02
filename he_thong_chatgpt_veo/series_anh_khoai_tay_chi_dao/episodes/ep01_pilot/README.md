@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — tuyển giọng Khoai, chờ owner nghe
+
+[148 — mười preset audition](148_ten-voice-auditions-long-short-emotion.md) đã tạo preview và lưu đủ 10 ID, cùng đoạn thử câu dài/câu ngắn/chuyển biểu cảm. Tên actual trở về tên base; dùng bảng ID và chỉ dẫn diễn để phân biệt. Chưa nghiệm thu giọng Bắc hoặc chất lượng diễn, chưa xuất audio riêng, chưa dùng cho video/Quality. Các mục bên dưới là lịch sử, không ghi đè trạng thái này.
+
 ## Cập nhật mới — Codex chịu trách nhiệm tạo refs, OPEN đang rework
 
 [104](104_t2-reference-image-execution-and-owner-responsibility-correction.md) sửa việc giao owner chuẩn bị: root tạo, owner kiểm/chọn. [105](105_t2-reference-image-attempts-and-rework-gate.md) lưu4actual Flow outputs OPEN chưa đạt bố cục hoặc sai nền; chưa END/camera video. Gói giấy101/102 vẫn là intent, không inputs đã hoàn tất. Đề xuất xin quyền công cụ ảnh tích hợp Codex nếu đổi route khỏi Flow; không tự chuyển API/provider. P6 OPEN, shot direction100 giữ approved.

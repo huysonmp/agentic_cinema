@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-03
 
+**Kế hoạch hoàn thiện — [165](episodes/ep01_pilot/165_completion-budget-and-coverage-plan.md):** đã đối soát coverage và tính dự toán, chưa tạo thêm media. Trial 34 không đủ để bảo đảm hoàn thành; nếu owner điều chuyển Quality 100 thì trần là 134. Theo quote lịch sử, 3–4 nhóm audio và 2–3 nhóm hình mới dự toán 114–162; giảm 18 nếu audio ba câu cuối được nghe nghiệm thu/tái dùng. Coverage mở/giữ/kết và số nhóm vẫn có điều kiện, không coi tổng thấp nhất là cam kết. Tiếp manifest timecode và animatic không tiêu credit; điều chuyển ngân sách chưa được duyệt.
+
 **Mới nhất — [164](episodes/ep01_pilot/164_short-reaction-probe.md):** owner duyệt prompt ngắn, cùng nguồn thấp; x3 nhận hai video và một lỗi âm thanh, x1 thay lỗi cũng lỗi. Hai media tải/giải mã sạch nhưng vẫn nâng nem, mở miệng và thêm cử chỉ/gaze, chưa đạt cảnh. Không ghép hoặc chuyển Quality. Chi ròng 20, số dư thực tế 334, khoản thử còn 34; Quality riêng chưa dùng. Chưa đủ ba video, chưa chứng minh nguyên nhân. Đề xuất kế tiếp tách cận phản ứng có continuity rõ, chưa gửi. Các dòng dưới là lịch sử.
 
 **Mới nhất — [163](episodes/ep01_pilot/163_low-hold-reaction-probe.md):** owner duyệt giữ nem thấp/thử phản ứng riêng. V0.1 x3 và x2 thay lỗi tạo được 1 video; V0.2 chỉ bỏ đoạn mô tả âm thanh, x3 tạo được 2 video. Ba media native tải và giải mã sạch, năm lỗi âm thanh không tính phí. V02-03 giữ nem thấp tốt hơn nhưng tự thêm cử chỉ, mở miệng và đổi ánh nhìn, chưa đạt cả cảnh; không ghép hoặc chuyển Quality. Chi ròng 30, số dư thực tế 354, khoản thử còn 54, Quality riêng chưa dùng. Tiếp đề xuất giữ nguồn thấp và thử một nhịp phản ứng bằng prompt ngắn; chưa chứng minh nguyên nhân lỗi hoặc có ba mẫu cùng điều kiện. Các dòng dưới là lịch sử.

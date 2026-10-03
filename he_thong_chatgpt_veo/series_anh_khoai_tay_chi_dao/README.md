@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-03
 
+**Mới nhất — [164](episodes/ep01_pilot/164_short-reaction-probe.md):** owner duyệt prompt ngắn, cùng nguồn thấp; x3 nhận hai video và một lỗi âm thanh, x1 thay lỗi cũng lỗi. Hai media tải/giải mã sạch nhưng vẫn nâng nem, mở miệng và thêm cử chỉ/gaze, chưa đạt cảnh. Không ghép hoặc chuyển Quality. Chi ròng 20, số dư thực tế 334, khoản thử còn 34; Quality riêng chưa dùng. Chưa đủ ba video, chưa chứng minh nguyên nhân. Đề xuất kế tiếp tách cận phản ứng có continuity rõ, chưa gửi. Các dòng dưới là lịch sử.
+
 **Mới nhất — [163](episodes/ep01_pilot/163_low-hold-reaction-probe.md):** owner duyệt giữ nem thấp/thử phản ứng riêng. V0.1 x3 và x2 thay lỗi tạo được 1 video; V0.2 chỉ bỏ đoạn mô tả âm thanh, x3 tạo được 2 video. Ba media native tải và giải mã sạch, năm lỗi âm thanh không tính phí. V02-03 giữ nem thấp tốt hơn nhưng tự thêm cử chỉ, mở miệng và đổi ánh nhìn, chưa đạt cả cảnh; không ghép hoặc chuyển Quality. Chi ròng 30, số dư thực tế 354, khoản thử còn 54, Quality riêng chưa dùng. Tiếp đề xuất giữ nguồn thấp và thử một nhịp phản ứng bằng prompt ngắn; chưa chứng minh nguyên nhân lỗi hoặc có ba mẫu cùng điều kiện. Các dòng dưới là lịch sử.
 
 **Mới nhất — [162](episodes/ep01_pilot/162_multivariable-matrix.md):** owner duyệt ma trận A–D x3, đã gửi 12 + 5 lần thay lỗi âm thanh. A3/B3/C1 tải và giải mã sạch nhưng chưa qua gate diễn; D chưa có video để chấm. Tổng 10 lỗi âm thanh không tính phí, không xếp lỗi công cụ thành fail hình. Ròng70, số dư actual384, trial còn84, Quality riêng chưa dùng. Không chọn/ghép bản lỗi; ma trận chưa đủ mẫu C/D. Tiếp cần kiểm cách tạo không âm thanh hoặc duyệt probe nguồn giữ nem xa mặt, không tuyên bố kết luận nhân quả. Các dòng dưới là lịch sử.

@@ -1,5 +1,11 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — vòng 164: prompt ngắn chưa kiểm soát được diễn
+
+Cùng START/END thấp, prompt ngắn vẫn tạo hành động nâng nem/mở miệng ở hai mẫu nhận được và Đào thêm cử chỉ/gaze. Không coi việc viết gọn hơn là cải tiến đã được chứng minh. Ghi cả hai mẫu loại và hai lỗi âm thanh; bốn yêu cầu chỉ nhận hai media, chưa đủ bộ ba video. Chi ròng 20, khoản thử còn 34. Seed chưa kiểm soát nên không kết luận nguyên nhân nhân quả từ so sánh với 163.
+
+Gate động tác đã fail rõ từ grid toàn clip và dày đoạn đầu; không cần dùng ngân sách ghép giọng/Quality để kiểm lại lỗi hình đã biết. Bước thử tiếp cần đổi cách phân công diễn giữa các shot, kèm kiểm nối cảnh; cận phản ứng không thay thế việc xác minh shot tay và không biến clip cũ thành PASS. Lưu preflight, prompt nguyên văn, ID, tệp native, credit và kết quả trong tài liệu 164. Picker có lần tự đóng sau chọn END; khi nút Thêm không còn, kiểm state khung đã gắn thay vì click mù. Khôi phục x3 sau lượt thay lỗi x1.
+
 ## 2026-10-03 — probe 163: tiến bộ bộ phận không phải đạt cả cảnh
 
 Nguồn nem thấp +END phản ứng mới: một mẫu V02-03 giữ nem thấp, nhưng model thêm gesture/mở miệng/gaze. Ghi nhận tiến bộ riêng hành động, không hạ gate để biến thành PASS toàn cảnh. R02 nâng và mở miệng không đồng nghĩa đã cắn: kiểm36 frame đầu cho thấy gap, phải tách observed khỏi kết luận ăn. Pose thấp một mình chưa đủ ổn định.

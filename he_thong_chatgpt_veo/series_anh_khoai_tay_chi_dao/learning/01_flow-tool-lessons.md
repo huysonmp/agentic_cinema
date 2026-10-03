@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — vòng166: dựng coverage trước khi tin dự toán thấp
+
+Animatic30s bằng nguồn sẵn có bộc lộ27,5s ảnh tạm, không phải video dùng được. Chỉ số lượng/thời lượng file không đo coverage production. C01 chọn2,75–5,25s, không tua nhanh/lặp; nguồn tĩnh jump framing/pose phải ghi thiếu thay vì che bằng cắt. Forecast114 ở165 phụ thuộc tái dùng mở/kết, chưa kiểm chứng nên phải cập nhật144–162 cho ít nhất ba nhóm hình và3–4 nhóm audio, trước dự phòng. Audio cuối nếu nghe đạt mới giảm18. Không tự chuyển sang ảnh–video hay đổi quyền Quality để khớp ngân sách. Dựng local0credit vẫn chưa là nghiệm thu; lời/ASR đúng không chứng minh voice identity/miền Bắc/lip-sync.
+
 ## 2026-10-03 — vòng 164: prompt ngắn chưa kiểm soát được diễn
 
 Cùng START/END thấp, prompt ngắn vẫn tạo hành động nâng nem/mở miệng ở hai mẫu nhận được và Đào thêm cử chỉ/gaze. Không coi việc viết gọn hơn là cải tiến đã được chứng minh. Ghi cả hai mẫu loại và hai lỗi âm thanh; bốn yêu cầu chỉ nhận hai media, chưa đủ bộ ba video. Chi ròng 20, khoản thử còn 34. Seed chưa kiểm soát nên không kết luận nguyên nhân nhân quả từ so sánh với 163.

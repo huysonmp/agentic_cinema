@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-03
 
+**Mới nhất — [166](episodes/ep01_pilot/166_local-animatic-and-coverage-audit.md):** đã xuất bản nháp30s local, manifest và ba WAV cuối để nghe; chi0credit. Có2,5s C01 và27,5s ảnh tạm, đầu22s chưa có giọng; không phải bản bàn giao. Coverage mở/giữ/kết trong dự toán114 chưa xác nhận; giữ chuyển động dự kiến144–162 trước dự phòng, trừ18 nếu audio cuối được duyệt. Chủ ý ảnh–video có thể giảm một nhóm hình nhưng cần owner duyệt hình thức. Trial34/Quality100 chưa điều chuyển, không generation. Tiếp owner xem nháp và nghe audio cuối để khóa coverage/budget.
+
 **Kế hoạch hoàn thiện — [165](episodes/ep01_pilot/165_completion-budget-and-coverage-plan.md):** đã đối soát coverage và tính dự toán, chưa tạo thêm media. Trial 34 không đủ để bảo đảm hoàn thành; nếu owner điều chuyển Quality 100 thì trần là 134. Theo quote lịch sử, 3–4 nhóm audio và 2–3 nhóm hình mới dự toán 114–162; giảm 18 nếu audio ba câu cuối được nghe nghiệm thu/tái dùng. Coverage mở/giữ/kết và số nhóm vẫn có điều kiện, không coi tổng thấp nhất là cam kết. Tiếp manifest timecode và animatic không tiêu credit; điều chuyển ngân sách chưa được duyệt.
 
 **Mới nhất — [164](episodes/ep01_pilot/164_short-reaction-probe.md):** owner duyệt prompt ngắn, cùng nguồn thấp; x3 nhận hai video và một lỗi âm thanh, x1 thay lỗi cũng lỗi. Hai media tải/giải mã sạch nhưng vẫn nâng nem, mở miệng và thêm cử chỉ/gaze, chưa đạt cảnh. Không ghép hoặc chuyển Quality. Chi ròng 20, số dư thực tế 334, khoản thử còn 34; Quality riêng chưa dùng. Chưa đủ ba video, chưa chứng minh nguyên nhân. Đề xuất kế tiếp tách cận phản ứng có continuity rõ, chưa gửi. Các dòng dưới là lịch sử.

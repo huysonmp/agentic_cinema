@@ -15,7 +15,7 @@ START dựng từ source `161_source_retest/START_short_tuft_v0.1.png`; END sử
 
 ## Review hình actual
 
-- START: Đào nhìn xuống/phải, môi khép, giữ quả đào/crèase/cuống/lá; áo kem và nơ hồng, cốc góc dưới phải; Khoai là mép má vàng/vai áo tối ở tiền cảnh trái. END: nhìn lên/trái về Khoai, nét cười kín, môi khép; thân/áo/nơ/cốc/nền tương đối nhất quán. Không thấy thêm chữ hoặc đạo cụ mới rõ rệt.
+- START: Đào nhìn xuống/phải, môi khép, giữ hình quả đào, rãnh quả, cuống và lá; áo kem và nơ hồng, cốc góc dưới phải; Khoai là mép má vàng/vai áo tối ở tiền cảnh trái. END: nhìn lên/trái về Khoai, nét cười kín, môi khép; thân/áo/nơ/cốc/nền tương đối nhất quán. Không thấy thêm chữ hoặc đạo cụ mới rõ rệt.
 - Đây là tái dựng góc cận, không crop chứng minh cảnh wide cũ đã hết lỗi. Khuôn mặt có thay đổi phối cảnh theo hướng đầu; phải kiểm identity qua chuyển động actual, không chứng nhận pixel-identical từ hai ảnh.
 - Không thấy tay/món/miệng Khoai là lựa chọn coverage phản ứng, không phải gate PASS cho gắp/nâng/ăn. START/END này không kiểm chính xác món do món ngoài shot.
 - Camera giả định vẫn giữ địa lý Khoai trái/Đào phải; cần nhìn bản dựng nối wide/cận để xác nhận eyeline, khoảng cách và trục máy, không suy trục đã chuẩn chỉ từ prompt.

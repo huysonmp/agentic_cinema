@@ -1,4 +1,5 @@
 """Render a labelled 30s planning animatic from existing local media only."""
+import argparse
 import hashlib
 import json
 import subprocess
@@ -8,8 +9,29 @@ ROOT = Path(__file__).resolve().parents[1]
 FF = ROOT / '.local-tools/ffmpeg/verified-9.0.2/ffmpeg-9.0.2-essentials_build/bin/ffmpeg.exe'
 FP = FF.with_name('ffprobe.exe')
 MEDIA = Path('C:/Users/PC/Downloads/du_an_nem_bui')
-OUT = MEDIA / '166_completion_animatic'
-OUT.mkdir(exist_ok=True)
+parser = argparse.ArgumentParser()
+parser.add_argument('--out', type=Path, default=MEDIA / '166_completion_animatic')
+parser.add_argument('--reaction', type=Path)
+parser.add_argument('--reaction-in', type=float, default=0)
+parser.add_argument('--voice-owner-approved', action='store_true')
+parser.add_argument('--version', choices=['v0.1', 'v0.2'], default='v0.1')
+opts = parser.parse_args()
+OUT = opts.out
+if OUT.exists() and any(OUT.iterdir()):
+    parser.error('Output folder must be empty; preserve existing renders and manifests.')
+if opts.reaction_in < 0:
+    parser.error('--reaction-in must be non-negative.')
+if opts.reaction:
+    if not opts.reaction.is_file():
+        parser.error('Reaction input file does not exist.')
+    duration = float(subprocess.check_output([
+        str(FP), '-v', 'error', '-show_entries', 'format=duration',
+        '-of', 'default=noprint_wrappers=1:nokey=1', str(opts.reaction),
+    ], text=True))
+    if opts.reaction_in + 2 > duration:
+        parser.error('Reaction selection must contain a full two seconds.')
+OUT.mkdir(parents=True, exist_ok=True)
+MASTER = OUT / f'EP01_30s_PLANNING_{opts.version}.mp4'
 OPEN = MEDIA / 'T2-CODEX-OPEN_v0.7.png'
 START = MEDIA / '161_source_retest/START_short_tuft_v0.1.png'
 END = MEDIA / '163_low-hold-reaction/END_low_reaction_v0.1.png'
@@ -36,6 +58,10 @@ shots = [
     ('S08', 24.6, 2.4, END, None, 'THIẾU CẢNH: chuyển nem vào bát Đào'),
     ('S09', 27, 3, OPEN, None, 'THIẾU CẢNH: nhận món / gắp miếng khác'),
 ]
+if opts.reaction:
+    shots[5] = ('S06', 20, 2, opts.reaction, opts.reaction_in, 'THỬ PHẢN ỨNG: vẫn thiếu nâng-khựng')
+if opts.voice_owner_approved:
+    shots[6] = ('S07', 22, 2.6, END, None, 'ẢNH TẠM: audio owner duyệt tái dùng')
 captions = [
     (0, 3, 'Đào: Anh nhìn mãi.\nKhông hợp thì để em.'),
     (3, 6.5, 'Khoai: Khoan. Mùi này\nlàm anh nhớ cái chảo.'),
@@ -75,13 +101,14 @@ for name, begin, duration, source, seek, label in shots:
 
 concat = OUT / 'concat.txt'
 concat.write_text('\n'.join("file '" + p.as_posix() + "'" for p in parts), encoding='utf-8')
-run(['-f', 'concat', '-safe', '0', '-i', str(concat), '-i', str(VOICE), '-filter_complex', '[1:a]atrim=0:8,asetpts=PTS-STARTPTS,adelay=22000:all=1,apad=whole_dur=30[a]', '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-t', '30', '-movflags', '+faststart', str(OUT/'EP01_30s_PLANNING_v0.1.mp4')])
-run(['-i', str(VOICE), '-vn', '-c:a', 'pcm_s16le', str(OUT/'closing_voice_R01_UNAPPROVED.wav')])
+run(['-f', 'concat', '-safe', '0', '-i', str(concat), '-i', str(VOICE), '-filter_complex', '[1:a]atrim=0:8,asetpts=PTS-STARTPTS,adelay=22000:all=1,apad=whole_dur=30[a]', '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-t', '30', '-movflags', '+faststart', str(MASTER)])
+voice_suffix = 'OWNER_REUSE_APPROVED' if opts.voice_owner_approved else 'UNAPPROVED'
+run(['-i', str(VOICE), '-vn', '-c:a', 'pcm_s16le', str(OUT/f'closing_voice_R01_{voice_suffix}.wav')])
 for sample in ('R02', 'R03'):
     run(['-i', str(VOICE.with_name(sample+'.mp4')), '-vn', '-c:a', 'pcm_s16le', str(OUT/f'closing_voice_{sample}_UNAPPROVED.wav')])
-run(['-i', str(OUT/'EP01_30s_PLANNING_v0.1.mp4'), '-vf', 'fps=1/2,scale=180:320,tile=5x3', '-frames:v', '1', str(OUT/'animatic-contact.png')])
-run(['-i', str(OUT/'EP01_30s_PLANNING_v0.1.mp4'), '-f', 'null', 'NUL'])
-metadata = json.loads(subprocess.check_output([str(FP), '-v', 'error', '-show_format', '-show_streams', '-of', 'json', str(OUT/'EP01_30s_PLANNING_v0.1.mp4')], text=True))
-report = {'status': 'PLANNING_NOT_DELIVERY', 'credit_spend': 0, 'voice_status': 'UNAPPROVED_NO_ACCENT_OR_IDENTITY_VERIFICATION', 'silent_until_seconds': 22, 'shots': manifest, 'captions': captions, 'output_metadata': metadata}
+run(['-i', str(MASTER), '-vf', 'fps=1/2,scale=180:320,tile=5x3', '-frames:v', '1', str(OUT/'animatic-contact.png')])
+run(['-i', str(MASTER), '-f', 'null', 'NUL'])
+metadata = json.loads(subprocess.check_output([str(FP), '-v', 'error', '-show_format', '-show_streams', '-of', 'json', str(MASTER)], text=True))
+report = {'status': 'PLANNING_NOT_DELIVERY', 'local_render_credit_spend': 0, 'voice_status': 'OWNER_REUSE_APPROVED_NOT_INDEPENDENT_EAR_QC' if opts.voice_owner_approved else 'UNAPPROVED_NO_ACCENT_OR_IDENTITY_VERIFICATION', 'silent_until_seconds': 22, 'shots': manifest, 'captions': captions, 'output_metadata': metadata}
 (OUT/'manifest.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
-print(json.dumps({'output': str(OUT/'EP01_30s_PLANNING_v0.1.mp4'), 'duration': metadata['format']['duration'], 'bytes': metadata['format']['size'], 'shots': len(manifest)}, ensure_ascii=False))
+print(json.dumps({'output': str(MASTER), 'duration': metadata['format']['duration'], 'bytes': metadata['format']['size'], 'shots': len(manifest)}, ensure_ascii=False))

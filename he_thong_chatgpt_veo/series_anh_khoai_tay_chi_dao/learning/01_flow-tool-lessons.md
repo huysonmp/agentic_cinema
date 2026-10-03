@@ -1,5 +1,15 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — vòng 168–169: công tắc trả video và diễn câm
+
+Owner chỉ đúng menu Cài đặt lưới ô. `Trả về video không có âm thanh` khác với âm thanh khi di chuột, mute playback và câu “no dialogue” trong prompt. Bổ sung kiểm công tắc này vào preflight, bên cạnh model/giá/khung/aspect. Không kết luận trạng thái trước đó tắt khi chỉ có snapshot sau shortcut ở thẻ lỗi.
+
+Bộ 169 nhận đủ ba file; ffprobe xác nhận hai không có audio stream, một có AAC. Do đó không gọi đây là chế độ tắt tạo tiếng bắt buộc cho mọi đầu ra. Chỉ xác nhận trong bộ này đã trả được hai video không có tiếng thay vì loại chúng do không có audio. Chưa chứng minh tránh mọi lỗi âm thanh. Video không tiếng vẫn tự mở miệng và thêm cử chỉ; kiểm giao nhận media và kiểm diễn là hai gate riêng.
+
+Tải native trên tab mới đúng asset vẫn là workaround có bằng chứng: nhận đủ file 168 và 169, không sinh video mới chỉ để chữa tải. Toast không là bằng chứng giao file. Đối chiếu ID → filename → hash → ffprobe/decode → kiểm hình trước báo đã bàn giao. Grid cách 0,5 giây đủ thấy lỗi để loại toàn clip; nếu cứu một đoạn phải kiểm dày đoạn đó và điểm nối, không lấy vài khung đẹp làm PASS. Bản đối chiếu 169 tắt tiếng riêng để xem hình; N02 gốc có audio vẫn giữ.
+
+Chủ dự án duyệt điều chuyển ngân sách Quality sang hoàn thiện và audio cuối: ghi đúng phạm vi, không gán independent-ear-QC hoặc lip-sync PASS. Khoản điều chuyển không được đếm hai lần. Khi bộ phản ứng vẫn fail, giữ ngân sách còn 94, cập nhật coverage và không tự chi hết để lặp cùng lỗi. Chi tiết tại 168–169; không phải tuyên bố đã tìm ra nguyên nhân gốc của diễn tự phát.
+
 ## 2026-10-03 — vòng167: tách coverage mà không bỏ gate
 
 Cận Đào giữ vai/má Khoai ở mép trái làm mốc eyeline, START nhìn xuống cốc/phải, END nhìn lên Khoai/trái. Hai khung có pose tương đối nhất quán nhưng chưa có chuyển động actual. Tách phản ứng khỏi tay không chứng minh tay/nem đã đúng; giữ thiếu nâng-khựng và chuyển-nhận rõ trên bảng continuity. Không gọi tái dựng camera là crop sửa clip lỗi. Khi budget chặt, quyền điều chuyển100 Quality và nghiệm thu audio cần hỏi riêng, không suy rộng một “ok” chung thành cả hai; không chi hết34 còn lại vào một bộ chỉ vì kỹ thuật có thể gửi.

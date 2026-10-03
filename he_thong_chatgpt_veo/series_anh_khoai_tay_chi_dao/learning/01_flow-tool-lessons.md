@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — vòng167: tách coverage mà không bỏ gate
+
+Cận Đào giữ vai/má Khoai ở mép trái làm mốc eyeline, START nhìn xuống cốc/phải, END nhìn lên Khoai/trái. Hai khung có pose tương đối nhất quán nhưng chưa có chuyển động actual. Tách phản ứng khỏi tay không chứng minh tay/nem đã đúng; giữ thiếu nâng-khựng và chuyển-nhận rõ trên bảng continuity. Không gọi tái dựng camera là crop sửa clip lỗi. Khi budget chặt, quyền điều chuyển100 Quality và nghiệm thu audio cần hỏi riêng, không suy rộng một “ok” chung thành cả hai; không chi hết34 còn lại vào một bộ chỉ vì kỹ thuật có thể gửi.
+
 ## 2026-10-03 — vòng166: dựng coverage trước khi tin dự toán thấp
 
 Animatic30s bằng nguồn sẵn có bộc lộ27,5s ảnh tạm, không phải video dùng được. Chỉ số lượng/thời lượng file không đo coverage production. C01 chọn2,75–5,25s, không tua nhanh/lặp; nguồn tĩnh jump framing/pose phải ghi thiếu thay vì che bằng cắt. Forecast114 ở165 phụ thuộc tái dùng mở/kết, chưa kiểm chứng nên phải cập nhật144–162 cho ít nhất ba nhóm hình và3–4 nhóm audio, trước dự phòng. Audio cuối nếu nghe đạt mới giảm18. Không tự chuyển sang ảnh–video hay đổi quyền Quality để khớp ngân sách. Dựng local0credit vẫn chưa là nghiệm thu; lời/ASR đúng không chứng minh voice identity/miền Bắc/lip-sync.

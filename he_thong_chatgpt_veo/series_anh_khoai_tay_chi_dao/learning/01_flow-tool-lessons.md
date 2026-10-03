@@ -1,5 +1,13 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — probe 163: tiến bộ bộ phận không phải đạt cả cảnh
+
+Nguồn nem thấp +END phản ứng mới: một mẫu V02-03 giữ nem thấp, nhưng model thêm gesture/mở miệng/gaze. Ghi nhận tiến bộ riêng hành động, không hạ gate để biến thành PASS toàn cảnh. R02 nâng và mở miệng không đồng nghĩa đã cắn: kiểm36 frame đầu cho thấy gap, phải tách observed khỏi kết luận ăn. Pose thấp một mình chưa đủ ổn định.
+
+V0.1 tạo được 1/3 video ban đầu và 0/2 video thay lỗi; V0.2 bỏ đúng đoạn mô tả âm thanh, tạo được 2/3 video. Không gộp thành bộ ba cùng điều kiện và không chứng minh nguyên nhân lỗi âm thanh từ tỷ lệ nhỏ. Flow Help giải thích chung lỗi chất lượng âm thanh có thể chặn video và hoàn credit, khuyến nghị thử lại/đổi prompt; không tìm thấy nút tắt âm thanh trong panel Lite. Xem nguồn trong tài liệu 163. Tám yêu cầu, ba video, chi ròng 30, khoản thử còn 54.
+
+Editor phiên này không có DOM `video`, nên `downloadMedia` không áp dụng; native menu720p tạo toast và file thật. Lưu filename/ID, kiểm Downloads và decode trước ghi đã tải. Footer Omni editing không phải model generation Lite. Hành vi công cụ có thể đổi giữa phiên; không tự gọi workaround trước là cách tải duy nhất.
+
 ## 2026-10-03 — ma trận thực dụng 162 và lỗi âm thanh
 
 Làm đa phương án để sàng lọc nhanh, nhưng đổi cách dựng cũng đổi nhiệm vụ/khung nguồn nên không gọi factorial nhân quả. A/B có ba mẫu, C chỉ một, D không có hình dù thử lại lỗi: thiếu dữ liệu phải báo thiếu, không chấm lỗi render như lỗi diễn. Không cho tách nhịp prompt hoặc tư thế END đẹp tự vượt gate quỹ đạo. Ghi cả mẫu kém, không chỉ mẫu tốt.

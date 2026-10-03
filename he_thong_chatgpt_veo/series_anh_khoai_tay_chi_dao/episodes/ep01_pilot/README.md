@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — hoàn thiện tuần tự, chờ hai xác nhận
+
+[170 — thoại đầu và đối soát](170_sequential-completion-and-opening-voices.md): đã có A03/B01–B03 tải/full decode; hình chưa đạt, audio chờ nghe. Còn67 được phép chi (actual267), chưa đủ dự toán tối thiểu ba cụm hình90. Đã trình cấp thêm tối đa90 và nghe A03/B01, chưa nhận quyết định. Giữ script32/K20/D06/chuyển động, không bàn giao ảnh tạm như video cuối. Các mục dưới là lịch sử.
+
 ## Hiện hành — cặp giọng đã được owner chọn
 
 [152 — approval cặp giọng](152_owner-selected-voice-pair-k20-d06.md): **Khoai K20 / Orus tuỳ chỉnh; Đào D06 / Aoede tuỳ chỉnh**. Tuyển giọng đã có quyết định owner, không còn chờ chọn Đào. Chưa nghiệm thu đối thoại/lời dài hoặc tích hợp video, chưa mở Quality từ approval này. Các trạng thái chờ chọn bên dưới là lịch sử.

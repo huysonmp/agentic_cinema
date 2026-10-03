@@ -1,5 +1,15 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-03 — vòng170: thoại đầu, quote theo thời lượng và gate nghe
+
+Omni360p x3/8s quote18; x3/10s quote21. Hai lượt A bị chặn chính sách không tính phí, một A thành công; B đủ ba. Đối soát294→267 mới chốt ròng27, không trừ39 theo quote rồi bỏ qua refund. Không gọi Omni là Lite. Cảnh báo bộ lọc không tự chứng minh câu chuyện có nội dung gây hại; không retry mù hoặc vượt lọc. Chưa truy được nguyên nhân từ một từ hay ảnh nguồn.
+
+Picker có thể thêm ngay khi chọn option và đóng, không còn nút thêm; đọc chip trước click lại. Search preset phải đúng tab Giọng nói, phân biệt cùng base theo performance/ID, không chỉ tên. Reuse trong edit điền ô sửa, không tự chuyển sang project composer. Sau generation inputs/prompt có thể bị xóa, luôn preflight lại.
+
+Native360p tải tab mới đủ bốn file, decode sạch; giữ filename→ID→hash và WAV PCM48k stereo gốc. ASR offline không initial prompt chỉ là evidence, khác từ phải nghe, không sửa transcript để tạo PASS. B01 peak0dBFS và4 mẫu PCM chạm biên chưa chứng minh nghe thấy clipping. Không cấp chứng nhận accent/diễn/speaker/lip-sync từ ASR hoặc ảnh miệng mở. Hình đổi mặt/food bị loại dù audio có đủ lượt lời.
+
+Ngân sách thiếu coverage phải báo lúc phát hiện: còn67, tối thiểu ba bộ hình90 chưa kể dự phòng. Xin thêm tối đa90 không đồng nghĩa đã được duyệt; quyền làm tuần tự đến cuối không tự mở ngân sách, đổi script hoặc hạ tiêu chuẩn thành ảnh tạm.
+
 ## 2026-10-03 — vòng 168–169: công tắc trả video và diễn câm
 
 Owner chỉ đúng menu Cài đặt lưới ô. `Trả về video không có âm thanh` khác với âm thanh khi di chuột, mute playback và câu “no dialogue” trong prompt. Bổ sung kiểm công tắc này vào preflight, bên cạnh model/giá/khung/aspect. Không kết luận trạng thái trước đó tắt khi chỉ có snapshot sau shortcut ở thẻ lỗi.

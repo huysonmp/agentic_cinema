@@ -1,5 +1,7 @@
 # 171 — Truy nguyên nhân giọng Khoai khác K20 đã chọn
 
+**Kiểm tích hợp tiếp nối — [175](175_k20-d06-dialogue-integration.md):** đã chạy ba mẫu K20–D06 với lời thật sau owner duyệt, đầu vào UI có ảnh và hai token đúng ID. Cả ba tải và giải mã được; nghe cặp giọng còn chờ owner. Đây không phải phép thử nhân quả đơn biến nên không đóng RCA cơ chế giọng lệch 170. Không suy hình lệch của một mẫu chứng minh nguồn giọng không được dùng.
+
 **Bằng chứng tiếp nối — 174:** owner tạm chấp nhận cả ba control173 có input đã kiểm. Giữ K20 làm baseline tích hợp; chưa chứng minh nguyên nhân sai giọng170 hoặc từng biện pháp là nguyên nhân khắc phục. RCA về cơ chế sinh vẫn mở.172 không được dùng làm control hợp lệ.
 
 Ngày2026-10-04. Yêu cầu chẩn đoán, không tạo media hoặc tiêu credit. Trạng thái **PROCESS_GAPS_CONFIRMED / GENERATION_CAUSE_UNRESOLVED**; chưa đóng RCA.

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-04",
+  "approval": "Owner replied ok to three B dialogue tests capped at 21 credits from remaining 25",
+  "project_id": "9276788e-9781-44fb-ba5b-083006667374",
+  "model": "Omni 1.1 Flash",
+  "route": "Ingredients",
+  "resolution": "360p",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 10,
+  "outputs": 3,
+  "quoted_credits": 21,
+  "authorized_cap": 21,
+  "project_remaining_before": 25,
+  "account_before": 317,
+  "account_snapshot_173": 275,
+  "account_delta_unexplained": 42,
+  "image_id": "43057def-574c-4ca7-916c-d55083f9b670",
+  "voices": [
+    {"character": "Khoai", "preset": "K20 custom Orus", "id": "fb1188da-e6c8-4156-9bba-0576c01a8da6", "token_type": "audio"},
+    {"character": "Dao", "preset": "D06 custom Aoede", "id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352", "token_type": "audio"}
+  ],
+  "component_count": 3,
+  "component_error_icons": false,
+  "scope": "Dialogue integration test only; not production visual approval or single-variable RCA",
+  "final_screenshot_viewed": true,
+  "settings_screenshot_viewed": true,
+  "input_changed_after_final_check": false,
+  "submit_count": 1,
+  "status": "SUBMITTED"
+}

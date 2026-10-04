@@ -2,6 +2,8 @@
 
 Ngày ghi nhận: 2026-10-04. Phản hồi trực tiếp của owner: “ca 3 đều tạm chấp nhận được rồi đấy”. Đối tượng: R01/R02/R03 của bộ 173 vừa trình nghe, không phải bộ 172 sai đầu vào.
 
+**Tiếp nối — [175](175_k20-d06-dialogue-integration.md):** owner trả lời “ok” để duyệt lượt cụm B x3 tối đa 21 credit. Đã thực hiện và bàn giao ba mẫu, chờ nghe duyệt cặp thoại; ngân sách còn 4 credit. Đề xuất chưa duyệt dưới đây giữ làm lịch sử ở thời điểm ghi nhận 174, không phải trạng thái hiện hành.
+
 ## Quyết định đã ghi nhận
 
 **OWNER_PROVISIONAL_VOICE_ACCEPTANCE — R01, R02, R03.** Cả ba được tạm chấp nhận về giọng trong phạm vi đối chứng một người nói, cùng câu audition. Không ép owner chọn winner khi cả ba đều dùng để đối chiếu. Giữ K20 Orus tùy chỉnh và D06 Aoede đã chọn; không tuyển lại hoặc sửa preset.

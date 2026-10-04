@@ -51,3 +51,11 @@ Bấm chip compose để kiểm ảnh đã gỡ ảnh OPEN7, làm bộ172 không
 Bộ173 áp dụng lại sau owner duyệt: đọc chip bằng DOM không click, xác minh ảnh OPEN7 và token K20, xem screenshot cuối rồi submit không đổi compose. Nhận ba media và WAV PCM khớp. Biện pháp ngăn mất input đã được thực thi trong bộ173; chưa đồng nghĩa voice/reference output đạt. Giữ gate nghe và RCA mở đến khi có bằng chứng phân biệt nguyên nhân.
 
 Owner tạm chấp nhận cả ba tại174. Ghi đúng mức provisional acceptance, không nâng thành giống hệt hoặc production PASS. Ba mẫu cùng bộ được chấp nhận cho phép dùng làm baseline bước tích hợp; không chứng minh yếu tố nào khắc phục170 hoặc ổn định ở mọi lời/cặp thoại. Giữ tách lỗi thao tác172, khả năng dùng173 và nguyên nhân170.
+
+## 8. Bổ sung 2026-10-04 — kiểm tích hợp lời thật ở bộ 175
+
+Sau duyệt mẫu đối chứng, chuyển sang lời thật và hai giọng phải ghi là kiểm tích hợp, không gọi thử nhân quả đơn biến. Mô tả diễn gắn với câu thử cũ không được đọc thành lời mới; chuyển nhịp diễn sang các câu đã duyệt, giữ preset/ID và lưu nguyên prompt mới. Kiểm cuối phải có ảnh + hai giọng + token vai tương ứng, báo giá thực và screenshot đã xem; không đổi ô nhập sau kiểm.
+
+Bộ 175 tải được đủ ba MP4 bằng menu 360p gốc trong tab tải riêng; kiểm file thực và full decode trước bàn giao, đóng tab tải khi hoàn tất. WAV 48 kHz stereo PCM16bit giữ tốc độ/gain, kiểm hash PCM bằng bản MP4. File 16 kHz mono phục vụ ASR không dùng thay bản nghe của owner.
+
+ASR cả ba nhận khác “nem/chảo/rang”; đây là chỉ điểm nghe lại, không tự chứng nhận giọng miền Nam hoặc phát âm sai. ASR gộp hai câu khác vai không chứng minh lẫn người nói. Kiểm hình thưa phát hiện B02 đổi món và B03 mất trang phục; không nhập voice gate với visual gate, không gọi file giải mã sạch là cảnh đạt. Số dư tài khoản thay đổi giữa các phiên không tự tăng ngân sách được duyệt; chi bộ 175 là 21, quyền chi còn 4.

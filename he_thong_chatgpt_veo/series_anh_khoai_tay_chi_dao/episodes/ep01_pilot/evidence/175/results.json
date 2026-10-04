@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-04",
+  "status": "THREE_NATIVE_DECODED_OWNER_PAIR_LISTENING_PENDING",
+  "account_before": 317,
+  "account_after": 296,
+  "actual_credits_spent": 21,
+  "project_spent": 130,
+  "project_cap": 134,
+  "project_remaining": 4,
+  "account_delta_vs_173_unexplained": 42,
+  "independent_audio_listening_by_root": false,
+  "asr_method": "faster-whisper small CPU int8 offline Vietnamese; no initial prompt",
+  "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/175_k20_d06_dialogue",
+  "media": [
+    {
+      "label": "B01",
+      "id": "bc58ddf3-d3d2-49c4-9c35-08de5ec304f4",
+      "native_filename": "Characters_performing_dialogue_d…_20261004210337.mp4",
+      "bytes": 982924,
+      "mp4_sha256": "659316e30099b1e326e02d7175e1b66b1f9db2edb60299cc8e4cb060856685fd",
+      "mp4_wav_pcm_sha256": "2f447eb2b1ee7514f0ef142a9f7ad96c514c319a3f32c0e0282a6238c33ee562",
+      "full_decode": "PASS",
+      "voice_review": "OWNER_PENDING",
+      "visual_review": "SAMPLED_ONLY_NOT_APPROVED"
+    },
+    {
+      "label": "B02",
+      "id": "d2c0b8fe-2cb1-42ba-abb2-f039a8aee1c9",
+      "native_filename": "Characters_performing_dialogue_d…_20261004210404.mp4",
+      "bytes": 966995,
+      "mp4_sha256": "4e3570adac9b469f59ff78481817de228daed10e48efd81b0297c44143dde93e",
+      "mp4_wav_pcm_sha256": "c7d216f2ea9d18a2f3bde13c744bc6bfe6b76729639149b1718f7d0684118a0d",
+      "full_decode": "PASS",
+      "voice_review": "OWNER_PENDING",
+      "visual_review": "REWORK_CHANGED_DISHES"
+    },
+    {
+      "label": "B03",
+      "id": "98635e9b-a597-439c-a889-6f33e0c58ce3",
+      "native_filename": "Characters_performing_dialogue_d…_20261004210427.mp4",
+      "bytes": 854515,
+      "mp4_sha256": "d1a1dddd9fe5283f149dd89416938cd0a77f5c15993823b07cf866a7b058ab84",
+      "mp4_wav_pcm_sha256": "41314788fe85ab8855a0eb2f7a16acf51d9a6246c9672f38efb321ef51cd8a9e",
+      "full_decode": "PASS",
+      "voice_review": "OWNER_PENDING",
+      "visual_review": "REWORK_KHOAI_CLOTHING_AND_TABLE_LAYOUT"
+    }
+  ]
+}

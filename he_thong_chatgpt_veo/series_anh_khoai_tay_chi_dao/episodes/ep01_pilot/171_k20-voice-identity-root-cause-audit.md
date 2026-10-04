@@ -2,6 +2,8 @@
 
 Ngày2026-10-04. Yêu cầu chẩn đoán, không tạo media hoặc tiêu credit. Trạng thái **PROCESS_GAPS_CONFIRMED / GENERATION_CAUSE_UNRESOLVED**; chưa đóng RCA.
 
+**Diễn biến sau171:** owner duyệt control21 tại [172](172_k20-single-speaker-control.md). Bộ đã tạo nhưng root gỡ OPEN7 trong preflight, **INVALID_CONTROL**; không dùng bộ này đóng RCA hoặc chứng minh H1–H4.172 xác nhận lỗi thao tác ở chính bộ172, không quy ngược170. Số dư/quyền chi hiện hành xem172, không dùng snapshot dưới làm hiện hành.
+
 ## 1. Lỗi và chuẩn đối chiếu
 
 Owner nhận xét giọng nam không giống giọng đã chọn khi nghe gói mở đầu170. Ghi **OWNER_REPORTED_IDENTITY_MISMATCH** cho A03/B01 đang trình nghe; chưa đủ thông tin để quy riêng accent, cao độ, cộng hưởng hoặc một từ. B02/B03 chưa có verdict nghe riêng. Không thu hồi giọng Đào hoặc audio cuối R01 theo suy diễn.

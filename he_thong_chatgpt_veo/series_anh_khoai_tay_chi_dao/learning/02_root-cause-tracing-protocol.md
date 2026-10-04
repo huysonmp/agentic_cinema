@@ -43,3 +43,7 @@ Lỗi quy trình đã thấy: dồn nội dung checklist vào prompt và thiếu
 ## 6. Bổ sung2026-10-04 — giọng K20 khác audition
 
 Hồ sơ171: phải tách selection approval khỏi integration PASS; thư viện đúng preset chưa chứng minh request video dùng đúng exact nguồn hoặc bảo toàn identity. Đối chiếu PCM loại trừ extraction, không thay so nghe. History preview undefined là bất thường UI, chưa là nguyên nhân server sinh sai. Không quy lỗi cho warm/low/intimate hoặc thiếu @Voice khi chưa đối chứng; không mặc định Quality sẽ sửa. Trước cặp thoại cần control một người/cùng sample; lưu baseline audio/hash khi UI cho phép, nguồn và request riêng; không để tên trùng thay ID. Agent được thiết kế nhưng chưa nghe thực thì ghi chưa chạy gate. Cơ chế sinh lệch vẫn UNRESOLVED, không RCA closed.
+
+## 7. Bổ sung2026-10-04 — control172 bị mất ảnh trước submit
+
+Bấm chip compose để kiểm ảnh đã gỡ ảnh OPEN7, làm bộ172 không còn đối chứng đã duyệt. Root lưu screenshot cuối nhưng chưa xem lại, nên vẫn gửi x3. Đây là sai sót preflight xác nhận, không suy170 cũng mất ảnh. Kiểm nguồn qua picker/mention-ID, không dùng click chip để mở detail; bất kỳ thao tác nào thay compose đều làm lần kiểm trước hết hiệu lực. Trước submit phải readback chip loại/số lượng, không icon error, token đúng ID, route/quote và xem screenshot thực. Nếu control sai input thì giữ media/chi phí/log, đánh dấu INVALID_CONTROL, không dùng kết quả xác nhận model/reference. Không tự retry vượt cap nhằm che lỗi thao tác.

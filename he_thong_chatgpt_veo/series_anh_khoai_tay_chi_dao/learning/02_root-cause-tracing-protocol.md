@@ -59,3 +59,9 @@ Sau duyệt mẫu đối chứng, chuyển sang lời thật và hai giọng ph�
 Bộ 175 tải được đủ ba MP4 bằng menu 360p gốc trong tab tải riêng; kiểm file thực và full decode trước bàn giao, đóng tab tải khi hoàn tất. WAV 48 kHz stereo PCM16bit giữ tốc độ/gain, kiểm hash PCM bằng bản MP4. File 16 kHz mono phục vụ ASR không dùng thay bản nghe của owner.
 
 ASR cả ba nhận khác “nem/chảo/rang”; đây là chỉ điểm nghe lại, không tự chứng nhận giọng miền Nam hoặc phát âm sai. ASR gộp hai câu khác vai không chứng minh lẫn người nói. Kiểm hình thưa phát hiện B02 đổi món và B03 mất trang phục; không nhập voice gate với visual gate, không gọi file giải mã sạch là cảnh đạt. Số dư tài khoản thay đổi giữa các phiên không tự tăng ngân sách được duyệt; chi bộ 175 là 21, quyền chi còn 4.
+
+## 9. Bổ sung 2026-10-04 — test rời không thay review toàn mạch
+
+Owner hỏi kịch bản thiếu nhất quán sau bộ175. Đối soát prompt175 với script32 thấy bốn câu giữa đúng nguyên văn/vai, nhưng test bỏ tiền đề “Mùi này làm anh nhớ cái chảo” và không có hành động/payoff kế tiếp. Vì vậy cần phân biệt lỗi trình bày thiếu ngữ cảnh với tự sửa lời hoặc output nói sai; chưa kiểm tai thì không kết luận loại sau.
+
+Tại176, owner chấp nhận test giọng; root ráp bản kiểm mạch30s với chín captions đúng script, B01 audio giữa và R01 cuối theo quyền tái dùng. Hai câu mở chưa có audio đạt thì để im lặng/nhãn, không dùng mẫu bị phản hồi lệch nhằm lấp timeline. Ghi rõ B01 chỉ là lựa chọn làm việc, thời gian caption từ ASR không chứng minh lời/vai nghe thực. Manifest nối yêu cầu → câu → nhịp hành động → nguồn/hash → slot → phạm vi approval; chỉ27,5s ảnh tạm không tự nâng thành production PASS. Quy trình học: khi trình một diagnostic rời, luôn kèm tiền đề, mục đích và vị trí trong toàn tập; sau acceptance tạo bản kiểm mạch trước sinh thêm lẻ tẻ. Không gọi các agent đã thực review nếu chỉ ghi hợp đồng hoặc chạy kiểm kỹ thuật.

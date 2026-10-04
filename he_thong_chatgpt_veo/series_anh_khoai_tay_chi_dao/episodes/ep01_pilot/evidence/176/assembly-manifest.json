@@ -1,0 +1,324 @@
+{
+  "status": "PLANNING_NOT_DELIVERY",
+  "local_render_credit_spend": 0,
+  "voice_status": "MIDDLE_OWNER_TEST_ACCEPTED_CLOSING_OWNER_REUSE_APPROVED",
+  "silent_until_seconds": 6,
+  "shots": [
+    {
+      "shot": "S01",
+      "timeline_in": 0,
+      "timeline_out": 6,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\T2-CODEX-OPEN_v0.7.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "ẢNH TẠM: hai câu mở chưa có audio đạt",
+      "source_sha256": "a3d80f09bfb7242bae3007ad7b4f37473bb2f0ed019a84cc4956c4d32a8dbf9a"
+    },
+    {
+      "shot": "S02",
+      "timeline_in": 6,
+      "timeline_out": 13,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\T2-CODEX-OPEN_v0.7.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "ẢNH TẠM: audio bộ test giọng đã chấp nhận",
+      "source_sha256": "a3d80f09bfb7242bae3007ad7b4f37473bb2f0ed019a84cc4956c4d32a8dbf9a"
+    },
+    {
+      "shot": "S03",
+      "timeline_in": 13,
+      "timeline_out": 16,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\T2-CODEX-OPEN_v0.7.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "ẢNH TẠM: đối đáp / chưa có cảnh diễn",
+      "source_sha256": "a3d80f09bfb7242bae3007ad7b4f37473bb2f0ed019a84cc4956c4d32a8dbf9a"
+    },
+    {
+      "shot": "S04",
+      "timeline_in": 16,
+      "timeline_out": 17.5,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\T2-CODEX-OPEN_v0.7.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "THIẾU CẢNH: Đào quay lấy cốc",
+      "source_sha256": "a3d80f09bfb7242bae3007ad7b4f37473bb2f0ed019a84cc4956c4d32a8dbf9a"
+    },
+    {
+      "shot": "S05",
+      "timeline_in": 17.5,
+      "timeline_out": 20.0,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\159_closeup_pickup\\C01.mp4",
+      "source_in": 2.75,
+      "source_out": 5.25,
+      "status": "VIDEO C01: gắp / nối cảnh chưa duyệt",
+      "source_sha256": "b574b2fd21b2a959ccd73901873fefbd217e4e5049310ae84c77d5e6641e7dd1"
+    },
+    {
+      "shot": "S06",
+      "timeline_in": 20,
+      "timeline_out": 22,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\161_source_retest\\START_short_tuft_v0.1.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "ẢNH TẠM: giữ nem / thiếu nâng-khựng",
+      "source_sha256": "e8a9aa146cb5ce0ee8596b0ae716951d6f68feaa5fe3e5e007da4615abc0b4bd"
+    },
+    {
+      "shot": "S07",
+      "timeline_in": 22,
+      "timeline_out": 24.6,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\163_low-hold-reaction\\END_low_reaction_v0.1.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "ẢNH TẠM: audio owner duyệt tái dùng",
+      "source_sha256": "a85c816872cc794326f07066b90fc8f6a68f500fac26df20620e1a2760efe5f7"
+    },
+    {
+      "shot": "S08",
+      "timeline_in": 24.6,
+      "timeline_out": 27.0,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\163_low-hold-reaction\\END_low_reaction_v0.1.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "THIẾU CẢNH: chuyển nem vào bát Đào",
+      "source_sha256": "a85c816872cc794326f07066b90fc8f6a68f500fac26df20620e1a2760efe5f7"
+    },
+    {
+      "shot": "S09",
+      "timeline_in": 27,
+      "timeline_out": 30,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\T2-CODEX-OPEN_v0.7.png",
+      "source_in": null,
+      "source_out": null,
+      "status": "THIẾU CẢNH: nhận món / gắp miếng khác",
+      "source_sha256": "a3d80f09bfb7242bae3007ad7b4f37473bb2f0ed019a84cc4956c4d32a8dbf9a"
+    }
+  ],
+  "captions": [
+    [
+      0,
+      3,
+      "Đào: Anh nhìn mãi.\nKhông hợp thì để em."
+    ],
+    [
+      3,
+      6,
+      "Khoai: Khoan. Mùi này\nlàm anh nhớ cái chảo."
+    ],
+    [
+      6,
+      8,
+      "Đào: Nem thì đây. Chảo ở đâu?"
+    ],
+    [
+      8.46,
+      12.22,
+      "Khoai: Bếp nhà anh, hồi bé.\nMẹ rang gạo, anh đứng chờ."
+    ],
+    [
+      12.82,
+      13.54,
+      "Đào: Chờ ăn?"
+    ],
+    [
+      14.18,
+      15.08,
+      "Khoai: Chờ mẹ quay lưng."
+    ],
+    [
+      22,
+      23.9,
+      "Đào: Chờ em quay lưng nữa à?"
+    ],
+    [
+      24.62,
+      25.84,
+      "Khoai: Anh gắp cho em mà."
+    ],
+    [
+      26.74,
+      28.34,
+      "Đào: Thế em quay lại đúng lúc rồi."
+    ]
+  ],
+  "output_metadata": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001f",
+        "width": 720,
+        "height": 1280,
+        "coded_width": 720,
+        "coded_height": 1280,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 368640,
+        "duration": "30.000000",
+        "bit_rate": "657402",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "720",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.102 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1440000,
+        "duration": "30.000000",
+        "bit_rate": "118539",
+        "nb_frames": "1408",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\176_story_assembly\\EP01_30s_PLANNING_v0.3.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "30.000000",
+      "size": "2932347",
+      "bit_rate": "781959",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102"
+      }
+    }
+  },
+  "audio_slots": [
+    {
+      "timeline_in": 0,
+      "timeline_out": 6,
+      "lines": [
+        "L01",
+        "L02"
+      ],
+      "status": "MISSING_APPROVED_AUDIO"
+    },
+    {
+      "timeline_in": 6,
+      "timeline_out": 16,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\175_k20_d06_dialogue\\B01_VOICE_PENDING.wav",
+      "source_sha256": "3861280b335e1f8c9249dd484cd63a8432f5a89c2c15dca5a81c3764b1ec0d5e",
+      "source_in": 0,
+      "source_out": 10,
+      "lines": [
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ],
+      "status": "OWNER_TEST_ACCEPTED_B01_WORKING_CHOICE_NOT_OWNER_WINNER"
+    },
+    {
+      "timeline_in": 22,
+      "timeline_out": 30,
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+      "source_sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19",
+      "source_in": 0,
+      "source_out": 8,
+      "lines": [
+        "L07",
+        "L08",
+        "L09"
+      ],
+      "status": "OWNER_REUSE_APPROVED_168"
+    }
+  ],
+  "caption_timing_basis": "Local ASR timing hints; text from approved script32, not an exact pronunciation or speaker verdict.",
+  "independent_ear_qc": "NOT_PERFORMED",
+  "release_overlays": "F01/F02/AI labels still required for final delivery; this is a labelled internal planning cut."
+}

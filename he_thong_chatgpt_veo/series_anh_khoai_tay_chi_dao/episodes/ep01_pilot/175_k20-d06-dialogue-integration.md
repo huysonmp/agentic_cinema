@@ -1,5 +1,7 @@
 # 175 — Thử cụm ký ức với K20 và D06
 
+**Cập nhật sau test:** owner nói “giọng test ok r đó, next đi”; ghi nhận tại [176](176_voice-test-accepted-and-story-assembly.md) là chấp nhận test giọng để tích hợp. Các trạng thái PENDING bên dưới mô tả thời điểm bàn giao175, không phải quyết định hiện hành. Không suy visual PASS hoặc winner từng mẫu.
+
 Ngày: 2026-10-04. Owner trả lời “ok” sau đề xuất chạy ba mẫu cụm B, tối đa 21 credit từ 25 credit còn lại tại [174](174_owner-provisional-acceptance-k20-controls.md). Đây là duyệt thực thi phép thử, không phải nghiệm thu đầu ra.
 
 ## Phạm vi và đầu vào

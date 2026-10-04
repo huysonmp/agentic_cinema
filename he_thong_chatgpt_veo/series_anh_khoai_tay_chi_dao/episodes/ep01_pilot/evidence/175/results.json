@@ -1,6 +1,14 @@
 {
   "date": "2026-10-04",
   "status": "THREE_NATIVE_DECODED_OWNER_PAIR_LISTENING_PENDING",
+  "owner_followup_176": {
+    "quote": "giọng test ok r đó, next đi",
+    "status": "OWNER_VOICE_TEST_ACCEPTED_FOR_INTEGRATION",
+    "individual_winner": "NOT_SPECIFIED",
+    "visual_approval": false,
+    "new_spending_authority": false,
+    "record": "../../176_voice-test-accepted-and-story-assembly.md"
+  },
   "account_before": 317,
   "account_after": 296,
   "actual_credits_spent": 21,

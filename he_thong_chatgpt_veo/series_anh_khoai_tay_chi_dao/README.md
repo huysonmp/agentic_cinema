@@ -1,6 +1,8 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái hiện hành — 2026-10-03
+## Trạng thái hiện hành — 2026-10-04
+
+**Hiện hành — [171](episodes/ep01_pilot/171_k20-voice-identity-root-cause-audit.md):** owner báo giọng nam khác K20 đã chọn. Chẩn đoán không tiêu credit: bốn cặp MP4/WAV có PCM khớp; K20 live đúng ID/performance, nhưng lịch sử A03/B01 nghe nguồn undefined nên chưa chứng minh exact server binding. Đã xác định thiếu đối chứng audition→video và chưa thực kiểm identity bằng nghe; cơ chế sinh lệch còn mở. Giữ K20/D06/script32; không dùng A03/B01 cho master, B02/B03 chưa verdict nghe riêng. Đề xuất control K20 một người/cùng sample x3 Omni10s, dự toán21 cần xác nhận/giá actual, chưa chạy. Còn67 theo170; account267 là snapshot ngày03, không số dư đã kiểm hôm nay. Các dòng dưới là lịch sử.
 
 **Hiện hành — [170](episodes/ep01_pilot/170_sequential-completion-and-opening-voices.md):** owner giao xử lý tuần tự đến video cuối, cần quyết định báo ngay. Đã tạo/tải/full decode một A và ba B cho sáu câu đầu bằng K20/D06; hai lượt A bị chặn chính sách không tính phí. Chi ròng27, lũy kế67/134, còn **67** được phép chi; actual **267**. Hình chưa đạt, audio có ASR lệch nên trình A03/B01 nghe, không tự duyệt accent/diễn. Còn ít nhất ba cụm hình dự toán tối thiểu90 trước dự phòng, vượt67. Đã hỏi thêm tối đa90 và gate nghe, **chưa duyệt**; chưa hình mới hoặc final. Các mục dưới là lịch sử.
 

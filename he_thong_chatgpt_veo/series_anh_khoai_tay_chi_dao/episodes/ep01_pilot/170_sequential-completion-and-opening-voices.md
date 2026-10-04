@@ -1,5 +1,7 @@
 # 170 — Quyền xử lý tuần tự và hoàn thiện thoại đầu
 
+**Cập nhật sau phản hồi owner ngày2026-10-04:** giọng nam khác mẫu đã chọn; A03/B01 trình nghe có trạng thái `OWNER_REPORTED_IDENTITY_MISMATCH`, chưa dùng master. [RCA171](171_k20-voice-identity-root-cause-audit.md) loại trừ extraction, kiểm K20 live nhưng chưa chứng minh exact historical server binding; không coi chọn theo performance là kết luận nguồn chắc chắn. B02/B03 chưa verdict nghe riêng. Giữ phần dưới làm nhật ký thời điểm thực hiện; không ghi audio approval từ lệnh tiếp tục chung.
+
 Ngày 2026-10-03. Chủ dự án giao xử lý tuần tự đến video cuối để duyệt; nếu cần xác nhận phải trình ngay. Đây là quyền tiếp tục sản xuất trong phạm vi đã chốt, không tự đăng TikTok, mở ngân sách mới, đổi kịch bản hoặc hạ tiêu chuẩn hình/giọng.
 
 ## Phạm vi và thứ tự

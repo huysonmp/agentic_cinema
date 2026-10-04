@@ -39,3 +39,7 @@ Với từng mắt xích phải có phiên bản, đường dẫn/mã tài nguy�
 Hồ sơ 126/130 → 132/133/134 → 135/136: `extra steam` không mô tả đúng yêu cầu không hơi; tăng danh sách cấm không khống chế được defect trong các bộ mới. Bỏ thoại/mùi vẫn có hơi nên chưa quy nguyên nhân chỉ cho thoại. OPEN7 xem tĩnh không thấy vệt hơi rõ; R03 của vòng 119 cùng ảnh không thấy hơi trong ảnh mẫu, nhưng lỗi tay vẫn còn. Không suy ảnh hoặc Lite luôn lỗi.
 
 Lỗi quy trình đã thấy: dồn nội dung checklist vào prompt và thiếu đối chứng tối giản trước các lần tăng ràng buộc. Cơ chế sinh hơi của model chưa xác nhận. Prompt tối giản là phép thử chẩn đoán, không phải công thức thành công hay cắt giảm tiêu chuẩn nghệ thuật. Chi tiết đối chứng tiếp theo tại hồ sơ 137.
+
+## 6. Bổ sung2026-10-04 — giọng K20 khác audition
+
+Hồ sơ171: phải tách selection approval khỏi integration PASS; thư viện đúng preset chưa chứng minh request video dùng đúng exact nguồn hoặc bảo toàn identity. Đối chiếu PCM loại trừ extraction, không thay so nghe. History preview undefined là bất thường UI, chưa là nguyên nhân server sinh sai. Không quy lỗi cho warm/low/intimate hoặc thiếu @Voice khi chưa đối chứng; không mặc định Quality sẽ sửa. Trước cặp thoại cần control một người/cùng sample; lưu baseline audio/hash khi UI cho phép, nguồn và request riêng; không để tên trùng thay ID. Agent được thiết kế nhưng chưa nghe thực thì ghi chưa chạy gate. Cơ chế sinh lệch vẫn UNRESOLVED, không RCA closed.

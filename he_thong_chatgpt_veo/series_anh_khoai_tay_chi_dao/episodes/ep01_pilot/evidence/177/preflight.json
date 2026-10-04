@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-04",
+  "owner_authorization": "ok after request for up to 21 additional credits for three opening voice samples",
+  "project_cap_before": 134,
+  "project_cap_now": 155,
+  "project_spent_before": 130,
+  "project_remaining_before": 25,
+  "this_test_cap": 21,
+  "account_before": 296,
+  "model": "Omni 1.1 Flash",
+  "route": "Ingredients",
+  "resolution": "360p",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 10,
+  "outputs": 3,
+  "live_quote": 21,
+  "agent_mode": false,
+  "image_id": "43057def-574c-4ca7-916c-d55083f9b670",
+  "audio_chips": 2,
+  "tokens": [
+    {"role": "Khoai", "reference_type": "audio", "id": "fb1188da-e6c8-4156-9bba-0576c01a8da6", "name": "Orus tuỳ chỉnh"},
+    {"role": "Dao", "reference_type": "audio", "id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352", "name": "Aoede tuỳ chỉnh"}
+  ],
+  "final_readback": "One OPEN7 image, two audio chips, correct tokens, only two opening lines, no error icons; final screenshot inspected before submit.",
+  "pre_submit_recovery": "Detail editor draft was lost on returning to project. Reused from project grid; observed leftover old text after keyboard selection attempt; removed exact legacy text via selectText and BackSpace. Final readback excludes all four middle lines. No submit during recovery.",
+  "screenshots_owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/177_opening_voice"
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-04",
+  "status": "THREE_NATIVE_DECODED_OWNER_OPENING_LISTENING_PENDING",
+  "account_before": 296,
+  "account_after": 275,
+  "actual_credits_spent": 21,
+  "project_cap": 155,
+  "project_spent": 151,
+  "project_remaining": 4,
+  "generation_submissions": 1,
+  "outputs": 3,
+  "local_review_credit_spend": 0,
+  "independent_audio_listening_by_root": false,
+  "asr_method": "faster-whisper small CPU int8 offline Vietnamese; no initial prompt",
+  "context_middle": {
+    "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\175_k20_d06_dialogue\\B01_VOICE_PENDING.wav",
+    "sha256": "3861280b335e1f8c9249dd484cd63a8432f5a89c2c15dca5a81c3764b1ec0d5e",
+    "status": "OWNER_TEST_ACCEPTED_176_B01_WORKING_SOURCE"
+  },
+  "context_closing": {
+    "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+    "sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19",
+    "status": "OWNER_REUSE_APPROVED_168"
+  },
+  "context_note": "Full opening10s + middle10s + closing8s; no action gap. Review audio only, not 30s film timing or acceptance.",
+  "media": [
+    {
+      "label": "A01",
+      "id": "2da4f3fb-7ab5-44ff-8f86-80eeb4948020",
+      "bytes": 1006915,
+      "mp4_sha256": "39e6ec3a2caa0f37e70628db15fae8ae0022e0c3893258b475241abd1c9a6e75",
+      "wav_sha256": "d784905a14393e02669b0e5152323e134f43d6de50c51cb4f8775b6853a3c61d",
+      "mp4_wav_pcm_sha256": "076f1a1216fd69ee8f40e1fdf29ae063e2e34c544e1d2b7ecd0f739b43f89cc4",
+      "pcm_match": true,
+      "full_decode": "PASS",
+      "duration": "10.005000",
+      "video": {
+        "codec_name": "h264",
+        "width": 360,
+        "height": 640,
+        "r_frame_rate": "24/1"
+      },
+      "voice_review": "OWNER_PENDING",
+      "visual_review": "REWORK_SAMPLED_ONLY_NOT_FOR_MASTER",
+      "asr_segments": [
+        {
+          "start": 0.7599999999999996,
+          "end": 3.48,
+          "text": " Anh nhìn mãi, không hợp thì để em."
+        },
+        {
+          "start": 4.279999999999999,
+          "end": 8.46,
+          "text": " Khoai, khoan, mùi này làm anh nhớ cái chào."
+        }
+      ],
+      "context_file": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\177_opening_voice\\A01_9-cau_REVIEW.wav",
+      "context_seconds": 28.01,
+      "context_sha256": "d6be3647bbd59ccddbd4ad6d3aad3ea78352fbb6de5260e9faa332b0fd3d7dcd",
+      "context_pcm_mapping": "PASS_EXACT_OPENING_THEN_MIDDLE_THEN_CLOSING_NO_GAIN_SPEED_OR_REORDER"
+    },
+    {
+      "label": "A02",
+      "id": "a053520b-6765-46be-8b47-7a8081229b11",
+      "bytes": 897275,
+      "mp4_sha256": "73264fe40791872afa7102bb59c9df8f4ca3dbe5101fc7ca8aa5a5b4666cd4a7",
+      "wav_sha256": "f929656df595d5a77eaa35b08b9876a702689fd9630c2c44d96231a2fc9595a3",
+      "mp4_wav_pcm_sha256": "706d5488e90d61c95a9daeb927bad465c67ee4b6d998d1cf3e4a6183849436d0",
+      "pcm_match": true,
+      "full_decode": "PASS",
+      "duration": "10.005000",
+      "video": {
+        "codec_name": "h264",
+        "width": 360,
+        "height": 640,
+        "r_frame_rate": "24/1"
+      },
+      "voice_review": "OWNER_PENDING",
+      "visual_review": "REWORK_SAMPLED_ONLY_NOT_FOR_MASTER",
+      "asr_segments": [
+        {
+          "start": 0.7,
+          "end": 3.22,
+          "text": " Anh nhìn mãi, không hợp thì để em."
+        },
+        {
+          "start": 3.72,
+          "end": 6.28,
+          "text": " Khoan, mùi này làm anh nhớ cái chào."
+        }
+      ],
+      "context_file": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\177_opening_voice\\A02_9-cau_REVIEW.wav",
+      "context_seconds": 28.01,
+      "context_sha256": "e4101703ae21b42569cb78700fa794e8bb36d27975d10a6cf54bfc6da5d39251",
+      "context_pcm_mapping": "PASS_EXACT_OPENING_THEN_MIDDLE_THEN_CLOSING_NO_GAIN_SPEED_OR_REORDER"
+    },
+    {
+      "label": "A03",
+      "id": "eac27f20-f059-48f6-a5cb-ef30f50a1e52",
+      "bytes": 868151,
+      "mp4_sha256": "8f7486e03b97cafeef4cc9b8dada598146aafa3da8d12c5d5ba59ab3a5190370",
+      "wav_sha256": "919414e36a93ae45dc6ba3b5bd7150aa7ea384625815b851fea314efa16f8bf6",
+      "mp4_wav_pcm_sha256": "0c9d929306910cee526526a63f9f52135dd37ccfc6c25701ecc3186f65be6d13",
+      "pcm_match": true,
+      "full_decode": "PASS",
+      "duration": "10.005000",
+      "video": {
+        "codec_name": "h264",
+        "width": 360,
+        "height": 640,
+        "r_frame_rate": "24/1"
+      },
+      "voice_review": "OWNER_PENDING",
+      "visual_review": "REWORK_SAMPLED_ONLY_NOT_FOR_MASTER",
+      "asr_segments": [
+        {
+          "start": 0.0,
+          "end": 3.1,
+          "text": " Anh nhìn mãi, không hợp thì để em."
+        },
+        {
+          "start": 3.84,
+          "end": 6.38,
+          "text": " Khoan, mùi này làm anh nhớ cái chào."
+        }
+      ],
+      "context_file": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\177_opening_voice\\A03_9-cau_REVIEW.wav",
+      "context_seconds": 28.01,
+      "context_sha256": "87769d662f84318f99d6257bd37b5ea5b4b11af71f67a86d3b11ab2736bf3580",
+      "context_pcm_mapping": "PASS_EXACT_OPENING_THEN_MIDDLE_THEN_CLOSING_NO_GAIN_SPEED_OR_REORDER"
+    }
+  ]
+}

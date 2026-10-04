@@ -1,0 +1,19 @@
+{
+  "status": "TECHNICAL_AND_PROVENANCE_PASS_NOT_FINAL_QC",
+  "script32_exact_captions": 9,
+  "contiguous_timeline_seconds": 30,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "full_decode": "PASS",
+  "opening_silence": "NOT_APPLICABLE_PENDING_AUDIO_INSERTED",
+  "input_hashes": "PASS",
+  "master_sha256": "69505f6bb53fac3258c261a3b4cb0c01b77ae61c30018c87155e9948f0d390e8",
+  "master_bytes": 3073006,
+  "independent_ear_review": "NOT_PERFORMED",
+  "performance_and_lip_sync": "NOT_APPROVED",
+  "still_placeholder_seconds": 27.5,
+  "release_overlays": "NOT_IMPLEMENTED_IN_INTERNAL_PLANNING_CUT"
+}

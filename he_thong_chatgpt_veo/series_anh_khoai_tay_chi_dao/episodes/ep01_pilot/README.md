@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — owner sửa đoạn ký ức, C-v0.6
+
+[178 — thoại hiện hành và ảnh hưởng](178_owner-dialogue-amendment-c-v0.6.md): Khoai kể liền “Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.”; Đào hỏi “Anh chờ ăn à?”. Giữ “Khoan”, câu mở, hành động và ba câu kết. Audio mở177/giữa175 và bản ráp v0.4 vẫn là lời v0.5, chưa cập nhật theo bản mới; không chỉ thay phụ đề. Giữ K20/D06, chưa generation/credit hoặc nghiệm thu timing mới. Các trạng thái bên dưới là lịch sử, không ghi đè quyết định178.
+
 ## Hiện hành — hoàn thiện tuần tự, chờ hai xác nhận
 
 [170 — thoại đầu và đối soát](170_sequential-completion-and-opening-voices.md): đã có A03/B01–B03 tải/full decode; hình chưa đạt, audio chờ nghe. Còn67 được phép chi (actual267), chưa đủ dự toán tối thiểu ba cụm hình90. Đã trình cấp thêm tối đa90 và nghe A03/B01, chưa nhận quyết định. Giữ script32/K20/D06/chuyển động, không bàn giao ảnh tạm như video cuối. Các mục dưới là lịch sử.

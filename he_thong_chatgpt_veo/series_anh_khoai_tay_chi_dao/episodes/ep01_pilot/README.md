@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — C-v0.6 đã được chấp nhận, gói thử mới chờ quyền chi
+
+[179 — gói thoại và request](179_c-v0.6-dialogue-package-and-retest-request.md): owner “ok” với lời sửa178. Đã chuẩn bị bảy lượt thoại/phụ đề không gán timing giả, prompt thử trọn N01–N04 và checklist token K20/D06/OPEN7. Chưa generation; sổ177 còn4 credit. Đề nghị bổ sung tối đa17 cho một batch x3 tổng không vượt21; giá21 là lịch sử, phải kiểm trực tiếp trước submit. Ba câu kết giữ nguyên; audio mở/giữa và bản ráp v0.4 chưa khớp lời mới. Các phần dưới là lịch sử.
+
 ## Hiện hành — owner sửa đoạn ký ức, C-v0.6
 
 [178 — thoại hiện hành và ảnh hưởng](178_owner-dialogue-amendment-c-v0.6.md): Khoai kể liền “Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.”; Đào hỏi “Anh chờ ăn à?”. Giữ “Khoan”, câu mở, hành động và ba câu kết. Audio mở177/giữa175 và bản ráp v0.4 vẫn là lời v0.5, chưa cập nhật theo bản mới; không chỉ thay phụ đề. Giữ K20/D06, chưa generation/credit hoặc nghiệm thu timing mới. Các trạng thái bên dưới là lịch sử, không ghi đè quyết định178.

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-04",
+  "reviewer": "root",
+  "method": "PowerShell assertions: regex extract N01-N07 from script178; compare JSON roles, IDs, text and normalized caption text; regex extract exact four quoted prompt turns; compare voice IDs, baseline release text and budget gate.",
+  "status": "LOCAL_TEXT_CONSISTENCY_PASS",
+  "dialogue_turns": 7,
+  "prompt_turns": 4,
+  "caption_text": "EXACT_MATCH",
+  "timing": "NULL_UNMEASURED",
+  "voice_ids": "MATCH",
+  "release_text": "MATCH_BASELINE",
+  "forbidden_legacy_dialogue_in_prompt": "ABSENT",
+  "space_separated_units_first_four": 34,
+  "generation": "NOT_AUTHORIZED",
+  "independent_ear": "NOT_PERFORMED",
+  "credit_spend": 0,
+  "limitations": "Checks text/data only; unit count does not prove delivery fits ten seconds. No live UI/token binding or live pricing checked, no media generated, no independent agent run, no voice/accent/performance/lip-sync/cultural-media verdict."
+}

@@ -1,0 +1,37 @@
+{
+  "episode": "EP01",
+  "script_version": "C-v0.6",
+  "script_source": "178_owner-dialogue-amendment-c-v0.6.md",
+  "text_status": "OWNER_APPROVED",
+  "media_status": "NOT_CREATED_FOR_THIS_VERSION",
+  "timing_status": "UNMEASURED",
+  "generation_status": "NOT_AUTHORIZED",
+  "voices": {
+    "Khoai": {"preset": "K20", "base": "Orus", "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"},
+    "Đào": {"preset": "D06", "base": "Aoede", "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"}
+  },
+  "image_reference_id": "43057def-574c-4ca7-916c-d55083f9b670",
+  "new_test_line_ids": ["N01", "N02", "N03", "N04"],
+  "unchanged_closing_line_ids": ["N05", "N06", "N07"],
+  "lines": [
+    {"id": "N01", "speaker": "Đào", "text": "Anh nhìn mãi. Không hợp thì để em.", "caption": "Anh nhìn mãi.\nKhông hợp thì để em.", "start_seconds": null, "end_seconds": null},
+    {"id": "N02", "speaker": "Khoai", "text": "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.", "caption": "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.", "start_seconds": null, "end_seconds": null},
+    {"id": "N03", "speaker": "Đào", "text": "Anh chờ ăn à?", "caption": "Anh chờ ăn à?", "start_seconds": null, "end_seconds": null},
+    {"id": "N04", "speaker": "Khoai", "text": "Chờ mẹ quay lưng.", "caption": "Chờ mẹ quay lưng.", "start_seconds": null, "end_seconds": null},
+    {"id": "N05", "speaker": "Đào", "text": "Chờ em quay lưng nữa à?", "caption": "Chờ em quay lưng nữa à?", "start_seconds": null, "end_seconds": null},
+    {"id": "N06", "speaker": "Khoai", "text": "Anh gắp cho em mà.", "caption": "Anh gắp cho em mà.", "start_seconds": null, "end_seconds": null},
+    {"id": "N07", "speaker": "Đào", "text": "Thế em quay lại đúng lúc rồi.", "caption": "Thế em quay lại đúng lúc rồi.", "start_seconds": null, "end_seconds": null}
+  ],
+  "caption_policy": "Text only; split N02 into readable timed cues after actual audio exists. Never display this long turn as a single full-screen subtitle or invent timecodes.",
+  "release_text": [
+    {"id": "F01", "text": "Nem Bùi — gắn với Bùi Xá, Bắc Ninh.", "placement_intent": "Dish identification", "start_seconds": null, "end_seconds": null},
+    {"id": "F02", "text": "Thính gạo rang góp một phần vào mùi vị của Nem Bùi.", "placement_intent": "Aroma and toasted-rice recollection", "start_seconds": null, "end_seconds": null},
+    {"id": "AI", "text": "Video được tạo bằng AI.", "placement_intent": "Required disclosure; final placement pending", "start_seconds": null, "end_seconds": null}
+  ],
+  "closing_source_candidate": "C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock/R01.mp4",
+  "closing_source_status": "REUSE_APPROVED_168_JOIN_AND_TIMING_RECHECK_REQUIRED",
+  "obsolete_for_whole_changed_cluster": ["evidence/175/prompt-B.txt", "evidence/177/prompt-opening.txt", "evidence/177/assembly-manifest.json"],
+  "budget": {"authorized_cap_current": 155, "spent_current": 151, "remaining_current": 4, "additional_requested_not_approved": 17, "batch_cap_requested": 21, "historical_quote": 21, "live_quote": null},
+  "proposed_generation": {"model": "Omni 1.1 Flash", "route": "Ingredients", "resolution": "360p", "aspect_ratio": "9:16", "duration_seconds": 10, "outputs": 3, "live_settings_verified": false},
+  "review_status": {"text_consistency": "LOCAL_TEXT_CONSISTENCY_PASS", "independent_ear": "NOT_PERFORMED", "voice_identity": "NOT_TESTED_FOR_NEW_TEXT", "performance": "NOT_TESTED", "visual": "NOT_APPROVED"}
+}

@@ -4,6 +4,8 @@ Ngày2026-10-04. Owner trả lời “ok” ngay sau đề nghị bộ đối ch
 
 **Đính chính sau submit: INVALID_CONTROL / INPUT_REMOVED_DURING_PREFLIGHT.** Root bấm chip để xem ảnh, thao tác đã gỡ OPEN7; ảnh `preflight-request.png` cho thấy chỉ voice/chip lỗi trước gửi. Đã gửi nhầm bộ thiếu ảnh, không dùng ba kết quả để kết luận reference/model giữ hoặc đổi identity. Phần preflight hoàn chỉnh bên dưới là nhận định tại thời điểm thao tác, bị đính chính bởi ảnh và lịch sử sau gửi. Không tự retry vượt cap21.
 
+**Diễn biến sau172:** owner yêu cầu tiếp tục, duyệt bộ thử lại21 từ46 tại [173](173_k20-control-retry.md). Final preflight173 đã xem screenshot và đọc đủ ảnh+voice/token, nhận ba native; đang chờ nghe identity.172 vẫn invalid, không được nâng thành control hợp lệ. Ngân sách hiện hành còn25 theo173.
+
 ## Quyết định và tiêu chí
 
 - Khoai K20 custom Orus `fb1188da-e6c8-4156-9bba-0576c01a8da6`; không K12/base. Giữ toàn bộ common/performance audition, không sửa preset.

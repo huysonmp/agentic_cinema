@@ -47,3 +47,5 @@ Hồ sơ171: phải tách selection approval khỏi integration PASS; thư việ
 ## 7. Bổ sung2026-10-04 — control172 bị mất ảnh trước submit
 
 Bấm chip compose để kiểm ảnh đã gỡ ảnh OPEN7, làm bộ172 không còn đối chứng đã duyệt. Root lưu screenshot cuối nhưng chưa xem lại, nên vẫn gửi x3. Đây là sai sót preflight xác nhận, không suy170 cũng mất ảnh. Kiểm nguồn qua picker/mention-ID, không dùng click chip để mở detail; bất kỳ thao tác nào thay compose đều làm lần kiểm trước hết hiệu lực. Trước submit phải readback chip loại/số lượng, không icon error, token đúng ID, route/quote và xem screenshot thực. Nếu control sai input thì giữ media/chi phí/log, đánh dấu INVALID_CONTROL, không dùng kết quả xác nhận model/reference. Không tự retry vượt cap nhằm che lỗi thao tác.
+
+Bộ173 áp dụng lại sau owner duyệt: đọc chip bằng DOM không click, xác minh ảnh OPEN7 và token K20, xem screenshot cuối rồi submit không đổi compose. Nhận ba media và WAV PCM khớp. Biện pháp ngăn mất input đã được thực thi trong bộ173; chưa đồng nghĩa voice/reference output đạt. Giữ gate nghe và RCA mở đến khi có bằng chứng phân biệt nguyên nhân.

@@ -1,5 +1,7 @@
 # 171 — Truy nguyên nhân giọng Khoai khác K20 đã chọn
 
+**Bằng chứng tiếp nối — 174:** owner tạm chấp nhận cả ba control173 có input đã kiểm. Giữ K20 làm baseline tích hợp; chưa chứng minh nguyên nhân sai giọng170 hoặc từng biện pháp là nguyên nhân khắc phục. RCA về cơ chế sinh vẫn mở.172 không được dùng làm control hợp lệ.
+
 Ngày2026-10-04. Yêu cầu chẩn đoán, không tạo media hoặc tiêu credit. Trạng thái **PROCESS_GAPS_CONFIRMED / GENERATION_CAUSE_UNRESOLVED**; chưa đóng RCA.
 
 **Diễn biến sau171:** owner duyệt control21 tại [172](172_k20-single-speaker-control.md). Bộ đã tạo nhưng root gỡ OPEN7 trong preflight, **INVALID_CONTROL**; không dùng bộ này đóng RCA hoặc chứng minh H1–H4.172 xác nhận lỗi thao tác ở chính bộ172, không quy ngược170. Số dư/quyền chi hiện hành xem172, không dùng snapshot dưới làm hiện hành.

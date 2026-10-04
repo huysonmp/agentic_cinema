@@ -1,5 +1,7 @@
 # 173 — Thử lại đối chứng K20, kiểm đầu vào sau lỗi172
 
+**Phản hồi owner sau trình nghe — [174](174_owner-provisional-acceptance-k20-controls.md):** cả R01/R02/R03 đều “tạm chấp nhận được”. Gate nghe bộ này chuyển từ pending sang `OWNER_PROVISIONAL_VOICE_ACCEPTANCE`; không phải giống hệt mẫu, voice production PASS hoặc duyệt hình/cặp thoại. Nhật ký dưới giữ trạng thái ở thời điểm bàn giao; không yêu cầu owner nghe lại để chọn winner.
+
 Ngày 2026-10-04. Owner yêu cầu “tiếp tục đi” sau đề nghị chạy lại bộ x3 tối đa21 từ46 còn lại tại172. Trạng thái cuối **UI_INPUT_VERIFIED / THREE_NATIVE_DECODED / OWNER_IDENTITY_REVIEW_PENDING**. Không cấp ngân sách mới, không duyệt thêm nhóm diễn/Đào hoặc Quality.
 
 ## Phạm vi đã duyệt

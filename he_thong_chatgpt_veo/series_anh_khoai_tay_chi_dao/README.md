@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-04
 
+**Hiện hành — [174](episodes/ep01_pilot/174_owner-provisional-acceptance-k20-controls.md):** owner tạm chấp nhận cả R01/R02/R03 của173 về giọng trong bộ đối chứng. Giữ K20/D06, không ép chọn winner; không suy giống hệt/production PASS hoặc đóng RCA170. Đề xuất chuyển cụm B lời thật sang K20–D06 x3 Omni10s, dự toán21 từ25 còn lại; chưa request approval/generation mới. Lượt này chỉ ghi feedback, chi0; account275 là snapshot173, chưa kiểm live lại. Bộ172 giữ INVALID_CONTROL. Các dòng dưới là lịch sử.
+
 **Hiện hành — [173](episodes/ep01_pilot/173_k20-control-retry.md):** owner duyệt thử lại tối đa21 từ46. Đã kiểm và xem final preflight có OPEN7+K20/token đúng ID, không chip lỗi; tạo/tải/decode đủ ba Omni10s, WAV khớp PCM gốc. **OWNER_IDENTITY_REVIEW_PENDING**, chưa winner/voice PASS hoặc RCA closed. R02/R03 ASR nhận rang/gian cần nghe; không tự chứng nhận accent/identity. File nghe và hướng dẫn trong Downloads `173_k20_control_retry`, Flow để sẵn K20 gốc. Chi21, lũy kế109/134, còn25; account live296→275. Không thêm Quality/generation, không dùng hình thử cho master. Bộ172 giữ INVALID_CONTROL. Các dòng dưới là lịch sử.
 
 **Hiện hành — [172](episodes/ep01_pilot/172_k20-single-speaker-control.md):** owner duyệt bộ21; đã tạo/tải/decode đủ ba Omni10s. **INVALID_CONTROL**: root bấm kiểm chip làm gỡ OPEN7 và chưa xem lại screenshot trước submit. Không dùng bộ để kết luận nguyên nhân giọng lệch hoặc master. Lưu đủ native/WAV/QC/ID/prompt/bằng chứng ở Downloads `172_k20_control`. Chi21, lũy kế88/134, còn46; account live317→296, không coi tăng50 so snapshot cũ là quyền chi. Chưa nghe nghiệm thu hoặc retry; đề nghị chạy lại đúng bộ tối đa21 từ46 còn lại, chưa duyệt. K20/D06/script32 giữ nguyên. Các dòng dưới là lịch sử.

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — owner báo lẫn người nói, kiểm identity chưa hoàn tất
+
+[183 — audit và giới hạn](183_speaker-mapping-audit-partial.md): script/prompt gán vai dự kiến đúng và PCM bản ráp182 giữ nguyên nguồn, không đảo từng câu. Tuy nhiên các trường speaker lấy từ script, không phải audio nhận diện. Đã tách bảy đoạn kiểm; chưa có known-speaker/kiểm nghe xác minh các câu sai. Bản182 **chưa đạt đúng người nói**. Không sửa/sinh mới, chi0, vẫn còn53. Tiếp cần hai mẫu K20/D06 thật và phương tiện nhận diện/người nghe; không nâng Quality từ kiểm kỹ thuật.
+
 ## Mới nhất — bản kiểm mạch mới và ba mẫu hành động đã loại
 
 [182 — thực thi và bằng chứng](182_c-v0.6-assembly-and-action-coverage.md): bản kiểm mạch 30 giây đủ bảy lượt C-v0.6 bằng audio A03/R01, không cắt/tăng tốc; 27,5 giây vẫn ảnh giữ chỗ, chưa final. Một batch x3 Lite 720p/tám giây giá30 đã tạo/tải/full decode; cả ba **REWORK**, chưa dùng cho dựng. Sổ202/255, còn **53**; account254→224 và sau hoàn tất vẫn224. Đã ghi bài học prompt read-back, tải tab mới và diễn miệng dù không có audio. Tiếp chuẩn bị tách tay/ánh nhìn, kiểm continuity trước chi tiếp; không thêm Quality/master hoặc chọn voice mới. Trạng thái chờ ráp/83 credit bên dưới là lịch sử.

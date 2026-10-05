@@ -1,0 +1,162 @@
+{
+  "status": "PARTIAL_TECHNICAL_AUDIT_SPEAKER_IDENTITY_BLOCKED",
+  "source_pcm_preserved_in_planning_wav": true,
+  "turns_individually_reordered_by_assembly": false,
+  "caption_role_from_approved_script": true,
+  "actual_identity_verified": false,
+  "heard_by_reviewer": false,
+  "identity_reference_audio": "Audition149/151 have UI previews only, no verified local reference WAV.",
+  "available_local_asr": "faster-whisper small, no diarization or reference identity verification",
+  "openai_diarize_key_present": false,
+  "credit_spend": 0,
+  "source_or_assembly_modified": false,
+  "lines": [
+    {
+      "line_id": "N01",
+      "approved_text": "Anh nhìn mãi. Không hợp thì để em.",
+      "expected_speaker": "Đào",
+      "expected_voice": {
+        "preset": "D06",
+        "base": "Aoede",
+        "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+      },
+      "planned_timeline_start": 2.0,
+      "planned_timeline_end": 4.0,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+      "source_in": 0,
+      "source_out": 2.15,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N01_intended_Dao_UNVERIFIED.wav",
+      "excerpt_sha256": "366e95086c57dc1c5d2a2d366d6b24410ab85b0dcc7b2f2d4fbb61d3aa69cfe1",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    },
+    {
+      "line_id": "N02",
+      "approved_text": "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.",
+      "expected_speaker": "Khoai",
+      "expected_voice": {
+        "preset": "K20",
+        "base": "Orus",
+        "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"
+      },
+      "planned_timeline_start": 4.2,
+      "planned_timeline_end": 9.66,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+      "source_in": 2.08,
+      "source_out": 7.81,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N02_intended_Khoai_UNVERIFIED.wav",
+      "excerpt_sha256": "34c9a095a11b7351d429b16228372afc42dbd7c6a657eb25ffac0f77986956b7",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    },
+    {
+      "line_id": "N03",
+      "approved_text": "Anh chờ ăn à?",
+      "expected_speaker": "Đào",
+      "expected_voice": {
+        "preset": "D06",
+        "base": "Aoede",
+        "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+      },
+      "planned_timeline_start": 10.04,
+      "planned_timeline_end": 10.64,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+      "source_in": 7.92,
+      "source_out": 8.79,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N03_intended_Dao_UNVERIFIED.wav",
+      "excerpt_sha256": "30de99253ed78a37a6765f6bf28690063bd3888398d593263d417bec20bb2738",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    },
+    {
+      "line_id": "N04",
+      "approved_text": "Chờ mẹ quay lưng.",
+      "expected_speaker": "Khoai",
+      "expected_voice": {
+        "preset": "K20",
+        "base": "Orus",
+        "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"
+      },
+      "planned_timeline_start": 11.02,
+      "planned_timeline_end": 11.78,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+      "source_in": 8.9,
+      "source_out": 9.93,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N04_intended_Khoai_UNVERIFIED.wav",
+      "excerpt_sha256": "47c55646041c878f15b53114ed3b5299b5b2cb99b018f1e90711c0a0181b0ec4",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    },
+    {
+      "line_id": "N05",
+      "approved_text": "Chờ em quay lưng nữa à?",
+      "expected_speaker": "Đào",
+      "expected_voice": {
+        "preset": "D06",
+        "base": "Aoede",
+        "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+      },
+      "planned_timeline_start": 20.0,
+      "planned_timeline_end": 21.9,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock/R01.mp4",
+      "source_in": 0,
+      "source_out": 2.05,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N05_intended_Dao_UNVERIFIED.wav",
+      "excerpt_sha256": "43a2d2171a46504d69349f4696aa17707091d565ec199b9d07279eefdfe2ec35",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    },
+    {
+      "line_id": "N06",
+      "approved_text": "Anh gắp cho em mà.",
+      "expected_speaker": "Khoai",
+      "expected_voice": {
+        "preset": "K20",
+        "base": "Orus",
+        "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"
+      },
+      "planned_timeline_start": 22.62,
+      "planned_timeline_end": 23.84,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock/R01.mp4",
+      "source_in": 2.5,
+      "source_out": 3.99,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N06_intended_Khoai_UNVERIFIED.wav",
+      "excerpt_sha256": "0910f87900a5a88ea0da643a9536e89213eacf0cc4bb58867885b8379f8f6ce6",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    },
+    {
+      "line_id": "N07",
+      "approved_text": "Thế em quay lại đúng lúc rồi.",
+      "expected_speaker": "Đào",
+      "expected_voice": {
+        "preset": "D06",
+        "base": "Aoede",
+        "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+      },
+      "planned_timeline_start": 24.74,
+      "planned_timeline_end": 26.34,
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock/R01.mp4",
+      "source_in": 4.62,
+      "source_out": 6.49,
+      "diagnostic_excerpt": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N07_intended_Dao_UNVERIFIED.wav",
+      "excerpt_sha256": "68e94b57143710f4088ae563a6d0fb7d9fefcec94a747beb23d38c67e6123669",
+      "observed_speaker": null,
+      "voice_identity_verdict": "UNVERIFIED",
+      "observed_lipsync_speaker": null,
+      "evidence_limit": "Script/caption agreement and PCM provenance do not establish who actually speaks."
+    }
+  ]
+}

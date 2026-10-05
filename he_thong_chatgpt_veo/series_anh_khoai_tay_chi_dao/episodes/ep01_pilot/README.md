@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 191: tab mới chạy được, tải đủ ba mẫu gắp
+
+[191 — thử lại và review](191_pickup-retry-on-new-tab.md): owner yêu cầu mở tab mới/chạy; một batch x3 Lite giá30 đã thành công/tải720p/decode đủ. Account244→214; sổ262/262 **còn0 được phép chi**. Cả ba8s còn vệt hơi/điểm giữ, không PASS toàn take. Đề xuất owner xem P02 đầu2,5s; có native và so sánh nguyên8s để không giấu lỗi. Chưa đưa vào bản ráp/continuity/FOOD toàn cảnh; giữ C-v0.6/K20/D06/SIA HOLD. Chờ chọn nhịp, có thể kiểm nối local; generation mới phải có quyền chi. Trạng thái chặn/còn30 ở190 dưới đây là lịch sử, đã thực thi tiếp theo191.
+
 ## Hiện hành — 190: thử gắp đã gửi, Flow chặn trước khi tạo
 
 [190 — thực thi và bàn giao thao tác](190_pickup-x3-lite-approved-execution.md): owner duyệt một x3 Lite tối đa30 và bổ sung7, trần262. Đầu vào188/prompt/cài đặt/giá đã kiểm; gửi một lần, cả ba lỗi `unusual activity`, UI báo không tính phí và account244→244. Không video mới hoặc motion QC, chi0, sổ232/262 còn30. Làm mới một lần rồi khôi phục gói đúng START/END và quote30 để owner bấm trực tiếp/xác minh; chưa retry. C-v0.6/K20/D06/SIA HOLD giữ nguyên, chưa Quality/master. Trạng thái còn23/chờ cấp7 ở189 dưới đây là lịch sử, đã được cập nhật bởi approval190.

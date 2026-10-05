@@ -148,6 +148,8 @@ Kiểm tiếp 135–136: bỏ thoại và mô tả mùi/chảo, cả ba vẫn c�
 
 ### L-007: lỗi chặn yêu cầu tạo khác lỗi nội dung hoặc tải file
 
+Vòng191 theo yêu cầu owner: tab mới cùng browser/account/project, prompt và input giữ nguyên, một x3 giá30 thành công. Account244→214, native đủ ba tải/decode sạch. Điều này chứng minh workaround thành công trong lượt này, không chứng minh lỗi190 do tab cũ hoặc extension. Tải đầu ở tab tạo không về file; tab riêng đúng URL asset nhận đủ ba qua menu720p mặc dù callback timeout. File native/hash/probe/decode là bằng chứng, không gửi thêm generation. Ba video vẫn có AAC khi silent fallback ON. Grid cách0,5s che mất vệt hơi thoáng của P02/P03: xem toàn72 frame đầu0–3s rồi native frame thấy hơi mờ khoảng2,7s. Vì vậy không chứng nhận “không khói” bằng thumbnail hoặc grid thưa. P02 chỉ đề xuất insert đầu2,5s, giữ công khai native8s còn lỗi; chưa full take/FOOD/continuity PASS.
+
 Vòng190: đúng Frames/Lite/9:16/x3/720p/8s, đọc giá30 và prompt khớp, nhưng cả ba đầu ra bị `unusual activity`; UI báo chưa tính phí, account244 giữ nguyên cả sau reload. Chưa media thì không truy lỗi sang chất liệu món, cơ chế đũa, cắt ghép hoặc tải. Thông báo gợi ý extension chỉ là mô tả của dịch vụ, chưa chứng minh extension là nguyên nhân. Lưu screenshot trước reload vì thẻ lỗi có thể biến khỏi lưới. Reload một lần không chứng minh đã chữa chặn: khôi phục compose, bàn giao owner thao tác/xác minh, không retry mù hoặc thay cơ chế để né bảo vệ. Không dùng ba card yêu cầu như ba video đã tạo; ngân sách chỉ ghi chi theo đối soát thực tế. Picker có thể chọn mặc định ảnh cũ: chọn và kiểm riêng START/END mới trước submit.
 
 ### L-006: truy lỗi cuối chặng theo chuỗi nguồn, không chỉ sửa câu lệnh cuối

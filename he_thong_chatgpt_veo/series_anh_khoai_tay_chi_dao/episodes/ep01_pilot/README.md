@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 190: thử gắp đã gửi, Flow chặn trước khi tạo
+
+[190 — thực thi và bàn giao thao tác](190_pickup-x3-lite-approved-execution.md): owner duyệt một x3 Lite tối đa30 và bổ sung7, trần262. Đầu vào188/prompt/cài đặt/giá đã kiểm; gửi một lần, cả ba lỗi `unusual activity`, UI báo không tính phí và account244→244. Không video mới hoặc motion QC, chi0, sổ232/262 còn30. Làm mới một lần rồi khôi phục gói đúng START/END và quote30 để owner bấm trực tiếp/xác minh; chưa retry. C-v0.6/K20/D06/SIA HOLD giữ nguyên, chưa Quality/master. Trạng thái còn23/chờ cấp7 ở189 dưới đây là lịch sử, đã được cập nhật bởi approval190.
+
 ## Hiện hành — 189: chất liệu188 được duyệt, bốn khung tiếp nối đã chuẩn bị
 
 [189 — approval và đồng bộ khung](189_texture-approval-and-action-reference-sync.md): APPROVED_TEXTURE_ONLY cho hai ảnh188; không duyệt lượng/bố cục/video hoặc credit. Tạo bốn ảnh nâng–chuyển–đặt, có bảng sáu trạng thái, dùng chung file END chuyển/START đặt. Chưa diễn động/nối/FOOD toàn cảnh, coverage mới0; C-v0.6/K20/D06 giữ nguyên, SIA HOLD. Chi Flow0, còn23. Gói thử đầu tiên gắp x3 tối đa30 cần quyền bổ sung tối đa7; chưa gửi hoặc Quality/master. Chờ duyệt chất liệu ở mục188 bên dưới đã được cập nhật đúng phạm vi.

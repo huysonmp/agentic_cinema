@@ -146,6 +146,10 @@ Kiểm thực tế 133–134: đã thử ba mẫu prompt v1.1 nhưng cả ba v�
 
 Kiểm tiếp 135–136: bỏ thoại và mô tả mùi/chảo, cả ba vẫn có vệt hơi trong ảnh mẫu; không quy lỗi chỉ cho thoại. Nhân vật tự mở miệng và diễn tay dù prompt yêu cầu im lặng. Không có âm thanh không đồng nghĩa không có động tác nói. Bộ ban đầu lỗi tạo âm thanh, UI báo không tính phí; bật tạm “Trả về video không có âm thanh”, thử lại từng thẻ một và nhận ba video chỉ có stream hình. Đối soát số dư 830→800, ròng 30; khôi phục tùy chọn về tắt sau thử. Phục hồi này hữu ích cho chẩn đoán hình, không dùng để bỏ qua gate voice/lip-sync ở cảnh thoại. Chưa có bằng chứng khống chế khói thành công.
 
+### L-007: lỗi chặn yêu cầu tạo khác lỗi nội dung hoặc tải file
+
+Vòng190: đúng Frames/Lite/9:16/x3/720p/8s, đọc giá30 và prompt khớp, nhưng cả ba đầu ra bị `unusual activity`; UI báo chưa tính phí, account244 giữ nguyên cả sau reload. Chưa media thì không truy lỗi sang chất liệu món, cơ chế đũa, cắt ghép hoặc tải. Thông báo gợi ý extension chỉ là mô tả của dịch vụ, chưa chứng minh extension là nguyên nhân. Lưu screenshot trước reload vì thẻ lỗi có thể biến khỏi lưới. Reload một lần không chứng minh đã chữa chặn: khôi phục compose, bàn giao owner thao tác/xác minh, không retry mù hoặc thay cơ chế để né bảo vệ. Không dùng ba card yêu cầu như ba video đã tạo; ngân sách chỉ ghi chi theo đối soát thực tế. Picker có thể chọn mặc định ảnh cũ: chọn và kiểm riêng START/END mới trước submit.
+
 ### L-006: truy lỗi cuối chặng theo chuỗi nguồn, không chỉ sửa câu lệnh cuối
 
 Owner quyết định ở 141: đủ bằng chứng để dùng cách xử lý tạm, dừng nghiên cứu sâu lỗi hơi và không tái lập control lúc này. Giữ M0 không câu cấm làm nền thử tiếp; kết quả chỉ là chưa thấy hơi trong ảnh mẫu, không thành cam kết. Bài học quản lý: tách quyết định dừng nghiên cứu nguyên nhân khỏi đóng lỗi sản phẩm; vẫn kiểm nhanh món nguội và các lỗi chặn trên take mới, ưu tiên hoàn thành giọng/diễn xuất/ráp thay vì điều tra vô hạn.

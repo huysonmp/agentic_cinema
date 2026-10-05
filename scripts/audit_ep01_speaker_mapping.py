@@ -54,7 +54,7 @@ def main():
     for line in package['lines']:
         cues = [c for c in manifest['captions'] if c['line_id'] == line['id']]
         assert ' '.join(c['text'].replace('\n', ' ') for c in cues) == line['text']
-        assert all(c['speaker'] == line['speaker'] for c in cues)
+        assert all(c.get('expected_speaker', c.get('speaker')) == line['speaker'] for c in cues)
         source_index = next(i for i, s in enumerate(sources) if line['id'] in s['line_ids'])
         slot = sources[source_index]
         start, end = cues[0]['start'], cues[-1]['end']

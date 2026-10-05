@@ -10,6 +10,7 @@ import re
 import subprocess
 import wave
 from pathlib import Path
+from ep01_speaker_gate import source_request, evaluate
 
 ROOT = Path(__file__).resolve().parents[1]
 EP = ROOT / 'he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/episodes/ep01_pilot'
@@ -52,6 +53,10 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, required=True)
     parser.add_argument('--closing-asr', type=Path, required=True)
+    gate_args = parser.add_mutually_exclusive_group(required=True)
+    gate_args.add_argument('--speaker-review', type=Path, help='Independent SIA-01 review bound to current audio sources.')
+    gate_args.add_argument('--allow-unverified-planning', action='store_true',
+                           help='Explicitly create a labelled planning cut, never approve its speakers.')
     opts = parser.parse_args()
     out = opts.out
     if out.exists() and any(out.iterdir()):
@@ -85,13 +90,13 @@ def main():
               ('N04', 30, 34, lines['N04']['caption'])]
     captions = []
     for line_id, lo, hi, text in ranges:
-        captions.append({'line_id': line_id, 'speaker': lines[line_id]['speaker'],
+        captions.append({'line_id': line_id, 'expected_speaker': lines[line_id]['speaker'],
                          'start': round(2 + words[lo]['start'], 3),
                          'end': round(2 + words[hi-1]['end'], 3), 'text': text})
     closing_asr = json.loads(opts.closing_asr.read_text(encoding='utf-8'))
     assert len(closing_asr['segments']) == 3
     for line_id, segment in zip(['N05', 'N06', 'N07'], closing_asr['segments']):
-        captions.append({'line_id': line_id, 'speaker': lines[line_id]['speaker'],
+        captions.append({'line_id': line_id, 'expected_speaker': lines[line_id]['speaker'],
                          'start': round(20 + segment['start'], 3),
                          'end': round(20 + segment['end'], 3), 'text': lines[line_id]['caption']})
     ids = list(dict.fromkeys(c['line_id'] for c in captions))
@@ -128,10 +133,24 @@ def main():
         assert overlay['id'] == expected['id']
         assert overlay['text'].replace('\n', ' ') == expected['text']
 
+    audio_slots = [
+        {'source': core.as_posix(), 'source_sha256': sha(core), 'timeline_in': 2,
+         'timeline_out': 2 + core_duration, 'line_ids': ['N01','N02','N03','N04'],
+         'status': 'OWNER_PROVISIONAL_BATCH_ACCEPTED_ROOT_A03_WORKING_SELECTION'},
+        {'source': closing.as_posix(), 'source_sha256': sha(closing), 'timeline_in': 20,
+         'timeline_out': 28, 'line_ids': ['N05','N06','N07'], 'status': 'OWNER_REUSE_APPROVED_168'},
+    ]
+    speaker_request = source_request(package_path, captions, audio_slots)
+    speaker_review = json.loads(opts.speaker_review.read_text(encoding='utf-8')) if opts.speaker_review else None
+    speaker_gate = evaluate(speaker_request, speaker_review)
+    if opts.speaker_review and speaker_gate['status'] != 'PASS':
+        raise SystemExit('SIA-01 blocked audio selection: ' + json.dumps(speaker_gate, ensure_ascii=False))
+
     out.mkdir(parents=True, exist_ok=True)
     font = escaped(Path('C:/Windows/Fonts/arial.ttf'))
     draft = out / 'draft-label.txt'
-    draft.write_text('BẢN KIỂM MẠCH C-v0.6 — CHƯA BÀN GIAO', encoding='utf-8')
+    draft.write_text('BẢN TẠM — CHƯA KIỂM VAI/GIỌNG' if opts.allow_unverified_planning
+                     else 'BẢN KIỂM MẠCH C-v0.6 — CHƯA BÀN GIAO', encoding='utf-8')
     manifest_shots = []
     parts = []
     for name, begin, duration, source, seek, label in shot_specs:
@@ -170,7 +189,7 @@ def main():
                     '[core][end]amix=inputs=2:duration=longest:normalize=0[a]')
     run(['-i', str(core), '-i', str(closing), '-filter_complex', audio_filter,
          '-map', '[a]', '-t', '30', '-c:a', 'pcm_s16le', str(pcm)])
-    master = out / 'EP01_30s_C-v0.6_PLANNING_v0.5.mp4'
+    master = out / 'EP01_30s_C-v0.6_PLANNING_v0.6.mp4'
     run(['-f', 'concat', '-safe', '0', '-i', str(concat), '-i', str(pcm), '-map', '0:v',
          '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-t', '30',
          '-movflags', '+faststart', str(master)])
@@ -197,15 +216,10 @@ def main():
     assert (video['width'], video['height'], video['r_frame_rate']) == (720, 1280, '24/1')
     assert float(metadata['format']['duration']) == 30
     assert any(s['codec_type'] == 'audio' for s in metadata['streams'])
-    audio_slots = [
-        {'source': core.as_posix(), 'source_sha256': sha(core), 'timeline_in': 2,
-         'timeline_out': 2 + core_duration, 'line_ids': ['N01','N02','N03','N04'],
-         'status': 'OWNER_PROVISIONAL_BATCH_ACCEPTED_ROOT_A03_WORKING_SELECTION'},
-        {'source': closing.as_posix(), 'source_sha256': sha(closing), 'timeline_in': 20,
-         'timeline_out': 28, 'line_ids': ['N05','N06','N07'], 'status': 'OWNER_REUSE_APPROVED_168'},
-    ]
     report = {'status': 'PLANNING_NOT_DELIVERY', 'script_version': 'C-v0.6',
-              'assembly_version': 'v0.5', 'local_credit_spend': 0, 'script_source': '178',
+              'assembly_version': 'v0.6', 'local_credit_spend': 0, 'script_source': '178',
+              'speaker_gate': speaker_gate, 'unverified_planning_explicit': opts.allow_unverified_planning,
+              'speaker_review_sha256': sha(opts.speaker_review) if opts.speaker_review else None,
               'text_package_sha256': sha(package_path), 'shots': manifest_shots,
               'audio_slots': audio_slots, 'captions': captions, 'release_overlays': overlays,
               'caption_timing_basis': 'ASR word/segment hints, manually mapped to approved text; provisional, not forced alignment.',
@@ -215,6 +229,8 @@ def main():
               'silent_action_window_seconds': [12.005, 20], 'source_audio_complete_pcm_match': 'PASS',
               'gain_or_speed_change': False, 'performance_lipsync_continuity': 'NOT_APPROVED',
               'independent_ear_review': 'NOT_PERFORMED', 'final_mix': 'NOT_DONE',
+              'independent_source_speaker_review': speaker_gate['status'],
+              'independent_ear_review_scope': 'Full mix/creative voice quality not checked by SIA source gate.',
               'output_metadata': metadata, 'master_sha256': sha(master), 'master_bytes': master.stat().st_size}
     write_json(out/'manifest.json', report)
     srt = '\n\n'.join(f"{i}\n{seconds_srt(c['start'])} --> {seconds_srt(c['end'])}\n{c['text']}"

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — đã thêm SIA-01 và chốt chặn speaker QC
+
+[184 — triển khai và thử](184_sia-01-speaker-gate-implementation.md): agent độc lập kiểm câu/người nói/giọng chuẩn/nhân vật trên hình, ba gate trước chọn nguồn/sau ghép/trước bàn giao. Validator và builder hook đã chạy39 fixture tests +5 regression; thiếu review thì không chọn nguồn như đã đạt. Planning phải explicit/ghi chưa kiểm. Actual7 lượt A03/R01 vẫn HOLD vì chưa nghe/reference; nhận dạng tự động chưa tích hợp. Chi0, còn53; K20/D06 không tuyển lại, chưa Quality/master.
+
 ## Mới nhất — owner báo lẫn người nói, kiểm identity chưa hoàn tất
 
 [183 — audit và giới hạn](183_speaker-mapping-audit-partial.md): script/prompt gán vai dự kiến đúng và PCM bản ráp182 giữ nguyên nguồn, không đảo từng câu. Tuy nhiên các trường speaker lấy từ script, không phải audio nhận diện. Đã tách bảy đoạn kiểm; chưa có known-speaker/kiểm nghe xác minh các câu sai. Bản182 **chưa đạt đúng người nói**. Không sửa/sinh mới, chi0, vẫn còn53. Tiếp cần hai mẫu K20/D06 thật và phương tiện nhận diện/người nghe; không nâng Quality từ kiểm kỹ thuật.

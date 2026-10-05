@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-05
 
+**Mới nhất — [184](episodes/ep01_pilot/184_sia-01-speaker-gate-implementation.md):** đã thêm SIA-01 độc lập và hook builder, kiểm39 fixture cases +5 regression. Không cho nguồn thiếu đúng người nói/reference review đi qua như đã đạt; bản tạm cần flag/nhãn riêng. Actual7 lượt hiện HOLD, acoustic identity chưa tích hợp/kiểm; không suy PASS từ prompt/broad approval. Chi0, còn53; chưa Quality/master.
+
 **Mới nhất — [183](episodes/ep01_pilot/183_speaker-mapping-audit-partial.md):** owner báo lẫn người nói. Đối soát chứng minh builder không đảo từng câu; source PCM và vai dự kiến đúng, nhưng chưa có nhận diện speaker thực tế. Đã tách bảy lượt kiểm, chưa điền người nói quan sát; thiếu file mẫu audition local và công cụ/người nghe khả dụng. Bản182 chưa đạt đúng người nói; không sinh lại, chi0, còn53 theo sổ182.
 
 **Mới nhất — [182](episodes/ep01_pilot/182_c-v0.6-assembly-and-action-coverage.md):** đã ráp bản kiểm mạch C-v0.6 30 giây, đủ bảy lượt từ audio A03/R01, không cắt hoặc tăng tốc. Bản vẫn có 27,5 giây ảnh giữ chỗ, không phải phim hoàn chỉnh. Đã thử một batch x3 Veo Lite 720p/tám giây cho nâng–khựng–bắt gặp, tải/decode đủ; cả ba **REWORK** vì thêm diễn miệng/cử chỉ, nhịp lặp hoặc chữ/vệt sương. Không đưa batch này vào bản ráp. Chi 30, lũy kế 202/255, còn **53** được phép thử; account 254→224 và sau hoàn tất vẫn224. Tiếp chuẩn bị chuyển động tách tay/ánh nhìn và kiểm continuity; chưa batch tiếp, Quality hoặc master. Trạng thái chờ ráp/83 credit ở181 bên dưới là lịch sử.

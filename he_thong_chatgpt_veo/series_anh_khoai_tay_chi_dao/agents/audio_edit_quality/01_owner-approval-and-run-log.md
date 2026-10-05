@@ -1,5 +1,9 @@
 # AEQ-v0.1 — Approval và đăng ký chạy thử
 
+## Bổ sung SIA-01 — 2026-10-05
+
+Owner yêu cầu thêm agent kiểm lẫn người nói. [Contract10](10_speaker-identity-auditor-v1.md) và [thực thi184](../../episodes/ep01_pilot/184_sia-01-speaker-gate-implementation.md) đăng ký SIA-01 độc lập tại trước chọn audio, sau ghép AV và trước bàn giao. Đã triển khai gate local, không cấp API/credit/generation mới. Run `/root/speaker_gate_critic` phản biện code/contract và capability-first trên bộ183/184, report [07](reports/07_sia-01-capability-and-gate-review-r1.md). Fixtures/gate hoạt động; chưa nghe hoặc nhận dạng actual. Scope nguồn hiện tại HOLD, không production approval.
+
 2026-10-01 Asia/Saigon. Owner trực tiếp trả lời `chấp thuận, chạy thử đi xem nào` sau đề xuất bốn vị trí voice/ghép lời/ghép cảnh/kiểm bản ráp.
 
 APPROVED: xây contract, fixture và chạy bốn vai trò trong Codex; V01 có thật và diagnostic local dùng bản sao nếu cần. Không đổi script/canon, không Gemini/API, upload, generation, credit, Quality, release hoặc thay final owner acceptance. Flow là ưu tiên ráp production sau khi đủ clip đạt gate. Bài thử paper/diagnostic không thay P6/P9/P10/P12 approval.

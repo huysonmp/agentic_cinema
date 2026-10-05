@@ -1,0 +1,180 @@
+{
+  "request_sha256": "98643c66c2364aba44c4f8f745cd656d97d4f937dac0f2630c5925477c61b49f",
+  "request": {
+    "schema_version": 1,
+    "mode": "AUDIO_SELECTION",
+    "package": {
+      "path": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\evidence\\179\\dialogue-package.json",
+      "sha256": "42a65734684c432978a7a37c32ada2721f5217a962a09a32e69d6aa0fd1ecd9b"
+    },
+    "script": {
+      "path": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\178_owner-dialogue-amendment-c-v0.6.md",
+      "sha256": "ece42d39462cc9496fbc3ad6aa45a597bfcce8f8e1998cde66484cb362ee2626"
+    },
+    "script_version": "C-v0.6",
+    "lines": [
+      {
+        "line_id": "N01",
+        "expected_speaker": "Đào",
+        "text": "Anh nhìn mãi. Không hợp thì để em.",
+        "expected_voice": {
+          "preset": "D06",
+          "base": "Aoede",
+          "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03_VOICE_REVIEW.wav",
+          "sha256": "9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0"
+        },
+        "source_range": [
+          0.0,
+          2.0
+        ],
+        "timeline_range": [
+          2.0,
+          4.0
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      },
+      {
+        "line_id": "N02",
+        "expected_speaker": "Khoai",
+        "text": "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.",
+        "expected_voice": {
+          "preset": "K20",
+          "base": "Orus",
+          "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03_VOICE_REVIEW.wav",
+          "sha256": "9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0"
+        },
+        "source_range": [
+          2.2,
+          7.66
+        ],
+        "timeline_range": [
+          4.2,
+          9.66
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      },
+      {
+        "line_id": "N03",
+        "expected_speaker": "Đào",
+        "text": "Anh chờ ăn à?",
+        "expected_voice": {
+          "preset": "D06",
+          "base": "Aoede",
+          "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03_VOICE_REVIEW.wav",
+          "sha256": "9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0"
+        },
+        "source_range": [
+          8.04,
+          8.64
+        ],
+        "timeline_range": [
+          10.04,
+          10.64
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      },
+      {
+        "line_id": "N04",
+        "expected_speaker": "Khoai",
+        "text": "Chờ mẹ quay lưng.",
+        "expected_voice": {
+          "preset": "K20",
+          "base": "Orus",
+          "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03_VOICE_REVIEW.wav",
+          "sha256": "9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0"
+        },
+        "source_range": [
+          9.02,
+          9.78
+        ],
+        "timeline_range": [
+          11.02,
+          11.78
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      },
+      {
+        "line_id": "N05",
+        "expected_speaker": "Đào",
+        "text": "Chờ em quay lưng nữa à?",
+        "expected_voice": {
+          "preset": "D06",
+          "base": "Aoede",
+          "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+          "sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19"
+        },
+        "source_range": [
+          0.0,
+          1.9
+        ],
+        "timeline_range": [
+          20.0,
+          21.9
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      },
+      {
+        "line_id": "N06",
+        "expected_speaker": "Khoai",
+        "text": "Anh gắp cho em mà.",
+        "expected_voice": {
+          "preset": "K20",
+          "base": "Orus",
+          "reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+          "sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19"
+        },
+        "source_range": [
+          2.62,
+          3.84
+        ],
+        "timeline_range": [
+          22.62,
+          23.84
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      },
+      {
+        "line_id": "N07",
+        "expected_speaker": "Đào",
+        "text": "Thế em quay lại đúng lúc rồi.",
+        "expected_voice": {
+          "preset": "D06",
+          "base": "Aoede",
+          "reference_id": "0ce1551e-e74b-481c-bb9e-d31e04f8b352"
+        },
+        "source": {
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+          "sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19"
+        },
+        "source_range": [
+          4.74,
+          6.34
+        ],
+        "timeline_range": [
+          24.74,
+          26.34
+        ],
+        "timing_basis": "ASR_HINT_NOT_SAMPLE_ACCURATE"
+      }
+    ],
+    "target": null
+  }
+}

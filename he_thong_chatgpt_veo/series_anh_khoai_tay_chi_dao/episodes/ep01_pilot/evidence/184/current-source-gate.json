@@ -1,0 +1,25 @@
+{
+  "status": "HOLD_FOR_INPUT",
+  "scope": "AUDIO_SELECTION",
+  "holds": [
+    "No independent speaker review",
+    "Review belongs to different source/version/range/cut",
+    "Independent reviewer and maker identity required",
+    "Reviewer independence not attested",
+    "ASR/prompt/anonymous diarization is not identity evidence",
+    "Actual listening/reference comparison missing",
+    "Listening record: missing file/hash",
+    "Khoai approved reference audio: missing file/hash",
+    "Khoai reference approval record: missing file/hash",
+    "Khoai: wrong reference ID/preset",
+    "Khoai: reference provenance not reviewed",
+    "Đào approved reference audio: missing file/hash",
+    "Đào reference approval record: missing file/hash",
+    "Đào: wrong reference ID/preset",
+    "Đào: reference provenance not reviewed",
+    "Missing, duplicated or reordered observations"
+  ],
+  "defects": [],
+  "identity_detection_performed_by_gate": false,
+  "release_authorized": false
+}

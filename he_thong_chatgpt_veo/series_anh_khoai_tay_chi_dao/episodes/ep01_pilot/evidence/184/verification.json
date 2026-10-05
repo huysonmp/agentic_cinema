@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-05",
+  "scope": "SIA-01 evidence gate and builder integration, not acoustic identity benchmark",
+  "speaker_gate_synthetic_tests": {"passed": 39, "failed": 0, "skipped": 0},
+  "source_mapping_regression_tests": {"passed": 5, "failed": 0},
+  "compile": "PASS",
+  "builder_without_review_or_explicit_planning_flag": "BLOCKED_BEFORE_RENDER",
+  "builder_with_unverified_183_as_review": "BLOCKED_BEFORE_OUTPUT_DIRECTORY_OR_RENDER",
+  "current_actual_source": "HOLD_FOR_INPUT",
+  "current_actual_speaker_detection_performed": false,
+  "current_actual_listening_performed": false,
+  "new_media_generated": false,
+  "independent_critic": "/root/speaker_gate_critic",
+  "independent_report": "agents/audio_edit_quality/reports/07_sia-01-capability-and-gate-review-r1.md",
+  "credit_spend": 0,
+  "authorized_remaining_from_182": 53,
+  "source_files_modified": false,
+  "release_authorized": false,
+  "limits": "Validator checks current artifacts, report structure, bindings and attested observations. It cannot hear or prove a reviewer truthfully listened. Approved reference audio and actual acoustic review remain missing."
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-05",
+  "status": "TEXTURE_APPROVED_ON_188_NEW_STILL_SEQUENCE_PREPARED_OTHER_GATES_OPEN",
+  "ready_for_paid_submission": false,
+  "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/189_synced_action_refs",
+  "script_version": "C-v0.6",
+  "owner_approval": {
+    "reply": "ok r nhé",
+    "scope": "Texture only in the two 188 files, per preceding question",
+    "approved_hashes": ["d91d902df4abac2f374616c9a3d2866f1478dce2a8fde39ebfcf027b287af16a", "9b34523091aad6a679690b67f1e08df686bd3bf0138d5325bae142016f345f2f"],
+    "new_189_still_approval": "NOT_RECEIVED",
+    "video_approval": "NOT_RECEIVED",
+    "additional_credit_authority": false
+  },
+  "board_title": "189 — CHẤT LIỆU 188 ĐÃ DUYỆT / KHUNG MỚI CHƯA DUYỆT / ẢNH TĨNH",
+  "board_footer": "Không nội suy. Chưa duyệt toàn FOOD, diễn động, nối cảnh hoặc người nói.",
+  "board_name": "189_SYNCED_STILL_INPUTS_NOT_MOTION_v0.1.png",
+  "board_panels": [
+    {
+      "label": "A1 — Chạm món trên đĩa",
+      "status_label": "188 / duyệt chất liệu, chưa cả cảnh",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/188/START_pickup_food_v0.1.png",
+      "sha256": "d91d902df4abac2f374616c9a3d2866f1478dce2a8fde39ebfcf027b287af16a"
+    },
+    {
+      "label": "A2 — Trước bát Khoai",
+      "status_label": "188 / duyệt chất liệu, chưa cả cảnh",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/188/END_pickup_food_v0.1.png",
+      "sha256": "9b34523091aad6a679690b67f1e08df686bd3bf0138d5325bae142016f345f2f"
+    },
+    {
+      "label": "A3 — Nâng và dừng",
+      "status_label": "189 / ảnh mới, chưa diễn khựng",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/END_lift_pause_v0.1.png",
+      "sha256": "8a08a4728dee53f302ea4ce83a9513b6ef2181603fe7a148e5a1dee745930c28"
+    },
+    {
+      "label": "B1 — Nem phía Khoai",
+      "status_label": "189 / bát đã được đỡ, chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/START_redirect_food_v0.1.png",
+      "sha256": "a01754f848c47c82c9b871851307660865f9f825431e968d2aa8c52762562f25"
+    },
+    {
+      "label": "B2 — Trên bát Đào",
+      "status_label": "END chuyển = START đặt / chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/END_redirect_START_deposit_v0.1.png",
+      "sha256": "f60dfffd50566c8c4eb6ad201fdc88ccec52cebe5c6439f20731c0760162e376"
+    },
+    {
+      "label": "B3 — Nem trong bát",
+      "status_label": "189 / ảnh mới, chưa có release",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/END_deposit_food_v0.1.png",
+      "sha256": "f0af15891eb4d4709a8f26ea47363344930926361e2cc53d6eb3268e9634e793"
+    }
+  ],
+  "motion_pairs": [
+    {"id": "PICKUP", "start_panel": "A1", "end_panel": "A2", "motion": "Missing; contact to above own bowl"},
+    {"id": "LIFT_PAUSE", "start_panel": "A2", "end_panel": "A3", "motion": "Missing; short raise then hold, not feeding"},
+    {"id": "REDIRECT", "start_panel": "B1", "end_panel": "B2", "motion": "Missing; same uneaten tuft toward Dao bowl"},
+    {"id": "DEPOSIT", "start_panel": "B2", "end_panel": "B3", "motion": "Missing; release into Dao bowl"}
+  ],
+  "source_lineage": {
+    "lift": "188 END as primary; H185 frame at 1.708333 as pose-only secondary",
+    "redirect_start": "187 redirect START as camera/props; 188 END as texture; 78 as serving/table context",
+    "redirect_end": "Edited new 189 redirect START",
+    "deposit_end": "Edited new 189 redirect END",
+    "originals_preserved": true,
+    "new_outputs_are_native_video_frames": false
+  },
+  "root_review": {
+    "reviewer": "Root actual-image inspection, not independent agent",
+    "material": "Varied pale/golden strips, brown irregular slices and rice-powder appearance transferred to visible serving plate; new image detail is not owner-approved by inheritance",
+    "props": "Herbs, sauces, two bowls and glass remain in two-torso shot; single-Khoai crop omits objects outside its field of view, does not establish they were removed",
+    "chopstick_orientation": "Broad handles at grip, narrow tips toward food/bowl in inspected stills; dynamic anatomy and constant length untested",
+    "b2": "One tuft held over inside Dao bowl; not released",
+    "b3": "Small food portion visible inside Dao bowl, below rim; empty separated tips above; own bowl remains empty",
+    "vapor": "Not observed in four new stills, not a whole-video certification",
+    "limits": ["Exact serving amount and plate scale across 78/wide and close-up not established", "Tuft details and apparent size vary; conservation cannot be certified from endpoints", "Generated food microgeometry is not pixel-invariant", "A3-to-B1 change of camera/hand pose has no motion join", "Dao glass-to-bowl movement still missing", "Pause endpoint is not acted freeze performance"]
+  },
+  "independent_review": "NOT_RUN",
+  "speaker_gate": "SIA_HOLD_DEFERRED_NOT_APPROVED",
+  "approved_video_coverage_added_seconds": 0,
+  "current_30s_assembly_modified": false,
+  "budget": {
+    "flow_spend_this_turn": 0,
+    "project_spent": 232,
+    "project_cap": 255,
+    "project_remaining": 23,
+    "live_quote_or_account_read": false,
+    "prior_x3_lite_quote": 30,
+    "minimum_extra_for_one_batch_if_same_quote": 7,
+    "forecast_four_separate_batches_if_same_quote": 120,
+    "forecast_excludes_other_missing_shots_and_retests": true
+  },
+  "blocked_by": ["New stills and sequence gates not approved", "Dynamic joins and food/prop continuity untested", "No credit top-up/live quote; 23 below prior batch30"],
+  "quality_authorized": false
+}

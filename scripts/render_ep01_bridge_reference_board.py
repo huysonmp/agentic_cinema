@@ -17,11 +17,12 @@ def sha(path):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, required=True)
+    parser.add_argument('--config', type=Path, default=EP/'evidence/187/bridge-input-preflight.json')
     args = parser.parse_args()
     out = args.out.resolve()
     if out.exists() and any(out.iterdir()):
         parser.error('Use a fresh empty output directory; no overwrite.')
-    config = json.loads((EP/'evidence/187/bridge-input-preflight.json').read_text(encoding='utf-8'))
+    config = json.loads(args.config.read_text(encoding='utf-8'))
     assert config['ready_for_paid_submission'] is False
     panels = config['board_panels']
     assert len(panels) == 6
@@ -38,7 +39,7 @@ def main():
     draw = ImageDraw.Draw(canvas)
     font = ImageFont.truetype('C:/Windows/Fonts/arial.ttf', 21)
     small = ImageFont.truetype('C:/Windows/Fonts/arial.ttf', 17)
-    draw.text((20, 12), '187 — KHUNG ĐẦU VÀO TĨNH / CHƯA DUYỆT / KHÔNG PHẢI VIDEO', font=font, fill='#ffdd79')
+    draw.text((20, 12), config.get('board_title', '187 — KHUNG ĐẦU VÀO TĨNH / CHƯA DUYỆT / KHÔNG PHẢI VIDEO'), font=font, fill='#ffdd79')
     draw.text((20, 45), 'Hàng A: gắp → trước bát → nâng. Hàng B: đổi hướng → bát Đào → đặt nem.', font=small, fill='white')
     for i, (panel, item) in enumerate(zip(panels, inventory)):
         col, row = i % 3, i // 3
@@ -48,10 +49,13 @@ def main():
         with Image.open(item['file']) as source:
             thumb = ImageOps.contain(source.convert('RGB'), (336, 585), Image.Resampling.LANCZOS)
             canvas.paste(thumb, (x+(360-thumb.width)//2, y+58))
-    draw.text((20, 1408), 'Không nội suy giữa ảnh. Chưa kiểm FOOD, diễn động, điểm nối hoặc người nói.', font=small, fill='#ffdd79')
+    draw.text((20, 1408), config.get('board_footer', 'Không nội suy giữa ảnh. Chưa kiểm FOOD, diễn động, điểm nối hoặc người nói.'), font=small, fill='#ffdd79')
     draw.text((20, 1435), 'A3 → B1 đổi cỡ cảnh; B1 đã giữ bát: nhịp Đào rời cốc/đưa bát còn thiếu.', font=small, fill='white')
     out.mkdir(parents=True, exist_ok=True)
-    board = out/'187_STILL_INPUTS_NOT_MOTION_v0.1.png'
+    board_name = config.get('board_name', '187_STILL_INPUTS_NOT_MOTION_v0.1.png')
+    if Path(board_name).name != board_name or not board_name.endswith('.png'):
+        parser.error('Board name must be a plain PNG filename.')
+    board = out/board_name
     canvas.save(board)
     report = {'status': 'STILL_COMPARISON_NOT_MOTION_OR_APPROVAL', 'sources': inventory,
               'output': board.as_posix(), 'sha256': sha(board), 'size': [1080,1460],

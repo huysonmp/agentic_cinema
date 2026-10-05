@@ -1,5 +1,11 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-05 — vòng189: duyệt chất liệu không duyệt cả cảnh
+
+Owner “ok r nhé” trả lời câu hỏi texture-only: khóa đúng hai hash188, không tự duyệt mọi ảnh phát sinh, lượng món, motion hoặc budget. Áp chất liệu sang bốn endpoint khác, vẫn kiểm toàn chuỗi và lưu các giới hạn tuft/microgeometry/cỡ cảnh. Cùng file END chuyển–START đặt chỉ bảo đảm đầu vào giống nhau, không render/nối đạt. Dao đã đỡ bát trong nguồn vẫn thiếu nhịp rời cốc; crop bỏ ngoài khuôn không là bằng chứng đã dọn đồ. Bảng tĩnh không tăng coverage và pose giữ không là diễn khựng.
+
+Script bảng nhận config mới nhưng default187 render lại phải byte-identical; đã test hash, decodeảnh/copy và chặn ghi đè. Chi Flow0, còn23. Một batch x3 theo quote cũ30 thiếu7; bốn nhịp nếu mỗi batch30 là120, chưa gồm cảnh khác/retest. Tách thử không làm tổng ngân sách tự giảm; không hứa phần7 đủ video hoặc lách x3 bằng x1/x2. SIA hoãn/HOLD không là speaker PASS.
+
 ## 2026-10-05 — vòng 188: phân vai nguồn ảnh thật và scene AI
 
 Xem lại ảnh thật owner duyệt: cũng có dải/miếng khá rộng, không đều. Không biến “sợi to” thành kết luận sai món chỉ từ scene AI. 78 kiểm bàn/continuity; ảnh thật hỗ trợ food detail. Sửa food riêng không nhập nền/giỏ/món khác; vẫn giữ gate lượng/tỷ lệ và owner xem. Hai ảnh mới có chất liệu thay đổi nhưng chưa chứng minh đạt món hoặc conservation qua video. END sau sửa không native-identical với H185; không ép nối clip cũ để tận dụng. Khung đổi hướng/đặt nem chưa cập nhật nên không gọi đồng bộ toàn chuỗi. Lưu source hash, prompt, actual PNG và giới hạn; chi Flow 0, còn 23, không Quality/master, SIA HOLD.

@@ -1,6 +1,12 @@
 {
   "date": "2026-10-05",
-  "status": "FOOD_CORRECTION_CANDIDATE_OWNER_REVIEW_PENDING",
+  "status": "OWNER_APPROVED_TEXTURE_ONLY_OTHER_GATES_OPEN",
+  "owner_decision": {
+    "reply": "ok r nhé",
+    "scope": "Food material in the two hashed 188 stills only, responding to the explicit texture-only approval question",
+    "record": "189_texture-approval-and-action-reference-sync.md",
+    "does_not_approve": ["Serving quantity", "Full scene layout", "New derivative images", "Dynamic performance", "Complete FOOD gate", "Additional credits"]
+  },
   "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/188_food_source_correction",
   "method": "Built-in imagegen; START edited from 187, END edited from new START. No API, Flow submission or installation.",
   "script_version": "C-v0.6",
@@ -46,7 +52,7 @@
     "props": "Own bowl, left resting hand, herbs and sauce remain in recognizable positions; no new food-side props from real-photo backgrounds seen",
     "vapor": "Not observed in these two stills; not a video PASS",
     "remaining_food_limits": "Full serving amount/plate scale relative to the 78 wide shot and complete-table continuity still pending; close-up partly crops the plate",
-    "owner_texture_approval": "PENDING",
+    "owner_texture_approval": "APPROVED_TEXTURE_ONLY_AT_189",
     "independent_review": "NOT_RUN",
     "dynamic_anatomy_and_food_conservation": "NOT_TESTED"
   },
@@ -70,5 +76,5 @@
   "speaker_gate": "SIA_HOLD_DEFERRED_NOT_APPROVED",
   "ready_for_paid_submission": false,
   "quality_authorized": false,
-  "next": "Owner reviews food material, then synchronize serving scale/morsel across pickup/lift/redirect/deposit references before requesting a paid x3 test. Do not submit current 187 drafts unchanged."
+  "next": "Texture accepted at 189. Synchronize references and check quantity/layout/dynamic continuity before requesting a paid x3 test. Do not submit current 187 drafts unchanged."
 }

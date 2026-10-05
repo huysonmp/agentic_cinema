@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 189: chất liệu188 được duyệt, bốn khung tiếp nối đã chuẩn bị
+
+[189 — approval và đồng bộ khung](189_texture-approval-and-action-reference-sync.md): APPROVED_TEXTURE_ONLY cho hai ảnh188; không duyệt lượng/bố cục/video hoặc credit. Tạo bốn ảnh nâng–chuyển–đặt, có bảng sáu trạng thái, dùng chung file END chuyển/START đặt. Chưa diễn động/nối/FOOD toàn cảnh, coverage mới0; C-v0.6/K20/D06 giữ nguyên, SIA HOLD. Chi Flow0, còn23. Gói thử đầu tiên gắp x3 tối đa30 cần quyền bổ sung tối đa7; chưa gửi hoặc Quality/master. Chờ duyệt chất liệu ở mục188 bên dưới đã được cập nhật đúng phạm vi.
+
 ## Hiện hành — 188: cặp gắp sửa chất liệu nem, chờ xem
 
 [188 — đối chiếu ảnh thật/sửa nguồn món](188_food-source-correction-candidate.md): hai PNG mới đã lưu, miếng/thính không đều hơn theo ảnh món owner duyệt. “Sợi to” tự nó không là lỗi; phải phân vai ảnh thật cho food detail, 78 cho bố trí bàn. Chưa FOOD PASS hoặc đồng bộ khung chuyển–nhận; END mới không trùng native V02. Không video mới, chi Flow 0, còn **23**, SIA HOLD. Cặp ảnh chỉ chờ xem chất liệu, không duyệt diễn hoặc cả bố cục.

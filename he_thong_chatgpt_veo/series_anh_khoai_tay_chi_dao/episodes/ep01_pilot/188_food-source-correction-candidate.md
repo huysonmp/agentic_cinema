@@ -1,5 +1,9 @@
 # EP01 — Sửa chất liệu nem bằng ảnh thật đã duyệt
 
+## Cập nhật quyết định owner tại 189
+
+Owner trả lời “ok r nhé” sau câu hỏi chỉ duyệt chất liệu: **APPROVED_TEXTURE_ONLY** cho cặp PNG 188 đúng hash. Không duyệt lượng/bố cục, mọi khung mới, chuyển động, FOOD toàn cảnh hoặc ngân sách. Những trạng thái chờ xem trong phần lịch sử dưới đây được cập nhật đúng phạm vi này; xem [189](189_texture-approval-and-action-reference-sync.md).
+
 Ngày 2026-10-05. Owner yêu cầu tiếp tục; làm bước local sửa nguồn món, không chi Flow. Dùng skill imagegen tích hợp, giữ bản gốc và lưu asset dự án/folder owner. Không API/key, cài đặt hoặc reviewer độc lập mới.
 
 ## 1. Hiệu chỉnh nhận định từ 187

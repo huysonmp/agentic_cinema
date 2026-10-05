@@ -1,0 +1,25 @@
+189 — WORKING VIDEO DRAFTS, NOT SUBMITTED. Image preparation is not permission to spend. New source/motion gates remain open; quote must be read live.
+
+Common: proposed Lite, 720p, 9:16, 8 seconds, three takes for EACH tested pair. Confirm actual model/settings/quote before submit. Locked camera, preserve scene props/clothing/food material. Cool Nem Bui: no steam/smoke/vapor. Faces and mouths outside these hand inserts, no eating or dialogue. Use requested silent output, then verify actual streams; preserve native and remove audio only from a separate derivative if required. Keep handles in the gripping hand, narrow tips at food, natural fingers/normal chopstick length. No added gestures or plate/bowl movement beyond the specified action. Timing below is a target, not actual measured output.
+
+PICKUP — first proposed test, exploratory not production approval
+START = START_pickup_food_v0.1.png (188)
+END = END_pickup_food_v0.1.png (188)
+From actual contact with the shared plate, Khoai's right-hand chopsticks lift one small tuft and move it back toward him, ending above his own empty bowl. Complete during first 2.5 seconds, then hold the endpoint for the remaining clip. Same tuft held throughout, no raising beyond END, eating, release, return-to-plate or new pickup. Keep resting left hand, plate, bowl, herbs and sauce fixed.
+
+LIFT_PAUSE
+START = END_pickup_food_v0.1.png (188)
+END = END_lift_pause_v0.1.png (189)
+Lift the same small tuft a modest distance to the endpoint in front of Khoai's cream shirt during first 1.5 seconds, then stop and hold. Never raise above the endpoint or approach any mouth. No further lowering/rebound or added gesture. A stationary endpoint is not itself evidence of being caught by Dao; that performance requires the reaction join.
+
+REDIRECT
+START = START_redirect_food_v0.1.png (189)
+END = END_redirect_START_deposit_v0.1.png (189)
+Redirect the same uneaten tuft smoothly from Khoai's own side toward the inside center of Dao's right-side bowl, reaching END during first 2 seconds, then hold above the bowl without release. Dao already supports her bowl, keep it still. Keep serving plate, herbs, two sauces, glass and resting hands fixed. Glass-to-bowl movement is a separate missing shot, not secretly performed here.
+
+DEPOSIT
+START = END_redirect_START_deposit_v0.1.png (189; same file as REDIRECT END)
+END = END_deposit_food_v0.1.png (189)
+Lower the single small tuft into Dao's bowl and release it during first 1.5 seconds. Separate the empty tips slightly and stop just above the bowl at END. Only one portion appears inside her bowl, none in Khoai's bowl, no second serving or pickup. Hold the endpoint, do not feed anyone or move the bowl to a mouth.
+
+QC after each authorized x3: ID/source hashes/settings/prompt read-back and real credit delta; download native/full decode; inspect entire trajectory and dense frames around pickup/release/joins. Check origin/contact, same tuft, no overshoot/contact with mouth/off-frame eating, handle-tip orientation/fingers, no vapor, food/props/camera, and actual audio streams. Record every received take and failure, not just the best frame. A useful partial segment requires its own dense range/entry/exit review, cannot be used after a wrong bite to hide it. Do not auto-promote to Quality or final assembly from these stills.

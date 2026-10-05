@@ -1,0 +1,67 @@
+{
+  "status": "STILL_COMPARISON_NOT_MOTION_OR_APPROVAL",
+  "sources": [
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/188/START_pickup_food_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "d91d902df4abac2f374616c9a3d2866f1478dce2a8fde39ebfcf027b287af16a"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/188/END_pickup_food_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "9b34523091aad6a679690b67f1e08df686bd3bf0138d5325bae142016f345f2f"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/END_lift_pause_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "8a08a4728dee53f302ea4ce83a9513b6ef2181603fe7a148e5a1dee745930c28"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/START_redirect_food_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "a01754f848c47c82c9b871851307660865f9f825431e968d2aa8c52762562f25"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/END_redirect_START_deposit_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "f60dfffd50566c8c4eb6ad201fdc88ccec52cebe5c6439f20731c0760162e376"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/189/END_deposit_food_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "f0af15891eb4d4709a8f26ea47363344930926361e2cc53d6eb3268e9634e793"
+    }
+  ],
+  "output": "C:/Users/PC/Downloads/du_an_nem_bui/189_synced_action_refs/board_v0.1/189_SYNCED_STILL_INPUTS_NOT_MOTION_v0.1.png",
+  "sha256": "f6d95ea1e7c345f5575640ef98a98eab538542d431e6b1b1199ecfd2504a18b4",
+  "size": [
+    1080,
+    1460
+  ],
+  "ready_for_paid_submission": false,
+  "credit_spend": 0
+}

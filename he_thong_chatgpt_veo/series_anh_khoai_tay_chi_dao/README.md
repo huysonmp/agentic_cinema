@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-05
 
+**Hiện hành — [189](episodes/ep01_pilot/189_texture-approval-and-action-reference-sync.md):** owner duyệt chất liệu cặp188, không cả cảnh. Đã tạo bốn khung nâng/chuyển/đặt với chất liệu mới và bảng sáu trạng thái; chưa video/continuity/FOOD toàn cảnh PASS. Cùng file END chuyển/START đặt, SIA HOLD. Chi Flow 0, còn23; đề xuất một batch gắp x3 tối đa30, cần quyền bổ sung tối đa7 riêng batch, chưa được cấp. Bốn nhịp nếu mỗi x3 vẫn30 sẽ là120, chưa gồm các cảnh khác/retest, không hứa7 đủ hoàn tất. Các trạng thái chờ duyệt chất liệu188 bên dưới là lịch sử.
+
 **Hiện hành — [188](episodes/ep01_pilot/188_food-source-correction-candidate.md):** đã xem hai ảnh thật được duyệt và tạo cặp gắp sửa chất liệu món. Chờ owner xem chất liệu; chưa FOOD/continuity PASS, đồng bộ lượng/đĩa/chuyển–nhận hoặc video mới. END mới không còn native-identical với V02. Giữ C-v0.6/K20/D06, SIA HOLD; chi Flow 0, còn 23, chưa Quality/master.
 
 **Hiện hành — [187](episodes/ep01_pilot/187_pickup-and-redirect-working-reference-pairs.md):** hai cặp khung gắp/đổi hướng và bảng ảnh đã lưu, chưa có video mới. FOOD của nguồn cận tay còn REWORK; phải sửa trước paid test. C-v0.6/K20/D06 giữ nguyên, SIA HOLD; chi Flow 0, còn 23, chưa Quality/master.

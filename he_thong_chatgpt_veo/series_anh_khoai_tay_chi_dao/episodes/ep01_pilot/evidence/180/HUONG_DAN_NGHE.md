@@ -20,9 +20,12 @@ Các mã A01–A03 là bộ mới180, không phải bộ177. Không có winner �
 
 Lời chuẩn để đối chiếu:
 
-> Đào: “Anh nhìn mãi. Không hợp thì để em.”  
-> Khoai: “Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.”  
-> Đào: “Anh chờ ăn à?”  
+> Đào: “Anh nhìn mãi. Không hợp thì để em.”
+>
+> Khoai: “Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.”
+>
+> Đào: “Anh chờ ăn à?”
+>
 > Khoai: “Chờ mẹ quay lưng.”
 
 Khoai cần giữ K20 trầm ấm, thân mật, không đọc đều như dẫn bài. Đào cần đúng D06 nữ trưởng thành/miền Bắc, câu hỏi tò mò tự nhiên. Nghe riêng chữ **“rang gạo”**: ASR cả ba nhận “gian gạo”, chưa đủ kết luận âm thanh sai. Nghe cả cuối chữ “lưng”, nhịp chuyển người nói và câu đáp có gấp không. A01/A02 peak sát0dBFS chỉ là chỉ điểm kiểm méo, không tự kết luận méo tiếng.

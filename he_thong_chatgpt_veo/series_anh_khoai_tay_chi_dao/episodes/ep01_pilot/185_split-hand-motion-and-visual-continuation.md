@@ -49,4 +49,3 @@ Tiếp: nối thử ứng viên trên **planning có nhãn**, kiểm continuity 
 - Giả định: cut sang cận Đào có thể giữ nhịp bị bắt gặp; chưa kiểm chứng hiệu quả trong mạch.
 - Còn mở: continuity món/đũa/điểm dừng, phản ứng động, chuyển–nhận, hình thoại và speaker identity.
 - Tiếp theo: thử nối local và chuẩn bị chuyển–nhận; trình bổ sung khi phải chạy bộ vượt23. Chưa Quality/master/publish.
-

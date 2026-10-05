@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-05",
+  "status": "INPUTS_PREPARED_NOT_SUBMITTED_NOT_OWNER_APPROVED",
+  "purpose": "Deposit existing untasted small morsel into Dao's own bowl only",
+  "local_folder": "C:/Users/PC/Downloads/du_an_nem_bui/186_continuity_planning",
+  "references": [
+    {
+      "file": "START_handoff_v0.1.png",
+      "sha256": "985d90144125c75ddbeeeab6d015abe407eb5f2762b41bf32e97d541d82d6336"
+    },
+    {
+      "file": "END_handoff_v0.1.png",
+      "sha256": "26a1c9f6f031b45088967759aa086e6a1e66a7091f9e24f0ddb540c78c676578"
+    }
+  ],
+  "authoritative_scene": {
+    "file": "T-NB-03_v0.8.jpg",
+    "approval": "78",
+    "sha256": "aeb6dfaee1773109243f9f952235a44f2417c6fb7fb4faf15be61c34ca40d924"
+  },
+  "secondary_reference": "H185 actual native V02 frame at 1.708333s for grip/morsel only; not scene/food approval",
+  "review": {
+    "reviewer": "Root actual still review",
+    "faces_and_mouths_outside_frame": true,
+    "wooden_chopstick_handle_vs_tip": "Observed correct orientation in both images",
+    "same_bowl_right": "Observed",
+    "tuft_start": "Above inside receiving bowl",
+    "tuft_end": "Inside receiving bowl; empty tips above",
+    "herbs_and_two_sauces": "Remain within shared table context",
+    "vapor": "Not observed in two images, not a video PASS",
+    "owner_canon": "NOT_APPROVED",
+    "food_reference_fidelity": "NOT_APPROVED",
+    "independent_review": "NOT_RUN",
+    "dynamic_transfer": "NOT_TESTED",
+    "redirect_across_table": "MISSING"
+  },
+  "budget": {
+    "flow_spend_this_turn": 0,
+    "project_spent": 232,
+    "project_cap": 255,
+    "project_remaining": 23,
+    "account_last_observed": 194,
+    "account_live_read_this_turn": false,
+    "last_seen_3_lite_quote": 30,
+    "quote_live_read_this_turn": false,
+    "additional_authority_required_if_same_quote": 7
+  },
+  "voice_status": "HOLD_DEFERRED_NOT_APPROVED",
+  "quality_authorized": false,
+  "ready_for_paid_submission": false,
+  "blocked_by": [
+    "No new live quote/budget check",
+    "Remaining23 below prior batch30",
+    "Food/geometry continuity not independently cleared",
+    "Owner still approval pending"
+  ]
+}

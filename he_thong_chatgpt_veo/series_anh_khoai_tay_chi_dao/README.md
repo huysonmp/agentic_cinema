@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-05
 
+**Mới nhất — [186](episodes/ep01_pilot/186_action-join-probe-and-handoff-inputs.md):** đã dựng bản kiểm nối 8 giây không tiếng, có nhãn và thẻ thiếu cầu nối C01–V02; chưa continuity/diễn PASS. Hai khung đặt nem vào bát Đào đã tạo, chưa owner/FOOD approval hoặc video chuyển–nhận. Không thay bản 30 giây/thoại/giọng, SIA vẫn HOLD. Lượt này chi Flow 0, ngân sách còn 23; không đọc giá/số dư live hoặc gửi thêm batch. v0.2 để nhãn ngoài vùng hình, giữ grip/watermark; script chặn ghi đè đã thử. Chưa Quality/master.
+
 **Mới nhất — [185](episodes/ep01_pilot/185_split-hand-motion-and-visual-continuation.md):** owner hoãn kiểm giọng, tiếp tục hình; SIA vẫn HOLD. Tạo bốn khung tay/phản ứng, chạy một bộ ba Lite720p/8s, tải/decode đủ. Ba take toàn clip REWORK; riêng V02 có đoạn ứng viên nâng ngắn0–1,75s đã xem42frame ở grid, xuất không tiếng, chưa FOOD/continuity/owner PASS hoặc đưa vào bản ráp. Cặp phản ứng chưa chạy video. Chi30, sổ232/255 còn23; account live224→194. Không đủ batch cùng giá30, không Quality/master. Số53/account224 bên dưới là lịch sử.
 
 **Mới nhất — [184](episodes/ep01_pilot/184_sia-01-speaker-gate-implementation.md):** đã thêm SIA-01 độc lập và hook builder, kiểm39 fixture cases +5 regression. Không cho nguồn thiếu đúng người nói/reference review đi qua như đã đạt; bản tạm cần flag/nhãn riêng. Actual7 lượt hiện HOLD, acoustic identity chưa tích hợp/kiểm; không suy PASS từ prompt/broad approval. Chi0, còn53; chưa Quality/master.

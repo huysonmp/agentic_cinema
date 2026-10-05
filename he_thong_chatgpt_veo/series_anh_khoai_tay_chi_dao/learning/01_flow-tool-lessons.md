@@ -1,5 +1,11 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-05 — vòng 186: điểm nối là trạng thái, không chỉ là file cắt
+
+Nguồn C01 kết thúc trên đĩa chung, nguồn V02 bắt đầu trên bát Khoai; khác góc đũa/phần nem. Một cut giữa hai file đã decode không là match-on-action đã đạt. Bản kiểm nối có thẻ chỉ rõ nhịp trung gian chưa có; ảnh phản ứng/hold đều mang nhãn ảnh tạm. Hai frame chuyển–nhận chỉ chứng minh đầu vào tĩnh, không đường đổi hướng hoặc release đúng trong video.
+
+Nhãn kiểm ban đầu đè vùng grip của C01; bản v0.2 để toàn nguồn dưới dải nhãn, không che tay/món/watermark. Khi làm media QC, chính cách trình bằng chứng cũng phải được kiểm. Script local chặn ghi đè render cũ, kiểm hash/range và output; technical PASS không thành creative PASS. Gói tay mới mô tả vị trí theo ảnh/trục camera, không suy tay thực tế từ chữ “right hand” trong prompt cũ. Quyền tiếp tục local không tăng ngân sách: Flow chi 0, còn 23 theo sổ.
+
 ## 2026-10-05 — vòng185: tách tay/ánh nhìn và kiểm audio actual
 
 Ba Lite cùng cặp khung cận tay vẫn nâng vượt rồi hạ về; V01/V03 có vệt hơi quanh thân. Không gọi endpoint đúng là đường đi đã khóa hoặc không có mặt là chứng minh chưa ăn ngoài khung. V02 chỉ có ứng viên0–1,75s, xem42frame ở grid180×320; toàn take giữ REWORK, chưa FOOD/continuity/owner PASS. Thay nhóm nguồn/crop/prompt chỉ là thử phương án, chưa kết luận nguyên nhân gốc đơn biến.

@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-05",
+  "status": "FOOD_CORRECTION_CANDIDATE_OWNER_REVIEW_PENDING",
+  "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/188_food_source_correction",
+  "method": "Built-in imagegen; START edited from 187, END edited from new START. No API, Flow submission or installation.",
+  "script_version": "C-v0.6",
+  "outputs": [
+    {
+      "file": "START_pickup_food_v0.1.png",
+      "sha256": "d91d902df4abac2f374616c9a3d2866f1478dce2a8fde39ebfcf027b287af16a",
+      "bytes": 2150024,
+      "size": [941, 1672],
+      "generation_file": "exec-b052325c-e48a-4548-bad6-1a78fa46dc75.png",
+      "state": "Tips touching small portion on serving mound; before lift"
+    },
+    {
+      "file": "END_pickup_food_v0.1.png",
+      "sha256": "9b34523091aad6a679690b67f1e08df686bd3bf0138d5325bae142016f345f2f",
+      "bytes": 2133861,
+      "size": [941, 1672],
+      "generation_file": "exec-bc2edd17-14c1-4c15-8f6d-8599f560c27b.png",
+      "state": "Single tuft above Khoai's own empty bowl; generated not native"
+    }
+  ],
+  "references": [
+    {
+      "path": "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg",
+      "sha256": "a51303f7100edd0944dc00daa19402fecfe24bb0e15a4143da8f8eae7b9e3a2d",
+      "authority": "Owner-approved real food appearance reference; not table/camera source"
+    },
+    {
+      "path": "C:/Users/PC/Downloads/du_an_nem_bui/z7750931050074_6fa76793489e54e476846aad4d233684_806643377.jpg",
+      "sha256": "1237956e99458385f95f1edf18e0a98e1bddb777030ac1d69fab05fa7a51d741",
+      "authority": "Owner-approved real food appearance reference; do not import other dishes or leaf bedding"
+    },
+    {
+      "path": "C:/Users/PC/Downloads/du_an_nem_bui/T-NB-03_v0.8.jpg",
+      "sha256": "aeb6dfaee1773109243f9f952235a44f2417c6fb7fb4faf15be61c34ca40d924",
+      "authority": "78 scene/table layout, not the sole source of food microtexture"
+    }
+  ],
+  "root_review": {
+    "real_photo_check": "Broad uneven slices/strips also occur in approved real references. Coarse size alone is not sufficient evidence of wrong food.",
+    "start": "More uneven pale/golden strips and brown meat-like slices, rice-powder coating visible; chopstick tip remains at mound. Root observation, not expert food certification.",
+    "end": "Similar plate contents; one small tuft above own empty bowl, thick handles at grip and narrow tips at food. Tuft detail/quantity conservation still unverified.",
+    "props": "Own bowl, left resting hand, herbs and sauce remain in recognizable positions; no new food-side props from real-photo backgrounds seen",
+    "vapor": "Not observed in these two stills; not a video PASS",
+    "remaining_food_limits": "Full serving amount/plate scale relative to the 78 wide shot and complete-table continuity still pending; close-up partly crops the plate",
+    "owner_texture_approval": "PENDING",
+    "independent_review": "NOT_RUN",
+    "dynamic_anatomy_and_food_conservation": "NOT_TESTED"
+  },
+  "source_compatibility": {
+    "end_is_h185_native": false,
+    "h185_reuse": "Mechanics reference only; do not claim native-identical join with corrected END",
+    "186_deposit_refs_updated": false,
+    "187_redirect_refs_updated": false,
+    "episode_30s_assembly_updated": false,
+    "approved_video_coverage_added_seconds": 0
+  },
+  "budget": {
+    "flow_spend_this_turn": 0,
+    "project_spent": 232,
+    "project_cap": 255,
+    "project_remaining": 23,
+    "current_quote_checked": false,
+    "last_observed_x3_lite_quote": 30,
+    "new_credit_authority": false
+  },
+  "speaker_gate": "SIA_HOLD_DEFERRED_NOT_APPROVED",
+  "ready_for_paid_submission": false,
+  "quality_authorized": false,
+  "next": "Owner reviews food material, then synchronize serving scale/morsel across pickup/lift/redirect/deposit references before requesting a paid x3 test. Do not submit current 187 drafts unchanged."
+}

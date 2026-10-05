@@ -1,5 +1,9 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-05 — vòng 188: phân vai nguồn ảnh thật và scene AI
+
+Xem lại ảnh thật owner duyệt: cũng có dải/miếng khá rộng, không đều. Không biến “sợi to” thành kết luận sai món chỉ từ scene AI. 78 kiểm bàn/continuity; ảnh thật hỗ trợ food detail. Sửa food riêng không nhập nền/giỏ/món khác; vẫn giữ gate lượng/tỷ lệ và owner xem. Hai ảnh mới có chất liệu thay đổi nhưng chưa chứng minh đạt món hoặc conservation qua video. END sau sửa không native-identical với H185; không ép nối clip cũ để tận dụng. Khung đổi hướng/đặt nem chưa cập nhật nên không gọi đồng bộ toàn chuỗi. Lưu source hash, prompt, actual PNG và giới hạn; chi Flow 0, còn 23, không Quality/master, SIA HOLD.
+
 ## 2026-10-05 — vòng 187: đường hành động không duyệt lại hình món
 
 END từ frame native khóa đúng file đích, nhưng không chứng minh Veo giữ pixel hoặc motion đạt. START gắp đầu tiên có miếng nem đã nhấc: sẽ không kiểm được nguồn gắp trên đĩa. Sửa điểm tiếp xúc và lưu bản lỗi; chưa thử động nên không kết luận nguyên nhân gốc đã được chữa.

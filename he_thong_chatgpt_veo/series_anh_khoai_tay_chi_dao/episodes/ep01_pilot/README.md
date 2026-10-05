@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 188: cặp gắp sửa chất liệu nem, chờ xem
+
+[188 — đối chiếu ảnh thật/sửa nguồn món](188_food-source-correction-candidate.md): hai PNG mới đã lưu, miếng/thính không đều hơn theo ảnh món owner duyệt. “Sợi to” tự nó không là lỗi; phải phân vai ảnh thật cho food detail, 78 cho bố trí bàn. Chưa FOOD PASS hoặc đồng bộ khung chuyển–nhận; END mới không trùng native V02. Không video mới, chi Flow 0, còn **23**, SIA HOLD. Cặp ảnh chỉ chờ xem chất liệu, không duyệt diễn hoặc cả bố cục.
+
 ## Hiện hành — 187: cầu nối đã chuẩn bị, hình món cần sửa
 
 [187 — khung gắp và đổi hướng](187_pickup-and-redirect-working-reference-pairs.md): hai START mới, sửa điểm tiếp xúc gắp, hai END giữ nguyên từ native/186 và bảng sáu khung có nhãn. Chưa video mới hoặc coverage đạt. FOOD còn REWORK; phải sửa nguồn món trước paid test. SIA HOLD, không đổi C-v0.6/K20/D06 hoặc bản ráp182. Chi Flow 0, còn **23**, chưa live quote/Quality/master. Xem [186](186_action-join-probe-and-handoff-inputs.md) cho bản kiểm nối giữ nguyên. Số dư lớn hơn dưới đây là lịch sử.

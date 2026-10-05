@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-05",
+  "status": "THREE_RECEIVED_ALL_REWORK_NOT_INSERTED",
+  "reviewer": "Root technical and sampled-frame review, not independent agent approval",
+  "sampled_frames_per_clip": 16,
+  "sample_step_seconds": 0.5,
+  "all_frames_reviewed": false,
+  "salvage_approved": false,
+  "common_native_metadata": {
+    "duration_seconds": 8.0,
+    "dimensions": [720, 1280],
+    "fps": "24/1",
+    "codec": "h264",
+    "audio_streams": 0,
+    "full_decode": "PASS"
+  },
+  "files": [
+    {
+      "label": "V01",
+      "flow_id": "2b859d93-732a-4a33-a962-e3e96d4c3728",
+      "native_filename": "Man_and_woman_making_eye_20261005125720.mp4",
+      "local_path": "C:/Users/PC/Downloads/du_an_nem_bui/182_c_v06_assembly/V01.mp4",
+      "bytes": 2286240,
+      "sha256": "cf6dd4858dfe53a75f66a27bdbbefb42121a9f520e78f9f01d222ef144956eb2",
+      "verdict": "REWORK",
+      "observations": "Raises near face, lowers, raises again; later sampled frames show open mouth. Not a single lift-freeze. A definite bite is not established from the grid."
+    },
+    {
+      "label": "V02",
+      "flow_id": "315dd6b9-541b-4721-91cb-407b96132b6c",
+      "native_filename": "Man_and_woman_making_eye_20261005125810.mp4",
+      "local_path": "C:/Users/PC/Downloads/du_an_nem_bui/182_c_v06_assembly/V02.mp4",
+      "bytes": 2186969,
+      "sha256": "b1a1635d63a7946748c2f57df0e84e5ff17c08b6dc74d96d8558eba005bf0f4b",
+      "verdict": "REWORK",
+      "observations": "Dao adds hand gesture and opens mouth; food-to-lip gap is insufficiently clear for non-contact approval."
+    },
+    {
+      "label": "V03",
+      "flow_id": "925fed3b-2fe4-40e5-a483-c95a13cef1ee",
+      "native_filename": "Man_and_woman_making_eye_20261005125841.mp4",
+      "local_path": "C:/Users/PC/Downloads/du_an_nem_bui/182_c_v06_assembly/V03.mp4",
+      "bytes": 2241576,
+      "sha256": "14c788d4635ac81cfc65f8a3b3023fd5d4b50c1d1ac2133dd4ae11d2f9b22614",
+      "verdict": "REWORK",
+      "observations": "Generated Dao text, vapor-like streak near face/tuft around 1-1.5 seconds, added hand acting and open mouths. Plate origin of vapor is not established."
+    }
+  ],
+  "download_method": "Native Flow 720p menu via a new tab at the verified result URL",
+  "download_event_note": "Wait-event timeouts persisted although native files were actually created; verified file presence, bytes, SHA256, metadata and complete decode. No regeneration for downloads.",
+  "credit": {
+    "account_before": 254,
+    "account_after_submit": 224,
+    "account_after_complete": 224,
+    "batch_debit": 30,
+    "authorized_cap": 255,
+    "cumulative_spend": 202,
+    "authorized_remaining": 53,
+    "observed_refund": 0,
+    "second_batch_submitted": false,
+    "quality_submitted": false
+  },
+  "planning_cut": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/182_c_v06_assembly/render_v0.5/EP01_30s_C-v0.6_PLANNING_v0.5.mp4",
+    "sha256": "45a431f57f09eb5ebec18b8e05affc541f76c13873fc1193fe83ec6e02c24ac3",
+    "status": "PLANNING_NOT_DELIVERY",
+    "new_batch_video_used": false
+  }
+}

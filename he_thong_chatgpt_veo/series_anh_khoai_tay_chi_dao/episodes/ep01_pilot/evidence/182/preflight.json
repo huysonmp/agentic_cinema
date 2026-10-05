@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-05",
+  "project_id": "9276788e-9781-44fb-ba5b-083006667374",
+  "scope": "S05-S06 lift-stop-caught visual test, not dialogue or final-film approval",
+  "owner_authority": "Continue within the 83 remaining authorized credits; standing three-sample low-quality test rule",
+  "model_actual": "Veo 3.1 - Lite",
+  "route_actual": "Frames",
+  "aspect_ratio_actual": "9:16",
+  "resolution_actual": "720p",
+  "duration_seconds_actual": 8,
+  "outputs_actual": 3,
+  "agent_actual": false,
+  "quote_actual": 30,
+  "account_before": 254,
+  "account_after_submit": 224,
+  "authorized_remaining_before": 83,
+  "authorized_remaining_after_debit": 53,
+  "start": {
+    "title_actual": "START_short_tuft_v0.1.png",
+    "media_id_from_dom": "e9d9bd15-3535-4865-bd8b-4c321eeb336d",
+    "local_sha256": "e8a9aa146cb5ce0ee8596b0ae716951d6f68feaa5fe3e5e007da4615abc0b4bd",
+    "provenance": "161 source pose/tuft test; scene/food drift noted in161, not canon"
+  },
+  "end": {
+    "title_actual": "END_lift_freeze_v0.1.png",
+    "media_id_from_dom": "4302d02d-8df5-462a-b94a-c9387e179c5b",
+    "local_sha256": "17d8489e758d5d2f7c2a60dc0d5813fb84fdf6c5ec1cae8c129f4cfcadb969f6",
+    "edit_target": "161 START_short_tuft_v0.1.png",
+    "gaze_support_reference": "163 END_low_reaction_v0.1.png",
+    "generator": "built-in imagegen",
+    "workspace_asset": "assets/references/182/END_lift_freeze_v0.1.png",
+    "review": "Root viewed actual: closed lips, food outside/below lips, two bowls/two dips/herbs/glass visible. Not pixel-identity, depth proof or production approval."
+  },
+  "return_video_without_audio_actual": true,
+  "return_video_without_audio_meaning": "Fallback return option, not a guarantee of silent generation or no mouth movement",
+  "prompt_verified": "Exact trimmed innerText matched saved prompt before one submit",
+  "prompt_dom_note": "textContent concatenates text across BR tags; inspect innerText for line-break-preserving comparison. Two failed comparison guards occurred before submit, no generation from them.",
+  "prior_failure_reference": "161 near-face arm overshoot/extra food strands; 163 and169 unwanted gestures/mouth movements",
+  "changed_conditions": "New endpoint includes caught gaze; compact motion with stop tied to returning gaze. Multiple source/prompt changes, not single-variable causal proof.",
+  "retry_policy": "One batch only; do not repeat same configuration if the known motion defect persists",
+  "credit_scope": "Flow debit only; built-in imagegen is separate and not asserted free",
+  "status_at_save": "SUBMITTED_THREE_RESULTS_PENDING"
+}

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — bản kiểm mạch mới và ba mẫu hành động đã loại
+
+[182 — thực thi và bằng chứng](182_c-v0.6-assembly-and-action-coverage.md): bản kiểm mạch 30 giây đủ bảy lượt C-v0.6 bằng audio A03/R01, không cắt/tăng tốc; 27,5 giây vẫn ảnh giữ chỗ, chưa final. Một batch x3 Lite 720p/tám giây giá30 đã tạo/tải/full decode; cả ba **REWORK**, chưa dùng cho dựng. Sổ202/255, còn **53**; account254→224 và sau hoàn tất vẫn224. Đã ghi bài học prompt read-back, tải tab mới và diễn miệng dù không có audio. Tiếp chuẩn bị tách tay/ánh nhìn, kiểm continuity trước chi tiếp; không thêm Quality/master hoặc chọn voice mới. Trạng thái chờ ráp/83 credit bên dưới là lịch sử.
+
 ## Hiện hành — thoại tạm chấp nhận, chuyển trọng tâm sang hoàn thành video
 
 [181 — quyết định và lộ trình](181_owner-provisional-audio-acceptance-and-completion-roadmap.md): owner tạm chấp nhận bộ thoại 180, không tiếp tục thử riêng chữ “rang”. Giữ C-v0.6/K20/D06 và audio cuối R01 theo phạm vi đã duyệt; owner chưa chọn một mẫu cụ thể. Việc còn lại là ráp mạch mới, hoàn thiện diễn hình thiếu, ghép hình–tiếng, chữ/cue và kiểm bàn giao. C01 chỉ được duyệt về động tác gắp; hình của bộ 180/168/169 chưa đạt. Còn 83 credit theo sổ 180, chưa chi thêm hoặc khóa dự toán hoàn thành. Các trạng thái chờ nghe ở tài liệu 180 dưới đây được cập nhật trong phạm vi quyết định 181.

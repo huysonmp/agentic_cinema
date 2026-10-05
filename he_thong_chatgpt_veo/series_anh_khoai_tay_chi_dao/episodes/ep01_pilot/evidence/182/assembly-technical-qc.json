@@ -1,0 +1,19 @@
+{
+  "status": "TECHNICAL_AND_TEXT_PASS_NOT_FINAL_CREATIVE_QC",
+  "exact_script_lines": 7,
+  "subtitle_cues": 9,
+  "full_decode": "PASS",
+  "input_audio_hashes": "PASS",
+  "complete_source_pcm_placement": "PASS",
+  "duration_seconds": 30,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "master_sha256": "45a431f57f09eb5ebec18b8e05affc541f76c13873fc1193fe83ec6e02c24ac3",
+  "master_bytes": 3163743,
+  "still_placeholder_seconds": 27.5,
+  "lip_sync": "NOT_APPROVED",
+  "ear_qc": "NOT_PERFORMED"
+}

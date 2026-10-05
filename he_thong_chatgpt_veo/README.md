@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P5 owner content approved / final review pending` — P0/P1/P2/P3 đã duyệt; owner đã chấp nhận [C-v0.5](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/32_p5-script-c-v0.5-approved-content.md), có [approval đúng nội dung](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/33_p5-c-v0.5-owner-content-approval.md). Chưa toàn bộ P5 quality pass, chưa media/generation. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md); thiết kế Tier 1 đã duyệt, runtime version chờ review.
+`pilot — P6 thử nghiệm diễn hình / ráp mạch, chưa bàn giao` — trạng thái mới nhất tại [182](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/182_c-v0.6-assembly-and-action-coverage.md): đã có bản kiểm mạch C-v0.6 30 giây bằng lời hiện hành; hình còn nhiều ảnh giữ chỗ. Ba mẫu hành động Lite mới đều cần làm lại, chưa mở Quality hoặc phát hành. Còn53 credit trong trần thử đã cấp. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); không suy trạng thái hiện tại từ approval nội dung C-v0.5 cũ.
 
 ## Tài liệu đang dùng
 

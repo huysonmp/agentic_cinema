@@ -1,0 +1,347 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "text": " Anh nhìn mãi, không hợp thì để em.",
+      "tokens": [
+        50364,
+        23574,
+        6245,
+        41320,
+        22410,
+        72,
+        11,
+        11415,
+        276,
+        27836,
+        79,
+        17510,
+        20081,
+        846,
+        13,
+        50482
+      ],
+      "avg_logprob": -0.24074238015187754,
+      "compression_ratio": 1.15527950310559,
+      "no_speech_prob": 0.1087382361292839,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.18,
+          "word": " Anh",
+          "probability": 0.7583894729614258
+        },
+        {
+          "start": 0.18,
+          "end": 0.42,
+          "word": " nhìn",
+          "probability": 0.9890521764755249
+        },
+        {
+          "start": 0.42,
+          "end": 0.8,
+          "word": " mãi,",
+          "probability": 0.9539675414562225
+        },
+        {
+          "start": 1.24,
+          "end": 1.36,
+          "word": " không",
+          "probability": 0.9797350168228149
+        },
+        {
+          "start": 1.36,
+          "end": 1.64,
+          "word": " hợp",
+          "probability": 0.9900736610094706
+        },
+        {
+          "start": 1.64,
+          "end": 1.74,
+          "word": " thì",
+          "probability": 0.9949532151222229
+        },
+        {
+          "start": 1.74,
+          "end": 1.88,
+          "word": " để",
+          "probability": 0.9197859764099121
+        },
+        {
+          "start": 1.88,
+          "end": 2.1,
+          "word": " em.",
+          "probability": 0.9824485182762146
+        }
+      ],
+      "temperature": 0.0
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.4,
+      "end": 5.08,
+      "text": " Khoan, mùi này làm anh nhớ đến bếp nhà anh.",
+      "tokens": [
+        50482,
+        591,
+        1289,
+        282,
+        11,
+        275,
+        5035,
+        72,
+        12542,
+        22319,
+        18931,
+        6245,
+        27260,
+        26353,
+        272,
+        6115,
+        79,
+        35398,
+        18931,
+        13,
+        50637
+      ],
+      "avg_logprob": -0.24074238015187754,
+      "compression_ratio": 1.15527950310559,
+      "no_speech_prob": 0.1087382361292839,
+      "words": [
+        {
+          "start": 2.4,
+          "end": 2.8,
+          "word": " Khoan,",
+          "probability": 0.8096051712830862
+        },
+        {
+          "start": 3.42,
+          "end": 3.64,
+          "word": " mùi",
+          "probability": 0.9620669285456339
+        },
+        {
+          "start": 3.64,
+          "end": 3.8,
+          "word": " này",
+          "probability": 0.9908438920974731
+        },
+        {
+          "start": 3.8,
+          "end": 4.0,
+          "word": " làm",
+          "probability": 0.9746876358985901
+        },
+        {
+          "start": 4.0,
+          "end": 4.18,
+          "word": " anh",
+          "probability": 0.9884981513023376
+        },
+        {
+          "start": 4.18,
+          "end": 4.38,
+          "word": " nhớ",
+          "probability": 0.9677079617977142
+        },
+        {
+          "start": 4.38,
+          "end": 4.5,
+          "word": " đến",
+          "probability": 0.9930062294006348
+        },
+        {
+          "start": 4.5,
+          "end": 4.76,
+          "word": " bếp",
+          "probability": 0.9907195170720419
+        },
+        {
+          "start": 4.76,
+          "end": 4.88,
+          "word": " nhà",
+          "probability": 0.9894385933876038
+        },
+        {
+          "start": 4.88,
+          "end": 5.08,
+          "word": " anh.",
+          "probability": 0.9907130599021912
+        }
+      ],
+      "temperature": 0.0
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.48,
+      "end": 8.58,
+      "text": " Hồi bé, mẹ gian gạo, anh đứng chờ, anh chờ ăn à?",
+      "tokens": [
+        50637,
+        389,
+        15695,
+        15807,
+        11,
+        275,
+        26965,
+        290,
+        952,
+        290,
+        43789,
+        11,
+        18931,
+        2934,
+        44555,
+        417,
+        21270,
+        11,
+        18931,
+        417,
+        21270,
+        28657,
+        1531,
+        30,
+        50808
+      ],
+      "avg_logprob": -0.24074238015187754,
+      "compression_ratio": 1.15527950310559,
+      "no_speech_prob": 0.1087382361292839,
+      "words": [
+        {
+          "start": 5.48,
+          "end": 5.72,
+          "word": " Hồi",
+          "probability": 0.9203960597515106
+        },
+        {
+          "start": 5.72,
+          "end": 5.94,
+          "word": " bé,",
+          "probability": 0.9868260025978088
+        },
+        {
+          "start": 6.32,
+          "end": 6.46,
+          "word": " mẹ",
+          "probability": 0.965955913066864
+        },
+        {
+          "start": 6.46,
+          "end": 6.62,
+          "word": " gian",
+          "probability": 0.44899122416973114
+        },
+        {
+          "start": 6.62,
+          "end": 6.94,
+          "word": " gạo,",
+          "probability": 0.984738826751709
+        },
+        {
+          "start": 7.16,
+          "end": 7.22,
+          "word": " anh",
+          "probability": 0.9909325838088989
+        },
+        {
+          "start": 7.22,
+          "end": 7.4,
+          "word": " đứng",
+          "probability": 0.9956811666488647
+        },
+        {
+          "start": 7.4,
+          "end": 7.72,
+          "word": " chờ,",
+          "probability": 0.912050873041153
+        },
+        {
+          "start": 8.0,
+          "end": 8.06,
+          "word": " anh",
+          "probability": 0.9927893280982971
+        },
+        {
+          "start": 8.06,
+          "end": 8.26,
+          "word": " chờ",
+          "probability": 0.9491579830646515
+        },
+        {
+          "start": 8.26,
+          "end": 8.44,
+          "word": " ăn",
+          "probability": 0.9528993368148804
+        },
+        {
+          "start": 8.44,
+          "end": 8.58,
+          "word": " à?",
+          "probability": 0.532256007194519
+        }
+      ],
+      "temperature": 0.0
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.94,
+      "end": 9.74,
+      "text": " Chờ mẹ quay lưng.",
+      "tokens": [
+        50808,
+        761,
+        21270,
+        275,
+        26965,
+        421,
+        320,
+        287,
+        42509,
+        13,
+        50868
+      ],
+      "avg_logprob": -0.24074238015187754,
+      "compression_ratio": 1.15527950310559,
+      "no_speech_prob": 0.1087382361292839,
+      "words": [
+        {
+          "start": 8.94,
+          "end": 9.16,
+          "word": " Chờ",
+          "probability": 0.9750625789165497
+        },
+        {
+          "start": 9.16,
+          "end": 9.34,
+          "word": " mẹ",
+          "probability": 0.9900933802127838
+        },
+        {
+          "start": 9.34,
+          "end": 9.56,
+          "word": " quay",
+          "probability": 0.994002640247345
+        },
+        {
+          "start": 9.56,
+          "end": 9.74,
+          "word": " lưng.",
+          "probability": 0.9072080850601196
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

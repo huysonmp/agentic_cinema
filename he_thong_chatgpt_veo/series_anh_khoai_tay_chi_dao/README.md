@@ -1,6 +1,8 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái hiện hành — 2026-10-04
+## Trạng thái hiện hành — 2026-10-05
+
+**Ưu tiên hiện hành — [180](episodes/ep01_pilot/180_c-v0.6-voice-retest-execution.md):** owner cấp thêm100 thử, cap255. Đã tạo/tải/decode đủ ba mẫu N01–N04 C-v0.6 bằng OPEN7/K20/D06, Omni360p/10s/x3 giá21. WAV nghe khớp PCM native, có ba bản nghe nối bảy lượt18,005s, không tăng tốc hoặc chèn khoảng hành động. **OWNER_LISTENING_PENDING**, chưa winner; ASR đều ghi “gian gạo” nên cần owner nghe chữ “rang gạo”, không tự kết luận âm sai. Hình cả ba REWORK, chưa bản ráp v0.6 hoặc Quality. Account275→254; chi172/255, còn83 được phép thử. Folder Downloads `180_c_v06_dialogue`. Các request bổ sung17 và pending quyền chi179 dưới đây là lịch sử, không ghi đè quyền100 đã cấp.
 
 **Ưu tiên hiện hành — [179](episodes/ep01_pilot/179_c-v0.6-dialogue-package-and-retest-request.md):** owner chấp nhận đoạn ký ức C-v0.6 theo178; nguồn lời hiện có bảy lượt. Đã chuẩn bị dữ liệu thoại/phụ đề và prompt thử liền N01–N04, chưa media mới hoặc timing thực. Giữ K20/D06 và ba câu kết; các bản audio mở/giữa175–177 và nháp v0.4 là lịch sử v0.5. Sổ chi còn4; đề nghị bổ sung tối đa17 cho batch ba mẫu không vượt21, chưa duyệt/chưa chạy. Giá/cấu hình phải kiểm trực tiếp trước submit. Các trạng thái bên dưới không ghi đè quyết định này.
 

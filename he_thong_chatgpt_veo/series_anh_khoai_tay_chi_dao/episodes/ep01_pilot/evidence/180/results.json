@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "script_version": "C-v0.6",
+  "status": "THREE_NATIVE_DECODED_OWNER_LISTENING_PENDING",
+  "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue",
+  "technical": {"duration_seconds": 10.005, "video_codec": "h264", "width": 360, "height": 640, "fps": "24/1", "audio_codec": "aac", "audio_sample_rate": 48000, "audio_channels": 2, "full_decode": "PASS_ALL_THREE", "wav_format": "PCM_S16LE_48000_STEREO", "native_wav_pcm_match": "PASS_ALL_THREE", "wav_bytes_each": 1921038},
+  "samples": [
+    {"label": "A01", "media_id": "8cc85187-1496-4379-90ea-a9d64f7817d4", "native_download_filename": "Characters_speaking_dialogue_at_…_20261005075013.mp4", "native_bytes": 1138028, "native_sha256": "0315075ae029e071978700e13abba7fb4d0ad1514ad8e3c1d7694ae17951297e", "wav_sha256": "a793cea1636c4d93d7d931c4979ccdc9e48d39f0cea177812822bef8dedbc96b", "asr_end_seconds": 9.72, "mean_dbfs": -16.2, "max_dbfs": 0.0, "visual_status": "REWORK", "visual_findings": "Dish changed to discrete herb-topped portions; composition and serving scale differ from OPEN7. Sampled frames only."},
+    {"label": "A02", "media_id": "87495567-8490-442c-8d9c-a6359324dd01", "native_download_filename": "Characters_speaking_dialogue_at_…_20261005074932.mp4", "native_bytes": 1062089, "native_sha256": "c8074e3b2a9ba65f33ac3e277db0f4d50350d52e35d58d86bfd793e75f548484", "wav_sha256": "0cc49c6e6309e269c0a324c899d017daead78db12e25fc0bc19bffe28c514011", "asr_end_seconds": 9.74, "mean_dbfs": -15.4, "max_dbfs": 0.0, "visual_status": "REWORK", "visual_findings": "Food remains shredded in sampled frames, but camera/composition and table-serving scale differ from OPEN7; no continuity approval. Sampled frames only."},
+    {"label": "A03", "media_id": "8be1b93e-22e9-41a2-a84e-77cf49138f75", "native_download_filename": "Characters_speaking_dialogue_at_…_20261005075036.mp4", "native_bytes": 924285, "native_sha256": "3921e8f9d3a4475bcbd7677f3ca7a180e499adbf432702ccec08aa45dac1620b", "wav_sha256": "9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0", "asr_end_seconds": 9.78, "mean_dbfs": -16.3, "max_dbfs": -0.4, "visual_status": "REWORK", "visual_findings": "Missing bowls/herb plate/dips/glass; changed dish and background; generated subtitle appears despite no-subtitle instruction. Sampled frames only."}
+  ],
+  "asr": {"model": "small", "device": "cpu", "compute_type": "int8", "offline": true, "language": "vi", "initial_prompt": null, "result": "All three include first line, full kitchen recollection, question and final answer in transcript. All transcribe gian gao where approved text is rang gao.", "pronunciation_verdict": "OWNER_EAR_REVIEW_REQUIRED_NOT_CONFIRMED_ERROR", "speaker_verdict": "NOT_PROVEN_BY_ASR", "tail_verdict": "Last-word estimates precede file end by 0.225-0.285s; no trim applied, listening required."},
+  "listening_concat": {"files": ["A01_7-luot_REVIEW.wav", "A02_7-luot_REVIEW.wav", "A03_7-luot_REVIEW.wav"], "duration_seconds_each": 18.005, "bytes_each": 3457038, "mapping": "Full new four-turn source + full R01 audio from154, in order", "closing_source_sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19", "expected_concat_pcm_matches_render": "PASS_ALL_THREE", "gain_or_speed_change": false, "action_gap": false, "purpose": "Listen across seven turns; not a thirty-second film edit or action timing approval"},
+  "download": {"method": "Flow native 360p download menu", "A02_download_event": "Timed out after15s but native file existed and passed decode; did not redownload/regenerate", "A01": "Toast and native file", "A03": "Native file present; decode proof", "retry_generation": false},
+  "budget": {"cap_before": 155, "additional_owner_approved": 100, "cap_now": 255, "spent_before": 151, "this_batch_spent": 21, "spent_total": 172, "remaining_authorized": 83, "account_before": 275, "account_after_submit": 254, "account_after_complete": 254},
+  "independent_ear_review": "NOT_PERFORMED",
+  "new_agent_runs": 0,
+  "owner_audio_approval": "PENDING",
+  "production_video_approval": "NOT_GRANTED",
+  "quality": "NOT_RUN",
+  "next": "Owner listens to three sources, especially rang gao and recollection pacing; do not regenerate on ASR mismatch alone. Update timing and planning cut only after recording actual chosen source and approval scope."
+}

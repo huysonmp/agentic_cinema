@@ -1,0 +1,13 @@
+Create a 10-second vertical dialogue diagnostic using the supplied image. Khoai is the adult golden potato character on the left; use Orus tuỳ chỉnh  as his only voice. Dao is the adult female peach character on the right; use Aoede tuỳ chỉnh  as her only voice. Preserve the composition in a fixed medium two-shot at a small tidy ordinary street-side eatery. Keep hands at rest; this is a voice diagnostic, not the film's plate-pulling, glass-turning, picking-up or food-transfer action. The dish is cold Nem Bui. No steam or smoke.
+
+Speak only these four turns once, in this exact order, with no speaker names spoken and no extra words:
+Dao: "Anh nhìn mãi. Không hợp thì để em."
+Khoai: "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ."
+Dao: "Anh chờ ăn à?"
+Khoai: "Chờ mẹ quay lưng."
+
+Keep the selected custom voice identities and natural northern Vietnamese/Hanoi pronunciation. Dao retains D06: an adult female, airy-open mid register, lightly bright, clear and conversational, not childish, flirtatious or a presenter. Her first turn is an easy friendly suggestion, not scolding or a judgment of the dish. Her question is genuine curiosity, not mockery.
+
+Khoai retains K20: an adult male, warm rounded mid-low tone, close intimate conversation, not a presenter. He gently interrupts on "Khoan", then recalls his family kitchen naturally. Give a small reflective beat between the two sentences of that same turn; they remain one uninterrupted recollection, with Dao listening. Use varied conversational phrasing, not a flat recital or a melancholy monologue. His final "Chờ mẹ quay lưng" is calm and understated, with a small private smile; do not add laughter or explain the joke.
+
+Allow natural brief speaker changes. Preserve every word without rushing, dropping syllables, stretching vowels theatrically or artificially speeding up. Do not force individual turns into old internal time slots. Only one speaker speaks at a time; the other listens with mouth closed. No music, narration, additional speakers, extra dialogue, subtitles or sound effects. Do not read directions aloud.

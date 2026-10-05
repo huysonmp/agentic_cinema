@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — đã thử ba mẫu C-v0.6, chờ nghe
+
+[180 — thực thi và kết quả](180_c-v0.6-voice-retest-execution.md): owner cấp thêm100 cho thử nghiệm, trần255. Đã kiểm giá21/input OPEN7/K20/D06, tạo/tải/decode đủ ba mẫu N01–N04, WAV khớp PCM; đã có bản nghe nối bảy lượt18,005s. ASR đều nhận “gian gạo” thay “rang gạo”, cần nghe trước kết luận lỗi. Hình cả ba REWORK; chưa voice winner/bản ráp mới/Quality. Lũy kế172/255, còn83; account275→254. Folder Downloads `180_c_v06_dialogue`, có hướng dẫn và bằng chứng. Các request chi17/pending-generation bên dưới là lịch sử, không ghi đè quyết định180.
+
 ## Hiện hành — C-v0.6 đã được chấp nhận, gói thử mới chờ quyền chi
 
 [179 — gói thoại và request](179_c-v0.6-dialogue-package-and-retest-request.md): owner “ok” với lời sửa178. Đã chuẩn bị bảy lượt thoại/phụ đề không gán timing giả, prompt thử trọn N01–N04 và checklist token K20/D06/OPEN7. Chưa generation; sổ177 còn4 credit. Đề nghị bổ sung tối đa17 cho một batch x3 tổng không vượt21; giá21 là lịch sử, phải kiểm trực tiếp trước submit. Ba câu kết giữ nguyên; audio mở/giữa và bản ráp v0.4 chưa khớp lời mới. Các phần dưới là lịch sử.

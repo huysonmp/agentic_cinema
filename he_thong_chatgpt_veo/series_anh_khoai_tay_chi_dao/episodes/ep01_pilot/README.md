@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — thoại tạm chấp nhận, chuyển trọng tâm sang hoàn thành video
+
+[181 — quyết định và lộ trình](181_owner-provisional-audio-acceptance-and-completion-roadmap.md): owner tạm chấp nhận bộ thoại 180, không tiếp tục thử riêng chữ “rang”. Giữ C-v0.6/K20/D06 và audio cuối R01 theo phạm vi đã duyệt; owner chưa chọn một mẫu cụ thể. Việc còn lại là ráp mạch mới, hoàn thiện diễn hình thiếu, ghép hình–tiếng, chữ/cue và kiểm bàn giao. C01 chỉ được duyệt về động tác gắp; hình của bộ 180/168/169 chưa đạt. Còn 83 credit theo sổ 180, chưa chi thêm hoặc khóa dự toán hoàn thành. Các trạng thái chờ nghe ở tài liệu 180 dưới đây được cập nhật trong phạm vi quyết định 181.
+
 ## Hiện hành — đã thử ba mẫu C-v0.6, chờ nghe
 
 [180 — thực thi và kết quả](180_c-v0.6-voice-retest-execution.md): owner cấp thêm100 cho thử nghiệm, trần255. Đã kiểm giá21/input OPEN7/K20/D06, tạo/tải/decode đủ ba mẫu N01–N04, WAV khớp PCM; đã có bản nghe nối bảy lượt18,005s. ASR đều nhận “gian gạo” thay “rang gạo”, cần nghe trước kết luận lỗi. Hình cả ba REWORK; chưa voice winner/bản ráp mới/Quality. Lũy kế172/255, còn83; account275→254. Folder Downloads `180_c_v06_dialogue`, có hướng dẫn và bằng chứng. Các request chi17/pending-generation bên dưới là lịch sử, không ghi đè quyết định180.

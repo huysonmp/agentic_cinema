@@ -1,0 +1,29 @@
+{
+  "record": "192",
+  "status": "LOCAL_JOIN_PROBE_VERIFIED_NOT_SEQUENCE_APPROVED",
+  "checks": {
+    "source_hashes": "MATCH_ALL_FOUR",
+    "timeline_seconds": 6,
+    "owner_approved_pickup_rhythm_seconds": 2.5,
+    "still_placeholder_seconds": 3,
+    "missing_card_seconds": 0.5,
+    "video_frames": 144,
+    "fps": 24,
+    "resolution": [720,1280],
+    "audio_streams": 0,
+    "full_decode": "CLEAN",
+    "py_compile": "PASS",
+    "legacy186_regression_sha256": "996f250d9e34ac05520495d308678475fba397d4172901f7fde517d9d400965e",
+    "legacy186_regression": "BYTE_IDENTICAL",
+    "nonempty_output_guard": "REFUSED_RERUN_OUTPUT_HASH_UNCHANGED"
+  },
+  "output_sha256": "f46f7a9721122c5ced10b07dc99e72246d9d5a51e8f9aa4161f47895b46e33e6",
+  "review_scope": "Root reviewed reference stills, native P02 final frame and 12-frame join contact sheet",
+  "independent_review": "NOT_RUN",
+  "reaction_motion": "MISSING",
+  "whole_sequence_continuity": "NOT_APPROVED",
+  "speaker_identity": "HOLD",
+  "credit_this_round": 0,
+  "credit_remaining_authorized": 0,
+  "new_paid_request_submitted": false
+}

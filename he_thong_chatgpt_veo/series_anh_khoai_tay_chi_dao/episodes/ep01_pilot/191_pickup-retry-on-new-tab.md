@@ -1,5 +1,9 @@
 # EP01 — Thử lại gắp trên tab Flow mới
 
+## Cập nhật approval tại192
+
+Owner đã duyệt **nhịp P02 đầu0–2,5s** tại[192](192_pickup-rhythm-approval-and-local-join.md). Trạng thái chờ chọn dưới đây là lịch sử. Chỉ nhịp/range được duyệt, không PASS native8s, FOOD toàn cảnh hoặc điểm nối; không tăng quyền chi.
+
 Ngày 2026-10-05. Owner yêu cầu “mở tab mới rồi chạy đi”, cho phép thử lại batch190 đã lỗi không tính phí. Giữ một yêu cầu x3 Lite tối đa30 trong phần còn30, không thêm ngân sách hoặc mở hành động/Quality khác.
 
 ## Preflight và submit

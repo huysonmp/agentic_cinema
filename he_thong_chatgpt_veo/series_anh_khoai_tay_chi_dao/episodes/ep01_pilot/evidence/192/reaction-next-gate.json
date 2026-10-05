@@ -1,0 +1,13 @@
+{
+  "status": "DRAFT_OWNER_APPROVAL_REQUIRED_NOT_SUBMITTED",
+  "ready_for_paid_submission": false,
+  "scope": "one silent eye/head return reaction before N05; not dialogue or complete caught-in-act sequence",
+  "start": {"source":"C:/Users/PC/Downloads/du_an_nem_bui/185_split_motion/START_Dao_reaction_v0.2.png", "sha256":"9cefcec59dee6a6e3159d752e8c527f3cb43ec7514865ef61960c0c5674facda", "owner_approval":"PENDING_FOR_THIS_TEST"},
+  "end": {"source":"C:/Users/PC/Downloads/du_an_nem_bui/185_split_motion/END_Dao_reaction_v0.2.png", "sha256":"c4e654b09bb856fc0bf40966b79de782d3ed2ce5f7364e70cf1fd573150c9255", "owner_approval":"PENDING_FOR_THIS_TEST"},
+  "proposed_route": {"model":"Veo 3.1 Lite", "mode":"Frames", "aspect":"9:16", "outputs":3, "resolution":"720p", "duration_seconds":8, "silent_fallback":true, "agent":false},
+  "quote": {"last_observed_batch_credits":30, "observed_at_record":"191", "live_this_turn":false},
+  "authority": {"remaining_current":0, "proposed_additional":30, "max_one_batch":30, "current_cap":262, "cap_if_owner_approves":292, "approved_this_turn":false},
+  "before_submit": ["Owner approves exact reference pair and one x3 budget", "Recheck source hashes and actual selected START/END", "Read live quote and model before submit; stop if above30", "Read back submitted prompt; Agent OFF; verify silent option"],
+  "qc": ["One look turn, not repeated", "Closed mouth before N05", "No new hand gesture or glass lift", "Character and table/foreground do not drift", "No haze; whole-clip check and dense moving interval", "Join to P02: screen-left eyeline and no mismatch claimed from hidden hand", "Technical native/hash/decode is separate from creative approval"],
+  "known_limits": ["Prior close reaction167/169 failed; this pair185 has a simpler jacket-only left foreground, but effectiveness untested", "Does not fill Khoai lift/freeze expression, N05 lipsync, transfer/deposit or ending", "Owner pickup rhythm approval is not approval of these references or new spending", "SIA remains HOLD"]
+}

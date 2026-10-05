@@ -32,6 +32,7 @@ def run(args):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, required=True)
+    parser.add_argument('--config', type=Path, help='Optional versioned, hash-locked local probe specification.')
     args = parser.parse_args()
     out = args.out.resolve()
     if out.exists() and any(out.iterdir()):
@@ -42,9 +43,6 @@ def main():
         pickup: 'b574b2fd21b2a959ccd73901873fefbd217e4e5049310ae84c77d5e6641e7dd1',
         lift: '08b202df0b4776527f35dc398f40b0c9832316c985b8f4cff7f2a84101c51eb6',
     }
-    for source, digest in expected.items():
-        if sha(source) != digest:
-            parser.error(f'Source changed: {source.name}')
     specs = [
         ('S01', 1.25, 'STILL', MEDIA/'185_split_motion/START_Dao_reaction_v0.2.png', None,
          'ẢNH TẠM: Đào ở cốc / thiếu động tác'),
@@ -59,15 +57,30 @@ def main():
         ('S06', .5, 'STILL', MEDIA/'186_continuity_planning/H185_out_1.708.png', None,
          'ẢNH TẠM: tay khựng / chưa duyệt diễn'),
     ]
-    assert sum(s[1] for s in specs) == 8
+    config = {}
+    if args.config:
+        config = json.loads(args.config.read_text(encoding='utf-8'))
+        specs = [(s['shot'], s['duration'], s['type'], Path(s['source']) if s['source'] else None,
+                  s.get('source_in'), s['label']) for s in config['shots']]
+        expected = {Path(s['source']): s['source_sha256'] for s in config['shots'] if s['source']}
+    for source, digest in expected.items():
+        if not source.is_file() or sha(source) != digest:
+            parser.error(f'Source missing or changed: {source.name}')
+    duration_total = sum(s[1] for s in specs)
+    if duration_total <= 0 or abs(duration_total*24 - round(duration_total*24)) > 1e-6:
+        parser.error('Timeline must be positive and aligned to 24 fps.')
+    shot_approvals = {s['shot']: s.get('approval', 'NOT_APPROVED') for s in config.get('shots', [])}
     for _, duration, kind, source, seek, _ in specs:
         if source and not source.is_file():
             parser.error(f'Missing source: {source}')
-        if kind == 'VIDEO_CANDIDATE':
+        if duration <= 0 or abs(duration*24 - round(duration*24)) > 1e-6:
+            parser.error('Each shot must be positive and frame aligned.')
+        if kind.startswith('VIDEO_'):
+            assert seek is not None and seek >= 0
             assert seek + duration <= float(probe(source)['format']['duration']) + 1e-6
     out.mkdir(parents=True, exist_ok=True)
     banner = out/'banner.txt'
-    banner.write_text('NHÁP KIỂM NỐI — CHƯA DUYỆT', encoding='utf-8')
+    banner.write_text(config.get('banner', 'NHÁP KIỂM NỐI — CHƯA DUYỆT'), encoding='utf-8')
     font = escaped(Path('C:/Windows/Fonts/arial.ttf'))
     parts, shots = [], []
     timeline = 0
@@ -95,32 +108,39 @@ def main():
                       'timeline_out': timeline+duration, 'source': source.as_posix() if source else None,
                       'source_in': seek, 'source_out': seek+duration if seek is not None else None,
                       'source_sha256': sha(source) if source else None, 'label': label,
-                      'approval': 'NOT_APPROVED'})
+                      'approval': shot_approvals.get(name, 'NOT_APPROVED')})
         timeline += duration
     concat = out/'concat.txt'
     concat.write_text('\n'.join("file '"+p.as_posix()+"'" for p in parts), encoding='utf-8')
-    result = out/'EP01_ACTION_JOIN_8s_PLANNING_v0.2.mp4'
+    result_name = config.get('output_name', 'EP01_ACTION_JOIN_8s_PLANNING_v0.2.mp4')
+    if Path(result_name).name != result_name or not result_name.endswith('.mp4'):
+        parser.error('Output name must be a local MP4 basename.')
+    result = out/result_name
     run(['-f', 'concat', '-safe', '0', '-i', str(concat), '-map', '0:v:0', '-an',
          '-c:v', 'copy', '-movflags', '+faststart', str(result)])
     metadata = probe(result)
     assert len(metadata['streams']) == 1
     video = metadata['streams'][0]
-    assert (video['width'], video['height'], video['r_frame_rate'], video['nb_frames']) == (720,1280,'24/1','192')
-    assert float(metadata['format']['duration']) == 8
+    assert (video['width'], video['height'], video['r_frame_rate'], int(video['nb_frames'])) == (720,1280,'24/1',round(duration_total*24))
+    assert abs(float(metadata['format']['duration']) - duration_total) < 1e-6
     run(['-i', str(result), '-f', 'null', 'NUL'])
     run(['-i', str(result), '-vf', 'fps=2,scale=180:320,tile=4x4', '-frames:v', '1', str(out/'contact.png')])
-    manifest = {'status': 'JOIN_PROBE_NOT_DELIVERY', 'probe_version': 'v0.2', 'script_version': 'C-v0.6',
+    manifest = {'status': 'JOIN_PROBE_NOT_DELIVERY', 'probe_version': config.get('version', 'v0.2'), 'script_version': 'C-v0.6',
                 'silent': True, 'audio_streams': 0, 'speaker_gate': 'HOLD_DEFERRED_NOT_APPROVED',
-                'source_audio_used': False, 'credit_spend': 0, 'project_credit_remaining': 23,
-                'shots': shots, 'still_placeholder_seconds': 3.0, 'missing_bridge_card_seconds': .75,
-                'video_candidate_seconds': 4.25, 'coverage_approval': 'NOT_APPROVED',
+                'source_audio_used': False, 'credit_spend': 0, 'project_credit_remaining': config.get('project_credit_remaining', 23),
+                'shots': shots, 'still_placeholder_seconds': sum(s[1] for s in specs if s[2] == 'STILL'),
+                'missing_bridge_card_seconds': sum(s[1] for s in specs if s[2] == 'MISSING_BRIDGE_CARD'),
+                'video_candidate_seconds': sum(s[1] for s in specs if s[2] == 'VIDEO_CANDIDATE'),
+                'coverage_approval': config.get('coverage_approval', 'NOT_APPROVED'),
                 'performance_lipsync_continuity': 'NOT_APPROVED', 'speed_change': False,
                 'source_files_preserved': True, 'full_source_visible_below_label_band': True,
                 'technical': 'DECODE_AND_TIMELINE_PASS_NOT_CREATIVE_PASS',
                 'output': result.as_posix(), 'sha256': sha(result), 'bytes': result.stat().st_size,
                 'metadata': metadata}
+    if config:
+        manifest['video_owner_rhythm_approved_seconds'] = sum(s[1] for s in specs if s[2] == 'VIDEO_RHYTHM_APPROVED')
     (out/'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(json.dumps({'output': result.as_posix(), 'duration':8, 'sha256':sha(result),
+    print(json.dumps({'output': result.as_posix(), 'duration':duration_total, 'sha256':sha(result),
                       'status':manifest['status']}, ensure_ascii=False))
 
 

@@ -1,0 +1,14 @@
+{
+  "version": "192-v0.1",
+  "output_name": "EP01_PICKUP_TO_DAO_6s_PLANNING_v0.1.mp4",
+  "banner": "KIỂM NỐI — ĐÀO VẪN LÀ ẢNH TẠM",
+  "project_credit_remaining": 0,
+  "coverage_approval": "P02_RHYTHM_ONLY_NOT_FULL_SEQUENCE",
+  "shots": [
+    {"shot":"S01","duration":1.25,"type":"STILL","source":"C:/Users/PC/Downloads/du_an_nem_bui/185_split_motion/START_Dao_reaction_v0.2.png","source_sha256":"9cefcec59dee6a6e3159d752e8c527f3cb43ec7514865ef61960c0c5674facda","label":"ẢNH TẠM: Đào ở cốc / thiếu quay đi"},
+    {"shot":"S02","duration":2.5,"type":"VIDEO_RHYTHM_APPROVED","source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","source_sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_in":0,"label":"P02: nhịp gắp đã duyệt / chưa duyệt nối","approval":"OWNER_APPROVED_PICKUP_RHYTHM_0_TO_2.5_ONLY"},
+    {"shot":"S03","duration":1.25,"type":"STILL","source":"C:/Users/PC/Downloads/du_an_nem_bui/185_split_motion/END_Dao_reaction_v0.2.png","source_sha256":"c4e654b09bb856fc0bf40966b79de782d3ed2ce5f7364e70cf1fd573150c9255","label":"ẢNH TẠM: Đào nhìn trái / thiếu quay lại"},
+    {"shot":"S04","duration":0.5,"type":"STILL","source":"C:/Users/PC/Downloads/du_an_nem_bui/192_approved_pickup_join/inputs/P02_APPROVED_OUT_frame59.png","source_sha256":"db95be527d709dd39bb1107f5ac94a036bc480be28691d2c64b694112ae640c8","label":"FREEZE TẠM: frame cuối P02 / chưa diễn khựng"},
+    {"shot":"S05","duration":0.5,"type":"MISSING_BRIDGE_CARD","source":null,"label":"THIẾU: nâng-khựng và phản ứng động"}
+  ]
+}

@@ -20,7 +20,7 @@
   "whole_take_creative_qc": "REWORK_ALL_THREE",
   "reviewer": "root, frame contact sheets and two native frame views",
   "independent_review": "NOT_RUN",
-  "candidate": {"code":"P02", "range_seconds":[0,2.5], "frame_count":60, "status":"OWNER_REVIEW_NOT_PRODUCTION_APPROVED", "crop":false, "speed_change":false, "audio_removed_locally":true, "sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b"},
+  "candidate": {"code":"P02", "range_seconds":[0,2.5], "frame_count":60, "status":"OWNER_APPROVED_PICKUP_RHYTHM_ONLY_AT_192", "approval_record":"192_pickup-rhythm-approval-and-local-join.md", "whole_sequence_approved":false, "crop":false, "speed_change":false, "audio_removed_locally":true, "sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b"},
   "continuity": "NOT_APPROVED",
   "food_whole_scene": "NOT_APPROVED",
   "speaker_identity": "HOLD",

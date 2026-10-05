@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 192: P02 được duyệt về nhịp, đã kiểm nối local
+
+[192 — approval và bản kiểm6s](192_pickup-rhythm-approval-and-local-join.md): owner duyệt P02 range0–2,5s/60frame; không duyệt native8s/FOOD toàn cảnh hoặc tăng credit. Bản local gồm2,5s P02,3s ảnh tạm Đào/tay và0,5s thẻ thiếu, không tiếng và không thay182. Trục ảnh dự kiến phù hợp nhưng chưa phản ứng động/khựng/nối đạt. Đã chuẩn bị gói một x3 Lite phản ứng Đào với cặp185v0.2, chờ duyệt cặp đầu vào và thêm tối đa30; chưa gửi hoặc live quote. Chi0, sổ262/262 còn0, SIA HOLD; không Quality/master.
+
 ## Hiện hành — 191: tab mới chạy được, tải đủ ba mẫu gắp
 
 [191 — thử lại và review](191_pickup-retry-on-new-tab.md): owner yêu cầu mở tab mới/chạy; một batch x3 Lite giá30 đã thành công/tải720p/decode đủ. Account244→214; sổ262/262 **còn0 được phép chi**. Cả ba8s còn vệt hơi/điểm giữ, không PASS toàn take. Đề xuất owner xem P02 đầu2,5s; có native và so sánh nguyên8s để không giấu lỗi. Chưa đưa vào bản ráp/continuity/FOOD toàn cảnh; giữ C-v0.6/K20/D06/SIA HOLD. Chờ chọn nhịp, có thể kiểm nối local; generation mới phải có quyền chi. Trạng thái chặn/còn30 ở190 dưới đây là lịch sử, đã thực thi tiếp theo191.

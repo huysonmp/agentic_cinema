@@ -1,0 +1,67 @@
+{
+  "status": "STILL_COMPARISON_NOT_MOTION_OR_APPROVAL",
+  "sources": [
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/START_pickup_v0.2.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "770d3b1f288c7cb14395fa40b13b7aef059f51786c0864e23f3065ce0f446e59"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/END_pickup_NATIVE_H185_in_0.png",
+      "size": [
+        720,
+        1280
+      ],
+      "mode": "RGB",
+      "sha256": "f29c2ead19ff8849df0a81fa590260147f738026350d2b798c97471f3ec925cf"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/evidence/186/H185_out_1.708.png",
+      "size": [
+        720,
+        1280
+      ],
+      "mode": "RGB",
+      "sha256": "2854fa49545b9b2957b20c30fee3dcc0af17016189f01a62b2cb19ecb64653b2"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/START_redirect_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "16210969afb63e2aa74d880b52051aeb0308b97997f6f4869d7a6724cdb45e34"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/END_redirect_EXACT_186_START.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "985d90144125c75ddbeeeab6d015abe407eb5f2762b41bf32e97d541d82d6336"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/186/END_handoff_v0.1.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "sha256": "26a1c9f6f031b45088967759aa086e6a1e66a7091f9e24f0ddb540c78c676578"
+    }
+  ],
+  "output": "C:/Users/PC/Downloads/du_an_nem_bui/187_action_bridge_inputs/board_v0.1/187_STILL_INPUTS_NOT_MOTION_v0.1.png",
+  "sha256": "0cecd73cecef9b6f026fe4324fb1384d1968fb77c79d711c6c081ef009d475c4",
+  "size": [
+    1080,
+    1460
+  ],
+  "ready_for_paid_submission": false,
+  "credit_spend": 0
+}

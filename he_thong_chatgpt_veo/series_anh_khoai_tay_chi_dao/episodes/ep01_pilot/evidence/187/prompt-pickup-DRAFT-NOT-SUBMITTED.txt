@@ -1,0 +1,4 @@
+WORKING DRAFT — NOT SUBMITTED. Clear FOOD/source fidelity, owner review, current quote and budget first.
+START: START_pickup_v0.2.png. END: END_pickup_NATIVE_H185_in_0.png.
+Locked camera, vertical torso/hand/table close-up. Khoai's right-hand wooden chopsticks lift exactly one small tuft from the contact point on the shared plate, move back toward him, then stop above his own empty bowl at END. The tuft remains between the narrow tips; thick handle ends in his gripping hand. Leave the left hand and table props fixed. Target first 2.5 seconds for motion, then hold; no further raising, eating, lowering, dialogue or new gesture. Cool food, no steam, smoke or vapor. Faces/mouths outside frame. Requested silent output; inspect actual audio streams after download.
+Proposal: Lite, 8 seconds, 9:16, three takes. Not a live quote, spending instruction or measured timing. This working pair still inherits the FOOD gate; do not submit unchanged.

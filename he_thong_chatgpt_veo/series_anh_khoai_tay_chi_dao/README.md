@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-05
 
+**Hiện hành — [187](episodes/ep01_pilot/187_pickup-and-redirect-working-reference-pairs.md):** hai cặp khung gắp/đổi hướng và bảng ảnh đã lưu, chưa có video mới. FOOD của nguồn cận tay còn REWORK; phải sửa trước paid test. C-v0.6/K20/D06 giữ nguyên, SIA HOLD; chi Flow 0, còn 23, chưa Quality/master.
+
 **Mới nhất — [186](episodes/ep01_pilot/186_action-join-probe-and-handoff-inputs.md):** đã dựng bản kiểm nối 8 giây không tiếng, có nhãn và thẻ thiếu cầu nối C01–V02; chưa continuity/diễn PASS. Hai khung đặt nem vào bát Đào đã tạo, chưa owner/FOOD approval hoặc video chuyển–nhận. Không thay bản 30 giây/thoại/giọng, SIA vẫn HOLD. Lượt này chi Flow 0, ngân sách còn 23; không đọc giá/số dư live hoặc gửi thêm batch. v0.2 để nhãn ngoài vùng hình, giữ grip/watermark; script chặn ghi đè đã thử. Chưa Quality/master.
 
 **Mới nhất — [185](episodes/ep01_pilot/185_split-hand-motion-and-visual-continuation.md):** owner hoãn kiểm giọng, tiếp tục hình; SIA vẫn HOLD. Tạo bốn khung tay/phản ứng, chạy một bộ ba Lite720p/8s, tải/decode đủ. Ba take toàn clip REWORK; riêng V02 có đoạn ứng viên nâng ngắn0–1,75s đã xem42frame ở grid, xuất không tiếng, chưa FOOD/continuity/owner PASS hoặc đưa vào bản ráp. Cặp phản ứng chưa chạy video. Chi30, sổ232/255 còn23; account live224→194. Không đủ batch cùng giá30, không Quality/master. Số53/account224 bên dưới là lịch sử.

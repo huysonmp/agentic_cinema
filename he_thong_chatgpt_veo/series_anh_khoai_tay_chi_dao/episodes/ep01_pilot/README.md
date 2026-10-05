@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 187: cầu nối đã chuẩn bị, hình món cần sửa
+
+[187 — khung gắp và đổi hướng](187_pickup-and-redirect-working-reference-pairs.md): hai START mới, sửa điểm tiếp xúc gắp, hai END giữ nguyên từ native/186 và bảng sáu khung có nhãn. Chưa video mới hoặc coverage đạt. FOOD còn REWORK; phải sửa nguồn món trước paid test. SIA HOLD, không đổi C-v0.6/K20/D06 hoặc bản ráp182. Chi Flow 0, còn **23**, chưa live quote/Quality/master. Xem [186](186_action-join-probe-and-handoff-inputs.md) cho bản kiểm nối giữ nguyên. Số dư lớn hơn dưới đây là lịch sử.
+
 ## Mới nhất — đã thêm SIA-01 và chốt chặn speaker QC
 
 [184 — triển khai và thử](184_sia-01-speaker-gate-implementation.md): agent độc lập kiểm câu/người nói/giọng chuẩn/nhân vật trên hình, ba gate trước chọn nguồn/sau ghép/trước bàn giao. Validator và builder hook đã chạy39 fixture tests +5 regression; thiếu review thì không chọn nguồn như đã đạt. Planning phải explicit/ghi chưa kiểm. Actual7 lượt A03/R01 vẫn HOLD vì chưa nghe/reference; nhận dạng tự động chưa tích hợp. Chi0, còn53; K20/D06 không tuyển lại, chưa Quality/master.

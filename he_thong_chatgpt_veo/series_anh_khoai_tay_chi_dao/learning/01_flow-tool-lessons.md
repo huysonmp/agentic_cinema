@@ -1,5 +1,11 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-05 — vòng 187: đường hành động không duyệt lại hình món
+
+END từ frame native khóa đúng file đích, nhưng không chứng minh Veo giữ pixel hoặc motion đạt. START gắp đầu tiên có miếng nem đã nhấc: sẽ không kiểm được nguồn gắp trên đĩa. Sửa điểm tiếp xúc và lưu bản lỗi; chưa thử động nên không kết luận nguyên nhân gốc đã được chữa.
+
+Mound lớn/sợi to của nguồn tay khác bàn ăn 78: dùng để lập động tác không làm FOOD tự PASS. Ghi REWORK, sửa/thống nhất món trước paid test. Nếu sửa END native, phải kiểm lại clip nối chứ không gọi còn native-identical. END đổi hướng trùng file START đặt nem vẫn thiếu diễn, nhịp Đào rời cốc/giữ bát và continuity qua cỡ cảnh. Bảng ảnh không tăng coverage. Python mặc định thiếu Pillow: dùng runtime bundled sẵn, không cài thêm; test chống ghi đè/kiểm bản sao. Chi Flow 0, còn 23; SIA hoãn/HOLD.
+
 ## 2026-10-05 — vòng 186: điểm nối là trạng thái, không chỉ là file cắt
 
 Nguồn C01 kết thúc trên đĩa chung, nguồn V02 bắt đầu trên bát Khoai; khác góc đũa/phần nem. Một cut giữa hai file đã decode không là match-on-action đã đạt. Bản kiểm nối có thẻ chỉ rõ nhịp trung gian chưa có; ảnh phản ứng/hold đều mang nhãn ảnh tạm. Hai frame chuyển–nhận chỉ chứng minh đầu vào tĩnh, không đường đổi hướng hoặc release đúng trong video.

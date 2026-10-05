@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-05",
+  "status": "WORKING_STILL_INPUTS_NOT_MOTION_NOT_APPROVED",
+  "script_version": "C-v0.6",
+  "creation": "Built-in imagegen: pickup v0.1, contact correction v0.2, redirect v0.1. Endpoints copied byte-for-byte from existing sources.",
+  "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/187_action_bridge_inputs",
+  "ready_for_paid_submission": false,
+  "board_panels": [
+    {
+      "label": "A1 — Chạm món trên đĩa",
+      "status_label": "Ảnh mới v0.2 / chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/START_pickup_v0.2.png",
+      "sha256": "770d3b1f288c7cb14395fa40b13b7aef059f51786c0864e23f3065ce0f446e59"
+    },
+    {
+      "label": "A2 — Trước bát Khoai",
+      "status_label": "Frame native H185 / chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/END_pickup_NATIVE_H185_in_0.png",
+      "sha256": "f29c2ead19ff8849df0a81fa590260147f738026350d2b798c97471f3ec925cf"
+    },
+    {
+      "label": "A3 — Nâng trước áo",
+      "status_label": "Frame native H185 / chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/evidence/186/H185_out_1.708.png",
+      "sha256": "2854fa49545b9b2957b20c30fee3dcc0af17016189f01a62b2cb19ecb64653b2"
+    },
+    {
+      "label": "B1 — Nem phía Khoai",
+      "status_label": "Ảnh mới / đã giữ bát / chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/START_redirect_v0.1.png",
+      "sha256": "16210969afb63e2aa74d880b52051aeb0308b97997f6f4869d7a6724cdb45e34"
+    },
+    {
+      "label": "B2 — Trên bát Đào",
+      "status_label": "Ảnh 186 giữ nguyên / chưa duyệt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/187/END_redirect_EXACT_186_START.png",
+      "sha256": "985d90144125c75ddbeeeab6d015abe407eb5f2762b41bf32e97d541d82d6336"
+    },
+    {
+      "label": "B3 — Nem trong bát",
+      "status_label": "Ảnh 186 / chưa có động tác đặt",
+      "repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/186/END_handoff_v0.1.png",
+      "sha256": "26a1c9f6f031b45088967759aa086e6a1e66a7091f9e24f0ddb540c78c676578"
+    }
+  ],
+  "rejected": {
+    "file": "START_pickup_v0.1_REWORK.png",
+    "sha256": "edd22f1d768fa313de5e26f245d82b983871c3b60a1377d571a1aeb09b00283a",
+    "reason": "Morsel visibly already above the serving mound; not a contact/grasp start. Preserved, not selected."
+  },
+  "exact_copy_checks": [
+    {
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/186_continuity_planning/H185_in_0.png",
+      "copy": "END_pickup_NATIVE_H185_in_0.png",
+      "sha256": "f29c2ead19ff8849df0a81fa590260147f738026350d2b798c97471f3ec925cf"
+    },
+    {
+      "source": "C:/Users/PC/Downloads/du_an_nem_bui/186_continuity_planning/START_handoff_v0.1.png",
+      "copy": "END_redirect_EXACT_186_START.png",
+      "sha256": "985d90144125c75ddbeeeab6d015abe407eb5f2762b41bf32e97d541d82d6336"
+    }
+  ],
+  "review": {
+    "reviewer": "Root actual still inspection; no independent agent run this turn",
+    "pickup_v02": "Tips contact a small tuft at the visible left slope of serving mound; no floating tuft above own bowl. Still evidence only.",
+    "redirect_v01": "Tuft on Khoai side, Dao bowl supported at screen right; END above receiving bowl. Still evidence only.",
+    "handle_vs_tip": "Thick ends in grip, narrow ends toward food in inspected stills; dynamic grip and chopstick length unverified",
+    "vapor": "Not observed in these stills; not a video PASS",
+    "food": "REWORK: inherited large mound and coarse strands differ from approved 78 scene. These are motion-planning references only, not approved Nem Bui food canon.",
+    "geometry": "Working front-view axis and props recognizable, but generated shape/scale are not pixel-invariant. Pickup START and native END differ in resolution.",
+    "handoff_join": "B2 is byte-identical to 186 deposit START; this guarantees input-file identity only, not a rendered match-on-action",
+    "missing": ["Plate-to-bowl motion", "Dao turns back", "Khoai freeze performance", "Dao releases glass before supporting bowl", "A3-to-B1 camera/pose/morsel continuity", "Redirect motion", "Deposit motion", "Ending performance"],
+    "independent_review": "NOT_RUN",
+    "owner_still_approval": "NOT_RECEIVED"
+  },
+  "budget": {
+    "flow_spend_this_turn": 0,
+    "project_spent": 232,
+    "project_cap": 255,
+    "project_remaining": 23,
+    "last_observed_batch_x3_lite_quote": 30,
+    "live_quote_checked_this_turn": false,
+    "account_balance_checked_this_turn": false
+  },
+  "voice_status": "SIA_HOLD_DEFERRED_NOT_APPROVED",
+  "quality_authorized": false,
+  "blocked_by": ["FOOD/source fidelity needs correction", "Owner still approval and dynamic continuity review pending", "No new live quote or credit authority; 23 is below prior x3 quote 30"]
+}

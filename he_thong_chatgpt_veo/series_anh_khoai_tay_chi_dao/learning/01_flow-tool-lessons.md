@@ -1,5 +1,11 @@
 # Nhật ký học từ Flow và công cụ kiểm
 
+## 2026-10-05 — vòng185: tách tay/ánh nhìn và kiểm audio actual
+
+Ba Lite cùng cặp khung cận tay vẫn nâng vượt rồi hạ về; V01/V03 có vệt hơi quanh thân. Không gọi endpoint đúng là đường đi đã khóa hoặc không có mặt là chứng minh chưa ăn ngoài khung. V02 chỉ có ứng viên0–1,75s, xem42frame ở grid180×320; toàn take giữ REWORK, chưa FOOD/continuity/owner PASS. Thay nhóm nguồn/crop/prompt chỉ là thử phương án, chưa kết luận nguyên nhân gốc đơn biến.
+
+Công tắc trả video không audio bật nhưng cả ba native có AAC. Probe thật trước sử dụng; bỏ track ở insert local mới, giữ native, không suy im lặng từ UI/prompt. Nội dung audio chưa nghe. Tab mới đúng URL + menu720p tải đủ mặc dù callback timeout; đối soát file/hash/decode, không sinh lại vì download. Account224→194, sổ232/255 còn23; số dư tài khoản không thay trần được phép chi. Giọng được owner hoãn kiểm vẫn HOLD, không biến tiếp tục hình thành release approval.
+
 ## 2026-10-03 — vòng170: thoại đầu, quote theo thời lượng và gate nghe
 
 Omni360p x3/8s quote18; x3/10s quote21. Hai lượt A bị chặn chính sách không tính phí, một A thành công; B đủ ba. Đối soát294→267 mới chốt ròng27, không trừ39 theo quote rồi bỏ qua refund. Không gọi Omni là Lite. Cảnh báo bộ lọc không tự chứng minh câu chuyện có nội dung gây hại; không retry mù hoặc vượt lọc. Chưa truy được nguyên nhân từ một từ hay ảnh nguồn.

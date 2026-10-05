@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-05",
+  "status": "THREE_NATIVE_RECEIVED_ALL_FULL_TAKES_REWORK_SCOPED_CANDIDATE_ONLY",
+  "reviewer": "Root sampled-frame review, not independent agent approval",
+  "sampled_frames_per_native": 16,
+  "sample_step_seconds": 0.5,
+  "native_all_frames_reviewed": false,
+  "native_metadata": {
+    "dimensions": [
+      720,
+      1280
+    ],
+    "fps": "24/1",
+    "duration_seconds": 8,
+    "video_codec": "h264",
+    "audio_streams": 1,
+    "audio_codec": "aac",
+    "full_decode": "PASS"
+  },
+  "audio_content_reviewed": false,
+  "account_before": 224,
+  "account_after_complete": 194,
+  "debit": 30,
+  "project_spent": 232,
+  "project_cap": 255,
+  "project_remaining": 23,
+  "files": [
+    {
+      "label": "V01",
+      "flow_id": "5686a010-c40f-4c90-b95d-4f442a6f4f41",
+      "native_filename": "Person_lifting_chopsticks_with_food_20261005151924.mp4",
+      "bytes": 2227038,
+      "sha256": "cb6074d9bd4651149882c7972aff01e4e1916aaade8143be73cf4ebef7d4cc81",
+      "observations": "Overshoot then lower; later vapor near torso/hand, origin unknown.",
+      "verdict": "REWORK_FULL_TAKE"
+    },
+    {
+      "label": "V02",
+      "flow_id": "b138e333-9636-4b80-9428-551e710aa90d",
+      "native_filename": "Person_lifting_chopsticks_with_food_20261005152004.mp4",
+      "bytes": 1641581,
+      "sha256": "0a6e3d3a6aac4804bb0011538176019dc1aa8bd1bc8240b12059de34bc67bf57",
+      "observations": "Overshoot then lower; no vapor seen in samples, not full-clip vapor PASS.",
+      "verdict": "REWORK_FULL_TAKE"
+    },
+    {
+      "label": "V03",
+      "flow_id": "acca385e-b26c-4e0b-b75c-1365fc0d436b",
+      "native_filename": "Person_lifting_chopsticks_with_food_20261005152045.mp4",
+      "bytes": 2282205,
+      "sha256": "b0735c444b93c46829a7edee2b35f3bf1df4a06a94fddc5015094ae03cf1290c",
+      "observations": "Near/past top edge then lower and change path; vapor; offscreen contact unknown.",
+      "verdict": "REWORK_FULL_TAKE"
+    }
+  ],
+  "local_folder": "C:/Users/PC/Downloads/du_an_nem_bui/185_split_motion",
+  "derived_candidate": {
+    "file": "V02_0.00-1.75_SILENT_CANDIDATE.mp4",
+    "sha256": "08b202df0b4776527f35dc398f40b0c9832316c985b8f4cff7f2a84101c51eb6",
+    "bytes": 433135,
+    "source": "V02",
+    "source_range_seconds": [
+      0,
+      1.75
+    ],
+    "frames": 42,
+    "audio_streams": 0,
+    "all_range_frames_viewed": true,
+    "inspection_resolution_per_frame": [
+      180,
+      320
+    ],
+    "additional_opening_grid": {
+      "fps": 12,
+      "resolution": [
+        240,
+        426
+      ]
+    },
+    "status": "SCOPED_SHORT_LIFT_CANDIDATE_NOT_INSERTED_NOT_APPROVED",
+    "scope": "Short lift only; not freeze, reaction, FOOD, continuity or full-take approval",
+    "crop": false,
+    "speed_change": false
+  },
+  "voice_status": "HOLD_DEFERRED_NOT_APPROVED",
+  "master_ready": false,
+  "quality_authorized": false,
+  "download": "New tab native720p menu; callbacks timeout despite files created; no regeneration"
+}

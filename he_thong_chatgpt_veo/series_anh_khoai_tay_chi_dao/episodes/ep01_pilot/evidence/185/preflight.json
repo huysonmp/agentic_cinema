@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-05",
+  "owner_instruction": "Postpone speaker check and continue production",
+  "voice_status": "HOLD_DEFERRED_NOT_APPROVED",
+  "script": "C-v0.6",
+  "model": "Veo 3.1 - Lite",
+  "route": "Flow UI / Frames",
+  "dimensions": [
+    720,
+    1280
+  ],
+  "duration_seconds": 8,
+  "outputs": 3,
+  "agent_enabled": false,
+  "return_without_audio_switch": true,
+  "prompt_readback_exact": true,
+  "prompt_readback_method": "innerText",
+  "quoted_credits": 30,
+  "account_before": 224,
+  "project_remaining_before": 53,
+  "submits": 1,
+  "start_flow_id": "1ebbf0b2-38a8-44d3-af89-fb76e538532e",
+  "end_flow_id": "ed282ac5-1656-426b-9b7c-212193446e8a",
+  "references": [
+    {
+      "file": "START_hand_insert_v0.1.png",
+      "sha256": "43056ff7d2cb59d68021e86a56fc4c18f9a178aff3957c1a5a2ce360a2c651fe",
+      "video_submitted": true
+    },
+    {
+      "file": "END_hand_insert_v0.1.png",
+      "sha256": "e57382de16da33f2827432510d37db2408d93a9e122b1482341dede6e1daaa5f",
+      "video_submitted": true
+    },
+    {
+      "file": "START_Dao_reaction_v0.2.png",
+      "sha256": "9cefcec59dee6a6e3159d752e8c527f3cb43ec7514865ef61960c0c5674facda",
+      "video_submitted": false
+    },
+    {
+      "file": "END_Dao_reaction_v0.2.png",
+      "sha256": "c4e654b09bb856fc0bf40966b79de782d3ed2ce5f7364e70cf1fd573150c9255",
+      "video_submitted": false
+    }
+  ],
+  "scene_authority": {
+    "file": "T-NB-03_v0.8.jpg",
+    "approval": "78",
+    "sha256": "aeb6dfaee1773109243f9f952235a44f2417c6fb7fb4faf15be61c34ca40d924"
+  },
+  "secondary_reference": "161 START only grip/tuft not scene/food authority",
+  "reference_qc": "Root preflight, not independent continuity/FOOD PASS"
+}

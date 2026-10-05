@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-05
 
+**Mới nhất — [185](episodes/ep01_pilot/185_split-hand-motion-and-visual-continuation.md):** owner hoãn kiểm giọng, tiếp tục hình; SIA vẫn HOLD. Tạo bốn khung tay/phản ứng, chạy một bộ ba Lite720p/8s, tải/decode đủ. Ba take toàn clip REWORK; riêng V02 có đoạn ứng viên nâng ngắn0–1,75s đã xem42frame ở grid, xuất không tiếng, chưa FOOD/continuity/owner PASS hoặc đưa vào bản ráp. Cặp phản ứng chưa chạy video. Chi30, sổ232/255 còn23; account live224→194. Không đủ batch cùng giá30, không Quality/master. Số53/account224 bên dưới là lịch sử.
+
 **Mới nhất — [184](episodes/ep01_pilot/184_sia-01-speaker-gate-implementation.md):** đã thêm SIA-01 độc lập và hook builder, kiểm39 fixture cases +5 regression. Không cho nguồn thiếu đúng người nói/reference review đi qua như đã đạt; bản tạm cần flag/nhãn riêng. Actual7 lượt hiện HOLD, acoustic identity chưa tích hợp/kiểm; không suy PASS từ prompt/broad approval. Chi0, còn53; chưa Quality/master.
 
 **Mới nhất — [183](episodes/ep01_pilot/183_speaker-mapping-audit-partial.md):** owner báo lẫn người nói. Đối soát chứng minh builder không đảo từng câu; source PCM và vai dự kiến đúng, nhưng chưa có nhận diện speaker thực tế. Đã tách bảy lượt kiểm, chưa điền người nói quan sát; thiếu file mẫu audition local và công cụ/người nghe khả dụng. Bản182 chưa đạt đúng người nói; không sinh lại, chi0, còn53 theo sổ182.

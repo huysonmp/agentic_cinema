@@ -1,0 +1,298 @@
+{
+  "status": "FINISHED_EXPORT_PENDING_OWNER_TEXT_MIX_RELEASE_REVIEW",
+  "approved_cut_sha256": "ef23dfd4eddf7b6e2379a5504c2aea751a32b8056b9f6e1f79e5221faabb58d7",
+  "source_pcm_sha256": "57d3f06b12c603a203fa12416ea5f747dae6c0559c88c1328d80c5fd14fdc58d",
+  "output": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\210_EP01_ban_giao_v1.1\\EP01_30S_SUBTITLED_v1.1_FOR_APPROVAL.mp4",
+  "output_sha256": "fdbdb10ea63a1889cf58819f1cc51cacd325c63dd7f52ca9999a90ffa79479c3",
+  "clean_sha256": "f8be48fd175ded103fe563f0fd148ea4a3ae6e00d91adb3ba7316b6f0721c4a5",
+  "srt_sha256": "e030e7c1d86262a6c9d6312360a1dc53d558852fbc4972870de5f87c96cfb3e8",
+  "captions": [
+    {
+      "line_id": "N01",
+      "speaker": "Đào",
+      "start": 0,
+      "end": 2.1,
+      "text": "Anh nhìn mãi.\nKhông hợp thì để em."
+    },
+    {
+      "line_id": "N02",
+      "speaker": "Khoai",
+      "start": 2.15,
+      "end": 3.05,
+      "text": "Khoan."
+    },
+    {
+      "line_id": "N02",
+      "speaker": "Khoai",
+      "start": 3.41,
+      "end": 5.24,
+      "text": "Mùi này làm anh nhớ\nđến bếp nhà anh."
+    },
+    {
+      "line_id": "N02",
+      "speaker": "Khoai",
+      "start": 6.07,
+      "end": 8.54,
+      "text": "Hồi bé, mẹ rang gạo,"
+    },
+    {
+      "line_id": "N02",
+      "speaker": "Khoai",
+      "start": 8.75,
+      "end": 12.1,
+      "text": "anh đứng chờ."
+    },
+    {
+      "line_id": "N03",
+      "speaker": "Đào",
+      "start": 12.155,
+      "end": 13.025,
+      "text": "Anh chờ ăn à?"
+    },
+    {
+      "line_id": "N04",
+      "speaker": "Khoai",
+      "start": 13.025,
+      "end": 14.1,
+      "text": "Chờ mẹ quay lưng."
+    },
+    {
+      "line_id": "N05",
+      "speaker": "Đào",
+      "start": 22.283,
+      "end": 24.003,
+      "text": "Chờ em quay lưng nữa à?"
+    },
+    {
+      "line_id": "N06",
+      "speaker": "Khoai",
+      "start": 24.763,
+      "end": 26.143,
+      "text": "Anh gắp cho em mà."
+    },
+    {
+      "line_id": "N07",
+      "speaker": "Đào",
+      "start": 26.643,
+      "end": 28.503,
+      "text": "Thế em quay lại đúng lúc rồi."
+    }
+  ],
+  "release_overlays": [
+    {
+      "id": "F01",
+      "start": 0,
+      "end": 4.167,
+      "text": "Nem Bùi — gắn với\nBùi Xá, Bắc Ninh."
+    },
+    {
+      "id": "F02",
+      "start": 5.2,
+      "end": 9.7,
+      "text": "Thính gạo rang góp một phần\nvào mùi vị của Nem Bùi."
+    },
+    {
+      "id": "AI",
+      "start": 0,
+      "end": 30,
+      "text": "Video được tạo bằng AI."
+    }
+  ],
+  "caption_timing": "source-bounded ASR hints with approved exact text; not forced alignment or ear verdict",
+  "caption_text_and_speaker_mapping": "EXACT_SCRIPT_PASS",
+  "input_measurement": {
+    "integrated_lufs": -12.78,
+    "true_peak_dbtp": -0.34,
+    "loudness_range_lu": 5.6
+  },
+  "output_measurement": {
+    "integrated_lufs": -15.98,
+    "true_peak_dbtp": -3.67,
+    "loudness_range_lu": 5.6
+  },
+  "uniform_gain_db": -3.22,
+  "speed_pitch_EQ_dynamic_compression_change": false,
+  "new_music_ambience_foley": "NONE_ADDED; preserve original accepted audio including its existing sound",
+  "fps": 24,
+  "frames": 720,
+  "duration": 30,
+  "full_decode_exit": 0,
+  "credit_spend": 0,
+  "picture_edit_changed": false,
+  "continuity_deviations": "OWNER_ACCEPTED210_NOT_ERASED",
+  "independent_agent_or_ear_pass": false,
+  "publication": "NOT_PERFORMED_OR_AUTHORIZED",
+  "editable_asset_hashes": {
+    "cue-00.txt": "e4ad43a975b045f0f21162fdd3ad3ebdcac3e243dfa695b9ac142d46bbe87df8",
+    "cue-01.txt": "eda3fc541f3994fb437cb558e62f14645832dd0cb80f146fc2c1ab547ef8788c",
+    "cue-02.txt": "db13b3226db8287f3d00480e0ef8deeabd531d0a881499edb3b09a1a70587a87",
+    "cue-03.txt": "f357c524c02c0fec76f5e045ee40b63dafaabed72f32905785d491d161a868bb",
+    "cue-04.txt": "3dec8429bae1a90e555af68472ef3626e67896f6c5a0711ed3632eebcb9b3f29",
+    "cue-05.txt": "5c88a8ec0ccfaa65094a2d7d27c2932950bf18d4cb86abcbc546de2d03932b9f",
+    "cue-06.txt": "3be44d8a44cd4cc8320814413d6df3f1d50d82d023c07656f768b59f43236675",
+    "cue-07.txt": "7c17e86cf9b8799bbb53d09ce583012f6fcfde174499d69d2ba32b12b6dbe4e0",
+    "cue-08.txt": "a21eb03789eefe44920b2b88a390e166f8524eb366cfb73cafc9d700a83bc405",
+    "cue-09.txt": "1d6625b7b7a8115b7c4a5bd680878f1b7d8ce5e8d42724e84819ea6cdbd45ed6",
+    "cue-10.txt": "39299ad1a6626333c08f27123ef82fed3be329406177671687ba14bb4de429a2",
+    "cue-11.txt": "d60cc9b9c80e2abb013bf0ce43ddb3caa7374fbd7603561a6644e1e40d1b32c0",
+    "cue-12.txt": "5039b0bacf3f572f401ec19ae618b6af02cc2d870d64092bd989917d3faab88a",
+    "EP01_DIALOGUE_STATIC_GAIN_30S.wav": "53a2bce3e527f965faf2ce708f6bf4cc2860b62e3a20857600afe73e5b39ff45",
+    "EP01_EXACT_APPROVED_PCM_30S.wav": "57d3f06b12c603a203fa12416ea5f747dae6c0559c88c1328d80c5fd14fdc58d",
+    "original-source-timeline.json": "7cfe34b134be4e8213cc5feec3f375184ed5eaa7170dec3630e2ab161d562e6b",
+    "owner-approval.json": "e32ec9b2c84c25b6c31a4fac69106c21150a61697409b59920e3985b155ff57a",
+    "S01_S02a.mp4": "ad29dfd4f947de8936c26445395ffba6f064c64d8fab0a9b0c7ddc3de08637a7",
+    "S02b_detail.mp4": "42905c8d7f3b008d54d51e8933f190ef0ad0cb4ff7c2fde3dfd7fc8a3706d521",
+    "S02b_reply.mp4": "8275bf2797af95afe65c2e811476f0cbdbbb8f47223723b508c75a44d556517e",
+    "S03.mp4": "5472498ff3bd2d3633180d9c05a047965ca2484ac64b4c8505f6913b78a8e4fb",
+    "S04.mp4": "cea384b9766e299d9c2ebe883824757c275c4ee7c2192ca09ade2a08c47b531c",
+    "S05.mp4": "a70db68efa3fadf74442c6593e2b8ccf594934ba2004203f066d398d59131e5e",
+    "S06.mp4": "b81c4d026120787d0fcb611f4ada97404ea5b652aa0a968a9092f8fe38a2e299",
+    "S07.mp4": "aa9c0c9a8a1c37e061bbf4457d012425f657a32be1df60f5ac3af560abed7be2",
+    "S08.mp4": "50cd5c1c7aea0763cbf57fe24c0559cdbbe48f9fbb201e4f26ecc0e0fb3768e5",
+    "S09.mp4": "a7f416b32b78d35056b76e41189eb357032ae67031f466eb40aec9e5a2068707",
+    "S10.mp4": "e38f89720b4d00a532b0a558082d51cebd6b0f27949327b3e4fac20998c0b057"
+  },
+  "metadata": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001f",
+        "width": 720,
+        "height": 1280,
+        "coded_width": 720,
+        "coded_height": 1280,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "color_range": "tv",
+        "color_space": "smpte170m",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 4,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 368640,
+        "duration": "30.000000",
+        "bit_rate": "3187189",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "720",
+        "nb_read_frames": "720",
+        "extradata_size": 49,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.102 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1440000,
+        "duration": "30.000000",
+        "bit_rate": "144146",
+        "nb_frames": "1408",
+        "nb_read_frames": "1407",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\210_EP01_ban_giao_v1.1\\EP01_30S_SUBTITLED_v1.1_FOR_APPROVAL.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "30.000000",
+      "size": "12515181",
+      "bit_rate": "3337381",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102"
+      }
+    }
+  }
+}

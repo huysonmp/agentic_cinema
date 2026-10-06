@@ -1,0 +1,12 @@
+{
+  "turn":210,
+  "owner_reply":"được rồi, ok rồi",
+  "approved_artifact":"C:/Users/PC/Downloads/du_an_nem_bui/209_full_AV_review/EP01_30S_AV_REVIEW_NOT_FINAL.mp4",
+  "approved_artifact_sha256":"ef23dfd4eddf7b6e2379a5504c2aea751a32b8056b9f6e1f79e5221faabb58d7",
+  "scope":"Owner accepts full30s AV edit and four explicitly disclosed continuity/ellipsis deviations; proceed local finishing",
+  "not_authorized":["new paid generation","Quality upgrade","new voice or dialogue","external publication"],
+  "script":"C-v0.6",
+  "credit_spend":0,
+  "budget_remaining":3,
+  "new_independent_agent_pass":false
+}

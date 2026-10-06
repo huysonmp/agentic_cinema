@@ -1,0 +1,9 @@
+{
+  "package":"C:/Users/PC/Downloads/du_an_nem_bui/210_EP01_ban_giao_v1.1.zip",
+  "sha256":"10e3c9c0377b511426c5cb89940d069f9cc4d684740b66ad571d8e2ebbdcd236",
+  "archive_entry_count":53,
+  "archived_subtitled_mp4_sha256":"fdbdb10ea63a1889cf58819f1cc51cacd325c63dd7f52ca9999a90ffa79479c3",
+  "archived_mp4_matches_local_export":true,
+  "test_suite":{"command":"python -m unittest discover -s scripts -p test_*ep01*.py -v","passed":54,"failures":0,"scope":"algorithm fixtures; not live creative/voice approval"},
+  "publication":"NOT_PERFORMED"
+}

@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 209: đã ráp bản xem đầy đủ 30 giây, chờ owner nghiệm thu AV
+## Hiện hành — 210: bản ráp được duyệt, gói hoàn thiện v1.1 đã xuất
+
+[210 — approval và bàn giao](210_owner-cut-approved-and-finished-delivery.md): owner chấp nhận AV209 và bốn lệch đã nêu. Đã giữ hình/thoại, thêm đúng phụ đề và F01/F02/AI, giảm tiếng đều3,22dB; xuất MP4 có chữ/clean/SRT/WAV/cảnh rời/hướng dẫn. Kiểm hash/decoded clean/PCM gain/text720frame30s đạt; chưa agent nghe độc lập, chưa owner duyệt chữ/mix/export cuối hoặc phát hành. Folder owner210 v1.1 là hiện hành; hai folder210 cũ không dùng. Chi0, sổ419/422/còn3. Pending AV209 dưới đây là lịch sử đã xử lý theo210.
+
+## Mốc 209: đã ráp bản xem đầy đủ 30 giây, chờ owner nghiệm thu AV
 
 [209 — approval, nguồn mới và bản ráp](209_approved-coverage-production.md): ba khung208/phương án S03 tabletop đã được duyệt; U01/U02/U08 tạo x1 Lite, đã tải/hash/decode. Bản AV30s/720frame giữ nguyên tiếng202 và C-v0.6, không dùng AAC native. Còn lệch cốc, rau P02, vị trí bát và điểm cắt kết lược chuyển đũa; không creative/SIA/owner PASS. Chưa phụ đề/nhãn AI/mix/master. Sổ419/422/còn3, account57; không tự chạy sửa hoặc Quality. Nguồn và bản xem ở folder owner209. Các mục trước dưới đây là lịch sử, không phải trạng thái hiện hành.
 

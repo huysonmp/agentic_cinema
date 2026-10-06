@@ -1,0 +1,14 @@
+{
+  "status": "READBACK_TECHNICAL_TEXT_PASS_NOT_EAR_OR_PUBLICATION_APPROVAL",
+  "output_sha256": "fdbdb10ea63a1889cf58819f1cc51cacd325c63dd7f52ca9999a90ffa79479c3",
+  "clean_decoded_picture_identical_to_approved_edit": true,
+  "audio_uniform_gain_only_max_pcm_quantization_error": 0.5014319223155326,
+  "caption_exact_seven_lines_and_speaker_mapping": true,
+  "caption_files_utf8_LF_no_CR": true,
+  "layout_metric": "NOT_AUTOMATICALLY_MEASURED; root rendered-frame review recorded separately",
+  "editable_asset_hash_readback": true,
+  "source_media_modified": false,
+  "new_credit_spend": 0,
+  "owner_current_gate": "Final overlays, volume and delivery review pending; picture edit accepted210",
+  "independent_ear_or_agent_verdict": "NOT_CLAIMED"
+}

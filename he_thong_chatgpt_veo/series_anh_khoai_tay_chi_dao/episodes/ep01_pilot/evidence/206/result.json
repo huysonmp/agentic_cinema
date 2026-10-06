@@ -1,0 +1,50 @@
+{
+  "version": "206",
+  "date": "2026-10-06",
+  "unit": "U06",
+  "generation_count": 1,
+  "media_id": "b20d33ce-098d-4805-b80c-48d7d0ded4cf",
+  "url": "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/b20d33ce-098d-4805-b80c-48d7d0ded4cf",
+  "route": {"model": "Lite", "mode": "Frames", "aspect": "9:16", "resolution": "720p", "seconds": 8, "outputs": 1},
+  "account_balance_before": 117,
+  "account_balance_after": 107,
+  "debit": 10,
+  "budget": {"cap": 422, "spent": 369, "remaining": 53, "five_remaining_units_forecast": 50, "reserve": 3},
+  "download_attempts": 1,
+  "download_event": "timeout_20s_but_toast_and_actual_file_verified",
+  "native": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/206_u06_production/U06_NATIVE.mp4",
+    "sha256": "e6df660be02f7b723e6b20a39a21876b164eefb22fc6b4bd7a9f3a1243d22926",
+    "size_bytes": 1930263,
+    "video_codec": "h264", "width": 720, "height": 1280, "fps": 24,
+    "frames": 192, "seconds": 8,
+    "audio": {"codec": "aac", "sample_rate": 48000, "channels": 2, "used": false},
+    "full_decode_exit_code": 0
+  },
+  "diagnostic": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/206_u06_production/U06_FIRST57_REVIEW_REWORK_NOT_FOR_TIMELINE.mp4",
+    "sha256": "04b75eabd5a206207c8cdbca9e96fe9f01a03f0dab5e5b5217462f31fc4ab105",
+    "source_range_frames": [0, 57], "frames": 57, "seconds": 2.375, "audio": false,
+    "approved_for_timeline": false
+  },
+  "root_qc": {
+    "status": "REWORK",
+    "review_method": "57-frame contact sheet; 48 samples over full 8s; larger frames35,56,191",
+    "bowl_entry": "observed",
+    "redirect_over_Dao_bowl": "not_observed",
+    "Dao_bowl_persistence": "fails; not visible at frame56 while hand remains",
+    "independent_agent_review": "NOT_RUN",
+    "full_AV_master": "NOT_PASS"
+  },
+  "next_proposal": {
+    "status": "OWNER_DECISION_PENDING",
+    "U06_entry_only_source_frames": [0, 36],
+    "S08_frames": 36,
+    "S09_U07_redirect_and_release_frames": 58,
+    "combined_frames_unchanged": 94,
+    "U07_start_candidate_source_frame": 35,
+    "additional_paid_repair_authorized": false,
+    "U07_dispatched": false,
+    "timeline205_changed": false
+  }
+}

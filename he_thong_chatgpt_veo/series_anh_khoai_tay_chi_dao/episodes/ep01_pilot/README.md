@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 206: U06 đã tạo và tải, REWORK; chờ điều chỉnh hành động
+
+[206 — kết quả, ngân sách và phương án](206_u06-bowl-entry-and-redirect-production.md): một lượt Lite/x1/10credit, native720p/8s/hash/decode và frame evidence đã lưu. Có đưa bát vào nhưng thiếu chuyển đũa; bát Đào không còn thấy ở frame56. Không đưa vào timeline hoặc báo ACT/agent độc lập PASS. Đề xuất S08 đưa bát36frame, S09/U07 chuyển rồi thả58frame, tổng94frame không đổi; chờ owner chốt, chưa U07 hoặc sửa timeline205. Giữ tiếng202. Sổ369/422/còn53; năm lượt còn lại forecast50/dự phòng3, không tự retry U06. Chưa phim30s/AV/Quality/master.
+
 ## Hiện hành — 205: đã duyệt phản ứng ngắn, chuẩn bị U04
 
 [205 — approval, sản xuất U04 và timing30s](205_short-reaction-approved-and-u04-continuation.md): owner duyệt đúng15 frame/0,625s đầu U05 sửa; chuyển21 frame sang Khoai khựng tay, không thay tiếng202. U04 đã gửix1/chi10, native/hash/decode/frame QC và bản xem hình9,125s đã lưu. U04 là ứng viên6s có nâng rồi hạ nhẹ/settle khác chỉ đạo, không báo diễn xuất/full-AV PASS; không dùng AAC native. Timeline205-v0.3 vẫn chưa render phim30s. Đã loại END198 đổi bát/món, chỉ dùng START native P02. Sổ359/422/còn63; sáu lượt đầu còn lại forecast60/dự phòng3. Tiếp dùng frame143 U04 chuẩn bị U06 đưa bát vào/đổi hướng. Pending reaction dưới đây đã giải quyết; chưa Quality/master.

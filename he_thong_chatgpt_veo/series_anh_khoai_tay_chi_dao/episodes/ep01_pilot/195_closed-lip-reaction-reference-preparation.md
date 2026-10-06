@@ -1,5 +1,7 @@
 # EP01 — Chuẩn bị khung phản ứng môi khép
 
+**Cập nhật approval tại [196](196_closed-lip-reference-approval-and-motion-test-gate.md):** owner “ok r nhé” đã duyệt hai ảnh thực tế về môi, ánh nhìn và góc đầu. Các nhãn/report chờ duyệt dưới đây là hồ sơ thời điểm chuẩn bị; ảnh/hash giữ nguyên. Chưa duyệt hoặc chạy video, chưa cấp thêm credit.
+
 Ngày 2026-10-06. Owner “ok nhé” cho đề xuất sau 194: chuẩn bị cặp khung mới môi khép rõ, cười bằng mắt, giữ bối cảnh và tay/cốc để owner xem trước. **Chỉ duyệt chuẩn bị ảnh, không duyệt tạo video có phí hoặc thêm credit.**
 
 ## Phương pháp đã khóa

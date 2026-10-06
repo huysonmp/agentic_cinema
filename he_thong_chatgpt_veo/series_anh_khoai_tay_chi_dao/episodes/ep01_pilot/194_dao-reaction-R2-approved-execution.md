@@ -1,5 +1,7 @@
 # EP01 — Thử phản ứng Đào R2
 
+**Cập nhật kế tiếp tại [195](195_closed-lip-reaction-reference-preparation.md):** owner duyệt chuẩn bị ảnh môi khép; đã tạo hai ứng viên và bảng xem, chờ owner duyệt ảnh thực tế. Không duyệt hoặc gửi video mới. Kết quả R2 và sổ 322/322, còn 0 dưới đây giữ nguyên.
+
 Ngày 2026-10-06. Owner “ok” cho đề xuất sau193: thêm tối đa 30 credit cho **một batch ba Lite R2**. Trần dự án mới 322 (=292+30), đã dùng292 trước lượt, còn30 được phép. Không tự tăng quyền theo account balance.
 
 ## Đầu vào và thay đổi đã khóa

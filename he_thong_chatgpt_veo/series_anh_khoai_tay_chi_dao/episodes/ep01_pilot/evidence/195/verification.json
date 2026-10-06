@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-06",
+  "scope": "reference preparation and review-board tooling only",
+  "source_and_owner_copy_hash_check": "PASS",
+  "both_image_dimensions": [937, 1678],
+  "format": "PNG RGB",
+  "root_still_review": "CANDIDATES_AWAIT_OWNER_REVIEW",
+  "independent_review": "NOT_RUN",
+  "motion_review": "NOT_RUN_NO_VIDEO",
+  "python_compile": "PASS",
+  "legacy_187_board_regression": "BYTE_IDENTICAL",
+  "legacy_187_board_sha256": "0cecd73cecef9b6f026fe4324fb1384d1968fb77c79d711c6c081ef009d475c4",
+  "nonempty_output_directory_test": "REJECTED_BOARD_HASH_UNCHANGED",
+  "board_195_sha256": "0966e9c1c62cf410729ca704981dd1fc207b368e7b7f1db3103969336771223a",
+  "flow_credit_spend": 0,
+  "remaining_authorized": 0,
+  "ready_for_paid_submission": false,
+  "image_tool_cost": "NOT_ASSESSED"
+}

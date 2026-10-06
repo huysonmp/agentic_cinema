@@ -1,0 +1,29 @@
+{
+  "status":"STILL_CANDIDATES_AWAIT_OWNER_REVIEW",
+  "ready_for_paid_submission":false,
+  "owner_preparation_approval":"ok nhé after194; prepare images only",
+  "actual_output_owner_approval":"PENDING",
+  "method":"built-in imagegen identity-preserve edits, two sequential calls",
+  "start_provenance":{"edit_target":"185 START_Dao_reaction_v0.2.png","source_sha256":"9cefcec59dee6a6e3159d752e8c527f3cb43ec7514865ef61960c0c5674facda","generated_path":"C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-975c8aee-81f0-48d6-a43a-a2a765e0b647.png"},
+  "end_provenance":{"edit_target":"195 START_Dao_closed_lip_v0.1.png","gaze_guide":"185 END_Dao_reaction_v0.2.png","guide_sha256":"c4e654b09bb856fc0bf40966b79de782d3ed2ce5f7364e70cf1fd573150c9255","generated_path":"C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-ea0ab2bb-5f08-4abd-9bfa-56ded035ddfd.png"},
+  "board_layout":"pair",
+  "board_name":"195_START_END_STILL_CANDIDATES_v0.1.png",
+  "board_title":"195 — KHUNG MÔI KHÉP / ẢNH TĨNH CHỜ DUYỆT",
+  "board_subtitle":"START: nhìn cốc phía phải → END: nhìn sang Khoai phía trái. Chưa có chuyển động mới.",
+  "board_footer":"Ảnh tĩnh không chứng minh Veo giữ môi khép khi diễn. Chưa chạy hoặc xin thêm credit video.",
+  "board_footer_second":"C-v0.6 / K20 / D06 / P02 nhịp đã duyệt giữ nguyên; SIA HOLD; không Quality/master.",
+  "board_panels":[
+    {"label":"START — Đào ở cốc","status_label":"ỨNG VIÊN / CHỜ OWNER DUYỆT","repo_path":"he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/START_Dao_closed_lip_v0.1.png","sha256":"c7e84f873fd19e7919d0f2d5d8c4877c345dde6a402f91330ea48e4ff894fcf3"},
+    {"label":"END — nhìn sang Khoai","status_label":"ỨNG VIÊN / CHỜ OWNER DUYỆT","repo_path":"he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/END_Dao_closed_lip_v0.1.png","sha256":"0e6a2f348ecd1cde923fa668d7b2163ad8b584f3be1e3a8cb7a91fa04b33e4de"}
+  ],
+  "root_still_observation":"Closed lip line visible in both; new END gaze screen-left; hands and cup remain visually in position",
+  "pixel_identity_claim":false,
+  "motion_qc":"NOT_RUN_NO_VIDEO",
+  "independent_review":"NOT_RUN",
+  "flow_credit_spend":0,
+  "project_cap":322,
+  "project_spent":322,
+  "remaining_authorized":0,
+  "new_video_authority":false,
+  "speaker_gate":"HOLD"
+}

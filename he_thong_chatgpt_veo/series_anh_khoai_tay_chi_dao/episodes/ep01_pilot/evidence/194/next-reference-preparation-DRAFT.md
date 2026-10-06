@@ -1,5 +1,7 @@
 # Draft — kiểm lại đầu vào phản ứng trước khi thử thêm
 
+**Trạng thái cập nhật tại [195](../../195_closed-lip-reaction-reference-preparation.md):** owner đã duyệt riêng khâu chuẩn bị ảnh. Hai ứng viên mới đã tạo, chờ duyệt ảnh thực tế; chưa có video hoặc quyền chi mới. Dòng PROPOSAL_ONLY bên dưới mô tả thời điểm lập draft 194, không phải trạng thái hiện hành.
+
 Trạng thái **PROPOSAL_ONLY — CHƯA TẠO ẢNH, CHƯA TRÌNH CHI VIDEO**. Không tự diễn giải owner duyệt R2 thành duyệt phương án mới này.
 
 ## Mục tiêu không đổi

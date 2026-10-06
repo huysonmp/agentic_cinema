@@ -1,0 +1,33 @@
+{
+  "status": "STILL_COMPARISON_NOT_MOTION_OR_APPROVAL",
+  "sources": [
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/START_Dao_closed_lip_v0.1.png",
+      "size": [
+        937,
+        1678
+      ],
+      "mode": "RGB",
+      "sha256": "c7e84f873fd19e7919d0f2d5d8c4877c345dde6a402f91330ea48e4ff894fcf3"
+    },
+    {
+      "file": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/END_Dao_closed_lip_v0.1.png",
+      "size": [
+        937,
+        1678
+      ],
+      "mode": "RGB",
+      "sha256": "0e6a2f348ecd1cde923fa668d7b2163ad8b584f3be1e3a8cb7a91fa04b33e4de"
+    }
+  ],
+  "output": "C:/Users/PC/Downloads/du_an_nem_bui/195_closed_lip_references/review_v0.1/195_START_END_STILL_CANDIDATES_v0.1.png",
+  "sha256": "0966e9c1c62cf410729ca704981dd1fc207b368e7b7f1db3103969336771223a",
+  "size": [
+    1080,
+    1130
+  ],
+  "ready_for_paid_submission": false,
+  "credit_spend": 0,
+  "credit_spend_scope": "FLOW_ONLY_NO_FLOW_CALLED",
+  "image_tool_cost": "NOT_ASSESSED"
+}

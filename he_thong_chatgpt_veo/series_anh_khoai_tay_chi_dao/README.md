@@ -1,6 +1,8 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái hiện hành — 2026-10-05
+## Trạng thái hiện hành — 2026-10-06
+
+**Mới nhất — [195](episodes/ep01_pilot/195_closed-lip-reaction-reference-preparation.md):** owner duyệt chuẩn bị ảnh sau bộ R2 194 chưa đạt. Đã tạo START/END môi khép bằng chỉnh ảnh tích hợp theo chuỗi START → END, lưu ảnh gốc/prompt/hash và bảng xem hai ô. Root đã kiểm ảnh tĩnh; **chờ owner duyệt đầu ra thực tế**, chưa chuyển động hoặc review độc lập. Chi Flow 0; sổ 322/322, còn 0 quyền chi. Giữ C-v0.6/K20/D06, duyệt riêng nhịp P02 0–2,5 giây và SIA HOLD; chưa Quality/master. Folder owner: `C:/Users/PC/Downloads/du_an_nem_bui/195_closed_lip_references/`. Các mục ngân sách/trạng thái bên dưới là lịch sử, không ghi đè 195.
 
 **Hiện hành — [189](episodes/ep01_pilot/189_texture-approval-and-action-reference-sync.md):** owner duyệt chất liệu cặp188, không cả cảnh. Đã tạo bốn khung nâng/chuyển/đặt với chất liệu mới và bảng sáu trạng thái; chưa video/continuity/FOOD toàn cảnh PASS. Cùng file END chuyển/START đặt, SIA HOLD. Chi Flow 0, còn23; đề xuất một batch gắp x3 tối đa30, cần quyền bổ sung tối đa7 riêng batch, chưa được cấp. Bốn nhịp nếu mỗi x3 vẫn30 sẽ là120, chưa gồm các cảnh khác/retest, không hứa7 đủ hoàn tất. Các trạng thái chờ duyệt chất liệu188 bên dưới là lịch sử.
 

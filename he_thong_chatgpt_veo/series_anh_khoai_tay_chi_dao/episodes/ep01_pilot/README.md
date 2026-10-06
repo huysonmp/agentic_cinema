@@ -1,6 +1,14 @@
 # EP01 — Pilot
 
-## Hiện hành — 202: đã ráp bản nghe bảy lượt với N02 mới đã duyệt
+## Hiện hành — 205: đã duyệt phản ứng ngắn, chuẩn bị U04
+
+[205 — approval và timing30s](205_short-reaction-approved-and-u04-continuation.md): owner duyệt đúng15 frame/0,625s đầu U05 sửa; chuyển21 frame sang Khoai khựng tay, không thay tiếng202. Timeline205-v0.3 hiện hành vẫn chưa render; U04 cần6s sạch, kiểm nguồn native P02 rồi mới gửix1. END198 tái tạo khác bát/món nên không dùng, chọn START native duy nhất. Sổ trước U04349/422/còn73. AV/master vẫn chưa chạy; pending reaction dưới đây đã được giải quyết tại205.
+
+## Mốc 204: tiếng đã duyệt, chờ chốt phản ứng ngắn để tiếp tục hình
+
+[203 — owner duyệt bảy lượt và timing làm việc 30 giây](203_audio-join-approved-and-picture-production.md); [204 — lượt sửa U05 và ngoại lệ](204_u05-one-bounded-production-repair.md). Giữ nguyên WAV202/C-v0.6/K20/D06. U05/x1 tại203 và một sửa/x1 tại204 vẫn REWORK cho đoạn phản ứng1,5s; đã tải native/đối soát hash/decode/kiểm frame, không báo agent độc lập PASS. Có bản cắt0–0,625s môi khép để đề xuất phản ứng nhanh, bù0,875s ở nhịp tay Khoai; **chờ owner duyệt**, chưa áp vào timeline hoặc render phim cuối. Tổng chi mới20, sổ349/422/còn73; bảy cảnh còn lại dự kiến70, dự phòng3. Dừng paid dispatch theo giới hạn, không thử U05 lần ba. Folder owner `203_picture_production`, `204_u05_repair`. AV/mix/phụ đề/master còn mở; các trạng thái pending nghe và ngân sách bên dưới là lịch sử.
+
+## Mốc 202: đã ráp bản nghe bảy lượt với N02 mới đã duyệt
 
 [202 — bản nghe và bảng nguồn](202_seven-turn-review-with-approved-n02.md): WAV mới 22,055 giây giữ nguyên N02 đã duyệt, chỉ giữ N01/N03/N04 từ nguồn cũ và toàn phần kết R01; không đưa N02 lỗi vào. Hash/PCM và thứ tự đã kiểm, local ASR nhận đủ nội dung. Đã trình nghe trong chat, chờ duyệt người nói và chỗ nối của bản hiện hành; không tự báo SIA toàn tập PASS. Chưa timing video 30 giây, hình–tiếng hoặc master. Chi 0; trần 422/đã chi 329/còn 93. Folder owner: `202_dialogue_join_review`.
 

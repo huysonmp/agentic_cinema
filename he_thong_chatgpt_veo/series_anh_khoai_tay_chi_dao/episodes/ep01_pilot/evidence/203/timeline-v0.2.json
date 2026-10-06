@@ -1,0 +1,37 @@
+{
+  "version": "203-v0.2",
+  "status": "WORKING_30S_EDIT_TARGET_NOT_RENDERED_NOT_FINAL_APPROVED",
+  "supersedes_working_timing": "197-v0.1",
+  "script_version": "C-v0.6",
+  "fps": 24,
+  "duration_frames": 720,
+  "audio_review_sha256": "3c83b7d6188f5b973b0ef5c77ebc1fc16afde7c11827764c5302145741b736d4",
+  "audio_policy": "Keep all approved review PCM; insert action interval after N04; no speed/pitch or new lines",
+  "audio_placements_seconds": [
+    {"review_in":0,"review_out":14.055,"timeline_in":0,"timeline_out":14.055,"lines":["N01","N02","N03","N04"]},
+    {"review_in":14.055,"review_out":22.055,"timeline_in":21.958333333333332,"timeline_out":29.958333333333332,"lines":["N05","N06","N07"]}
+  ],
+  "shots": [
+    {"id":"S01_S02a","in_frame":0,"out_frame":100,"unit":"U01","action":"table/dish opening and Dao's tentative plate pull; N01 and first part of N02 offscreen","source_range_proposal":[0,4.166666666666667]},
+    {"id":"S02b_detail","in_frame":100,"out_frame":292,"unit":"U02","action":"present cool Nem Bui detail, offscreen memory","source_range_proposal":[0,8]},
+    {"id":"S02b_reply","in_frame":292,"out_frame":338,"unit":"U01","action":"later distinct held table section; N03/N04 offscreen","source_range_proposal":[4.166666666666667,6.083333333333334],"no_repeat_or_freeze":true},
+    {"id":"S03","in_frame":338,"out_frame":371,"unit":"U03","action":"Dao turns to existing glass once"},
+    {"id":"S04","in_frame":371,"out_frame":431,"action":"approved pickup rhythm","source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","source_sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_range":[0,2.5],"approval_scope":"RHYTHM_ONLY_OTHER_GATES_OPEN"},
+    {"id":"S05","in_frame":431,"out_frame":491,"unit":"U04","action":"lift same uneaten tuft, stop before eating","source_range_proposal":[0,2.5]},
+    {"id":"S06","in_frame":491,"out_frame":527,"unit":"U05","action":"Dao looks back once, lips closed; no speech"},
+    {"id":"S07","in_frame":527,"out_frame":590,"unit":"U04","action":"later distinct held section for N05; Dao offscreen","source_range_proposal":[2.5,5.125],"no_repeat_or_freeze":true},
+    {"id":"S08","in_frame":590,"out_frame":647,"unit":"U06","action":"bowl arrives and same tuft redirected; N06 and beginning N07 offscreen"},
+    {"id":"S09","in_frame":647,"out_frame":684,"unit":"U07","action":"release same tuft into Dao bowl; N07 offscreen; must finish inside usable1.5417s"},
+    {"id":"S10","in_frame":684,"out_frame":720,"unit":"U08","action":"knowing smile and new pickup; use only after N07 speech tail, actual timing to review"}
+  ],
+  "unit_count": 8,
+  "coverage_strategy": "U01 supplies opening and later non-repeated rest section, avoiding extra U02 generation for longer approved N02",
+  "conditional_points": ["U01 must retain continuous usable6.0833s; not a promised result", "U02 needs clean8s; no freeze/slowdown", "U07 release within1.5417s and U08 ending within1.5s must be checked in actual motion", "N07 end estimate based on ASR is28.3233s; visible closed-mouth ending cannot begin before actual speech finishes"],
+  "owner_audio_acceptance": "203_OWNER_ACCEPTED_EXACT_REVIEW",
+  "formal_SIA_with_reference": "HOLD_FOR_REFERENCE_NOT_MISREPRESENTED_AS_PASS",
+  "AV_assembly_gate": "NOT_RUN",
+  "budget_before_this_execution": {"cap":422,"spent":329,"remaining":93},
+  "baseline_picture_forecast":80,
+  "remaining_after_baseline_forecast":13,
+  "all_units_submission_ready":false
+}

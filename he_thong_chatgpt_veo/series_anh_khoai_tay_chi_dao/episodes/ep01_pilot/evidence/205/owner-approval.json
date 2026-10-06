@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-06",
+  "reply": "Duyệt phản ứng ngắn, tiếp tục theo ngân sách còn lại",
+  "approved_short_file": "C:/Users/PC/Downloads/du_an_nem_bui/204_u05_repair/U05_0.000-0.625_SHORT_ALTERNATIVE_NOT_APPROVED.mp4",
+  "sha256": "3470254b657ecc371fb29d7def13a972302b6f05f8ec5afb2e7cccc7996f7e81",
+  "source": "204_U05_REPAIR_NATIVE",
+  "native_source_in": 0,
+  "native_source_out": 0.625,
+  "frames": 15,
+  "timing_change": "21frames/0.875s moved from reaction to prior Khoai held-hand beat; U04 actual motion still required",
+  "keep_audio_202": true,
+  "budget_unchanged": {"cap":422,"spent":349,"remaining":73},
+  "authority": "Proceed remaining seven production units x1 within existing cap; no additional U05",
+  "final_AV_or_master_approval": false
+}

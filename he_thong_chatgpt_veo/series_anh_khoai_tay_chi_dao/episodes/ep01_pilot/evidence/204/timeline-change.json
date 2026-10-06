@@ -1,0 +1,14 @@
+{
+  "base": "../203/timeline-v0.2.json",
+  "status": "WORKING_PATCH_NOT_RENDERED",
+  "shot": "S06",
+  "in_frame": 491,
+  "out_frame": 527,
+  "replacement_action": "Cut reveals Dao already looking screen-left toward Khoai; held sealed-lip look with light blink, not a visible head turn",
+  "selected_source": null,
+  "source_range": null,
+  "audio_changed": false,
+  "story_changed": false,
+  "reason": "One bounded production repair after 203 failed mouth/hand/gaze constraints",
+  "other_shots": "Keep 203 working timing; validate actual sources before assembly"
+}

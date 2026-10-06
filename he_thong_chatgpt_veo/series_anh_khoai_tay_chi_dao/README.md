@@ -2,6 +2,10 @@
 
 ## Trạng thái hiện hành — 2026-10-06
 
+**Hiện hành — [205](episodes/ep01_pilot/205_short-reaction-approved-and-u04-continuation.md):** owner duyệt phản ứng ngắn0,625s/15 frame và tiếp tục trong cap còn73. Giữ nguyên tiếng202; timeline205-v0.3 chuyển21 frame sang nhịp tay Khoai, chưa render/AV/master. U04 dùng START native P02, bỏ END198 làm đổi bát/món; kiểm actual6s sạch trước chọn. Các trạng thái pending phản ứng phía dưới là lịch sử.
+
+**Hiện hành — [203](episodes/ep01_pilot/203_audio-join-approved-and-picture-production.md)/[204](episodes/ep01_pilot/204_u05-one-bounded-production-repair.md):** owner đã duyệt bản tiếng đủ bảy lượt202; giữ nguyên nguồn/lời/giọng. Đã tạo U05/x1 rồi sửa một lần/x1, cả hai chưa đạt phản ứng1,5s vì môi vẫn mở. Native/hash/decode/frame evidence đã lưu, không gọi root review là agent độc lập PASS. Đề xuất dùng0,625s đầu bản sửa và chuyển0,875s sang nhịp tay Khoai; chờ owner chốt, chưa timeline mới/render final. Chi thêm20, spent349/cap422/còn73; bảy cảnh còn lại forecast70, dự phòng3. Dừng chi tiếp theo ngoại lệ, không tự thử U05 lần ba hoặc Quality. Các trạng thái pending/giá trị budget phía dưới là mốc lịch sử.
+
 **Mới nhất — [202](episodes/ep01_pilot/202_seven-turn-review-with-approved-n02.md):** đã ráp bản nghe bảy lượt 22,055 giây, giữ nguyên toàn N02 mới đã duyệt; không dùng N02 lỗi. Bảng nguồn/hash/PCM và thứ tự đã kiểm. Đã trình nghe bản nối hiện hành, chờ owner duyệt người nói/chỗ nối; chưa timing video 30 giây hoặc hình–tiếng/master. Chi 0; trần 422/đã chi 329/còn 93. Folder owner: `202_dialogue_join_review`.
 
 **Mốc [201](episodes/ep01_pilot/201_n02-native-received-and-local-qc.md):** đã nhận native N02 mới, sao lưu/kiểm hash/giải mã/tách WAV giữ nguyên nguồn. Owner duyệt toàn WAV: “Đúng Khoai/K20 xuyên suốt, nhịp chấp nhận được”. N02 cũ vẫn REWORK; approval không tự duyệt sáu lượt khác hoặc bản nối. Chi 0; trần 422/đã chi 329/còn 93. Mục 200 chưa nhận file là lịch sử đã cập nhật tại 201; không sinh thêm/Quality/master.

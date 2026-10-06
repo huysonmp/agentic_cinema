@@ -1,0 +1,21 @@
+{
+  "status": "REWORK_FOR_REQUIRED_1_5_SECOND_REACTION",
+  "media_id": "b586e1ab-467e-48a4-a8d0-99252fbfda2c",
+  "flow_url": "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/b586e1ab-467e-48a4-a8d0-99252fbfda2c",
+  "original_download": "C:/Users/PC/Downloads/Woman_gazing_screen_left_20261006125007.mp4",
+  "native_copy": "C:/Users/PC/Downloads/du_an_nem_bui/204_u05_repair/U05_REPAIR_NATIVE.mp4",
+  "native_sha256": "a44da6d29321d0bb9df6b25f27e58036fe0dc8ff995366f85e31acbbdeb44c2c",
+  "original_copy_hash_match": true,
+  "bytes": 1835987,
+  "download_requests": 1,
+  "download_event": "Timed out20s; actual file existed in Downloads; no retry needed",
+  "probe": {"codec":"h264","width":720,"height":1280,"fps":24,"frames":192,"duration_seconds":8,"audio_streams":0},
+  "full_decode": "PASS_EXIT0",
+  "root_visual_review": {"whole_clip_sampled_frames":48,"first1_5s_mouth_frames":36,"first1_5s_body_frames":36,"observations":["Mouth opens around0.75s and changes across later samples despite no audio","Hands and glass are substantially steadier than203 in opening samples","Repeated blinking and head movement exceed one-blink instruction"],"independent_agent_dispatched":false},
+  "qualified_1_5s_range_selected": null,
+  "short_alternative": {"file":"C:/Users/PC/Downloads/du_an_nem_bui/204_u05_repair/U05_0.000-0.625_SHORT_ALTERNATIVE_NOT_APPROVED.mp4","source_in":0,"source_out":0.625,"frames":15,"sha256":"3470254b657ecc371fb29d7def13a972302b6f05f8ec5afb2e7cccc7996f7e81","status":"ROOT_REVIEWED_SHORT_RANGE_OWNER_DECISION_PENDING","proposal":"Move21frames/0.875s fromS06 to preceding U04 held hand beat; no freeze/loop/speed change; actual U04 motion still to validate"},
+  "budget": {"cap":422,"spent":349,"remaining":73,"seven_units_forecast":70,"reserve":3},
+  "further_paid_dispatch": "STOP_PENDING_EXCEPTION_DECISION",
+  "audio_review_202_changed": false,
+  "final_AV_or_master_PASS": false
+}

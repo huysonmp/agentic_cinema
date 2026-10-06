@@ -1,0 +1,33 @@
+{
+  "version": "205-v0.3",
+  "status": "WORKING_30S_TARGET_OWNER_APPROVED_SHORT_REACTION_NOT_RENDERED",
+  "supersedes": "203-v0.2 plus204 working patch",
+  "fps": 24,
+  "duration_frames": 720,
+  "script": "C-v0.6",
+  "audio_review_sha256": "3c83b7d6188f5b973b0ef5c77ebc1fc16afde7c11827764c5302145741b736d4",
+  "audio_policy": "Preserve all approved PCM and dialogue; insert action gap after N04; no speed/pitch changes",
+  "audio_placements": [
+    {"review_in":0,"review_out":14.055,"timeline_in":0,"timeline_out":14.055,"lines":["N01","N02","N03","N04"]},
+    {"review_in":14.055,"review_out":22.055,"timeline_in":21.958333333333332,"timeline_out":29.958333333333332,"lines":["N05","N06","N07"]}
+  ],
+  "shots": [
+    {"id":"S01_S02a","in_frame":0,"out_frame":100,"unit":"U01","source_range_proposal":[0,4.166666666666667]},
+    {"id":"S02b_detail","in_frame":100,"out_frame":292,"unit":"U02","source_range_proposal":[0,8]},
+    {"id":"S02b_reply","in_frame":292,"out_frame":338,"unit":"U01","source_range_proposal":[4.166666666666667,6.083333333333334]},
+    {"id":"S03","in_frame":338,"out_frame":371,"unit":"U03"},
+    {"id":"S04","in_frame":371,"out_frame":431,"source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_range":[0,2.5],"approval_scope":"RHYTHM_ONLY_OTHER_GATES_OPEN"},
+    {"id":"S05","in_frame":431,"out_frame":512,"unit":"U04","action":"lift then held hand beat","source_range_proposal":[0,3.375]},
+    {"id":"S06","in_frame":512,"out_frame":527,"unit":"U05","source":"C:/Users/PC/Downloads/du_an_nem_bui/204_u05_repair/U05_REPAIR_NATIVE.mp4","sha256":"a44da6d29321d0bb9df6b25f27e58036fe0dc8ff995366f85e31acbbdeb44c2c","source_range":[0,0.625],"action":"cut reveals leftward gaze and light blink; closed lips","approval_scope":"OWNER_APPROVED_SHORT_REACTION205"},
+    {"id":"S07","in_frame":527,"out_frame":590,"unit":"U04","action":"later distinct hold for offscreenN05","source_range_proposal":[3.375,6]},
+    {"id":"S08","in_frame":590,"out_frame":647,"unit":"U06","action":"bowl entry and redirect"},
+    {"id":"S09","in_frame":647,"out_frame":684,"unit":"U07","action":"same portion deposited"},
+    {"id":"S10","in_frame":684,"out_frame":720,"unit":"U08","action":"ending after actual N07 speech tail"}
+  ],
+  "unit_count":8,
+  "no_repeat_freeze_slowdown":true,
+  "conditions":["U04 must provide clean6s before proposed ranges selected","U01 clean6.0833s; U02 clean8s","U07 release fits1.5417s; U08 ending fits1.5s","Actual N07 tail must precede visible silent ending"],
+  "remaining_units":7,
+  "formal_SIA_reference_report":"NOT_CREATED_NOT_CLAIMED_PASS",
+  "AV_assembly_gate":"NOT_RUN"
+}

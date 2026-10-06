@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-06",
+  "owner_reply": "ok r đấy",
+  "review_question": "Bản nghe bảy lượt vừa ráp có đúng người nói ở từng lượt và chỗ nối chấp nhận được để đưa sang dựng hình không?",
+  "reviewed_artifact": "C:/Users/PC/Downloads/du_an_nem_bui/202_dialogue_join_review/EP01_7_LUOT_N02_MOI_REVIEW_NOT_FINAL.wav",
+  "reviewed_sha256": "3c83b7d6188f5b973b0ef5c77ebc1fc16afde7c11827764c5302145741b736d4",
+  "acceptance": "APPROVED_SEVEN_TURN_AUDIO_JOIN_BY_OWNER",
+  "scope": "Speaker assignment and join acceptability of the exact listening review; proceed to picture editing",
+  "expected_accepted_order": ["Dao", "Khoai", "Dao", "Khoai", "Dao", "Khoai", "Dao"],
+  "N02_whole_source_prior_approval": "201",
+  "root_heard_audio": false,
+  "formal_SIA_with_local_reference_report": "NOT_CREATED",
+  "full_AV_or_master_approved": false,
+  "new_voice_generation_authorized": false,
+  "existing_picture_authority": "198_FORM_A_X1_PACKAGE_WITHIN_REMAINING_93"
+}

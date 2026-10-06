@@ -1,0 +1,12 @@
+{
+  "status_at_record": "RUNNING_4_PERCENT",
+  "output_title": "Woman gazing screen left",
+  "generate_clicks": 1,
+  "account_balance_before": 137,
+  "account_balance_after": 127,
+  "actual_credit_debit": 10,
+  "budget": {"cap":422,"spent":349,"remaining":73,"reserved_seven_units":70,"reserve":3},
+  "prompt_read_back_matches_preflight": true,
+  "screenshot": "submitted.png",
+  "final_results": "See results.json once available"
+}

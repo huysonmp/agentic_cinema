@@ -2,6 +2,8 @@
 
 Ngày 2026-10-06. Owner đã duyệt toàn N02 mới: **“Đúng Khoai/K20 xuyên suốt, nhịp chấp nhận được”** tại [201](201_n02-native-received-and-local-qc.md). Lượt này chỉ ráp bản nghe đối chiếu, không sinh media hoặc dùng credit.
 
+**Cập nhật [203](203_audio-join-approved-and-picture-production.md):** owner “ok r đấy” đã duyệt người nói/chỗ nối của bản nghe này đúng hash. Các nhãn chờ duyệt dưới đây mô tả thời điểm trình 202, không còn là trạng thái hiện hành. Chưa nghiệm thu bản ghép hình–tiếng hoặc master.
+
 ## Đầu ra
 
 Folder owner: `C:/Users/PC/Downloads/du_an_nem_bui/202_dialogue_join_review/`.

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-06",
+  "unit": "U05",
+  "submissions": 1,
+  "outputs_requested": 1,
+  "UI_generation_title": "Peach character turning head smi…",
+  "UI_after_submission": "new generation0%, later8%; compose cleared",
+  "prompt_file": "prompt-U05-actual.txt",
+  "settings_source": "preflight.json and preflight-U05.png",
+  "account_balance_before": 147,
+  "account_balance_after_submission": 137,
+  "charge_observed": 10,
+  "budget": {"cap":422,"spent":339,"remaining":83,"spent_this_round":10},
+  "generation_status_at_record": "RUNNING",
+  "download_or_decode_completed": false,
+  "no_retry_or_other_generation_this_round": true,
+  "quality_master_publish": false
+}

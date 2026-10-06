@@ -1,5 +1,7 @@
 # EP01 — Duyệt cặp ảnh môi khép và cổng thử chuyển động
 
+**Cập nhật tại [197](197_completion-edit-plan-and-budget-proposal.md):** owner muốn dừng thử nhiều và duyệt chuẩn bị gói hoàn thiện toàn tập. Đề nghị thử riêng x3/30 dưới đây không còn là bước tiếp hiện hành; chưa được cấp/chạy. Approval ảnh195 giữ nguyên, ngân sách vẫn còn0. Hình thức/x1/cap của gói mới cần duyệt riêng.
+
 Ngày 2026-10-06. Owner trả lời **“ok r nhé”** sau khi nhận cặp START/END 195 và câu hỏi duyệt môi, ánh nhìn, góc đầu. Ghi nhận **duyệt ảnh thực tế trong phạm vi đó**, không suy thành cấp thêm credit, duyệt chuyển động hoặc bàn giao tập phim.
 
 ## Quyết định đã khóa

@@ -1,0 +1,19 @@
+{
+  "date":"2026-10-06",
+  "scope":"planning validation and source read-back only",
+  "source_hashes":{"status":"MATCH","count":13,"groups":["four completion-plan sources","two audio sources","six action reference stills189","one pickup video"]},
+  "timeline":{"contiguous":true,"positive_ranges":true,"frames":720,"fps":24,"seconds":30,"proposed_new_units":8,"rendered":false},
+  "pickup_live_local_probe":{"seconds":2.5,"resolution":[720,1280],"fps":"24/1","audio_streams":0,"approval":"rhythm only; continuity and full FOOD not approved"},
+  "audio_182_source_selection":"unchanged bytes",
+  "audio_identity_listening":"NOT_PERFORMED_HOLD",
+  "creative_or_independent_review":"NOT_PERFORMED",
+  "budget_arithmetic":{"inferred_x1_base":80,"reserve":20,"proposed_cap":100,"unchanged_x3_base":240,"unchanged_x3_reserve":60,"unchanged_x3_total":300},
+  "direct_live_quote":"NOT_CHECKED",
+  "owner_form_policy_budget_approval":"PENDING",
+  "current_spent":322,
+  "current_cap":322,
+  "remaining_authorized":0,
+  "flow_spend_this_turn":0,
+  "new_media_created":false,
+  "ready_for_paid_submission":false
+}

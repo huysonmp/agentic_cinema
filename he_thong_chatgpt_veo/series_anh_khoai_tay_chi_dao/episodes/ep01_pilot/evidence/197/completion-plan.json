@@ -1,0 +1,40 @@
+{
+  "date":"2026-10-06",
+  "status":"PACKAGE_PREPARED_AWAIT_SCOPE_AND_BUDGET_APPROVAL",
+  "owner_preparation_reply":"ok theo đề xuất",
+  "standalone_reaction_test_196":"SUPERSEDED_BY_COMPLETION_PLANNING_NOT_SUBMITTED",
+  "script_version":"C-v0.6",
+  "voices":{"Khoai":"K20 custom Orus","Dao":"D06 custom Aoede"},
+  "sources":[
+    {"role":"opening reference not finished video","path":"C:/Users/PC/Downloads/du_an_nem_bui/T2-CODEX-OPEN_v0.7.png","sha256":"a3d80f09bfb7242bae3007ad7b4f37473bb2f0ed019a84cc4956c4d32a8dbf9a"},
+    {"role":"reaction START still approved196","path":"D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/START_Dao_closed_lip_v0.1.png","sha256":"c7e84f873fd19e7919d0f2d5d8c4877c345dde6a402f91330ea48e4ff894fcf3"},
+    {"role":"reaction END still approved196","path":"D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/END_Dao_closed_lip_v0.1.png","sha256":"0e6a2f348ecd1cde923fa668d7b2163ad8b584f3be1e3a8cb7a91fa04b33e4de"},
+    {"role":"native pickup endpoint do not replace with generated approximation","path":"C:/Users/PC/Downloads/du_an_nem_bui/192_approved_pickup_join/inputs/P02_APPROVED_OUT_frame59.png","sha256":"db95be527d709dd39bb1107f5ac94a036bc480be28691d2c64b694112ae640c8"}
+  ],
+  "action_reference_manifest":"evidence/189/action-sync-preflight.json; new still and motion approvals not inherited",
+  "recommended_form":"A silent picture with deliberate offscreen character dialogue, owner approval pending",
+  "alternative_form":"B visible speaking faces with validated voice/lipsync, method and budget unknown",
+  "proposed_production_policy":{
+    "unit_count":8,
+    "outputs_each":1,
+    "standing_x3_override":"PENDING_NOT_APPLIED",
+    "model_reference":"Lite Frames 720p portrait8s",
+    "direct_live_quote":"NOT_CHECKED",
+    "historical_quote_194_x3":30,
+    "inferred_x1_credit":10,
+    "base_estimate":80,
+    "targeted_repair_reserve":20,
+    "requested_additional_cap":100,
+    "maximum_additional_attempts_if_same_quote":2,
+    "approval":"PENDING",
+    "guaranteed_completion":false
+  },
+  "unchanged_x3_comparison":{"base_estimate":240,"reserve_estimate":60,"total_estimate":300,"approval":"NOT_REQUESTED_FOR_EXECUTION"},
+  "current_budget":{"spent":322,"cap":322,"remaining_authorized":0,"flow_spend_this_turn":0,"live_balance":"NOT_CHECKED"},
+  "if_cap100_approved":{"cap":422,"new_cap_effective":false},
+  "speaker_gate":"HOLD",
+  "new_generation":"NOT_RUN",
+  "quality_master_release_authority":false,
+  "ready_for_paid_submission":false,
+  "excluded_from_estimate":["voice regeneration","unproven lipsync pipeline","Quality upgrade","new paid music or API","more than two targeted repairs"]
+}

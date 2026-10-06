@@ -1,6 +1,8 @@
 {
   "date": "2026-10-06",
   "status": "REFERENCE_PAIR_APPROVED_MOTION_TEST_BUDGET_PENDING",
+  "current_request_state": "SUPERSEDED_BY_COMPLETION_PLANNING_197_NOT_SUBMITTED",
+  "historical_status_note": "Original196 proposal retained; pair approval remains valid, separate x3/30 request no longer current",
   "owner_reply": "ok r nhé",
   "approval_scope": ["195 actual START/END lip expression", "gaze direction", "head angle"],
   "start_repo_path": "he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/assets/references/195/START_Dao_closed_lip_v0.1.png",

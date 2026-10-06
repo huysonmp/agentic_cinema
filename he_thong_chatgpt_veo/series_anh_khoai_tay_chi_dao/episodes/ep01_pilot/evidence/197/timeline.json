@@ -1,0 +1,34 @@
+{
+  "version": "197-v0.1",
+  "status": "EDIT_TARGET_NOT_RENDERED_NOT_FINAL_APPROVED",
+  "script_version": "C-v0.6",
+  "fps": 24,
+  "duration_frames": 720,
+  "audio_policy": "182 working slots unchanged; source identity HOLD",
+  "shots": [
+    {"id":"S01","in_frame":0,"out_frame":48,"action":"dish and street-eatery introduction","status":"MISSING_VIDEO","proposed_unit":"U01"},
+    {"id":"S02a","in_frame":48,"out_frame":99,"action":"N01 Dao teases, intends to pull plate","status":"MISSING_VIDEO","proposed_unit":"U01"},
+    {"id":"S02b","in_frame":99,"out_frame":291,"action":"N02 memory, N03 question, N04 payoff","status":"MISSING_VIDEO","proposed_unit":"U02"},
+    {"id":"S03","in_frame":291,"out_frame":324,"action":"Dao turns attention toward glass","status":"MISSING_VIDEO","proposed_unit":"U03"},
+    {"id":"S04","in_frame":324,"out_frame":384,"action":"pickup toward Khoai bowl","status":"OWNER_RHYTHM_APPROVED_OTHER_GATES_OPEN","source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","source_sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_in":0,"source_out":2.5},
+    {"id":"S05","in_frame":384,"out_frame":444,"action":"raise toward self, pause before bite","status":"MISSING_VIDEO","proposed_unit":"U04"},
+    {"id":"S06","in_frame":444,"out_frame":480,"action":"Dao catches Khoai, gaze screen-left","status":"MISSING_VIDEO_APPROVED_STILL_ONLY","proposed_unit":"U05","reference_record":"195 approved at196"},
+    {"id":"S07","in_frame":480,"out_frame":543,"action":"N05 accusation, Khoai caught holding same tuft","status":"MISSING_VIDEO","proposed_unit":"U04","reuse_policy":"later clean held section of same take, not repeat or freeze"},
+    {"id":"S08","in_frame":543,"out_frame":600,"action":"N06 excuse, redirect same tuft and receive bowl","status":"MISSING_VIDEO","proposed_unit":"U06"},
+    {"id":"S09","in_frame":600,"out_frame":672,"action":"N07 response, release same tuft into Dao bowl","status":"MISSING_VIDEO","proposed_unit":"U07"},
+    {"id":"S10","in_frame":672,"out_frame":720,"action":"Dao knowing smile, Khoai picks a new portion","status":"MISSING_VIDEO","proposed_unit":"U08"}
+  ],
+  "unit_count": 8,
+  "unit_count_basis": "proposed silent picture/offscreen plan A not approved",
+  "audio_slots": [
+    {"source":"C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav","sha256":"9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0","in_seconds":2,"out_seconds":12.005,"line_ids":["N01","N02","N03","N04"],"approval_scope":"provisional batch accepted root working selection not owner take winner"},
+    {"source":"C:/Users/PC/Downloads/du_an_nem_bui/154_visual_lock/R01.mp4","sha256":"9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19","in_seconds":20,"out_seconds":28,"line_ids":["N05","N06","N07"],"approval_scope":"audio reuse approved168 not visual"}
+  ],
+  "caption_and_overlay_basis":"evidence/182/assembly-manifest.json; provisional timing recheck actual final audio",
+  "new_video_coverage_seconds":0,
+  "rhythm_approved_range_seconds":2.5,
+  "picture_still_needed_or_unapproved_seconds":27.5,
+  "speaker_gate":"HOLD",
+  "offscreen_coverage_approval":"PENDING",
+  "ready_for_generation":false
+}

@@ -1,0 +1,22 @@
+{
+  "date":"2026-10-06",
+  "scope":"approval, source provenance, drafts and read-only Flow readiness checks",
+  "json_parse":"PASS",
+  "budget_arithmetic":"422 minus322 equals100",
+  "production_prompt_drafts":8,
+  "u05_prompt_r2_text":"EXACT_MATCH194",
+  "new_end_image_hash":"MATCH",
+  "owner_image_copy_hash":"MATCH",
+  "playback_hash":"MATCH",
+  "seven_excerpt_hashes":"MATCH183",
+  "quote_screenshot_hash":"MATCH",
+  "live_quote_credits":10,
+  "live_account_balance":154,
+  "speaker_listening":"NOT_PERFORMED_RESPONSE_PENDING",
+  "input_continuity":"PARTIAL_OPEN",
+  "independent_review":"NOT_RUN",
+  "generation_requests":0,
+  "flow_spend":0,
+  "remaining_authorized":100,
+  "ready_for_paid_submission":false
+}

@@ -4,6 +4,8 @@ Ngày chốt: 2026-10-02. Chủ dự án yêu cầu mỗi vòng thử mặc đ�
 
 ## Phạm vi và điểm dừng
 
+**Ngoại lệ EP01 tại [198](../episodes/ep01_pilot/198_completion-production-approval-and-input-preparation.md), ngày2026-10-06:** owner duyệt x1 mỗi đơn vị cho riêng gói hoàn thiện197 và bổ sung cap100, tối đa hai sửa có mục tiêu trong cùng trần. Không mở rộng sang các thử nghiệm/episode khác, không bỏ QC/nhật ký/quyền duyệt cuối hoặc tự mở Quality. Quy tắc x3 dưới đây giữ cho phạm vi khác.
+
 - Với phép thử độ ổn định, giữ nguyên ảnh, prompt, model và cấu hình trong cả ba lượt. Nếu thử ba phương án khác nhau, phải đăng ký rõ từng phương án; không gọi đó là phép thử lặp lại.
 - Đăng ký mục tiêu, nguồn đầu vào, phiên bản prompt, tiêu chí đạt, chi phí và ngân sách còn lại trước khi gửi. Quy định ba lượt không cấp ngân sách vô hạn, không mở Quality, API, Extend hoặc quyền công bố.
 - Dừng sau ba lượt. Không tự tạo lượt thứ tư để tìm một bản đẹp. Lỗi, kết quả thiếu hoặc thao tác gián đoạn đều phải đối soát trước khi gửi lại.

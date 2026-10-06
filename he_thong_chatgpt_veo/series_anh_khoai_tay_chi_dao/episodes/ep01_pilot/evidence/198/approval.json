@@ -1,0 +1,21 @@
+{
+  "date":"2026-10-06",
+  "owner_reply":"ok đề xuất, làm đi",
+  "approved_scope":["completion form A deliberate offscreen character dialogue","one output per production unit for this EP01 completion package","additional cap100"],
+  "standing_three_sample_exception":"this completion package only",
+  "project_cap":422,
+  "project_spent":322,
+  "remaining_authorized":100,
+  "spent_this_round":0,
+  "base_units":8,
+  "maximum_targeted_repairs":2,
+  "historical_inferred_x1_quote":10,
+  "live_quote":10,
+  "live_quote_scope":"Lite Frames9:16 720p8s x1 read directly; no submission",
+  "source_audio_gate":"HOLD_OWNER_LISTENING_RESPONSE_PENDING",
+  "source_audio_request":"existing A03_7-luot_REVIEW.wav, seven roles Dao Khoai Dao Khoai Dao Khoai Dao",
+  "source_input_readiness":"PARTIAL_PREPARING_8_PROMPT_DRAFTS_AND_NEW_U04_END_CANDIDATE",
+  "ready_for_paid_submission":false,
+  "new_video_generation":"NOT_RUN",
+  "quality_master_publish_authority":false
+}

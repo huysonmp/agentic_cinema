@@ -1,5 +1,7 @@
 # EP01 — Bảng dựng đích và gói hoàn thiện
 
+**Cập nhật [198](198_completion-production-approval-and-input-preparation.md):** owner “ok đề xuất, làm đi” duyệt A/x1/bổ sung100 cho gói hoàn thiện. Cap422, spent322, còn100 trước generation. Không nghiệm thu người nói/motion từ approval này; điểm kiểm tiếng và nguồn phải hoàn tất trước chi theo mục5. Các nhãn chờ duyệt bên dưới mô tả thời điểm trình197.
+
 Ngày 2026-10-06. Owner: “thôi, bây giờ không cần test nhiều nữa, ta tiến đến làm video cuối thì còn những bước nào nữa”, rồi “ok theo đề xuất”.
 
 **Đã duyệt:** chuẩn bị bảng dựng 30 giây, đối soát tài nguyên, trình gói hoàn thiện tổng thể. Dừng đề nghị thử riêng x3 R2 tại 196. **Chưa duyệt:** ngân sách mới, chuyển quy định x3 sang x1, lời ngoài hình, Quality hoặc bản cuối. Lượt này không mở Flow, không tạo ảnh/video/audio, không chi credit.

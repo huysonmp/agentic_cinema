@@ -1,0 +1,30 @@
+{
+  "turn":208,"date":"2026-10-06","status":"U03_REWORK_NEW_STILLS_PENDING_OWNER",
+  "budget":{"cap":422,"spent_before":379,"spent_after":389,"remaining_authority":33,"quote":10,"flow_balance_before":97,"flow_balance_after":87,"paid_units_this_turn":1},
+  "U03":{
+    "flow_title":"Woman looking at water glass","flow_media_id":"0ef0600c-79a3-4ded-b9a9-c2f99eb9ffc6",
+    "model":"Veo 3.1 - Lite","mode":"Frames","aspect":"9:16","outputs":1,"agent":false,
+    "start":"END_Dao_closed_lip_v0.1.png","start_sha256":"0e6a2f348ecd1cde923fa668d7b2163ad8b584f3be1e3a8cb7a91fa04b33e4de",
+    "end":"START_Dao_closed_lip_v0.1.png","end_sha256":"c7e84f873fd19e7919d0f2d5d8c4877c345dde6a402f91330ea48e4ff894fcf3",
+    "prompt":"prompt-U03-v0.1.txt","prompt_readback_matches":true,
+    "download_event":"timeout_after_20s_file_present_no_repeat",
+    "download_original":"C:/Users/PC/Downloads/Woman_looking_at_water_glass_20261006161631.mp4",
+    "native":"C:/Users/PC/Downloads/du_an_nem_bui/208_remaining_coverage/U03_NATIVE.mp4",
+    "sha256":"0f24d75532091f573e83be99d2990faf8e7ca4342b18435fc70337b9a6961d4a",
+    "codec":"h264","width":720,"height":1280,"fps":24,"frames":192,"duration_seconds":8,"audio_streams":0,"decode_exit":0,
+    "qc":"ROOT_REWORK_MOUTH_OPENS_DURING_REQUIRED_TURN","bound_to_timeline":false,"selected_range":null,"independent_agent_pass":false
+  },
+  "reference_base":"../../../../assets/references/208/",
+  "stills":[
+    {"file":"U08_START_v0.1_REWORK.png","sha256":"f2c3e9424cdef672be26abfd7f76114af84b1d65107f6921ade6f9ea62eb4e88","status":"REWORK_DUPLICATE_CHOPSTICKS_AND_TEXTURE"},
+    {"file":"U08_START_v0.2_REVIEW.png","sha256":"d69eed5be89786ca2f5fa63526cc2b92ca46854ac489130d9f35435bcaf103fc","status":"SUPERSEDED_TEXTURE_EDIT"},
+    {"file":"U08_START_v0.3_REVIEW.png","sha256":"e47e3f70057d9c3951671e83a574a82afe52acf8862587f8fa485ee746588fd3","status":"PENDING_OWNER_SOURCE_APPROVAL"},
+    {"file":"U01_START_v0.1_REWORK.png","sha256":"18a0ccf89ae57883bf6d6076a948283c1c02e67e85fd42d0b6ab673efb2d89e8","status":"REWORK_DAO_MOUTH_IN_FRAME"},
+    {"file":"U01_START_v0.2_REVIEW.png","sha256":"4714c4855c24784dd27be7f3ef2873bf4a3c403717b5e0d810dcd2dcd8c7a96d","status":"PENDING_OWNER_SOURCE_APPROVAL"},
+    {"file":"U02_START_v0.1_REVIEW.png","sha256":"8b8998a0c5275e586b5160bd2fa12ef399ac8faf7971b62c2c1e2936390839c4","status":"PENDING_OWNER_SOURCE_APPROVAL"}
+  ],
+  "derived_native_P02_frame0":{"native_sha256":"d45e28ae30d26109adf598984176c8ec44a4db2f52d0da9985fc27c2ba53efc6","frame":"P02_NATIVE_frame0.png","frame_sha256":"2daed66b1b0dd9458f106d8e9007cdd2ad3df8e437d3f858ada6e1c850a610fe"},
+  "active_timeline":"207-v0.4_UNCHANGED",
+  "proposed_S03_change":"Replace face turn with Dao hand touching glass using later U01 coverage; requires owner decision and observed clean range",
+  "final_av_gate":"NOT_RUN","release":"NOT_AUTHORIZED"
+}

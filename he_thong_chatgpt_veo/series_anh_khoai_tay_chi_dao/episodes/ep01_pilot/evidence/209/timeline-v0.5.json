@@ -1,0 +1,26 @@
+{
+  "version":"209-v0.5",
+  "status":"ROOT_FRAME_BOUND_CANDIDATE_FOR_OWNER_AV_REVIEW_NOT_RELEASE",
+  "fps":24,"duration_frames":720,"script":"C-v0.6",
+  "audio_review_sha256":"3c83b7d6188f5b973b0ef5c77ebc1fc16afde7c11827764c5302145741b736d4",
+  "audio_placements":[
+    {"review_in":0,"review_out":14.055,"timeline_in":0,"lines":["N01","N02","N03","N04"]},
+    {"review_in":14.055,"review_out":22.055,"timeline_in":21.958333333333332,"lines":["N05","N06","N07"]}
+  ],
+  "shots":[
+    {"id":"S01_S02a","in_frame":0,"out_frame":100,"unit":"U01","source":"C:/Users/PC/Downloads/du_an_nem_bui/209_remaining_production/U01_NATIVE.mp4","sha256":"26785c5f3a8ee732ba86e2e1075fb942aa16a7b6a0654e1b33ab9530785c1650","source_range_frames":[0,100],"selection_status":"ROOT_CANDIDATE_EARLIER_PULL_DEVIATION_NOT_OWNER_AV_APPROVED"},
+    {"id":"S02b_detail","in_frame":100,"out_frame":292,"unit":"U02","source":"C:/Users/PC/Downloads/du_an_nem_bui/209_remaining_production/U02_NATIVE.mp4","sha256":"27861b8dd0a28108d202e4c21ee47a8ab8a4706168bfcbf6a74fc76fc3c73d02","source_range_frames":[0,192],"selection_status":"ROOT_CANDIDATE_PENDING_OWNER_AV"},
+    {"id":"S02b_reply","in_frame":292,"out_frame":338,"unit":"U01","source":"C:/Users/PC/Downloads/du_an_nem_bui/209_remaining_production/U01_NATIVE.mp4","sha256":"26785c5f3a8ee732ba86e2e1075fb942aa16a7b6a0654e1b33ab9530785c1650","source_range_frames":[100,146],"selection_status":"ROOT_CANDIDATE_PENDING_OWNER_AV"},
+    {"id":"S03","in_frame":338,"out_frame":371,"unit":"U01","source":"C:/Users/PC/Downloads/du_an_nem_bui/209_remaining_production/U01_NATIVE.mp4","sha256":"26785c5f3a8ee732ba86e2e1075fb942aa16a7b6a0654e1b33ab9530785c1650","source_range_frames":[146,179],"selection_status":"ROOT_CANDIDATE_GLASS_SLIDE_DEVIATION_PENDING_OWNER_AV","approval_scope":"Owner approved tabletop alternative, not resulting glass displacement"},
+    {"id":"S04","in_frame":371,"out_frame":431,"unit":"P02","source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_range_frames":[0,60],"selection_status":"ROOT_CANDIDATE_PENDING_OWNER_AV","approval_scope":"RHYTHM_ONLY_OTHER_GATES_OPEN"},
+    {"id":"S05","in_frame":431,"out_frame":512,"unit":"U04","source":"C:/Users/PC/Downloads/du_an_nem_bui/205_u04_production/U04_NATIVE.mp4","sha256":"8e41154c45e85ba4a3cad4d2e31d009f680bf93b2f7cebd70535cb1260c95a38","source_range_frames":[0,81],"selection_status":"ROOT_CANDIDATE_CONDITIONAL_DIRECTING_DEVIATION_RECORDED"},
+    {"id":"S06","in_frame":512,"out_frame":527,"unit":"U05","source":"C:/Users/PC/Downloads/du_an_nem_bui/204_u05_repair/U05_REPAIR_NATIVE.mp4","sha256":"a44da6d29321d0bb9df6b25f27e58036fe0dc8ff995366f85e31acbbdeb44c2c","source_range_frames":[0,15],"selection_status":"ROOT_CANDIDATE_OWNER_SHORT_REACTION_ONLY","approval_scope":"OWNER_APPROVED_SHORT_REACTION205"},
+    {"id":"S07","in_frame":527,"out_frame":590,"unit":"U04","source":"C:/Users/PC/Downloads/du_an_nem_bui/205_u04_production/U04_NATIVE.mp4","sha256":"8e41154c45e85ba4a3cad4d2e31d009f680bf93b2f7cebd70535cb1260c95a38","source_range_frames":[81,144],"selection_status":"ROOT_CANDIDATE_CONDITIONAL_PENDING_AV"},
+    {"id":"S08","in_frame":590,"out_frame":626,"unit":"U06","source":"C:/Users/PC/Downloads/du_an_nem_bui/206_u06_production/U06_NATIVE.mp4","sha256":"e6df660be02f7b723e6b20a39a21876b164eefb22fc6b4bd7a9f3a1243d22926","source_range_frames":[0,36],"selection_status":"ROOT_CANDIDATE_ENTRY_ONLY_NOT_FULL_CLIP","approval_scope":"OWNER_APPROVED_ENTRY_SPLIT_PLAN207_NOT_FULL_AV"},
+    {"id":"S09","in_frame":626,"out_frame":684,"unit":"U07","source":"C:/Users/PC/Downloads/du_an_nem_bui/207_u07_production/U07_NATIVE.mp4","sha256":"9792a637316692967383990b0eb174471e4ede21edb37b470ef1d7fe60f0bdad","source_range_frames":[20,78],"selection_status":"ROOT_CANDIDATE_TRANSFER_RELEASE_BOWL_SHIFT_PENDING_AV"},
+    {"id":"S10","in_frame":684,"out_frame":720,"unit":"U08","source":"C:/Users/PC/Downloads/du_an_nem_bui/209_remaining_production/U08_NATIVE.mp4","sha256":"0c25609d1581046474b7f07230e457dfbee0320283ef4c8e4e45a9667f7647a0","source_range_frames":[66,102],"selection_status":"ROOT_CANDIDATE_LATE_PICKUP_TEMPORAL_ELLIPSIS_PENDING_OWNER_AV","deviation":"Original first36 frames fail pickup timing. Use actual grasp-lift at 2.75–4.25s, skip travel from Dao bowl to plate; inspect U07-U08 cut. No speed change."}
+  ],
+  "release_gate":"NOT_AUTHORIZED",
+  "formal_independent_SIA":"NOT_CREATED_NOT_CLAIMED_PASS",
+  "no_repeat_freeze_speed_pitch_change":true
+}

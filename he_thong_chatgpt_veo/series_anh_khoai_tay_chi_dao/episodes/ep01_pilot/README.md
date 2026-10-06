@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 207: đã duyệt tách cảnh, có ứng viên chuyển–thả nem
+## Hiện hành — 209: đã ráp bản xem đầy đủ 30 giây, chờ owner nghiệm thu AV
+
+[209 — approval, nguồn mới và bản ráp](209_approved-coverage-production.md): ba khung208/phương án S03 tabletop đã được duyệt; U01/U02/U08 tạo x1 Lite, đã tải/hash/decode. Bản AV30s/720frame giữ nguyên tiếng202 và C-v0.6, không dùng AAC native. Còn lệch cốc, rau P02, vị trí bát và điểm cắt kết lược chuyển đũa; không creative/SIA/owner PASS. Chưa phụ đề/nhãn AI/mix/master. Sổ419/422/còn3, account57; không tự chạy sửa hoặc Quality. Nguồn và bản xem ở folder owner209. Các mục trước dưới đây là lịch sử, không phải trạng thái hiện hành.
+
+## Mốc 207: đã duyệt tách cảnh, có ứng viên chuyển–thả nem
 
 [207 — approval, U07 và bản xem hành động](207_entry-split-approved-and-u07-production.md): owner duyệt U06 đưa bát 36 frame, U07 chuyển–thả 58 frame; tổng thời lượng và thoại giữ nguyên. Đã chạy một lượt Lite/x1, tải native, kiểm hash/decode và chuyển động. U07 source frame20–78 có chuyển nem vào bát Đào và nhả đũa; bát dịch nhẹ ở điểm cắt nên vẫn là ứng viên có điều kiện, chờ owner xem, chưa continuity/AV PASS. Có bản xem hình 13,042 giây không tiếng; chưa phim30s. Sổ379/422/còn43; bốn đơn vị U01/U02/U03/U08 dự kiến40, dự phòng3. Không tự chạy thêm U07 hoặc Quality. Trạng thái chờ duyệt phương án206 dưới đây là lịch sử đã xử lý.
 

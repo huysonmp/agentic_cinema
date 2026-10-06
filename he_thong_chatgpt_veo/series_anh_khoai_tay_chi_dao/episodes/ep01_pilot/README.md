@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 194: R2 đủ ba mẫu, vẫn chưa đạt phản ứng im lặng
+
+[194 — thử nhóm prompt và QC](194_dao-reaction-R2-approved-execution.md): owner thêm30 cho một x3 R2; giữ refs185/Lite/Frames, đổi đúng nhóm môi/lời thoại. Quote30, account184→154; tải/decode đủ, R201 không audio, R202/R203 cóAAC. Cả ba vẫn mở miệng/lặp gaze, chưa chọn take hoặc thêm coverage đạt. Sổ322/322 **còn0 quyền chi**. Dừng prompt-only trên cùng cặp; đề xuất kiểm khung môi khép trước khi thử lại, chưa tạo ảnh mới/paid test. P02 nhịp0–2,5s/C-v0.6/K20/D06/SIA HOLD giữ nguyên, chưa Quality/master.
+
 ## Hiện hành — 193: phản ứng Đào x3 đã thử, cả ba chưa đạt
 
 [193 — execution và QC](193_dao-reaction-x3-approved-execution.md): owner duyệt cặp185v0.2 và thêm30; Lite/Frames/x3/720p/8s quote30 đã chạy một lần, tải/decode đủ. Account214→184; sổ292/292 **còn0 được phép chi**. D01/D02 cóAAC, D03 không audio nhưng cả ba mở miệng/nhìn lại nhiều lần; D02 thêm giơ tay. Không chọn take, chưa đưa vào phim. Có so sánh nguyên8s và nối P02→D03 chỉ chẩn đoán có nhãnREWORK. PromptR2 chỉ draft, cần quyền mới trước thử; P02 nhịp0–2,5s/C-v0.6/K20/D06/SIA HOLD giữ nguyên. Không Quality/master. Mục192 chờ duyệt ngân sách dưới đây là lịch sử đã thực thi193.

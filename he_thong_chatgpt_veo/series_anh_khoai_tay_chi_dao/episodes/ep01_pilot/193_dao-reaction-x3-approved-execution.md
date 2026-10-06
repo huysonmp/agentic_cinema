@@ -1,5 +1,9 @@
 # EP01 — Duyệt và thử phản ứng Đào bằng ba Lite
 
+## Cập nhật R2 tại194
+
+Owner “ok” và bổ sung30 cho R2 tại[194](194_dao-reaction-R2-approved-execution.md). Đã chạy/tải đủ ba nhưng cả ba vẫn REWORK môi/gaze; thay nhóm prompt chưa đủ chữa lỗi. Trần322, còn0. R2 draft/chờ quyền bên dưới là lịch sử đã thực thi194; chưa chọn take hoặc tự mở retest tiếp.
+
 Ngày 2026-10-06. Owner trả lời “ok” cho câu hỏi tại192: duyệt cặp khung185 v0.2 và bổ sung tối đa30 credit cho **một batch x3 Lite** phản ứng Đào trước N05. Trần dự án292 (=262+30), đã dùng262, còn30 được phép trước chạy. Account balance không thay quyền chi.
 
 ## Phạm vi khóa

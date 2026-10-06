@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-06",
+  "owner_reply": "ok",
+  "proposal_source": "199_n02-owner-reported-speaker-fault-and-source-rca.md",
+  "scope": "One replacement of complete N02, only Khoai K20 custom Orus, one output, maximum10 credits taken from existing100",
+  "approved": true,
+  "additional_project_budget": 0,
+  "project_cap": 422,
+  "spent_before": 322,
+  "remaining_before": 100,
+  "request_cap": 10,
+  "outputs": 1,
+  "retry_authorized": false,
+  "script_change_authorized": false,
+  "new_voice_selection_authorized": false,
+  "quality_master_publish_authorized": false,
+  "live_quote": null,
+  "status": "APPROVED_PENDING_PREFLIGHT"
+}

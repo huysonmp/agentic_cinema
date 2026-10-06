@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 200: đã tạo một N02 chỉ-Khoai, chờ nghe và nhận native
+
+[200 — approval, preflight và kết quả](200_n02-single-speaker-approved-replacement.md): owner duyệt chuyển tối đa10 trong100 cho một N02/x1. Đã kiểm OPEN7/K20 đúngID, một token audio, không D06, OmniFlash/Components/360p/10s/x1 quote7; gửi một lần, account154→147. Clip mới `3b312ed6-ac2b-4798-b965-cffe5f738893` phát được trên Flow. Hai lượt tải (kể cả tab mới) chưa trả file; chưa native/hash/decode/WAV hoặc kiểm nghe. N02 cũ vẫn REWORK, nguồn mới chưa SIA PASS/chưa ghép. Handoff owner nghe/tải clip đúngID vào folder200. Cap422/spent329/còn93; không retry sinh hoặc Quality/master. Mục199 xin quyền là lịch sử, đã duyệt/thực thi đúng một lần tại200.
+
 ## Hiện hành — 199: N02 sai người nói theo owner
 
 [199 — truy nguyên và phương án sửa](199_n02-owner-reported-speaker-fault-and-source-rca.md): cả lượt hồi tưởng N02 thuộc Khoai/K20. Owner báo đoạn “Hồi bé…” sai; N02/A03 REWORK, không dùng tiếng final, sáu lượt khác chưa xác minh. PCM native → WAV → bản nghe198 giữ nguyên: cùng nguồn cũ chưa sửa, không lỗi đảo giọng mới khi nối. Đã chuẩn bị prompt chỉ-Khoai thay trọn N02, **chưa gửi**; xin đổi phạm vi dành tối đa10 trong100 cho một lần sửa/x1. Giá tuyến giọng chưa kiểm trực tiếp. Chi0, cap422/spent322/còn100; chưa audio-selection PASS, video mới/Quality/master. Trạng thái chờ phản hồi tại198 là lịch sử, đã nhận lỗi cụ thể tại199.

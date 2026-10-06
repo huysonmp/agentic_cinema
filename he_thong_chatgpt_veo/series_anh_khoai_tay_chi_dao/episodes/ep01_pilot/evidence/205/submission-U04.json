@@ -1,0 +1,11 @@
+{
+  "status_at_record":"RUNNING_17_PERCENT",
+  "output_title":"Man holding chopsticks with food",
+  "generate_clicks":1,
+  "prompt_exact_read_back_match":true,
+  "account_before":127,
+  "account_after":117,
+  "actual_debit":10,
+  "budget":{"cap":422,"spent":359,"remaining":63,"six_units_forecast":60,"reserve":3},
+  "final_results":"See results-U04.json once available"
+}

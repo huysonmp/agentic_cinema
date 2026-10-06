@@ -2,7 +2,7 @@
 
 ## Trạng thái hiện hành — 2026-10-06
 
-**Hiện hành — [205](episodes/ep01_pilot/205_short-reaction-approved-and-u04-continuation.md):** owner duyệt phản ứng ngắn0,625s/15 frame và tiếp tục trong cap còn73. Giữ nguyên tiếng202; timeline205-v0.3 chuyển21 frame sang nhịp tay Khoai, chưa render/AV/master. U04 dùng START native P02, bỏ END198 làm đổi bát/món; kiểm actual6s sạch trước chọn. Các trạng thái pending phản ứng phía dưới là lịch sử.
+**Hiện hành — [205](episodes/ep01_pilot/205_short-reaction-approved-and-u04-continuation.md):** owner duyệt phản ứng ngắn0,625s/15 frame. U04 đã tạo một x1/chi10 từ START native P02; tải/hash/decode/frame QC đã lưu, có ứng viên6s và bản xem hình9,125s. Nhịp nâng rồi hạ nhẹ/settle khác chỉ đạo được ghi rõ, chưa full-AV hoặc agent độc lập PASS; AAC native không dùng, giữ nguyên tiếng202. Timeline205-v0.3 chưa render phim30s. Sổ359/422/còn63; sáu lượt còn lại forecast60/dự phòng3. Tiếp chuẩn bị U06 từ native exit U04, không thêm U04/U05/Quality. Các trạng thái pending phản ứng phía dưới là lịch sử.
 
 **Hiện hành — [203](episodes/ep01_pilot/203_audio-join-approved-and-picture-production.md)/[204](episodes/ep01_pilot/204_u05-one-bounded-production-repair.md):** owner đã duyệt bản tiếng đủ bảy lượt202; giữ nguyên nguồn/lời/giọng. Đã tạo U05/x1 rồi sửa một lần/x1, cả hai chưa đạt phản ứng1,5s vì môi vẫn mở. Native/hash/decode/frame evidence đã lưu, không gọi root review là agent độc lập PASS. Đề xuất dùng0,625s đầu bản sửa và chuyển0,875s sang nhịp tay Khoai; chờ owner chốt, chưa timeline mới/render final. Chi thêm20, spent349/cap422/còn73; bảy cảnh còn lại forecast70, dự phòng3. Dừng chi tiếp theo ngoại lệ, không tự thử U05 lần ba hoặc Quality. Các trạng thái pending/giá trị budget phía dưới là mốc lịch sử.
 

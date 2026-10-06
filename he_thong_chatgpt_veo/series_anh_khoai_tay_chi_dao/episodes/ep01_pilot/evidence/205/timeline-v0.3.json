@@ -17,9 +17,9 @@
     {"id":"S02b_reply","in_frame":292,"out_frame":338,"unit":"U01","source_range_proposal":[4.166666666666667,6.083333333333334]},
     {"id":"S03","in_frame":338,"out_frame":371,"unit":"U03"},
     {"id":"S04","in_frame":371,"out_frame":431,"source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_range":[0,2.5],"approval_scope":"RHYTHM_ONLY_OTHER_GATES_OPEN"},
-    {"id":"S05","in_frame":431,"out_frame":512,"unit":"U04","action":"lift then held hand beat","source_range_proposal":[0,3.375]},
+    {"id":"S05","in_frame":431,"out_frame":512,"unit":"U04","action":"lift, slight settle then held hand beat","source":"C:/Users/PC/Downloads/du_an_nem_bui/205_u04_production/U04_NATIVE.mp4","sha256":"8e41154c45e85ba4a3cad4d2e31d009f680bf93b2f7cebd70535cb1260c95a38","source_range":[0,3.375],"selection_status":"ROOT_CONDITIONAL_CANDIDATE_DIRECTING_DEVIATION_RECORDED"},
     {"id":"S06","in_frame":512,"out_frame":527,"unit":"U05","source":"C:/Users/PC/Downloads/du_an_nem_bui/204_u05_repair/U05_REPAIR_NATIVE.mp4","sha256":"a44da6d29321d0bb9df6b25f27e58036fe0dc8ff995366f85e31acbbdeb44c2c","source_range":[0,0.625],"action":"cut reveals leftward gaze and light blink; closed lips","approval_scope":"OWNER_APPROVED_SHORT_REACTION205"},
-    {"id":"S07","in_frame":527,"out_frame":590,"unit":"U04","action":"later distinct hold for offscreenN05","source_range_proposal":[3.375,6]},
+    {"id":"S07","in_frame":527,"out_frame":590,"unit":"U04","action":"later distinct hold for offscreenN05","source":"C:/Users/PC/Downloads/du_an_nem_bui/205_u04_production/U04_NATIVE.mp4","sha256":"8e41154c45e85ba4a3cad4d2e31d009f680bf93b2f7cebd70535cb1260c95a38","source_range":[3.375,6],"selection_status":"ROOT_CONDITIONAL_CANDIDATE_NOT_FINAL_AV"},
     {"id":"S08","in_frame":590,"out_frame":647,"unit":"U06","action":"bowl entry and redirect"},
     {"id":"S09","in_frame":647,"out_frame":684,"unit":"U07","action":"same portion deposited"},
     {"id":"S10","in_frame":684,"out_frame":720,"unit":"U08","action":"ending after actual N07 speech tail"}
@@ -27,7 +27,7 @@
   "unit_count":8,
   "no_repeat_freeze_slowdown":true,
   "conditions":["U04 must provide clean6s before proposed ranges selected","U01 clean6.0833s; U02 clean8s","U07 release fits1.5417s; U08 ending fits1.5s","Actual N07 tail must precede visible silent ending"],
-  "remaining_units":7,
+  "remaining_units":6,
   "formal_SIA_reference_report":"NOT_CREATED_NOT_CLAIMED_PASS",
   "AV_assembly_gate":"NOT_RUN"
 }

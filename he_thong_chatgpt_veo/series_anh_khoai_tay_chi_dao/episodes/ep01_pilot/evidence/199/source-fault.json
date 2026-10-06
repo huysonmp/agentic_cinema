@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-06",
+  "status": "N02_REWORK_OWNER_REPORTED_WRONG_SPEAKER",
+  "owner_report": "sai đoạn Hồi bé mẹ rang gạo, a đứng chờ, đoạn đó là nam nói mà sao vẫn sai đi sai lại vậy",
+  "line_id": "N02",
+  "approved_text": "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.",
+  "expected_speaker": "Khoai",
+  "expected_voice_reference_id": "fb1188da-e6c8-4156-9bba-0576c01a8da6",
+  "expected_preset": "K20 / custom Orus",
+  "observed_speaker_identity": null,
+  "evidence_method": "OWNER_REPORTED_DEFECT_PLUS_READ_ONLY_PCM_PROVENANCE",
+  "root_heard_audio": false,
+  "audio_identity_observed_by_tool": false,
+  "remaining_six_turns_identity": "UNVERIFIED",
+  "audio_selection_gate": "NOT_PASS_REWORK_N02_AND_HOLD_REMAINING",
+  "selection_disposition": "N02_FROM_A03_EXCLUDED_FROM_FINAL_SELECTION_KEEP_NATIVE_UNCHANGED",
+  "automatic_global_quarantine_implemented": false,
+  "checks": {
+    "source_pcm_bytes": 1920960,
+    "concat_pcm_bytes": 3456960,
+    "source_pcm_equal_native": true,
+    "source_pcm_is_unchanged_concat_prefix": true,
+    "owner_copy_equal_original_concat": true,
+    "method": "FFmpeg decode native to s16le 48kHz stereo; compare wave frames byte for byte; compare full source with concat prefix"
+  },
+  "files": [
+    {"path": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03.mp4", "sha256": "3921e8f9d3a4475bcbd7677f3ca7a180e499adbf432702ccec08aa45dac1620b"},
+    {"path": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav", "sha256": "9b560b03a98e3d0cd722a0a2877d5395c08110ad2f361230f534d8a8736b3ae0"},
+    {"path": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_7-luot_REVIEW.wav", "sha256": "9d060627117db229e143768f465f6cddf56196d364db1200c17d93c9e88b00da"},
+    {"path": "C:/Users/PC/Downloads/du_an_nem_bui/198_completion_production/audio/A03_7-luot_REVIEW.wav", "sha256": "9d060627117db229e143768f465f6cddf56196d364db1200c17d93c9e88b00da"}
+  ],
+  "budget": {"cap": 422, "spent": 322, "remaining_authorized": 100, "spent_this_round": 0, "voice_regeneration_authorized": false},
+  "proposed_scope_change": {"single_N02_only_K20_generation": true, "outputs": 1, "maximum_credits_within_existing_100": 10, "status": "OWNER_APPROVAL_REQUIRED", "live_voice_route_quote": null},
+  "source_or_assembly_modified": false,
+  "new_generation": false,
+  "release_authorized": false
+}

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 199: N02 sai người nói theo owner
+
+[199 — truy nguyên và phương án sửa](199_n02-owner-reported-speaker-fault-and-source-rca.md): cả lượt hồi tưởng N02 thuộc Khoai/K20. Owner báo đoạn “Hồi bé…” sai; N02/A03 REWORK, không dùng tiếng final, sáu lượt khác chưa xác minh. PCM native → WAV → bản nghe198 giữ nguyên: cùng nguồn cũ chưa sửa, không lỗi đảo giọng mới khi nối. Đã chuẩn bị prompt chỉ-Khoai thay trọn N02, **chưa gửi**; xin đổi phạm vi dành tối đa10 trong100 cho một lần sửa/x1. Giá tuyến giọng chưa kiểm trực tiếp. Chi0, cap422/spent322/còn100; chưa audio-selection PASS, video mới/Quality/master. Trạng thái chờ phản hồi tại198 là lịch sử, đã nhận lỗi cụ thể tại199.
+
 ## Hiện hành — 194: R2 đủ ba mẫu, vẫn chưa đạt phản ứng im lặng
 
 [194 — thử nhóm prompt và QC](194_dao-reaction-R2-approved-execution.md): owner thêm30 cho một x3 R2; giữ refs185/Lite/Frames, đổi đúng nhóm môi/lời thoại. Quote30, account184→154; tải/decode đủ, R201 không audio, R202/R203 cóAAC. Cả ba vẫn mở miệng/lặp gaze, chưa chọn take hoặc thêm coverage đạt. Sổ322/322 **còn0 quyền chi**. Dừng prompt-only trên cùng cặp; đề xuất kiểm khung môi khép trước khi thử lại, chưa tạo ảnh mới/paid test. P02 nhịp0–2,5s/C-v0.6/K20/D06/SIA HOLD giữ nguyên, chưa Quality/master.

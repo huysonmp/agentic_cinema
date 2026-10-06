@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 193: phản ứng Đào x3 đã thử, cả ba chưa đạt
+
+[193 — execution và QC](193_dao-reaction-x3-approved-execution.md): owner duyệt cặp185v0.2 và thêm30; Lite/Frames/x3/720p/8s quote30 đã chạy một lần, tải/decode đủ. Account214→184; sổ292/292 **còn0 được phép chi**. D01/D02 cóAAC, D03 không audio nhưng cả ba mở miệng/nhìn lại nhiều lần; D02 thêm giơ tay. Không chọn take, chưa đưa vào phim. Có so sánh nguyên8s và nối P02→D03 chỉ chẩn đoán có nhãnREWORK. PromptR2 chỉ draft, cần quyền mới trước thử; P02 nhịp0–2,5s/C-v0.6/K20/D06/SIA HOLD giữ nguyên. Không Quality/master. Mục192 chờ duyệt ngân sách dưới đây là lịch sử đã thực thi193.
+
 ## Hiện hành — 192: P02 được duyệt về nhịp, đã kiểm nối local
 
 [192 — approval và bản kiểm6s](192_pickup-rhythm-approval-and-local-join.md): owner duyệt P02 range0–2,5s/60frame; không duyệt native8s/FOOD toàn cảnh hoặc tăng credit. Bản local gồm2,5s P02,3s ảnh tạm Đào/tay và0,5s thẻ thiếu, không tiếng và không thay182. Trục ảnh dự kiến phù hợp nhưng chưa phản ứng động/khựng/nối đạt. Đã chuẩn bị gói một x3 Lite phản ứng Đào với cặp185v0.2, chờ duyệt cặp đầu vào và thêm tối đa30; chưa gửi hoặc live quote. Chi0, sổ262/262 còn0, SIA HOLD; không Quality/master.

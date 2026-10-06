@@ -1,5 +1,9 @@
 # EP01 — Duyệt nhịp P02 và kiểm nối local
 
+## Cập nhật tại193
+
+Owner đã “ok” cặp185 v0.2 và bổ sung30 cho một x3 Lite tại[193](193_dao-reaction-x3-approved-execution.md). Đã chạy/tải đủ nhưng cả ba REWORK diễn, chưa chọn phản ứng; chi30, trần292, còn0. Các đoạn chờ quyền thử/còn0 trên trần262 dưới đây là lịch sử. P02 chỉ được duyệt nhịp0–2,5s, không mở rộng từ approval phản ứng.
+
 Ngày 2026-10-05. Owner trả lời **“duyệt”** cho đề xuất sau191: dùng nhịp gắp P02 đầu2,5s rồi kiểm nối local sang cảnh Đào nhìn lại. Khóa approval theo file SHA256 `9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b`, range0–2,5s/60frame. Không duyệt native8s còn lỗi, FOOD toàn cảnh, continuity, ảnh phản ứng, giọng, master hoặc credit mới.
 
 ## Quyết định dựng thử

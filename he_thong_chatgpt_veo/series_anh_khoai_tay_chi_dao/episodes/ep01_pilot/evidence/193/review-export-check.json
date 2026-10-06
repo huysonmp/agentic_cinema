@@ -1,0 +1,15 @@
+{
+  "status":"CONTACT_EXPORT_FIXED_VIDEO_UNCHANGED",
+  "initial_contact_sample_count":4,
+  "expected_contact_sample_count":9,
+  "observed_log":"Reconfiguring filter graph because video parameters changed to yuv420p(tv, smpte170m), 720x1280, unspecified alpha",
+  "first_frame_video_verified":"P02 present with correct label",
+  "repair_scope":"review tile filter only; -reinit_filter 0 for fixed geometry/pixel format encoded segments",
+  "fixed_contact_sample_count":9,
+  "video_sha256_before_and_after":"6b0fdb0367d72c633d3a5036beec7f8ec89d4a91e6dd9862a660c5e64bfd3e6e",
+  "video_change":false,
+  "legacy186_video_regression_sha256":"996f250d9e34ac05520495d308678475fba397d4172901f7fde517d9d400965e",
+  "legacy186_byte_identical":true,
+  "py_compile":"PASS",
+  "creative_qc_affected":"No reaction passed; failure evidence confirmed independently in native frames"
+}

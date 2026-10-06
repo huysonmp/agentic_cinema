@@ -124,7 +124,11 @@ def main():
     assert (video['width'], video['height'], video['r_frame_rate'], int(video['nb_frames'])) == (720,1280,'24/1',round(duration_total*24))
     assert abs(float(metadata['format']['duration']) - duration_total) < 1e-6
     run(['-i', str(result), '-f', 'null', 'NUL'])
-    run(['-i', str(result), '-vf', 'fps=2,scale=180:320,tile=4x4', '-frames:v', '1', str(out/'contact.png')])
+    # All encoded segments have fixed geometry/pixel format. A colour-tag change
+    # at a concat cut can reinitialize tile and discard its buffered early shots.
+    # Keep this review-only filter alive across that cut; native video is unchanged.
+    run(['-reinit_filter', '0', '-i', str(result), '-vf', 'fps=2,scale=180:320,tile=4x4',
+         '-frames:v', '1', str(out/'contact.png')])
     manifest = {'status': 'JOIN_PROBE_NOT_DELIVERY', 'probe_version': config.get('version', 'v0.2'), 'script_version': 'C-v0.6',
                 'silent': True, 'audio_streams': 0, 'speaker_gate': 'HOLD_DEFERRED_NOT_APPROVED',
                 'source_audio_used': False, 'credit_spend': 0, 'project_credit_remaining': config.get('project_credit_remaining', 23),

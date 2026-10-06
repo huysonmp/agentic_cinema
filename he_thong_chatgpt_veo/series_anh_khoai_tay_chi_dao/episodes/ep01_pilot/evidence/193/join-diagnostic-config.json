@@ -1,0 +1,11 @@
+{
+  "version":"193-DIAGNOSTIC-v0.1",
+  "output_name":"EP01_P02_D03_4.5s_REWORK_DIAGNOSTIC.mp4",
+  "banner":"KIỂM LỖI — D03 CHƯA ĐẠT, KHÔNG CHỌN",
+  "project_credit_remaining":0,
+  "coverage_approval":"P02_RHYTHM_ONLY_D03_REWORK",
+  "shots":[
+    {"shot":"S01","duration":2.5,"type":"VIDEO_RHYTHM_APPROVED","source":"C:/Users/PC/Downloads/du_an_nem_bui/191_pickup_new_tab/P02_0.00-2.50_SILENT_CANDIDATE.mp4","source_sha256":"9dde08e3bef922ee8b1456b10d2bb6552ff40d6406eea6d9ae73cddc34b5045b","source_in":0,"label":"P02: nhịp gắp đã duyệt / chưa duyệt nối","approval":"OWNER_APPROVED_PICKUP_RHYTHM_ONLY_AT_192"},
+    {"shot":"S02","duration":2,"type":"VIDEO_REWORK_DIAGNOSTIC","source":"C:/Users/PC/Downloads/du_an_nem_bui/193_dao_reaction/D03.mp4","source_sha256":"3e5caabe57688ee8fc1ffaad614328fdc2edb65ca98c98f26ef2210fcb442d72","source_in":0,"label":"D03: mở miệng ngoài ý định / REWORK","approval":"NOT_APPROVED_REJECTED_FOR_SILENT_REACTION"}
+  ]
+}

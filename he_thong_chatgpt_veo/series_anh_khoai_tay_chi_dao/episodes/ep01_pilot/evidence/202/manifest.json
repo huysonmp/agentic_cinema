@@ -1,0 +1,178 @@
+{
+  "mode": "SEVEN_TURN_LISTENING_REVIEW_NOT_FINAL_OR_RELEASE",
+  "output": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\202_dialogue_join_review\\EP01_7_LUOT_N02_MOI_REVIEW_NOT_FINAL.wav",
+  "output_sha256": "3c83b7d6188f5b973b0ef5c77ebc1fc16afde7c11827764c5302145741b736d4",
+  "duration_seconds": 22.055,
+  "format": "PCM_S16LE_48000_STEREO",
+  "mapping": [
+    {
+      "line_ids": [
+        "N01"
+      ],
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N01_intended_Dao_UNVERIFIED.wav",
+      "source_sha256": "366e95086c57dc1c5d2a2d366d6b24410ab85b0dcc7b2f2d4fbb61d3aa69cfe1",
+      "source_description": {
+        "origin": "183_EXISTING_DIAGNOSTIC_EXCERPT_NOT_FINAL_STEM",
+        "original_source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+        "original_in": 0,
+        "original_out": 2.15,
+        "new_trim": "NONE",
+        "cut_boundary_heard_by_root": false
+      },
+      "source_used": "WHOLE_WAV",
+      "timeline_start_seconds": 0.0,
+      "timeline_end_seconds": 2.15,
+      "approved_texts": [
+        "Anh nhìn mãi. Không hợp thì để em."
+      ],
+      "expected_speakers": [
+        "Đào"
+      ],
+      "owner_identity_approval": "NOT_ESTABLISHED_BY_201"
+    },
+    {
+      "line_ids": [
+        "N02"
+      ],
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\200_n02_replacement\\N02_EXPECTED_K20_REVIEW.wav",
+      "source_sha256": "52c7a027f55c6e354b0c5ac1d697bd8789682bfbc9ac99907a45e741f129b062",
+      "source_description": {
+        "origin": "200_SINGLE_KHOAI_REPLACEMENT",
+        "trim": "NONE",
+        "whole_owner_approved_source": true
+      },
+      "source_used": "WHOLE_WAV",
+      "timeline_start_seconds": 2.15,
+      "timeline_end_seconds": 12.155,
+      "approved_texts": [
+        "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ."
+      ],
+      "expected_speakers": [
+        "Khoai"
+      ],
+      "owner_identity_approval": "201_N02_ONLY"
+    },
+    {
+      "line_ids": [
+        "N03"
+      ],
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N03_intended_Dao_UNVERIFIED.wav",
+      "source_sha256": "30de99253ed78a37a6765f6bf28690063bd3888398d593263d417bec20bb2738",
+      "source_description": {
+        "origin": "183_EXISTING_DIAGNOSTIC_EXCERPT_NOT_FINAL_STEM",
+        "original_source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+        "original_in": 7.92,
+        "original_out": 8.79,
+        "new_trim": "NONE",
+        "cut_boundary_heard_by_root": false
+      },
+      "source_used": "WHOLE_WAV",
+      "timeline_start_seconds": 12.155,
+      "timeline_end_seconds": 13.025,
+      "approved_texts": [
+        "Anh chờ ăn à?"
+      ],
+      "expected_speakers": [
+        "Đào"
+      ],
+      "owner_identity_approval": "NOT_ESTABLISHED_BY_201"
+    },
+    {
+      "line_ids": [
+        "N04"
+      ],
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N04_intended_Khoai_UNVERIFIED.wav",
+      "source_sha256": "47c55646041c878f15b53114ed3b5299b5b2cb99b018f1e90711c0a0181b0ec4",
+      "source_description": {
+        "origin": "183_EXISTING_DIAGNOSTIC_EXCERPT_NOT_FINAL_STEM",
+        "original_source": "C:/Users/PC/Downloads/du_an_nem_bui/180_c_v06_dialogue/A03_VOICE_REVIEW.wav",
+        "original_in": 8.9,
+        "original_out": 9.93,
+        "new_trim": "NONE",
+        "cut_boundary_heard_by_root": false
+      },
+      "source_used": "WHOLE_WAV",
+      "timeline_start_seconds": 13.025,
+      "timeline_end_seconds": 14.055,
+      "approved_texts": [
+        "Chờ mẹ quay lưng."
+      ],
+      "expected_speakers": [
+        "Khoai"
+      ],
+      "owner_identity_approval": "NOT_ESTABLISHED_BY_201"
+    },
+    {
+      "line_ids": [
+        "N05",
+        "N06",
+        "N07"
+      ],
+      "source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+      "source_sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19",
+      "source_used": "FULL_AUDIO_DECODE_NO_TRIM",
+      "decode_command": [
+        ".local-tools\\ffmpeg\\verified-9.0.2\\ffmpeg-9.0.2-essentials_build\\bin\\ffmpeg.exe",
+        "-v",
+        "error",
+        "-nostdin",
+        "-i",
+        "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+        "-map",
+        "0:a:0",
+        "-vn",
+        "-ac",
+        "2",
+        "-ar",
+        "48000",
+        "-c:a",
+        "pcm_s16le",
+        "-f",
+        "s16le",
+        "pipe:1"
+      ],
+      "timeline_start_seconds": 14.055,
+      "timeline_end_seconds": 22.055,
+      "approved_texts": [
+        "Chờ em quay lưng nữa à?",
+        "Anh gắp cho em mà.",
+        "Thế em quay lại đúng lúc rồi."
+      ],
+      "expected_speakers": [
+        "Đào",
+        "Khoai",
+        "Đào"
+      ],
+      "owner_identity_approval": "NOT_ESTABLISHED_BY_201"
+    }
+  ],
+  "executed_line_order": [
+    "N01",
+    "N02",
+    "N03",
+    "N04",
+    "N05",
+    "N06",
+    "N07"
+  ],
+  "old_N02_source_included": false,
+  "reused_183_old_N02_excerpt": false,
+  "new_N02_pcm_unchanged": true,
+  "output_pcm_matches_ordered_sources": true,
+  "source_hashes_unchanged_after_build": true,
+  "gain_speed_pitch_fade_mix_added": false,
+  "new_generation": false,
+  "credit_spend": 0,
+  "root_heard_audio": false,
+  "owner_join_approval": "PENDING",
+  "audio_selection_gate": "NOT_PASS_PENDING_FULL_REVIEW",
+  "formal_SIA_all_turns_report": "NOT_CREATED",
+  "picture_or_lipsync_review": "NOT_RUN",
+  "limits": [
+    "183 excerpts are diagnostic ranges, not ear-approved final edit points",
+    "Whole new N02 includes its complete tail; final pacing is not claimed",
+    "Closing retains its existing native sound and spacing",
+    "No narrative action pause or 30-second final timing has been added",
+    "PCM mapping proves source usage, not perceived speaker identity"
+  ]
+}

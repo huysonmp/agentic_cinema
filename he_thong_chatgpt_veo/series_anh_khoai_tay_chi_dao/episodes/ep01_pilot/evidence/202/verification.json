@@ -1,0 +1,24 @@
+{
+  "status": "TECHNICAL_CHECKS_PASS_NOT_LISTENING_APPROVAL",
+  "review_sha256": "3c83b7d6188f5b973b0ef5c77ebc1fc16afde7c11827764c5302145741b736d4",
+  "independent_check": {
+    "N02_block_at_seconds": [2.15, 12.155],
+    "N02_block_pcm_equals_whole_owner_approved_WAV": true,
+    "native_original_and_copy_hash_preserved": true,
+    "seven_turn_source_order_verified": true,
+    "owner_doc_and_evidence_copies_hash_compared": 14,
+    "owner_doc_and_evidence_copies_matched": true
+  },
+  "unit_test_command": ".venv/Scripts/python.exe scripts/test_ep01_n02_replacement_review.py",
+  "unit_tests_run": 4,
+  "unit_tests_passed": 4,
+  "unit_test_scope": "approval/hash/PCM guards, not acoustic quality",
+  "local_QC": "faster-whisper small offline vi, no initial prompt; FFmpeg decode and meters",
+  "mean_dbfs": -17.1,
+  "peak_dbfs": -0.4,
+  "root_heard_audio": false,
+  "owner_N02_approval": "201_APPROVED",
+  "owner_join_approval": "PENDING",
+  "new_credit_spend": 0,
+  "remaining_authorized": 93
+}

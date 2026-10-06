@@ -1,5 +1,13 @@
 # EP01 — Pilot
 
+## Hiện hành — 202: đã ráp bản nghe bảy lượt với N02 mới đã duyệt
+
+[202 — bản nghe và bảng nguồn](202_seven-turn-review-with-approved-n02.md): WAV mới 22,055 giây giữ nguyên N02 đã duyệt, chỉ giữ N01/N03/N04 từ nguồn cũ và toàn phần kết R01; không đưa N02 lỗi vào. Hash/PCM và thứ tự đã kiểm, local ASR nhận đủ nội dung. Đã trình nghe trong chat, chờ duyệt người nói và chỗ nối của bản hiện hành; không tự báo SIA toàn tập PASS. Chưa timing video 30 giây, hình–tiếng hoặc master. Chi 0; trần 422/đã chi 329/còn 93. Folder owner: `202_dialogue_join_review`.
+
+## Mốc 201: đã nhận native và owner duyệt toàn N02 mới
+
+[201 — nhận file, kiểm local và approval](201_n02-native-received-and-local-qc.md): native mới đã sao lưu, giải mã sạch, WAV giữ nguyên PCM. Owner xác nhận “Đúng Khoai/K20 xuyên suốt, nhịp chấp nhận được” cho toàn N02 mới đúng hash. N02 cũ vẫn REWORK, approval riêng không tự duyệt sáu lượt khác hoặc bản nối. Không thay cả A03 chứa bốn lượt bằng nguồn mới chỉ một lượt hoặc ép slot cũ. Chi 0; trần 422/đã chi 329/còn 93. Trạng thái chưa nhận native tại 200 là lịch sử, đã cập nhật ở 201.
+
 ## Hiện hành — 200: đã tạo một N02 chỉ-Khoai, chờ nghe và nhận native
 
 [200 — approval, preflight và kết quả](200_n02-single-speaker-approved-replacement.md): owner duyệt chuyển tối đa10 trong100 cho một N02/x1. Đã kiểm OPEN7/K20 đúngID, một token audio, không D06, OmniFlash/Components/360p/10s/x1 quote7; gửi một lần, account154→147. Clip mới `3b312ed6-ac2b-4798-b965-cffe5f738893` phát được trên Flow. Hai lượt tải (kể cả tab mới) chưa trả file; chưa native/hash/decode/WAV hoặc kiểm nghe. N02 cũ vẫn REWORK, nguồn mới chưa SIA PASS/chưa ghép. Handoff owner nghe/tải clip đúngID vào folder200. Cap422/spent329/còn93; không retry sinh hoặc Quality/master. Mục199 xin quyền là lịch sử, đã duyệt/thực thi đúng một lần tại200.

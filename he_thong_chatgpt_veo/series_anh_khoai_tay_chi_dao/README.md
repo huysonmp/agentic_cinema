@@ -2,6 +2,10 @@
 
 ## Trạng thái hiện hành — 2026-10-06
 
+**Mới nhất — [202](episodes/ep01_pilot/202_seven-turn-review-with-approved-n02.md):** đã ráp bản nghe bảy lượt 22,055 giây, giữ nguyên toàn N02 mới đã duyệt; không dùng N02 lỗi. Bảng nguồn/hash/PCM và thứ tự đã kiểm. Đã trình nghe bản nối hiện hành, chờ owner duyệt người nói/chỗ nối; chưa timing video 30 giây hoặc hình–tiếng/master. Chi 0; trần 422/đã chi 329/còn 93. Folder owner: `202_dialogue_join_review`.
+
+**Mốc [201](episodes/ep01_pilot/201_n02-native-received-and-local-qc.md):** đã nhận native N02 mới, sao lưu/kiểm hash/giải mã/tách WAV giữ nguyên nguồn. Owner duyệt toàn WAV: “Đúng Khoai/K20 xuyên suốt, nhịp chấp nhận được”. N02 cũ vẫn REWORK; approval không tự duyệt sáu lượt khác hoặc bản nối. Chi 0; trần 422/đã chi 329/còn 93. Mục 200 chưa nhận file là lịch sử đã cập nhật tại 201; không sinh thêm/Quality/master.
+
 **Mới nhất — [200](episodes/ep01_pilot/200_n02-single-speaker-approved-replacement.md):** đã duyệt và tạo đúng một N02 chỉ-Khoai/K20, OmniFlash/360p/10s/x1 giá7, account154→147. Clip mới có trên Flow; hai lần tải qua điều khiển trình duyệt chưa trả native, chưa WAV/decode/kiểm nghe hoặc chọn tiếng final. Handoff owner nghe/tải đúng clip; A03/N02 cũ vẫn REWORK. Cap422/spent329/còn93; không retry sinh/Quality/master. Mục199 đề nghị quyền dưới đây là lịch sử đã cập nhật tại200.
 
 **Mới nhất — [199](episodes/ep01_pilot/199_n02-owner-reported-speaker-fault-and-source-rca.md):** owner báo câu “Hồi bé…” sai người nói; cả N02 phải là Khoai/K20. N02/A03 REWORK, không dùng tiếng final; sáu lượt khác chưa xác minh. PCM xác nhận bản nghe198 tái dùng nguyên A03. Prompt gán đúng vai nhưng chọn nguồn chưa kiểm nghe từng lượt. Đã chuẩn bị phương án chỉ-Khoai thay trọn N02, chưa tạo; xin đổi phạm vi dành tối đa10 trong100 cho một lần sửa/x1. Chi0, cap422/spent322/còn100; source gate chưa đạt, chưa video mới/Quality/master. Trạng thái chờ phản hồi tại198 bên dưới được cập nhật bởi199.

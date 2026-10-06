@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-06",
+  "owner_reply": "Đúng Khoai/K20 xuyên suốt, nhịp chấp nhận được",
+  "reviewed_artifact": "C:/Users/PC/Downloads/du_an_nem_bui/200_n02_replacement/N02_EXPECTED_K20_REVIEW.wav",
+  "reviewed_sha256": "52c7a027f55c6e354b0c5ac1d697bd8789682bfbc9ac99907a45e741f129b062",
+  "scope": "Whole replacement N02, one Khoai/K20 voice throughout and acceptable rhythm",
+  "N02_owner_acceptance": "APPROVED",
+  "observed_speaker_by_owner": "Khoai",
+  "observed_preset_by_owner": "K20",
+  "within_turn_consistency_by_owner": "ACCEPTED_THROUGHOUT",
+  "root_heard_audio": false,
+  "other_six_turns_approved_by_this_reply": false,
+  "formal_SIA_all_turns_report": "NOT_CREATED",
+  "quality_master_publish_authorized": false,
+  "new_generation_authorized": false
+}

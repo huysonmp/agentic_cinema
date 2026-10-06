@@ -1,0 +1,56 @@
+ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 16.2.0 (Rev3, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-cairo --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-openal --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      61.  1.102 / 61.  1.102
+  libavcodec     63.  1.102 / 63.  1.102
+  libavformat    63.  1.102 / 63.  1.102
+  libavdevice    63.  1.102 / 63.  1.102
+  libavfilter    12.  1.102 / 12.  1.102
+  libswscale     10.  1.102 / 10.  1.102
+  libswresample   7.  1.102 /  7.  1.102
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\Downloads\du_an_nem_bui\200_n02_replacement\N02_NATIVE.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Google
+  Duration: 00:00:10.01, start: 0.000000, bitrate: 957 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/iec61966-2-1, progressive), 360x640, 818 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 000001f405314c80] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf63.1.102
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+      handler_name    : SoundHandler
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_start: 0.365979
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_end: 1.210667 | silence_duration: 0.844687
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_start: 3.002521
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_end: 4.190896 | silence_duration: 1.188375
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_start: 4.794562
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_end: 5.448625 | silence_duration: 0.654062
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_start: 6.218104
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_end: 6.641458 | silence_duration: 0.423354
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_start: 7.371458
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_end: 8.190604 | silence_duration: 0.819146
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_start: 8.536938
+[Parsed_silencedetect_1 @ 000001f4070e5380] silence_end: 8.966604 | silence_duration: 0.429667
+[Parsed_volumedetect_0 @ 000001f4070ab100] n_samples: 960480
+[Parsed_volumedetect_0 @ 000001f4070ab100] mean_volume: -19.2 dB
+[Parsed_volumedetect_0 @ 000001f4070ab100] max_volume: -1.5 dB
+[Parsed_volumedetect_0 @ 000001f4070ab100] histogram_1db: 71
+[Parsed_volumedetect_0 @ 000001f4070ab100] histogram_2db: 411
+[Parsed_volumedetect_0 @ 000001f4070ab100] histogram_3db: 782
+[out#0/null @ 000001f405307380] video:0KiB audio:1876KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:10.00 bitrate=N/A speed= 600x elapsed=0:00:00.01

@@ -1,0 +1,15 @@
+{
+  "unit":"U07", "generation_count":1, "date":"2026-10-06",
+  "media_id":"daaff548-a029-4a6a-a52e-1bef5bff170f",
+  "url":"https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/daaff548-a029-4a6a-a52e-1bef5bff170f",
+  "account_last_observed_before":107,"account_after":97,"debit":10,
+  "budget":{"spent":379,"cap":422,"remaining":43,"four_units_forecast":40,"reserve":3},
+  "native":{"path":"C:/Users/PC/Downloads/du_an_nem_bui/207_u07_production/U07_NATIVE.mp4","sha256":"9792a637316692967383990b0eb174471e4ede21edb37b470ef1d7fe60f0bdad","bytes":2069386,"width":720,"height":1280,"fps":24,"frames":192,"seconds":8,"codec":"h264","AAC_present":true,"AAC_used":false,"decode_exit":0},
+  "download":{"attempts":1,"event_timeout_seconds":20,"actual_file_verified":true,"original":"C:/Users/PC/Downloads/Man_drops_food_into_bowl_20261006152052.mp4"},
+  "selected_candidate":{"source_in_frame":20,"source_out_frame_exclusive":78,"frames":58,"seconds":2.4166666666666665,"path":"C:/Users/PC/Downloads/du_an_nem_bui/207_u07_production/U07_REDIRECT_RELEASE_f20-f77_SILENT_CANDIDATE.mp4","sha256":"5ba6c9b63052b7e056a0aa730e0f988e7388e35fbf506eb5d5abebe597167df1","audio":false,"no_speed_change":true},
+  "review":{"path":"C:/Users/PC/Downloads/du_an_nem_bui/207_u07_production/EP01_ACTION_THROUGH_DEPOSIT_13.042S_PICTURE_REVIEW_NOT_FINAL.mp4","sha256":"0f6dada0bf51d974b0a009a6851e509405df2fc7da165cd5c17d1094fa985193","frames":313,"seconds":13.041666666666666,"audio":false,"full_decode_exit":0},
+  "selected_exit":{"frame":77,"path":"evidence/207/U07_SELECTED_OUT_frame77.png","sha256":"059e0702483faa581990c7dd1b12ace465a3670f39645df11bfdd9793c957616"},
+  "root_qc":{"status":"CONDITIONAL_CANDIDATE_OWNER_OUTPUT_REVIEW_PENDING","method":"first58 full-frame sheet;48 full-clip samples;all58 selected-range detail frames;larger20/35/44/57/72/77/83 and join/out frames","transfer_to_Dao_bowl":"observed","food_in_Dao_bowl_after_empty_tips_lift":"observed_at77","Khoai_bowl":"remains_empty","deviations":["release later than prompt1.8s; select later native range without speedup","Dao receiving bowl moves up/left during early clip; visible position shift at cut20","not full8s directing acceptance"],"independent_agent_review":"NOT_RUN","AV_master":"NOT_PASS"},
+  "remaining_units":["U01","U02","U03","U08"],
+  "audio202_changed":false,"U07_paid_retry":false,"U08_generated":false
+}

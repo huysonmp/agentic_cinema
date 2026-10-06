@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-06
 
+**Hiện hành — [207](episodes/ep01_pilot/207_entry-split-approved-and-u07-production.md):** owner duyệt tách đưa bát và chuyển–thả, giữ nguyên thoại và 30 giây. U07 một Lite/x1 đã tạo, tải native/hash/decode và frame QC; có ứng viên 58 frame chuyển nem vào bát Đào rồi nhả, nhưng bát dịch nhẹ ở điểm cắt, chưa continuity/owner-output PASS. Bản xem khối hành động 13,042 giây không tiếng đã lưu. Sổ379/422/còn43; bốn lượt U01/U02/U03/U08 dự kiến40, dự phòng3. Chưa phim30s/full-AV/master, không thêm lượt sửa hoặc Quality. Mốc chờ duyệt phương án206 là lịch sử.
+
 **Hiện hành — [206](episodes/ep01_pilot/206_u06-bowl-entry-and-redirect-production.md):** U06 một Lite/x1 đã tải native720p/8s, hash/decode/frame QC; REWORK vì thiếu chuyển đũa và bát Đào không còn thấy ở frame56. Chưa đưa vào timeline205 hoặc chạy U07. Đề xuất dùng U06 đưa bát36frame, để U07 chuyển+thả58frame trong tổng94frame hiện có, chờ owner chốt. Giữ tiếng202 và phản ứng ngắn đã duyệt205. Chi thêm10, sổ369/422/còn53; năm lượt forecast50/dự phòng3, không tự sửa U06 trả phí. Chưa full-AV/agent độc lập PASS, Quality/master.
 
 **Hiện hành — [205](episodes/ep01_pilot/205_short-reaction-approved-and-u04-continuation.md):** owner duyệt phản ứng ngắn0,625s/15 frame. U04 đã tạo một x1/chi10 từ START native P02; tải/hash/decode/frame QC đã lưu, có ứng viên6s và bản xem hình9,125s. Nhịp nâng rồi hạ nhẹ/settle khác chỉ đạo được ghi rõ, chưa full-AV hoặc agent độc lập PASS; AAC native không dùng, giữ nguyên tiếng202. Timeline205-v0.3 chưa render phim30s. Sổ359/422/còn63; sáu lượt còn lại forecast60/dự phòng3. Tiếp chuẩn bị U06 từ native exit U04, không thêm U04/U05/Quality. Các trạng thái pending phản ứng phía dưới là lịch sử.

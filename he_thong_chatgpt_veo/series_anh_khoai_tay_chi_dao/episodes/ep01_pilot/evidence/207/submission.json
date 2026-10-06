@@ -1,0 +1,15 @@
+{
+  "unit":"U07",
+  "generation_count":1,
+  "submitted":true,
+  "quote":10,
+  "last_observed_account_balance206":107,
+  "account_balance_after_submission207":97,
+  "debit":10,
+  "budget":{"cap":422,"spent":379,"remaining":43,"four_units_forecast":40,"reserve":3},
+  "U06_entry_export":{"path":"C:/Users/PC/Downloads/du_an_nem_bui/207_u07_production/U06_ENTRY_0.00-1.50_SILENT_RANGE.mp4","sha256":"0e439c03ff4080ecf9ac86851790b6af56c48651ce2e5ee062551ef4e84ae07c","frames":36,"seconds":1.5,"audio":false},
+  "partial_review":{"path":"C:/Users/PC/Downloads/du_an_nem_bui/207_u07_production/EP01_ACTION_ENTRY_10.625S_PICTURE_REVIEW_NOT_FINAL.mp4","sha256":"da615696a6cc97a8d2de77be01a2d273be0f6b82dd0389c7624e0c2a748d1f27","frames":255,"seconds":10.625,"audio":false,"decode_exit":0},
+  "timeline_v04":{"contiguous_frames":720,"S08_S09_total_frames":94,"audio_placements_unchanged":true},
+  "status_at_record":"GENERATING_NOT_QC_PASS",
+  "retry_authorized":false
+}

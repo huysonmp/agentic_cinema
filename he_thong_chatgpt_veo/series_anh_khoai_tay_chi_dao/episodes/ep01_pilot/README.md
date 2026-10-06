@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — 207: đã duyệt tách cảnh, có ứng viên chuyển–thả nem
+
+[207 — approval, U07 và bản xem hành động](207_entry-split-approved-and-u07-production.md): owner duyệt U06 đưa bát 36 frame, U07 chuyển–thả 58 frame; tổng thời lượng và thoại giữ nguyên. Đã chạy một lượt Lite/x1, tải native, kiểm hash/decode và chuyển động. U07 source frame20–78 có chuyển nem vào bát Đào và nhả đũa; bát dịch nhẹ ở điểm cắt nên vẫn là ứng viên có điều kiện, chờ owner xem, chưa continuity/AV PASS. Có bản xem hình 13,042 giây không tiếng; chưa phim30s. Sổ379/422/còn43; bốn đơn vị U01/U02/U03/U08 dự kiến40, dự phòng3. Không tự chạy thêm U07 hoặc Quality. Trạng thái chờ duyệt phương án206 dưới đây là lịch sử đã xử lý.
+
 ## Hiện hành — 206: U06 đã tạo và tải, REWORK; chờ điều chỉnh hành động
 
 [206 — kết quả, ngân sách và phương án](206_u06-bowl-entry-and-redirect-production.md): một lượt Lite/x1/10credit, native720p/8s/hash/decode và frame evidence đã lưu. Có đưa bát vào nhưng thiếu chuyển đũa; bát Đào không còn thấy ở frame56. Không đưa vào timeline hoặc báo ACT/agent độc lập PASS. Đề xuất S08 đưa bát36frame, S09/U07 chuyển rồi thả58frame, tổng94frame không đổi; chờ owner chốt, chưa U07 hoặc sửa timeline205. Giữ tiếng202. Sổ369/422/còn53; năm lượt còn lại forecast50/dự phòng3, không tự retry U06. Chưa phim30s/AV/Quality/master.

@@ -1,6 +1,6 @@
 {
   "request_id": "EP01-720-C01B-PREP-246",
-  "status": "SOURCE_SELECTED_PREPARATION_ONLY_C01B_PREFLIGHT_AND_LIVE_INPUTS_PENDING",
+  "status": "INDEPENDENT_PREFLIGHT_PASS_PAPER_ROOT_READ_FULL_LIVE_GATES_CLOSED_NOT_SUBMITTED",
   "source_selection": "00_decisions/C01A-exact-prefix-selection-246.json",
   "source_image_file": "02_refs/C01B_START_from_C01A_T04_FLOW_v1.png",
   "source_image_sha256": "0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb",
@@ -19,7 +19,7 @@
   "ACT_status": "COMPLETED_ROOT_READ_FULL_PREPARATION_ONLY;06_qc/C01B_ACT_246.md",
   "EDIT_root_read_full": "06_qc/C01A_T04_EDIT_options_246.md; source pose/waiver/dependency and paper timing warning",
   "DIR_integration": "Root readfull DOP/ACT/EDIT andactualcritic, selects exactcut underownerexception+actualaudioevidence; integrates softKhoan =>hear/changeattention=>release rim=>rest",
-  "independent_preflight": "NOT_RUN",
+  "independent_preflight": "06_qc/C01B_preflight_independent_246.md; PASS_PAPER_ROOT_READ_FULL",
   "live_quote": 7,
   "live_config": "Omni1.1Flash Ingredients 720p 9:16 4s x1 AgentOFF; one uploaded source and selected customK20; prompt readback matches draft",
   "live_balance_before": 1020,

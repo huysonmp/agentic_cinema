@@ -59,3 +59,21 @@ Root đọc đầy đủ kiểm độc lập: 42 khung riêng biệt của expor
 Đã chuẩn bị C01B từ nguyên khung cuối80, 720×1280, hash `0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb`; không reset tay. DOP/ACT/EDIT đã có đóng góp và được root đọc đầy đủ. C01B chỉ Khoai/K20 nói “Khoan.” → Đào nghe, buông vành, thu tay; đĩa đứng yên. Đã upload ảnh và gắn đúng custom K20, kiểm prompt readback và cấu hình Omni 1.1 Flash/Ingredients/720p/9:16/4s/x1/Agent OFF, quote7. Chưa submit; còn cổng preflight độc lập.
 
 Sổ trước C01B: đã chi60/500, còn440; firstpass140/retake145/postrough45/reserve110 chưa quyền. Số dư cùng account sau cắt/export/upload ảnh là1.020, không thấy trừ thêm so với sau T04. Giữ các số dư khác tab chưa đối soát như lịch sử, không coi đó là quyền thêm ngân sách.
+
+## C01B T01 — một lượt sản xuất, kiểm actual
+
+Root đọc đầy đủ preflight độc lập, PASS_PAPER đúng hash/nguồn, rồi kiểm live lần cuối và gửi một lượt7 credit. Cùng account1.020→1.013. Native tải qua UI Original thành công, Flow asset `ef0b0a9d-0aee-4ed6-a32a-1b219f5181cd`, SHA256 `f7321e72c952cf849f9b5febede7fb08951c997970de82e6f8d424f54415089b`, video4s/96 khung/24fps/720×1280, audio4,032s, giải mã sạch. Không sinh lại vì tín hiệu tải.
+
+Root xem ba board gồm24 khung riêng biệt và full0/16/24/48/56/72/95: Khoai mở miệng trước, Đào đổi chú ý rồi buông/thu tay, mẫu khoảng3s đã nghỉ, chưa thấy đĩa bị kéo. Tuy nhiên actualframe0 không đồng nhất hoàn toàn ảnh nguồn ở vị trí tay trong và hình khối món; chưa PASS điểm nối. Reviewer actual đang kiểm mẫu dày, không coi hash input đúng là đảm bảo START video đúng. ASR offline nhận “Khuán!” cho từ ngắn, không dùng để kết luận sai/đúng lời hoặc giọng; đã gửi đúng PCM cho owner nghe, chờ câu trả lời riêng.
+
+Native4s không phải range phim; không ép chuỗi phản ứng vào1,125s trên giấy. Cần chọn khoảng đủ Khoan/tiếp nhận/buông/thu và kiểm hai điểm nối trước mở C03A. Sổ hiện hành67/500, còn433; firstpass133/retake145/postrough45/reserve110 chưa quyền.
+
+Đồng bộ Git: push nhóm quyết định/evidence/source preparation thành công tới `418cfa5209d0b53fddf5d9bca06f3ee46ddd39d6`; đã xác minh bằng remote ref. Các kết quả C01B sau đó cần commit/push riêng, không gộp với xác nhận này.
+
+## Kết luận sau phản biện C01B và điểm chờ owner
+
+Root đã đọc đầy đủ reviewer actual52 khung, DOP diagnosis và ACT diagnosis. Có release/retract đọc được trong mẫu khoảng2–3s, không thấy gross platepull/take/eat; nhưng tay trong nhảy ra gần mép trái đĩa ở đầu rồi hai tay tiếp tục tới vành, hình khối nem cũng tái dựng. Root giữ **HOLD điểm nối và lựa chọn C01B**, chưa mở C03A; ngoại lệ inner gesture ở C01A không miễn một lần reach mới ở B. DOP không tìm được offset trung thực giữ trọn Khoan/nguồn/quan hệ hành động. Chưa coi một output là chứng minh nguyên nhân model.
+
+Giả thuyết sửa: thay “giữ ý định lấy tới khi nghe” bằng contact hiện có → chỉ buông/thu tay ngoài; tay trong tiếp tục về bát từ gesture nguồn, không tới vành; Khoan sớm và gọn, giữ camera/voice/script. Đây là phương án chưa chạy, phải tích hợp và preflight lại, không paid retake từ report.
+
+Để quan sát actual joint, đã thử nhập lại exact C01A export vào Flow để tạo bản QC riêng. UI chặn ở hộp xác nhận quyền sử dụng/chính sách Google; chưa bấm đồng ý, chưa xác minh upload, chưa tạo/export scene QC. Đã hỏi owner cho phép bấm “Tôi đồng ý” một lần cho đúng video project-created này, không chọn ẩn lần sau. Đồng thời tiếng C01B exact PCM đã gửi nghe, đang chờ owner. Hai câu hỏi này không duyệt cả phim hoặc cấp ngân sách mới. Sau xác nhận: kiểm bản nối thực → xử lý lỗi nguồn/take có mục tiêu → đóng C01B trước C03A. Không tạo trả phí thêm trong lúc chờ.

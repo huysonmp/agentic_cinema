@@ -4,7 +4,7 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
-- Trạng thái hiện hành REC246: đã chi60/500, còn440; C02 đã duyệt, C01A T04 chọn đúng prefix81 khung/3,375s dưới ngoại lệ owner và phạm vi kiểm độc lập. Owner đã nghe đúng tiếng D06/đủ N01/nhịp của exact cut. Không chọn đuôi native kéo đĩa hoặc duyệt cả phim. C01B đang kiểm preflight, đã gắn ảnh cuối C01A và đúng K20; quote7, chưa submit. Lượt đầu còn140, tạo lại145, sau rough cut45 chưa dùng; dự phòng110 chưa được giải ngân. Số dư cùng account sau cắt/export/upload là1.020; các chênh lệch tab cũ chưa giải thích không tăng quyền chi.
+- Trạng thái hiện hành REC246: đã chi67/500, còn433; C02 đã duyệt, C01A T04 chọn đúng prefix81 khung/3,375s dưới ngoại lệ owner và phạm vi kiểm độc lập. Owner đã nghe đúng tiếng D06/đủ N01/nhịp của exact cut. Không chọn đuôi native kéo đĩa hoặc duyệt cả phim. C01B T01 qua preflight và chạy đúng một lượt quote7, tải native720×1280/24fps/96 khung/4s; đang kiểm hình, tiếng và điểm nối, chưa chọn range. Lượt đầu còn133, tạo lại145, sau rough cut45 chưa dùng; dự phòng110 chưa được giải ngân. Số dư cùng account1.020→1.013; các chênh lệch tab cũ chưa giải thích không tăng quyền chi.
 - Các dòng REC238–246 dưới đây là lịch sử theo thời điểm; quyết định source hiện hành ở `00_decisions/C01A-exact-prefix-selection-246.json` và request kế tiếp ở `04_requests/C01B_input_preparation_246.json`. Không coi heading PENDING cũ là phủ nhận quyết định mới hoặc approval một artifact là approval take khác.
 - Account đã được owner xác nhận; project **EP01 Nem Bùi — Khoai & Đào — 720p v1** đã tạo, giữ project cũ.
 - URL: https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6.

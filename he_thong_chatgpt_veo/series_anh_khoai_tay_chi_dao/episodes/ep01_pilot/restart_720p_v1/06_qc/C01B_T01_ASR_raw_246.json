@@ -1,0 +1,37 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.84,
+      "text": " Khuán!",
+      "tokens": [
+        50364,
+        11681,
+        84,
+        7200,
+        0,
+        50464
+      ],
+      "avg_logprob": -0.7251544169017247,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.30190253257751465,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.84,
+          "word": " Khuán!",
+          "probability": 0.6186244636774063
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

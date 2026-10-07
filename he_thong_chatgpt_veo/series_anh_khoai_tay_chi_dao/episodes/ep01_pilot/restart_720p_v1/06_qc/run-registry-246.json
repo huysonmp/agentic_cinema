@@ -20,8 +20,11 @@
     {"run_id":"C01A-T04-EDIT-246","role":"EDIT material owner options, maker planning only","agent":"/root/c02_edit_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_T04_EDIT_options_246.md"},
     {"run_id":"C01B-DOP-246","role":"DOP exact-state release/retract preparation","agent":"/root/c02_dop_239","status":"COMPLETED_ROOT_READ_FULL_PREPARATION_ONLY","output":"06_qc/C01B_DOP_246.md"},
     {"run_id":"C01B-ACT-246","role":"ACT interruption/hear/release preparation","agent":"/root/c02_act_239","status":"COMPLETED_ROOT_READ_FULL_PREPARATION_ONLY","output":"06_qc/C01B_ACT_246.md"},
-    {"run_id":"C01B-PREFLIGHT-246","role":"Independent integrated next-unit preflight","agent":"/root/c02_critic_239","status":"QUEUED_AFTER_C01A_ACTUAL_REVIEW","output":"06_qc/C01B_preflight_independent_246.md"}
+    {"run_id":"C01B-PREFLIGHT-246","role":"Independent integrated next-unit preflight","agent":"/root/c02_critic_239","status":"COMPLETED_PASS_PAPER_ROOT_READ_FULL_LIVE_GATES_CLOSED","output":"06_qc/C01B_preflight_independent_246.md"},
+    {"run_id":"C01B-T01-NATIVE-246","role":"Independent actual native and boundary review","agent":"/root/c02_critic_239","status":"COMPLETED_ROOT_READ_FULL_HOLD_AUDIO_AND_JOINS","output":"06_qc/C01B_T01_native_independent_246.md","target_sha256":"f7321e72c952cf849f9b5febede7fb08951c997970de82e6f8d424f54415089b"},
+    {"run_id":"C01B-T01-DOP-DIAGNOSIS-246","role":"Maker actual boundary geometry diagnosis","agent":"/root/c02_dop_239","status":"COMPLETED_ROOT_READ_FULL_TARGETED_REWORK_RECOMMENDED","output":"06_qc/C01B_T01_DOP_diagnosis_246.md"},
+    {"run_id":"C01B-T01-ACT-DIAGNOSIS-246","role":"Maker cue and renewed-reach diagnosis","agent":"/root/c02_act_239","status":"COMPLETED_ROOT_READ_FULL_HOLD_JOIN","output":"06_qc/C01B_T01_ACT_diagnosis_246.md"}
   ],
   "DIR_integration": "root, after reading all maker reports; not independent critic",
-  "paid_submit_count_this_record": 4
+  "paid_submit_count_this_record": 5
 }

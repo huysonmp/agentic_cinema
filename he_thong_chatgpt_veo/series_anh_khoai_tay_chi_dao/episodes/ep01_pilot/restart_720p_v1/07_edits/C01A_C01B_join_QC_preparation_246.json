@@ -1,0 +1,20 @@
+{
+  "record_id": "REC246-A-B-JOIN-QC-PREP",
+  "status": "VIDEO_REIMPORT_RIGHTS_CONFIRMATION_PENDING_OWNER_NOT_SCENE_CREATED",
+  "purpose": "Separate actual join QC draft, preserve selected C01A scene and native B",
+  "source_C01A_file": "07_edits/C01A_T04_FLOW_0_3p333S_FOR_APPROVAL.mp4",
+  "source_C01A_sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
+  "source_C01B_file": "05_native/EP01_720_C01B_T01_NATIVE.mp4",
+  "source_C01B_sha256": "f7321e72c952cf849f9b5febede7fb08951c997970de82e6f8d424f54415089b",
+  "route": "Flow project Upload exact A export, new separate Scene, assemble native source linked audio; no generation",
+  "observed_rights_dialog": "Quyền sử dụng video này: ensure necessary rights, prohibited conduct and Google policies. Tôi đồng ý / Tôi đồng ý không hiện lại / Huỷ",
+  "confirmation_requested": "One-time Tôi đồng ý for exact project-created C01A video, not do-not-show-again; async owner question pending",
+  "rights_accepted": false,
+  "upload_completion_verified": false,
+  "uploaded_cloud_id": null,
+  "QC_scene_id": null,
+  "output_file": null,
+  "credit_paid_generation_count": 0,
+  "UI_evidence": "C:/Users/PC/Downloads/du_an_nem_bui/246_C01A/C01A_REIMPORT_VIDEO_RIGHTS_DIALOG.png",
+  "not_approval": "B range/start/joins/voice or wholefilm remain unapproved. No offset/speed/cover to hide defect"
+}

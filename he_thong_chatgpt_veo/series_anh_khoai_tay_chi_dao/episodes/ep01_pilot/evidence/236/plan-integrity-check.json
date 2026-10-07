@@ -1,0 +1,31 @@
+{
+  "record_id": "REC236",
+  "date": "2026-10-07",
+  "status": "DOCUMENT_INTEGRITY_CHECK_ONLY_NOT_PRODUCTION_READY",
+  "owner_selected_resolution": "direct_720p",
+  "paid_generation_submitted": false,
+  "new_account_received": false,
+  "independent_new_plan_review_run": false,
+  "checks": {
+    "proposed_production_units": 11,
+    "reference_first_pass_credits_sum": 100,
+    "generated_duration_seconds_sum": 60,
+    "proposed_film_time_budget_seconds_sum": 30,
+    "first_pass_cap": 165,
+    "retake_cap": 180,
+    "post_rough_cut_coverage_cap": 45,
+    "unallocated_reserve": 110,
+    "proposed_total_cap": 500,
+    "relative_document_links_checked": 5,
+    "relative_document_links_exist": true,
+    "whitespace_diff_check": "no_diagnostics"
+  },
+  "correction_before_handoff": "Automated row sum found the initial 110-credit first-pass total was incorrect. Corrected to 100 and dependent example to 220 before delivery.",
+  "limits": [
+    "Prices are public reference prices, not live quotes from the new account.",
+    "The 30-second table is a planning allocation, not measured audio or an approved EDL.",
+    "New references, voice IDs and exact production prompts are not yet prepared.",
+    "The budget and 11-unit shot split are submitted for owner approval.",
+    "Arithmetic and document link checks do not verify artistic quality or generation success."
+  ]
+}

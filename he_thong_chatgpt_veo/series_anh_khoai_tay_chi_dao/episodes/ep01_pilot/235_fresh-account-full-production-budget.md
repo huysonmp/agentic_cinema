@@ -2,6 +2,8 @@
 
 Ngày: 2026-10-07. Trạng thái: **ESTIMATE_ONLY / ACCOUNT_NOT_RECEIVED / NOT_SPENDING_APPROVAL**.
 
+**Cập nhật tiếp nối:** owner đã chọn làm trực tiếp ở 720p, không mở chặng thử 360p. Kế hoạch hiện được trình tại [236 — sản xuất trực tiếp 720p](236_direct-720p-fresh-account-production-plan.md). Phương án thử 360p và bảng phân bổ ngân sách dưới đây giữ làm lịch sử dự toán, không còn là tuyến đề nghị chạy. Chưa ghi owner đã duyệt trần 500 hoặc các request mới.
+
 Owner hỏi: với kinh nghiệm triển khai, bắt đầu lại hoàn toàn trên tài khoản mới cần khoảng bao nhiêu credit để hoàn thành video, cho phép dự trù cả test và kiểm. Đây là yêu cầu lập dự toán mới, không cấp sẵn quyền chạy, đăng nhập tài khoản mới, tạo media hoặc dùng hết ngân sách. Lượt này không generation, không chi credit.
 
 ## 1. Phạm vi và giả định

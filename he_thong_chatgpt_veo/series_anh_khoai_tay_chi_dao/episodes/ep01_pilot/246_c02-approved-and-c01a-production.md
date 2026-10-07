@@ -27,3 +27,13 @@ Tiếng Đào trong C01A là mốc nghe output sản xuất đầu, chưa đư�
 - Giả định làm việc: khung F0 hiện tại đủ đường tay tới mép đĩa; chỉ là giả thuyết cần kiểm motion, không chứng nhận từ ảnh đẹp.
 - Còn mở: tiếng Đào thực, đường tay C01A, dừng–thu C01B, khớp hai điểm nối và timing toàn phim.
 - Bước tiếp: maker/reviewer → quote/binding/readback → một C01A sản xuất → tải/QC → owner nghe tiếng Đào và chọn endpoint thật cho C01B.
+
+## Kết quả C01A T01 và sửa có mục tiêu
+
+Root đọc đầy đủ DOP/ACT/EDIT và preflight độc lập, kiểm một ảnh nguồn/một D06, prompt readback, Omni 1.1 Flash/Ingredients/720p/9:16/6 giây/x1/Agent OFF. Giá đầy đủ đầu vào 10; gửi một lần. Native tải qua UI Original thành công, SHA256 `0c42df876e8d3b7b46fe1b7930f3fc33ecf1e462f6c3f66ddabf677efb6c67d4`, video 6 giây/144 khung/24 fps, tiếng 6,016 giây, giải mã toàn file thành công.
+
+Hình mẫu cho thấy Đào dùng đúng tay ngoài để vươn, hai mặt và bối cảnh còn rõ; không thấy khói hoặc món bị lấy. Nhưng ngón tay che mép đĩa từ khoảng 3,333 giây tới sau âm cuối theo ASR, nên không xác nhận được khoảng hở. Tay tự thu từ khoảng 4,083 giây, trước “Khoan” ở clip chưa có. Reviewer đã xem 52 khung riêng biệt, gồm đoạn 3,5–4,208 giây từng khung; root đọc đầy đủ báo cáo. Kết luận **HOLD điểm ra C01B / sửa boundary hình**, không nói chắc tay đã chạm vật lý và không gọi lời ASR đúng là giọng đúng.
+
+Không cứu bằng cắt trước “em”, giấu tay hoặc phủ hình món. T02 dự kiến sửa hai điểm: tay dừng cao hơn trên vùng trống bát–đĩa với khoảng hở hình rõ, giữ ý định chưa hoàn tất tới cuối. ACT phản biện thêm nguy cơ tay thành cử chỉ giới thiệu món; root tích hợp bàn tay thư giãn theo hướng vươn, không xòe lòng bàn tay trình bày. Giữ nguồn, giọng, lời và cảnh. Đây là giả thuyết sửa, chưa chứng minh nguyên nhân duy nhất hoặc chắc sẽ đạt.
+
+Khoản T01 quan sát cùng tab: 1.050→1.040, trừ10. Sổ dự án bảo thủ 40/500 đã dùng, còn460; khoản lượt đầu còn140, tạo lại còn165, dự phòng110 chưa được giải ngân. T02 chưa gửi tại thời điểm viết mục này. Nếu cùng lỗi lớn lặp lại ở T02, dừng chẩn đoán, không tự T03.

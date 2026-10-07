@@ -1,0 +1,16 @@
+{
+  "record_id": "REC246-C01A-T02-AUDIO",
+  "date": "2026-10-07",
+  "owner_answer_verbatim": "Đúng D06, lời và nhịp chấp nhận được",
+  "reviewed_file": "06_qc/C01A_T02_246/native_audio.wav",
+  "reviewed_file_location": "OWNER_FOLDER",
+  "reviewed_wav_sha256": "1082833d4066616f50b410ffa3c820373063acf12c18ebe1ea3dc91fde699863",
+  "source_native_file": "05_native/EP01_720_C01A_T02_NATIVE.mp4",
+  "source_native_sha256": "0b5615beef4e23a42428771109fe36544510270281ae35129de6f6c585a398a7",
+  "voice_custom_id": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb",
+  "exact_dialogue": "Anh nhìn mãi. Không hợp thì để em.",
+  "approved_scope": "OWNER_ACTUAL_LISTENING_EXACT_T02_AUDIO_D06_DIALOGUE_AND_RHYTHM",
+  "not_approved": ["T02 picture", "T02 lip-sync", "future take waveform", "C01B match", "whole episode"],
+  "checkpoint": "First actual Dao production voice listening checkpoint closed; every later native remains subject to output verification",
+  "picture_disposition": "REWORK_VISUAL_INTENT_AND_ADDED_TEXT_HOLD_C01B;independent critic completed and root read full"
+}

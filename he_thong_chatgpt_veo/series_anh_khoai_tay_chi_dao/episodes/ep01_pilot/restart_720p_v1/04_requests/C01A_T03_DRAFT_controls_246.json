@@ -1,0 +1,46 @@
+{
+  "request_id": "EP01-720-C01A-T03-DRAFT-246",
+  "status": "DRAFT_LIVE_INPUTS_PREPARED_NO_SUBMIT_PREFLIGHT_PENDING",
+  "submit_count": 0,
+  "live_quote": 10,
+  "live_quote_scope": "Full draftprompt plus one exact source image and oneD06 voice; modelsettings observed before submission, reverify after any wording/input changes",
+  "prompt_sha256": "9e68e8ff9ec8d9e63bc7cc931936a77da2ee34c2bc972c31bef7fa4260b0c282",
+  "full_prompt_readback_matches_file": true,
+  "image_binding_verified": "One imagechip DOM src UUID4c83356f-ac72-437b-8dd7-f8534b61103a; picker exactfilename/preview",
+  "voice_binding_verified": "One voicechip, picker exactD06 name/performance/sample IDs6dadc0b1-00c3-493c-943d-f4a1e4a88feb; noKhoai",
+  "live_config_verified": "Omni1.1Flash Ingredients720p9:16/6s/x1/AgentOFF",
+  "observed_balance_before": 1030,
+  "UI_proof": "C:/Users/PC/Downloads/du_an_nem_bui/246_C01A/C01A_T03_DRAFT_FULL_INPUT_QUOTE10.png",
+  "root_ACT_DOP_actual_critic_read_full": true,
+  "root_stop_rule_decision": "No same rimocclusion/earlyretract MAJOR observed by critic; newtext/presenting diagnostically held and ACT/DOP integrated; no guaranteed cause. SameT02 text or presenting recurring onT03 meansSTOP, notT04",
+  "owner_actual_D06_checkpoint": "Closed exactT02audio via00_decisions/C01A-T02-audio-approval-246.json; not future waveform approval",
+  "expected_route": "Omni1.1Flash Ingredients720p9:16/6s/x1/AgentOFF",
+  "bindings_to_reverify": {
+    "image_file": "02_refs/C01A_F0_from_C02_T02_v1.png",
+    "image_sha256": "c59ad1e436ad42e7525c564a883269ef9f80288f4c76b675e64bba1798500cad",
+    "image_cloud_uuid": "4c83356f-ac72-437b-8dd7-f8534b61103a",
+    "voice_custom_id": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb"
+  },
+  "hypothesis_changes": [
+    "Positive palm-down gently-curled pre-taking orientation instead of relaxed ambiguous palm",
+    "Lower visible bare-table endpoint before rim silhouette, remove HIGH ABOVE and rigid hand-width gap",
+    "Describe exact existing four-point symbol instead of ambiguous preserve source watermark; do not name or reproduce unwanted generated lettering",
+    "Use positional character and attached-voice binding without redundant production voice filename in creative text"
+  ],
+  "causal_limit": "Multiple related changes, not isolated experiment or proof of model-internal cause",
+  "unchanged_canon": "Same source, cast, speech, speaker, voice, fixed camera, table, cold food, before-contact reach and next-shot interruption",
+  "pre_submit_gates": [
+    "Root reads full actual native critic, ACT and DOP diagnoses",
+    "Root closes same-MAJOR stop-rule interpretation with evidence; no bypass",
+    "Independent preflight of integrated new request",
+    "Actual D06 owner audio checkpoint recorded; no inferred approval from ASR",
+    "One image and one correct voice chip, full prompt readback, final live quote and current budget"
+  ],
+  "credit_spent": 0,
+  "max_quote_if_authorized": 15,
+  "conservative_project_spent": 50,
+  "remaining_total_cap": 450,
+  "retake_bucket_remaining": 155,
+  "reserve110_authorized": false,
+  "C01B_status": "HOLD_NO_VALID_SELECTED_ENDPOINT"
+}

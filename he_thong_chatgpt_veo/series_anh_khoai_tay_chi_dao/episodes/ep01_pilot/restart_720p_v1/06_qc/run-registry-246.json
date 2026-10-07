@@ -1,0 +1,20 @@
+{
+  "record_id": "REC246",
+  "authority": "Owner217 bounded specialist work, approved236/238 production scope, exact C02 owner acceptance246",
+  "permissions": "Read assigned local plan/canon/refs only, write assigned report only; no UI/API/Git/credit/generation/release",
+  "runs": [
+    {"run_id":"C01A-DOP-246","role":"DOP maker contribution","agent":"/root/c02_dop_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_DOP_246.md"},
+    {"run_id":"C01A-ACT-246","role":"ACT maker contribution","agent":"/root/c02_act_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_ACT_246.md"},
+    {"run_id":"C01A-EDIT-246","role":"EDIT maker contribution","agent":"/root/c02_edit_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_EDIT_246.md"},
+    {"run_id":"C01A-CRITIC-246","role":"Independent preflight review after integration","agent":"/root/c02_critic_239","status":"COMPLETED_PASS_PAPER_ROOT_READ_FULL","output":"06_qc/C01A_preflight_independent_246.md"},
+    {"run_id":"C01A-NATIVE-CRITIC-246","role":"Independent actual native frame review","agent":"/root/c02_critic_239","status":"COMPLETED_REWORK_ROOT_READ_FULL","output":"06_qc/C01A_T01_native_independent_246.md","target_sha256":"0c42df876e8d3b7b46fe1b7930f3fc33ecf1e462f6c3f66ddabf677efb6c67d4"},
+    {"run_id":"C01A-T02-ACT-246","role":"ACT targeted retake maker integration","agent":"/root/c02_act_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_T02_ACT_246.md"},
+    {"run_id":"C01A-T02-PREFLIGHT-246","role":"Independent targeted retake preflight","agent":"/root/c02_critic_239","status":"COMPLETED_PASS_PAPER_ROOT_READ_FULL","output":"06_qc/C01A_T02_preflight_independent_246.md"},
+    {"run_id":"C01A-T02-NATIVE-246","role":"Independent actual targeted-retake native review","agent":"/root/c02_critic_239","status":"COMPLETED_REWORK_ROOT_READ_FULL","output":"06_qc/C01A_T02_native_independent_246.md","target_sha256":"0b5615beef4e23a42428771109fe36544510270281ae35129de6f6c585a398a7"},
+    {"run_id":"C01A-T02-ACT-DIAGNOSIS-246","role":"ACT actual gesture diagnosis, maker not independent critic","agent":"/root/c02_act_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_T02_ACT_diagnosis_246.md"},
+    {"run_id":"C01A-T02-DOP-DIAGNOSIS-246","role":"DOP same-camera geometry feasibility, maker not independent critic","agent":"/root/c02_dop_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_T02_DOP_diagnosis_246.md"},
+    {"run_id":"C01A-T03-PREFLIGHT-246","role":"Independent integrated diagnosis and draft request check","agent":"/root/c02_critic_239","status":"RUNNING_AFTER_ACTUAL_REVIEW","output":"06_qc/C01A_T03_preflight_independent_246.md"}
+  ],
+  "DIR_integration": "root, after reading all maker reports; not independent critic",
+  "paid_submit_count_this_record": 2
+}

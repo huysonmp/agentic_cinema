@@ -1,0 +1,89 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.22,
+      "text": " Anh nhìn mãi, không hợp thì để em.",
+      "tokens": [
+        50364,
+        23574,
+        6245,
+        41320,
+        22410,
+        72,
+        11,
+        11415,
+        276,
+        27836,
+        79,
+        17510,
+        20081,
+        846,
+        13,
+        50564
+      ],
+      "avg_logprob": -0.3974674449247472,
+      "compression_ratio": 0.8431372549019608,
+      "no_speech_prob": 0.022527089342474937,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.94,
+          "word": " Anh",
+          "probability": 0.5731165409088135
+        },
+        {
+          "start": 0.94,
+          "end": 1.16,
+          "word": " nhìn",
+          "probability": 0.994828075170517
+        },
+        {
+          "start": 1.16,
+          "end": 1.66,
+          "word": " mãi,",
+          "probability": 0.9616066217422485
+        },
+        {
+          "start": 2.12,
+          "end": 2.36,
+          "word": " không",
+          "probability": 0.9207128286361694
+        },
+        {
+          "start": 2.36,
+          "end": 2.7,
+          "word": " hợp",
+          "probability": 0.9885224103927612
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "word": " thì",
+          "probability": 0.9920861124992371
+        },
+        {
+          "start": 2.8,
+          "end": 2.98,
+          "word": " để",
+          "probability": 0.8428652286529541
+        },
+        {
+          "start": 2.98,
+          "end": 3.22,
+          "word": " em.",
+          "probability": 0.9923886656761169
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

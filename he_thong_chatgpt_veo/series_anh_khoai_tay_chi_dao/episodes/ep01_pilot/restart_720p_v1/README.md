@@ -17,7 +17,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 - REC242 cập nhật: owner đã duyệt exactv5, checkpoint master+hai voice đóng. Đã uploadv5 và gắn riêngK20, prompt242/cấu hình720p/Ingredients/Omni1.1Flash/10s/9:16/x1/AgentOFF, quote15 đủ inputs. Reviewer độc lập refreshv5 paperpassconditional, root đọc đầy đủ.
 - Scenebuilder gốc đã mở timeline trống và lưu scene8136b4bc-5020-4f7a-afd9-635f8ccf8629. Chưa video để đo trim/export thực. Đang hỏi dùng chínhC02 đầu để kiểm tích hợp hay clipcũQC riêng; chưa submit C02, không tự coi masterapproval là miễn kiểm dựng.
 - REC243 hiện hành: owner chọnA. MộtC02đãsinh/tải/kiểm,REWORKhình(dođổiset/khungrộng/Đàochắptayđầu);chưaC01A. Nativevoice chưahumanaccepted. Flowtrim/exportmộtclip đãkiểmactual;output9,041667s/217frames/720×1280,giữtiếngnguồn. KhôngcoiQCexportlàfilmapproved; xem243và`07_edits/C02_flow_trim_export_243.json`.
-- Clip đầu tiên vẫn là C02, Khoai kể ký ức. Chưa chạy video: cần qua checkpoint ảnh master + hai giọng, rồi đối soát exact inputs, quote và output720p.
+- REC244: owner đã chấp nhận riêng tiếng của C02 T01, đúng K20, lời và nhịp. Hình T01 vẫn cần sửa; không chuyển duyệt tiếng này sang take mới. Ảnh cận vừa riêng C02 đã qua kiểm độc lập ảnh tĩnh; giữ master v5 làm chuẩn toàn cảnh.
+- REC245 đang tiếp tục: chuẩn bị một lượt C02 T02 sửa có mục tiêu bằng ảnh cận vừa, giữ lời và K20. Số dư được đọc lại là 1.035; đã chi 15 trong trần 500. Chưa mở C01A trước checkpoint C02 hình–tiếng.
 - Các đơn vị: C01A, C01B, C02, C03A, C03B, C04, C05, C06, C07, C08, C09. Thứ tự sinh theo kế hoạch 236, không theo tên file.
 
 ## Hồ sơ

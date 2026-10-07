@@ -1,0 +1,12 @@
+{
+  "record_id": "REC245",
+  "authority": "REC217 bounded specialists and REC236/238 production autonomy",
+  "runs": [{
+    "run_id": "C02-T02-PREFLIGHT-CRITIC-245",
+    "role": "INDEPENDENT_REQUEST_REVIEW",
+    "status": "COMPLETED_PASS_PAPER_ROOT_READ_FULL",
+    "output": "06_qc/C02_T02_preflight_independent_245.md"
+  }],
+  "permissions": "Read exact local inputs and write assigned report only; no UI, API, Git, credit use or generation",
+  "paid_submit_count_this_record": 1
+}

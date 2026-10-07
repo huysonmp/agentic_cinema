@@ -1,0 +1,13 @@
+{
+  "record_id": "REC244",
+  "date": "2026-10-07",
+  "owner_exact_answer": "Đúng K20, lời và nhịp chấp nhận được",
+  "question_scope": "Only actual audio of C02 T01, especially Hoi be me rang gao anh dung cho; picture explicitlyREWORK",
+  "source_file": "05_native/EP01_720_C02_T01_NATIVE.mp4",
+  "source_sha256": "5ba2878f2e59bbe03a49345217a0bccbf00b5d8c7864dac64d22cf26ceb6d4d4",
+  "decision": "HUMAN_ACCEPTED_K20_THROUGHOUT_DIALOGUE_AND_RHYTHM_THIS_NATIVE",
+  "ASR_Giang_Gao_flag": "HUMAN_ACCEPTED_SPEECH_NOT_USED_TO_REWRITE_DIALOGUE",
+  "visual_status": "REWORK243_UNCHANGED",
+  "does_not_approve": ["C02 picture", "full AV lip-sync", "future regenerated voice outputs", "30s film"],
+  "next_step": "Prepare medium two-shot reference from approvedv5, preserve background and handsrest, no newvoice or changedscript"
+}

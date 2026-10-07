@@ -1,0 +1,21 @@
+{
+  "record_id": "REC244",
+  "kind": "SHOT_SPECIFIC_CAMERA_REFERENCE_NOT_REPLACEMENT_MASTER",
+  "authority": "236 shot-specific camera preparation,241 ChatGPT image route,242 approvedmasterv5",
+  "source_file": "02_refs/MASTER01_v5_CHATGPT_NATIVE.png",
+  "source_sha256": "ab31c41ec168aea7fff2206d1536c9ff61c763c3da175defe7cc4bd14649bf96",
+  "tool": "built-in imagegen edit, no CLI/APIkey",
+  "prompt_file": "02_refs/C02_medium_reference_244.txt",
+  "prompt_sha256": "d3bb53650ca5f363c12b9446ef16f47854677a62272daa2edf0f4917a921b81d",
+  "submit_count": 1,
+  "output_file": "02_refs/C02_MEDIUM_v1_CHATGPT_NATIVE.png",
+  "output_sha256": "c0ec77283233b4b4f49c172697f8c7b42fd2a7cc4bf3960670723b1a871fd0a7",
+  "output_dimensions": [941,1672],
+  "root_viewed_full_native": true,
+  "root_observation": "Both faces larger, no legs/shoes/tablelegs; openstreet/lanterns/rightawning preserved; fourresthands and closedmouths; peripheralherbs/glasscropped by closercoverage, not relocated",
+  "owner_approval": "NOT_ASSUMED_FROM_MASTER_OR_AUDIO_APPROVAL",
+  "independent_review": "PASS_FOR_HANDOFF_STATIC_NOT_VIDEO_PASS_ROOT_READ_FULL_245",
+  "Flow_upload": false,
+  "second_video_submitted": false,
+  "does_not_prove": ["futurevideo framing/background execution", "lipsync", "voice", "exact9:16videogeometry"]
+}

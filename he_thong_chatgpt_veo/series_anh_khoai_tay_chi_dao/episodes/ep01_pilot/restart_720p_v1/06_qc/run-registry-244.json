@@ -1,0 +1,7 @@
+{
+  "record_id":"REC244",
+  "authority":"217 bounded specialists,236 shot-specific references,241 ChatGPT image route,242 v5master,244 audioacceptance",
+  "runs":[{"run_id":"C02-MEDIUM-REF-CRITIC-244","role":"INDEPENDENT_STATIC_REFERENCE_REVIEW","status":"COMPLETED_PASS_FOR_HANDOFF_STATIC_NOT_VIDEO_PASS_ROOT_READ_FULL","output":"06_qc/C02_medium_reference_independent_244.md"}],
+  "permissions":"Exact local reads/static view and assigned report only; noUI/API/Git/credits/generation",
+  "second_video_submitted":false
+}

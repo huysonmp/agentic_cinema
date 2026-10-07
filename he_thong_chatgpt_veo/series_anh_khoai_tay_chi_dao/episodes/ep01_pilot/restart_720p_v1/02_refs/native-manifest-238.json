@@ -1,0 +1,22 @@
+{
+  "record": "REC238",
+  "owner_folder": "C:/Users/PC/Downloads/du_an_nem_bui/ep01_restart_720p_v1/02_refs",
+  "native_originals_preserved": true,
+  "assets": [
+    {
+      "file": "MASTER01_v1_NATIVE.jpg",
+      "sha256": "816ea0a17a0351e09ef443c4ef8d9fc8b79247f8fab0d9609e25298de50aee65",
+      "dimensions": [768, 1376],
+      "status": "REWORK_FOOD_MAJOR_DO_NOT_USE_FOR_PRODUCTION"
+    },
+    {
+      "file": "MASTER01_v2_NATIVE.jpg",
+      "sha256": "239e91f53e00de3caeb7d9153c473b6ae4aadcb70945dfe5462a6b8a2d52115f",
+      "dimensions": [768, 1376],
+      "image_uuid": "e5c43965-51bd-44a8-b1e8-66309a5a2b72",
+      "status": "PASS_FOR_OWNER_REVIEW_TWO_MINOR_OPEN_NOT_OWNER_APPROVED"
+    }
+  ],
+  "no_native_audio_file_received": true,
+  "no_video_production_started": true
+}

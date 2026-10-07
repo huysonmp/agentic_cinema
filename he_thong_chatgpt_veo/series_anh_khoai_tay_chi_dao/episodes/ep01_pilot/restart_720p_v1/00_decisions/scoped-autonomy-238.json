@@ -1,0 +1,35 @@
+{
+  "record_id": "REC238",
+  "date": "2026-10-07",
+  "owner_reply_verbatim": "1a; 2a",
+  "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "voice_permission": {
+    "scope": "preview_and_save_exactly_two_restored_presets_K20_Orus_and_D06_Aoede",
+    "price_not_displayed_explicitly_authorized": true,
+    "check_balance_after_each_preset": true,
+    "if_a_fee_observed": "STOP_AND_REPORT_BEFORE_NEXT_PRESET"
+  },
+  "production_permission": {
+    "policy": "SCOPED_AUTONOMY_REPLACES_SEPARATE_APPROVAL_FOR_EACH_IN_SCOPE_GENERATION",
+    "total_cap": 500,
+    "first_pass_cap": 165,
+    "retake_cap": 180,
+    "post_rough_cut_coverage_cap": 45,
+    "unallocated_reserve_requires_owner_decision": 110,
+    "resolution": "native_720p",
+    "outputs_per_request": 1,
+    "max_live_quote_credits_per_video_output": 15,
+    "same_major_blocker_twice": "STOP_FOR_DIAGNOSIS",
+    "new_tool_or_script_voice_change": "OWNER_DECISION_REQUIRED",
+    "no_credit_purchase_or_topup": true,
+    "no_old_project_deletion": true
+  },
+  "owner_quality_checkpoints_retained": [
+    "new_master_image_and_two_voices",
+    "C02_memory_production_clip",
+    "full_episode_rough_cut",
+    "final_export"
+  ],
+  "credits_spent_at_authorization": 0,
+  "generation_or_preview_results_approved": false
+}

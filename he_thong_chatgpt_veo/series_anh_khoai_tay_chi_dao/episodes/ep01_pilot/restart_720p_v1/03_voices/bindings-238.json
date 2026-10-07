@@ -1,0 +1,47 @@
+{
+  "record_id": "REC238",
+  "status": "TWO_PRESETS_SAVED_OWNER_LISTENING_PENDING",
+  "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "voices": [
+    {
+      "character": "Khoai",
+      "selection": "K20",
+      "base": "Orus",
+      "new_id": "b447b35c-b35e-4140-af72-ecd277282b1a",
+      "actual_name": "EP01_Khoai_K20_Orus_720p_v1",
+      "sample_characters": 109,
+      "performance_source": "common148_plus_K20_section149",
+      "preview_submissions": 1,
+      "save_clicks": 1,
+      "saved_name_sample_performance_read_back": true,
+      "owner_listening_approved": false,
+      "balance_after_preset": 1050
+    },
+    {
+      "character": "Dao",
+      "selection": "D06",
+      "base": "Aoede",
+      "new_id": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb",
+      "actual_name": "EP01_Dao_D06_Aoede_720p_v1",
+      "sample_characters": 109,
+      "performance_source": "common150_plus_D06_section151",
+      "preview_submissions": 1,
+      "save_clicks": 1,
+      "saved_name_sample_performance_read_back": true,
+      "owner_listening_approved": false,
+      "balance_after_preset": 1050
+    }
+  ],
+  "balance_before": 1050,
+  "observed_balance_change_after_each_preset": 0,
+  "video_generations": 0,
+  "additional_Dao_playback_clicks": 1,
+  "balance_after_additional_Dao_playback_and_MASTER01_v1": 1050,
+  "native_audio_export": "UNAVAILABLE_downloadMedia_navigated_to_audio_document_then_timed_out_no_local_audio_received",
+  "owner_review_route": "Two preserved Flow tabs, correct saved preset selected and original sample populated; owner clicks Preview",
+  "limits": [
+    "No actual listening or voice identity verdict by root.",
+    "Unchanged balance in this run does not prove all voice previews are universally free.",
+    "Preset recreation does not imply exact waveform cloning or lip-sync approval."
+  ]
+}

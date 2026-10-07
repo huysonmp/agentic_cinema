@@ -1,0 +1,48 @@
+{
+  "request_id": "EP01-720-MASTER01-T01-238",
+  "kind": "NEW_REFERENCE_IMAGE_NOT_VIDEO",
+  "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "status": "V1_NATIVE_RECEIVED_REWORK_FOOD_MAJOR",
+  "authority": "APPROVED_PLAN236_AND_REC238_WITH_QUOTE0_IMAGE_SCOPE",
+  "prompt_file": "02_refs/MASTER01_prompt_v1.txt",
+  "prompt_sha256": "676dd8e1375f9cdcd65f9412e33dc79e1d9f890bb137ac31ffbce893ce8e45e8",
+  "prompt_read_back_matches": true,
+  "inputs_in_composer_order": [
+    {
+      "role": "IDENTITY_AND_OUTFIT_PAIR03",
+      "source_sha256": "ecfbe7a3c543730c268a77ca08d508147115ca804154f85ebdbb38c5c601e8c7",
+      "observed_chip_image_uuid": "629550ea-8ce2-4918-be2f-dc1c0ec27e75"
+    },
+    {
+      "role": "SERVING_GEOGRAPHY_TABLE08",
+      "source_sha256": "aeb6dfaee1773109243f9f952235a44f2417c6fb7fb4faf15be61c34ca40d924",
+      "observed_chip_image_uuid": "ce803370-17d9-41b3-8709-b904d4ef0067"
+    },
+    {
+      "role": "FOOD_MATERIAL_ONLY_REAL_NEMBUI",
+      "source_sha256": "a51303f7100edd0944dc00daa19402fecfe24bb0e15a4143da8f8eae7b9e3a2d",
+      "observed_chip_image_uuid": "a62c3924-9b0f-449f-beb4-6d4989fa5a05"
+    }
+  ],
+  "model": "Nano Banana 2.1",
+  "mode": "Image",
+  "aspect": "9:16",
+  "outputs": 1,
+  "agent_enabled": false,
+  "live_quote_with_inputs_and_prompt": 0,
+  "preflight_screenshot_root_viewed": true,
+  "specialist_paper_report_root_read_full": true,
+  "three_minor_prompt_clarifications_applied": true,
+  "submit_count": 1,
+  "submission_observation": "Single click; UI showed one image job at 0 percent and cleared composer; no second submission",
+  "actual_output_count": 1,
+  "cloud_asset_id": "bcbca9fc-1b1d-43cb-856c-8bb051407228",
+  "native_file": "02_refs/MASTER01_v1_NATIVE.jpg",
+  "native_sha256": "816ea0a17a0351e09ef443c4ef8d9fc8b79247f8fab0d9609e25298de50aee65",
+  "native_dimensions": [768, 1376],
+  "root_viewed_native": true,
+  "independent_static_disposition": "REWORK_FOOD_M01_MAJOR",
+  "balance_after_image_and_additional_Dao_playback": 1050,
+  "owner_candidate_approved": false,
+  "motion_or_episode_pass": false
+}

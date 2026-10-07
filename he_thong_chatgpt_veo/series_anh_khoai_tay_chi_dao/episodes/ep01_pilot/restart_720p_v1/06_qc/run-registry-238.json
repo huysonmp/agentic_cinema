@@ -1,0 +1,40 @@
+{
+  "record_id": "REC238",
+  "authority": "OWNER_APPROVED_PLAN236_REQUIRES_SPECIALIST_AND_INDEPENDENT_REVIEW_UNDER217",
+  "runs": [
+    {
+      "run_id": "EP01-720-MASTER01-V2-STATIC-238",
+      "mode": "COLD_REPAIRED_NATIVE_REVIEW_AND_REGRESSION_AGAINST_SOURCES_V1",
+      "status": "COMPLETE_PASS_FOR_OWNER_REVIEW_FOOD_MAJOR_CLOSED_TWO_MINOR_OPEN",
+      "target": "02_refs/MASTER01_v2_NATIVE.jpg",
+      "output": "06_qc/MASTER01_v2_static_independent_238.md",
+      "permissions": "local_read_view_images_and_write_only_assigned_report",
+      "forbidden": "browser_generation_API_credit_git_source_edits_or_owner_approval",
+      "root_read_full_report": true,
+      "root_disposition": "Present exact v2 to owner with serving-margin and aspect limitations; no C02 before initial checkpoint"
+    },
+    {
+      "run_id": "EP01-720-MASTER01-NATIVE-STATIC-238",
+      "mode": "COLD_NATIVE_IMAGE_REVIEW_THEN_COMPARE_SOURCE_AUTHORITIES",
+      "status": "COMPLETE_REWORK_FOOD_MAJOR_MARGIN_AND_ASPECT_MINOR",
+      "target": "02_refs/MASTER01_v1_NATIVE.jpg",
+      "output": "06_qc/MASTER01_native_static_independent_238.md",
+      "permissions": "local_read_view_images_and_write_only_assigned_report",
+      "forbidden": "browser_generation_API_credit_git_source_edits_or_owner_approval",
+      "root_read_full_report": true,
+      "root_disposition": "Do not submit C02 from v1; one targeted food/margin repair in existing scope, then independent regression review"
+    },
+    {
+      "run_id": "EP01-720-MASTER01-PREFLIGHT-CONT-FOOD-238",
+      "mode": "PAPER_REVIEW_AND_STATIC_SOURCE_INSPECTION",
+      "status": "COMPLETE_PAPER_SOURCE_SCOPE_NO_BLOCKER_THREE_MINOR_CLARIFICATIONS",
+      "target": "02_refs/MASTER01_BRIEF_DRAFT.md",
+      "output": "06_qc/MASTER01_preflight_independent_238.md",
+      "permissions": "local_read_view_images_and_write_only_assigned_report",
+      "forbidden": "browser_generation_API_credit_git_source_edits_or_final_approval",
+      "root_read_full_report": true,
+      "root_prompt_revision": "02_refs/MASTER01_prompt_v1.txt",
+      "root_revision_closure": "Applied same-side seating/camera, explicit dip/chopstick positions and compact mound/both characters hands; no new source or creative direction change"
+    }
+  ]
+}

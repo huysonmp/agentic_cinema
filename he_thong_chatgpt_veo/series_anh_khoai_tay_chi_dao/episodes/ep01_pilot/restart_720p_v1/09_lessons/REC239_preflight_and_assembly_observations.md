@@ -10,6 +10,7 @@ Ngày 07/10/2026. Phạm vi: preparation trên project mới; chưa gửi reques
 - Cấu hình được nhìn qua UI: Ingredients, Omni 1.1 Flash, 720p, 9:16, 10s, x1, Agent OFF. Quote 15 ở trạng thái prompt còn trống **không là quote cuối**. Chưa bấm tạo.
 - Trong tab Công cụ → Mẫu có Stringout Creator, mô tả “Stitch multiple video clips together”. Khi mở template để kiểm, UI tự chuyển sang một bản `Remix of Stringout Creator` trong project. Không yêu cầu sửa công cụ, không nhập media, không chạy hay chia sẻ. Không xóa bản remix vì chưa cần và không có yêu cầu xóa.
 - Phần chức năng ghép chưa hiện điều khiển trim/arrange/export trong quan sát; chỉ thấy wrapper và cảnh báo có thể tiêu tốn credit. Vì vậy chỉ xác nhận **template có trong danh mục**, không xác nhận đã ghép được, ghép miễn phí, hoặc thay thế Scenebuilder. Scenebuilder/finishing của account mới vẫn cần kiểm riêng.
+- Khi nối lại browser và xem tab tool ở cuối240, UI đã báo “Không chạy được công cụ”, có nút Sửa lỗi/Tải lại. Không bấm Sửa lỗi hoặc gửi yêu cầu tác nhân; lưu screenshot và đóng tab lỗi. Bản remix vẫn giữ trong project, không xóa. Đây là lỗi mở tool hiện hành, chưa chứng minh Scenebuilder gốc không dùng được.
 
 ## Quy tắc rút ra
 

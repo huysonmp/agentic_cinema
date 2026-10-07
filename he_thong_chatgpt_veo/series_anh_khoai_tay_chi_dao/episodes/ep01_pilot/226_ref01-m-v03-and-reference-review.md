@@ -1,5 +1,7 @@
 # 226 — REF01-M v03 và bộ tham chiếu mở cảnh
 
+**Cập nhật tại [227](227_owner-reference-lock-and-motion-preflight.md):** owner đã chấp nhận M v03 về tư thế ảnh tĩnh. S/M đã tách thành asset riêng và kiểm đồng byte; gói motion đã chuẩn bị, chưa chạy. Các trạng thái chờ nghiệm thu dưới đây là lịch sử REC226, không ghi đè approval227.
+
 Ngày: 2026-10-07. Giai đoạn P7 khắc phục / hoàn thiện G1. Một lượt sửa M từ S đã tạo, tải native và kiểm độc lập. **V03 dùng được cho tư thế ảnh tĩnh, có lưu ý che khuất mép bát; chờ owner nghiệm thu.**
 
 ## Kết quả hiện hành

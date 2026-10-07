@@ -8,7 +8,8 @@
   "reviewers_independent": true,
   "root_read_both_reports": true,
   "caveat": "Hand occludes part of Dao bowl front-right edge; no clear intersection observed. 3D clearance and motion remain unknown.",
-  "owner_output_accepted": false,
+  "owner_output_accepted": true,
+  "owner_acceptance_record": "../227/owner-reference-approval.json",
   "motion_tested": false,
   "full_g1_approved": false,
   "manifest_capture_status_preserved": true

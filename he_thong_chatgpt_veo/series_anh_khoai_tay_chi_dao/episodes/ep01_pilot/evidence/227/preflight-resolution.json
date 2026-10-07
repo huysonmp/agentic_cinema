@@ -1,0 +1,22 @@
+{
+  "record_id": "REC227",
+  "static_m_owner_accepted": true,
+  "preparation_complete": true,
+  "independent_reviews": {
+    "EDIT_ACT": "READY_TO_REQUEST_APPROVAL",
+    "CONT_FOOD": "READY_TO_REQUEST_APPROVAL"
+  },
+  "prompt_sha256": "af94764252de0a2a057490eec874059d9804b1caa92e7bfa01d552c054cfafc5",
+  "balance_preparation_live": 77,
+  "quote_each_live": 10,
+  "takes_proposed": 3,
+  "cap_proposed": 30,
+  "paid_batch_approved": false,
+  "submissions": 0,
+  "spent_this_record": 0,
+  "motion_pass": false,
+  "dialogue_lip_sync_tested": false,
+  "audio_off_control_verified": false,
+  "full_g1_pass": false,
+  "next_gate": "OWNER_EXACT_BATCH_APPROVAL"
+}

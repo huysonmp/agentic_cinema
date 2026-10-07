@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 226: bộ ảnh đã sửa và kiểm độc lập, chờ nghiệm thu reference
+## Hiện hành — 227: M đã được duyệt, motion S → M đã chuẩn bị
+
+[227 — approval và motion preflight](227_owner-reference-lock-and-motion-preflight.md): owner chấp nhận pose M v03; đã tách đúng S/M thành asset riêng và tải kiểm đồng byte. Draft Lite/9:16/720p/8s/x1 đúng nguồn; quote live10, số dư77. Hai reviewer độc lập READY_TO_REQUEST_APPROVAL cho ba take cùng brief, trần30. **Chưa duyệt paid batch, chưa submit/chi/motion PASS.** Đây là test đường tay–dừng, không phải thoại/khẩu hình hoặc causal nghe “Khoan”; M→E và full G1 còn mở. Trạng thái pending reference tại226 dưới đây là lịch sử, chỉ M đã được owner chấp nhận rõ tại227.
+
+## Mốc 226 — sửa bộ ảnh và kiểm độc lập
 
 [226 — REF01-M v03 và bộ reference](226_ref01-m-v03-and-reference-review.md): REC225 sửa môi E/REF03-S dùng được; M v02 chưa đạt. REC226 dùng S làm nguồn, sửa đúng tay ngoài Đào, gap với vành đĩa rõ. Hai reviewer độc lập đánh giá M v03 là ứng viên ảnh tĩnh, cùng lưu ý tay che một phần mép bát; khoảng cách 3D/motion chưa kiểm. Native/hash/prompt/copies đã đối soát; một request quote 0, số dư sau 77. Chờ owner nghiệm thu bộ S v01/M v03/E v02/REF03-S v02. Flow lưu M v03 trong lịch sử container S; phải chọn exact version hoặc tách asset trước input motion. G1 còn mở, chưa video/voice/Quality hoặc master mới.
 

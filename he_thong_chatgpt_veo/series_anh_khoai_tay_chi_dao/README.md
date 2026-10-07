@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện hành — 2026-10-07
 
+[227 — khóa M và chuẩn bị thử S → M](episodes/ep01_pilot/227_owner-reference-lock-and-motion-preflight.md) là trạng thái ưu tiên: owner duyệt pose M v03; hai input S/M đã tách và kiểm đồng byte. Gói ba take Lite dọc/720p/8s/x1, quote10/lượt, trần30 đã được EDIT/ACT và CONT/FOOD kiểm độc lập, READY_TO_REQUEST_APPROVAL. **Chưa duyệt paid batch, chưa tạo video/chi/motion PASS.** Số dư live77; không voice mới/Quality, không suy test hình học thành thoại–khẩu hình hoặc full G1. Các pending ở226 là lịch sử; approval227 chỉ xác nhận M tĩnh và chuẩn bị.
+
 [226 — sửa REF01-M v03 và kiểm độc lập](episodes/ep01_pilot/226_ref01-m-v03-and-reference-review.md) là trạng thái ưu tiên: M v03 từ S đã đạt mục tiêu tư thế ảnh tĩnh theo hai reviewer; giữ caveat tay che một phần mép bát, chưa chứng minh motion. E/REF03-S v02 đã sửa môi và dùng được ở mức ảnh. Chờ owner nghiệm thu bộ reference; một lượt ảnh quote 0, số dư sau 77. G1 toàn tập còn mở. M v03 nằm trong lịch sử Flow container S, có content UUID/native hash riêng; không chọn nguồn chỉ theo tên card. Các đề nghị chưa chạy tại 224 dưới đây đã được xử lý bởi REC225/226.
 
 [224 — bốn ảnh mở cảnh và QC](episodes/ep01_pilot/224_g1-four-reference-images-and-qc.md): owner đã duyệt chạy bốn ảnh/x1, mỗi lượt kiểm 0 credit và đã tải native. Hai reviewer độc lập kiểm ảnh/hash: S là ứng viên; M cần sửa đích tay, E và REF03-S cần khép môi. Ba lượt sửa có giới hạn đang là đề nghị, chưa được duyệt/chưa gửi. Số dư UI kiểm trực tiếp trước/sau vẫn 77. Không video, thu voice mới, Quality hoặc bàn giao.
@@ -10,7 +12,7 @@
 
 **Bản 210 đã bị owner từ chối về kể chuyện/hình tại 211.** Giữ làm bằng chứng, không là master hiện hành hoặc phim đã nghiệm thu. [219](episodes/ep01_pilot/219_recovery-execution-readback-and-g1-gap-map.md) là bản đồ khoảng thiếu; [221](episodes/ep01_pilot/221_n02-pa-v-approved-trial.md) ghi batch 30 credit đã chạy, không quyền chi mới. Quyền chọn chuẩn hình 223 không cấp generation; approval 224 chỉ cấp đúng bốn ảnh 0 credit đã thực thi.
 
-Các mục dưới đây là **nhật ký lịch sử**; nhãn “hiện hành/mới nhất”, ngân sách và trạng thái pending trong từng mục thuộc thời điểm ghi, không thắng 226.
+Các mục dưới đây là **nhật ký lịch sử**; nhãn “hiện hành/mới nhất”, ngân sách và trạng thái pending trong từng mục thuộc thời điểm ghi, không thắng 227.
 
 ## Nhật ký trước khắc phục
 

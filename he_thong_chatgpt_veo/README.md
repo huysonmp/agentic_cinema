@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P6 thử nghiệm diễn hình / ráp mạch, chưa bàn giao` — trạng thái mới nhất tại [182](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/182_c-v0.6-assembly-and-action-coverage.md): đã có bản kiểm mạch C-v0.6 30 giây bằng lời hiện hành; hình còn nhiều ảnh giữ chỗ. Ba mẫu hành động Lite mới đều cần làm lại, chưa mở Quality hoặc phát hành. Còn53 credit trong trần thử đã cấp. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); không suy trạng thái hiện tại từ approval nội dung C-v0.5 cũ.
+`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [227](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/227_owner-reference-lock-and-motion-preflight.md): owner đã chấp nhận pose M v03; S/M tách đúng asset và đồng byte nguồn. Gói motion ba take Lite/trần30 đã chuẩn bị và kiểm độc lập, chưa duyệt chạy/submit/chi hoặc motion PASS. Số dư live77 là snapshot chuẩn bị, không phải quyền chi mới. Bản210 đã bị từ chối tại211; chưa Quality/master/phát hành. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
 
 ## Tài liệu đang dùng
 

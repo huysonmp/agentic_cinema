@@ -1,0 +1,58 @@
+{
+  "request_id": "REC227-R01-SM-LITE-3",
+  "status": "PREPARED_NOT_SUBMITTED",
+  "purpose": "Test one reach and stop before plate contact; assess hand/bowl clearance before any R01 dialogue or final assembly.",
+  "model_live": "Veo 3.1 - Lite",
+  "route": "frames_start_end",
+  "aspect": "9:16",
+  "duration_ui_seconds": 8,
+  "resolution_ui": "720p",
+  "output_count_per_request": 1,
+  "requests_proposed": 3,
+  "prompt_file": "R01-SM-motion.prompt-DRAFT.txt",
+  "start": {
+    "id": "REF01-S_v01_INPUT_REC227",
+    "flow_asset_id": "c618f06b-fc7a-474c-be1d-9ed62ce87347",
+    "flow_image_id": "46352b9d-1834-40fa-8133-076bfecc9a6d",
+    "native_sha256": "eba9a13c86f359df458022a5a54664264e5bb29fcca08d6181454cb1ee482422",
+    "native_path": "C:/Users/PC/Downloads/du_an_nem_bui/224_g1_opening_refs_v01/REF01-S_v01_NATIVE.jpg",
+    "separated_download": "C:/Users/PC/Downloads/REF01-S_v01_INPUT_REC227_20261007104522.jpg",
+    "same_bytes_verified": true,
+    "status": "WORKING_SOURCE_FOR_APPROVED_M_POSE"
+  },
+  "end": {
+    "id": "REF01-M_v03_ACCEPTED_REC227",
+    "flow_asset_id": "d9e64ec1-dc0d-4c80-bcb6-b1e77ece951e",
+    "flow_image_id": "83124e9c-4f6a-4c11-b9ce-697c4e3fcd6c",
+    "native_sha256": "66defd18afc0845da8b34968446b98f547dcad951e6712e2e6a81ff2d5e2017c",
+    "native_path": "C:/Users/PC/Downloads/du_an_nem_bui/226_ref01_m_v03_from_s/REF01-M_v03_NATIVE.jpg",
+    "separated_download": "C:/Users/PC/Downloads/REF01-S_v01_REC224_20261007104404.jpg",
+    "same_bytes_verified": true,
+    "status": "OWNER_ACCEPTED_STATIC_POSE"
+  },
+  "quote_each_credits_live": 10,
+  "credit_cap_proposed": 30,
+  "balance_snapshot_prior_run": 77,
+  "balance_before_submission_required": true,
+  "generation_approval": "PENDING_EXACT_BATCH",
+  "silent_prompt": true,
+  "audio_off_control_verified": false,
+  "native_audio_for_delivery": false,
+  "retry_authorized": false,
+  "test_not_final_dialogue_scene": true,
+  "full_g1_approved": false,
+  "stop_conditions": [
+    "Quote exceeds 10 per request or total 30",
+    "Start/end identity, route or model mismatch",
+    "Owner has not approved the exact three-take batch",
+    "Native download failure unresolved before further generation"
+  ],
+  "acceptance_checks": [
+    "Correct outer arm, one reach followed by readable stop",
+    "Hand clears bowl/chopsticks/glass frame by frame",
+    "Fingertips stay outside food and stop at visible plate-rim gap",
+    "Both faces visible, both mouths closed, other hands resting",
+    "Meal geography/F0 maintained, no steam or food transfer",
+    "No overshoot, retract, loop, cut or camera movement"
+  ]
+}

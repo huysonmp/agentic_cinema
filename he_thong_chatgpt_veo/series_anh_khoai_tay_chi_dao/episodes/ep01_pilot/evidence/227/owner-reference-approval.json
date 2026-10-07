@@ -1,0 +1,14 @@
+{
+  "record_id": "REC227",
+  "date": "2026-10-07",
+  "owner_message": "duyệt nhé, tiếp tục đi",
+  "approval_context": "Owner approved the REF01-M v03 pose presented in REC226 and requested continuation of separate-input and motion-test preparation.",
+  "accepted_reference": "REF01-M_v03",
+  "accepted_native_sha256": "66defd18afc0845da8b34968446b98f547dcad951e6712e2e6a81ff2d5e2017c",
+  "caveat_retained": "Hand partially occludes Dao bowl; motion/3D clearance not tested.",
+  "preparation_authorized": true,
+  "paid_motion_request_approved": false,
+  "scope": "Record pose acceptance, separate exact Flow image inputs and prepare a reviewable motion request with live route and quote.",
+  "full_g1_approved": false,
+  "full_av_approved": false
+}

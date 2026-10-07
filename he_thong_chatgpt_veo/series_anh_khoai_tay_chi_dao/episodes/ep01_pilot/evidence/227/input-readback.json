@@ -1,0 +1,47 @@
+{
+  "record_id": "REC227",
+  "inputs": [
+    {
+      "role": "start",
+      "id": "REF01-S_v01_INPUT_REC227",
+      "flow_asset_id": "c618f06b-fc7a-474c-be1d-9ed62ce87347",
+      "flow_image_id": "46352b9d-1834-40fa-8133-076bfecc9a6d",
+      "source_native": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\224_g1_opening_refs_v01\\REF01-S_v01_NATIVE.jpg",
+      "separated_download": "C:\\Users\\PC\\Downloads\\REF01-S_v01_INPUT_REC227_20261007104522.jpg",
+      "owner_copy": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\227_motion_preflight\\REF01-S_v01_INPUT_REC227.jpg",
+      "native_sha256": "eba9a13c86f359df458022a5a54664264e5bb29fcca08d6181454cb1ee482422",
+      "native_dimensions": [
+        768,
+        1376
+      ],
+      "copies_equal": true,
+      "approval_scope": "WORKING_SOURCE_FOR_APPROVED_M_POSE"
+    },
+    {
+      "role": "end",
+      "id": "REF01-M_v03_ACCEPTED_REC227",
+      "flow_asset_id": "d9e64ec1-dc0d-4c80-bcb6-b1e77ece951e",
+      "flow_image_id": "83124e9c-4f6a-4c11-b9ce-697c4e3fcd6c",
+      "source_native": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\226_ref01_m_v03_from_s\\REF01-M_v03_NATIVE.jpg",
+      "separated_download": "C:\\Users\\PC\\Downloads\\REF01-S_v01_REC224_20261007104404.jpg",
+      "owner_copy": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\227_motion_preflight\\REF01-M_v03_ACCEPTED_REC227.jpg",
+      "native_sha256": "66defd18afc0845da8b34968446b98f547dcad951e6712e2e6a81ff2d5e2017c",
+      "native_dimensions": [
+        768,
+        1376
+      ],
+      "copies_equal": true,
+      "approval_scope": "OWNER_ACCEPTED_STATIC_POSE"
+    }
+  ],
+  "prompt_sha256": "af94764252de0a2a057490eec874059d9804b1caa92e7bfa01d552c054cfafc5",
+  "exact_prompt_in_live_draft": true,
+  "separate_assets_verified": true,
+  "quote_each_credits_live": 10,
+  "proposed_take_count": 3,
+  "proposed_cap": 30,
+  "generation_submissions": 0,
+  "retries": 0,
+  "video_generated": false,
+  "video_quality_verified": false
+}

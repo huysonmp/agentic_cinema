@@ -37,3 +37,15 @@ Hình mẫu cho thấy Đào dùng đúng tay ngoài để vươn, hai mặt và
 Không cứu bằng cắt trước “em”, giấu tay hoặc phủ hình món. T02 dự kiến sửa hai điểm: tay dừng cao hơn trên vùng trống bát–đĩa với khoảng hở hình rõ, giữ ý định chưa hoàn tất tới cuối. ACT phản biện thêm nguy cơ tay thành cử chỉ giới thiệu món; root tích hợp bàn tay thư giãn theo hướng vươn, không xòe lòng bàn tay trình bày. Giữ nguồn, giọng, lời và cảnh. Đây là giả thuyết sửa, chưa chứng minh nguyên nhân duy nhất hoặc chắc sẽ đạt.
 
 Khoản T01 quan sát cùng tab: 1.050→1.040, trừ10. Sổ dự án bảo thủ 40/500 đã dùng, còn460; khoản lượt đầu còn140, tạo lại còn165, dự phòng110 chưa được giải ngân. T02 chưa gửi tại thời điểm viết mục này. Nếu cùng lỗi lớn lặp lại ở T02, dừng chẩn đoán, không tự T03.
+
+## Cập nhật T02, checkpoint Đào và T03 không có output
+
+T02 quote10, một submit, cùng tab1.040→1.030; native720×1280/24fps/144frames, SHA256 `0b5615beef4e23a42428771109fe36544510270281ae35129de6f6c585a398a7`. Reviewer độc lập kiểm52 uniqueframes, root đọc đầy đủ: đúng tay ngoài; không thấy lặp rim-occlusion/early-return T01 trong mẫu. Nhưng chữ mới xuất hiện trên bàn ở đầu/giữa/cuối, và lòng tay ngửa/xòe giống giới thiệu món: hai MAJOR mới, không range sạch để nối C01B.
+
+Owner đã nghe riêng tiếng T02 và trả lời “Đúng D06, lời và nhịp chấp nhận được”. Lưu exactWAV/sourcehash trong decision; chỉ đóng checkpoint tiếng Đào đầu tiên, không duyệt hình/khẩu hình hoặc waveform take sau.
+
+Root giữ diagnostic HOLD, đọc đầy đủ ACT/DOP/critic. Đề xuất không đổi canon: palm-down/ngón hơi cong, đầu ngón hướng rim nhưng dừng trên gỗ trước rim; bỏ HIGH ABOVE/gap cứng; mô tả đúng biểu tượng nguồn thay câu watermark chung. Không chứng minh nguyên nhân model đã biết chắc. Preflight T03 qua có điều kiện, root kiểm exactbinding/readback/configquote10 và gửi một lần.
+
+T03 bị Flow từ chối với cảnh báo liên quan nội dung gây hại trẻ vị thành niên; chưa có media. UI ghi không tính phí; số dư1.030→1.020 tạm trừ rồi trở lại1.030, net0. Giữ job/evidence, không chấm hiệu quả sửa tay/chữ hoặc gọi lỗi output. Đang kiểm một lần làm rõ bối cảnh vốn là nhân vật food hư cấu, trưởng thành, trò chuyện bình thường; không đổi source/voice/route hoặc né cơ chế an toàn. Nếu cảnh báo vẫn lặp, dừng trình hướng xử lý, không lặp sửa wording vô hạn.
+
+Sổ sau hoàn T03:50/500 đã dùng, còn450; firstpass140/retake155/postrough45/reserve110 chưa quyền. Git commit local `f275ce3` lưu nhóm C01A evidence/approval; push hai lần gặp remote Internal Server Error, remote xác minh vẫn `4b7e2a6`. Không nhận đã đồng bộ hoặc thay quyền xử lý GitHub. Các cập nhật sau commit này vẫn cần commit riêng.

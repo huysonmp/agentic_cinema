@@ -4,6 +4,8 @@
 
 **Để owner xem xét:** kế hoạch sản xuất, phân cảnh, ngân sách và cổng nghiệm thu. **Chưa được duyệt chạy trả phí.**
 
+**Cập nhật sau trình duyệt — REC237:** owner trả lời “chấp thuận kế hoạch, làm tuần tự đi nào”. Ghi nhận duyệt kế hoạch v1.0, phân cảnh 11 đơn vị và trần dự trù 500 credit; mở bước tiếp nhận tài khoản/chuẩn bị đầu vào. Quy tắc xin duyệt từng request trả phí tại mục 11 vẫn giữ. Các dòng “chưa duyệt” phía dưới là trạng thái lúc trình bản v1.0, không phải phủ định approval mới. Xem [hồ sơ khởi động 237](237_plan-approval-and-new-account-intake.md).
+
 ## 1. Quyết định mới và phạm vi
 
 Owner: “thôi làm trực tiếp trên 720 đi, ta đã test rất nhiều rồi mà; vậy bạn đã có 1 bản plan chi tiết chưa, trình lên thành file cho tôi xem nào”.

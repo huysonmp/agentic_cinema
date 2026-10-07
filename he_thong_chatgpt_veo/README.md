@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [229](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/229_opening-coverage-approval-and-production-input.md): owner duyệt thay hình quanh “Khoan”, giữ tiếng B/phần ký ức; đã chuẩn bị nguồn R01 và prompt production-only. Flow upload chờ xác nhận quyền sử dụng; chưa quote đủ đầu vào/paid submission hoặc video mới. Số dư gần nhất77 từ228; không test tay riêng/x3/Quality/retry, chưa bảo đảm đủ77 hoặc fullG1/AV/master PASS. Bản210 đã bị từ chối tại211. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
+`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [230](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/230_upload-consent-execution-and-intake-blocker.md): owner đã xác nhận quyền tải source229; Flow báo intake thất bại qua2tab/2đường. Local decode không lỗi; căn nguyên chưa xác định, cần một lần tải tay đúng file. Chi0/số dư live77; chưa quote đủ inputs/generation. Giữ coverage229/B/voice/script, không testtay/x3/Quality/retry; chưa fullG1/AV/master PASS. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
 
 ## Tài liệu đang dùng
 

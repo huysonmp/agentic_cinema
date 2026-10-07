@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 229: duyệt coverage, chuẩn bị nguồn R01
+## Hiện hành — 230: đã xác nhận quyền tải, intake R01 lỗi
+
+[230 — upload và điểm chặn](230_upload-consent-execution-and-intake-blocker.md): owner đã xác nhận quyền, đã bấm “Tôi đồng ý” đúng lần tải, không chọn không hiện lại. Cùng guide229 tải thất bại3lần qua2tab/2đường UI; local decode không lỗi, căn nguyên chưa xác định. Chi0/số dư live77; chưa ingredient/quote/generation. Giữ package229, không testtay/x3/Quality. Cần owner thử tải tay đúng source một lần, không bấm tạo, để phân biệt lỗi thao tác/Flow/file.
+
+## Mốc 229 — duyệt coverage, chuẩn bị nguồn R01
 
 [229 — coverage và nguồn sản xuất](229_opening-coverage-approval-and-production-input.md): owner duyệt thay picture quanh “Khoan”, giữ tiếng B và phần ký ức sau đó. Đã chuẩn bị guide4s có N01+prefixB, WAV exactPCM3,15s và prompt sửa hình/mouth/action; boundary1s provisional, không AV PASS. Flow upload đang chờ xác nhận quyền sử dụng video; chưa quote đủ inputs, chưa generation/chi. Không test tay riêng/x3/Quality/retry; số dư gần nhất77 ở228, fullG1/master còn mở.
 

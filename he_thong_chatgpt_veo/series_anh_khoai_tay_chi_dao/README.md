@@ -2,7 +2,9 @@
 
 ## Trạng thái hiện hành — 2026-10-07
 
-[229 — coverage mở và nguồn R01](episodes/ep01_pilot/229_opening-coverage-approval-and-production-input.md) là trạng thái ưu tiên: owner duyệt thay picture quanh “Khoan”, giữ tiếng B và phần ký ức sau. Đã tạo guide4s/N01+prefixB và PCM3,15s; boundary1s provisional. Upload Flow đang chờ xác nhận quyền sử dụng; chưa quote đủ đầu vào/generation/chi, chưa G1/AV/master PASS. Production-only/x1, không test tay riêng/x3/Quality/retry; số dư gần nhất77 từ228, chưa bảo đảm hoàn tất trong77.
+[230 — upload consent và lỗi intake](episodes/ep01_pilot/230_upload-consent-execution-and-intake-blocker.md) là trạng thái ưu tiên: owner đã xác nhận, nút quyền sử dụng đã bấm; guide229 chưa tải thành công qua2tab/2đường. Local decode không lỗi; căn nguyên còn mở. Chi0, live77; chưa quote đủ inputs/generation. Cần một lần owner upload tay đúng file để tách lỗi intake, không yêu cầu tạo/test video mới. Package229 và khóa voice/script/B giữ nguyên.
+
+[229 — coverage mở và nguồn R01](episodes/ep01_pilot/229_opening-coverage-approval-and-production-input.md) là mốc chuẩn bị: owner duyệt thay picture quanh “Khoan”, giữ tiếng B và phần ký ức sau. Đã tạo guide4s/N01+prefixB và PCM3,15s; boundary1s provisional. Gate quyền upload đã được owner xử lý tại230; lỗi intake và quote đủ đầu vào còn mở. Production-only/x1, không test tay riêng/x3/Quality/retry; chưa G1/AV/master PASS hoặc bảo đảm hoàn tất trong77.
 
 [227 — khóa M và chuẩn bị thử S → M](episodes/ep01_pilot/227_owner-reference-lock-and-motion-preflight.md) là mốc lịch sử; batch test đã bị owner hủy tại228 trước submit. Pose M và nguồn riêng S/M vẫn giữ. Không dùng pending batch227 làm quyền chi sản xuất hoặc coi ảnh tĩnh thành motion/AV PASS.
 

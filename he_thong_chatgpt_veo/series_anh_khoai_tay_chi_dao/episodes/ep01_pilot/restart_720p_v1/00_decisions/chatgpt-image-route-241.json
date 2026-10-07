@@ -1,0 +1,12 @@
+{
+  "record_id": "REC241",
+  "date": "2026-10-07",
+  "owner_exact_message": "bạn tạo ảnh từ chatgpt đi cũng được mà nhỉ",
+  "authorized_route": "Built-in ChatGPT image generation/edit tool, no CLI/API key or external installation",
+  "scope": "Fix master portrait framing, preserve existing character/food/F0/table geography",
+  "source_file": "02_refs/MASTER01_v2_NATIVE.jpg",
+  "source_sha256": "239e91f53e00de3caeb7d9153c473b6ae4aadcb70945dfe5462a6b8a2d52115f",
+  "source_viewed_current_turn": true,
+  "output_owner_approval": "PENDING_NEW_ARTIFACT",
+  "does_not_authorize": ["paid API/CLI", "new voice", "script changes", "C02 before initial input checkpoint"]
+}

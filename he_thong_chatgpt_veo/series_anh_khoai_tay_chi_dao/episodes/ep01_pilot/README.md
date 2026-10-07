@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 231: đóng tab lỗi và làm lại ở tab mới
+## Hiện hành — 232: nguồn đã nhận, production R01 bị từ chối không tính phí
+
+[232 — intake và kết quả production](232_source-intake-resolved-and-r01-production-result.md): source anh tải đã chọn được trên tab mới, đối soát nội dung/waveform tương ứng guide229. Đủ video+S/M/E, prompt khớp, quote10/OmniFlash360p9:16/4s/x1. Owner duyệt một lượt10; submit1lần nhưng Flow báo không thể chỉnh sửa lời nói, không output/không tính phí, balance77. Không auto-retry; tab lỗi đã đóng, giữ8 sạch. Đang chẩn đoán tuyến/request; sourceB/voice/script/food giữ, G1/AV/master chưa đạt.
+
+## Mốc 231 — đóng tab lỗi và làm lại ở tab mới
 
 [231 — quy tắc phục hồi tab và kết quả](231_new-tab-recovery-rule-and-result.md): owner yêu cầu gặp lỗi thì đóng tab đó, mở tab mới đúng project trước retry; áp dụng cho lần sau. Đã đóng1/2, tải lại trên tab3 mới nhưng vẫn lỗi; lưu evidence, đóng3 và giữ tab5 sạch/submit disabled. Source229 không đổi, chi0/live77; chưa input/quote/generation. Không retry trên tab lỗi hoặc auto-paid retry. Cần upload tay cùng file một lần để tách lớp lỗi, không bấm tạo.
 

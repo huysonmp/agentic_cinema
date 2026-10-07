@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [231](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/231_new-tab-recovery-rule-and-result.md): owner chốt gặp lỗi thì đóng tab, mở tab mới đúng project trước retry. Đã thực hiện nhưng upload source229 trên tab mới vẫn lỗi; tab lỗi đã đóng, giữ tab5 sạch. Chi0/live77; căn nguyên intake còn mở, chưa quote đủ inputs/generation. Giữ coverage229/B/voice/script, không testtay/x3/Quality/retry; chưa fullG1/AV/master PASS. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
+`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [232](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/232_source-intake-resolved-and-r01-production-result.md): source229 đã nhận, đủ inputs/quote10 và owner duyệt một lượt R01. Submit1lần bị Flow từ chối chỉnh lời nói, không output/không tính phí, balance77. Đã đổi tab sạch theo231; không tự retry. Giữ coverage229/B/voice/script/food, không testtay/x3/Quality/API/vendor; chưa fullG1/AV/master PASS. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
 
 ## Tài liệu đang dùng
 

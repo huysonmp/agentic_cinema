@@ -1,0 +1,31 @@
+{
+  "record_id": "REC232",
+  "local_source": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\229_r01_production_input\\R01_SOURCE_GUIDE_NOT_FINAL.mp4",
+  "flow_download": "C:\\Users\\PC\\Downloads\\R01_SOURCE_GUIDE_NOT_FINAL_20261007125205.mp4",
+  "local_sha256": "1ecc6b496291179ce1f5e82153883e2df826b8cf3d7bfdd64edca2a78530b82f",
+  "flow_sha256": "a06f5abefe5a33ef152d9a8c78f142dab460697b16e40b78c136b04df1188a7f",
+  "byte_identical": false,
+  "decoded_sample_frames": {
+    "local": 192000,
+    "flow": 192512
+  },
+  "measurements": [
+    {
+      "range": "N01",
+      "start_sample": 0,
+      "end_sample": 103200,
+      "zero_offset_pearson": 0.9999858503873846,
+      "mean_absolute_sample_error": 14.5196996124031
+    },
+    {
+      "range": "B_prefix",
+      "start_sample": 103200,
+      "end_sample": 151200,
+      "zero_offset_pearson": 0.9998600979916993,
+      "mean_absolute_sample_error": 11.277239583333333
+    }
+  ],
+  "actual_listening": false,
+  "voice_identity_pass": false,
+  "status": "TECHNICAL_SOURCE_CORRESPONDENCE_ONLY_NOT_AV_PASS"
+}

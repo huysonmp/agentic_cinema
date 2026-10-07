@@ -1,0 +1,95 @@
+Browser tab: 6, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/373eec41-efdb-45ea-8196-49d91b6f980a".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/373eec41-efdb-45ea-8196-49d91b6f980a
+	1 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+	2 container main-content
+		3 container
+			4 button Nút quay lại để quay về trang trước
+			5 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: R01_SOURCE_GUIDE_NOT_FINAL
+			6 container
+				7 button R01_SOURCE_GUIDE_NOT_FINAL
+					8 image R01_SOURCE_GUIDE_NOT_FINAL
+				9 button REF01-S_v01_INPUT_REC227
+					10 image REF01-S_v01_INPUT_REC227
+				11 button REF01-S_v01_REC224
+					12 image REF01-S_v01_REC224
+				13 button REF01-M_v03_ACCEPTED_REC227
+					14 image REF01-M_v03_ACCEPTED_REC227
+				15 button REF03-S_v02_REC225
+					16 image REF03-S_v02_REC225
+				17 button REF01-E_v02_REC225
+					18 image REF01-E_v02_REC225
+				19 button REF01-M_v02_REC225
+					20 image REF01-M_v02_REC225
+				21 button REF01-M_v01_REC224
+					22 image REF01-M_v01_REC224
+				23 button REF03-S_v01_REC224
+					24 image REF03-S_v01_REC224
+				25 button REF01-E_v01_REC224
+					26 image REF01-E_v01_REC224
+				27 button frame-0175.jpg
+					28 image frame-0175.jpg
+				29 button Man speaking video edit instruct…
+					30 image Man speaking video edit instruct…
+				31 button Man speaking video edit instruct…
+					32 image Man speaking video edit instruct…
+				33 button Man speaking video edit instruct…
+					34 image Man speaking video edit instruct…
+				35 button Man picks up food portion
+					36 image Man picks up food portion
+				37 button Nem Bui on ceramic plate
+					38 image Nem Bui on ceramic plate
+				39 button People sharing food at table
+					40 image People sharing food at table
+				41 button U08_START_v0.3_REVIEW.png
+					42 image U08_START_v0.3_REVIEW.png
+				43 button U02_START_v0.1_REVIEW.png
+					44 image U02_START_v0.1_REVIEW.png
+				45 button U01_START_v0.2_REVIEW.png
+					46 image U01_START_v0.2_REVIEW.png
+				47 button Woman looking at water glass
+					48 image Woman looking at water glass
+				49 button Man drops food into bowl
+					50 image Man drops food into bowl
+				51 button U07_START_native_U06_frame35.png
+					52 image U07_START_native_U06_frame35.png
+				53 button Person placing bowl on table
+					54 image Person placing bowl on table
+			55 button Nội dung nghe nhìn tiếp theo
+			56 button Yêu thích
+			57 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand
+			58 button Chuyển vào thùng rác
+			59 button (expanded) Ẩn nhật ký, Secondary Actions: Collapse
+			60 pop up button (collapsed) Description: Lựa chọn khác, Secondary Actions: Expand
+			61 button Đã chỉnh sửa xong cảnh
+		62 container
+			63 container
+				64 image Bản xem trước video cảnh
+				65 button Lưu khung hình
+			66 button Tắt tiếng
+			67 text Thời gian hiện tại: 00:00:00
+			68 button Chuyển về đoạn video trước
+			69 button Phát
+			70 button Chuyển đến đoạn video tiếp theo
+			71 text Tổng thời lượng: 00:04:00
+			72 button Toàn màn hình
+			73 checkbox Description: Tắt tính năng phát lặp lại, Value: 1
+			74 container history-sidebar
+				75 container
+					76 image Hình thu nhỏ của video đã tạo
+			78 container
+				79 text 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+				80 container
+					81 button Thêm đoạn video
+			82 container
+				83 button Thu nhỏ
+				84 button (disabled) Phóng to
+			85 container
+				86 text Mô tả cách chỉnh sửa video này…
+				87 container 
+
+				88 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+				89 text Omni 1.1 Flash
+				90 button (disabled) Bắt đầu tạo
+		91 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+
+The focused UI element is 57 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand

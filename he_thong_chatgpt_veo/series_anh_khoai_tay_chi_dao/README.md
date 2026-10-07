@@ -2,7 +2,9 @@
 
 ## Trạng thái hiện hành — 2026-10-07
 
-[231 — đóng tab lỗi, mở mới](episodes/ep01_pilot/231_new-tab-recovery-rule-and-result.md) là trạng thái ưu tiên: quy tắc owner cho lần này/lần sau đã ghi. Đã đóng tab1/2, thử cùng source229 trên tab3 mới nhưng vẫn lỗi; đóng3, giữ tab5 sạch. Chi0/số dư77; chưa tạo video/quote đủ inputs. Giữ voice/script/B/refs; cần checkpoint upload tay một lần, không tạo video. Quy tắc tab không cấp paid retry hoặc xóa dữ liệu.
+[232 — intake xong, production R01 từ chối](episodes/ep01_pilot/232_source-intake-resolved-and-r01-production-result.md) là trạng thái ưu tiên: source229 anh tải hiện dùng được, bốn ingredients/prompt/quote đã kiểm. Owner duyệt1lượt10credit; submit1lần bị báo không thể chỉnh sửa lời nói, không tính phí/không output, balance77. Đã đổi tab sạch theo231; không tự retry. Chẩn đoán request/route chưa là căn nguyên được cô lập; không thay voice/script/mặt/story hoặc mở Quality/API/vendor.
+
+[231 — đóng tab lỗi, mở mới](episodes/ep01_pilot/231_new-tab-recovery-rule-and-result.md) là mốc phục hồi tab; quy tắc này tiếp tục áp dụng. Checkpoint owner upload đã mở intake tại232, không yêu cầu tải lại. Quy tắc đổi tab không cấp paid retry hoặc xóa dữ liệu.
 
 [230 — upload consent và lỗi intake](episodes/ep01_pilot/230_upload-consent-execution-and-intake-blocker.md) là mốc intake: owner đã xác nhận, nút quyền sử dụng đã bấm; guide229 chưa tải thành công qua2tab/2đường. Local decode không lỗi; căn nguyên còn mở. Tiếp phục hồi tab tại231; không thay package229 hoặc khóa voice/script/B.
 

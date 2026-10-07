@@ -1,0 +1,18 @@
+{
+  "record_id": "REC232",
+  "date": "2026-10-07",
+  "owner_message": "tải lên rồi nhé",
+  "owner_reported_uploaded": true,
+  "observed_initial_tab": "5",
+  "initial_location": "Unnamed collection within existing EP01 project; returned to project using visible back button",
+  "grid_observation": "R01_SOURCE_GUIDE_NOT_FINAL.mp4 marked failed upload",
+  "picker_observation": "Exact filename listed as uploading; Add to prompt disabled",
+  "owner_statement_does_not_equal_verified_ingestion": true,
+  "fresh_tab_result": "Tab6 showed persisted asset373eec41-efdb-45ea-8196-49d91b6f980a; tab7 selected it successfully",
+  "intake_status": "RESOLVED_AFTER_OWNER_UPLOAD_AND_FRESH_OBSERVATION",
+  "root_cause": "Not proven; old tab state was not sufficient to describe the later persisted upload",
+  "quote_with_all_inputs": "10 credits for one Omni1.1 Flash 360p9:16 4s output",
+  "generation_submitted": true,
+  "owner_paid_approval_record": "production-request.json",
+  "credits_quote": 10
+}

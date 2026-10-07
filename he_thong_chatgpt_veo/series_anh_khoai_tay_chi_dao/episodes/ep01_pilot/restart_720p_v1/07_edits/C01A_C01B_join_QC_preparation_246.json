@@ -1,6 +1,6 @@
 {
   "record_id": "REC246-A-B-JOIN-QC-PREP",
-  "status": "FLOW_JOIN_EXPORTED_ACTUAL_INDEPENDENT_REVIEW_PENDING_NOT_SELECTED",
+  "status": "FLOW_JOIN_EXPORTED_CRITIC_ROOT_READ_FULL_JOIN_REWORK_NOT_SELECTED",
   "purpose": "Separate actual join QC draft, preserve selected C01A scene and native B",
   "source_C01A_file": "07_edits/C01A_T04_FLOW_0_3p333S_FOR_APPROVAL.mp4",
   "source_C01A_sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
@@ -29,6 +29,8 @@
   "balance_before": 1013,
   "balance_after": 1013,
   "observed_debit": 0,
+  "independent_actual_review": "06_qc/C01A_C01B_actual_join_independent_247.md;76samples completed JOIN_REWORK, root readfull",
+  "root_disposition": "00_decisions/C01B-T01-actual-join-disposition-247.json",
   "credit_paid_generation_count": 0,
   "UI_evidence": "C:/Users/PC/Downloads/du_an_nem_bui/246_C01A/C01A_C01B_JOIN_QC_FLOW_247.png",
   "download_note": "Initial export completed via browser UI into Downloads; download-event listener missed event/timed out, not failed media. Found exact new file, decode/hash verified; no repeat export",

@@ -12,6 +12,8 @@ Owner trả lời “ok” cho hai điểm đã hỏi: tiếng Khoai/K20 nói m�
 
 ## Vấn đề còn mở
 
+Đã nhận report độc lập `restart_720p_v1/06_qc/C01A_C01B_actual_join_independent_247.md`:76 khung, root đọc đầy đủ. Kết luận `JOIN_REWORK / SOURCE_C01B_HOLD`; lỗi tay có ngay ở native B và được tái hiện tại điểm nối thực, không có bằng chứng Flow dựng sai clip. Không tìm được offset hợp lệ đã chứng minh giữ toàn lời và nhân quả. Root mở preflight riêng cho targeted T02 trong quyền238, chưa submit. Đây là kết luận mới thay trạng thái “đang kiểm” dưới đây; không thay approval tiếng T01.
+
 Root đã xem các mẫu quanh điểm cắt: tay trong đổi vị trí và món thay hình, rồi có động tác hai tay tiến về vành. Đang kiểm độc lập đúng bản ghép để phân biệt lỗi clip sinh với lỗi dựng; chưa chọn C01B hoặc mở C03A. Xem report độc lập247 khi hoàn tất, không lấy metadata hoặc tiếng đã chấp nhận để đóng lỗi hình.
 
 ## Giả thuyết và bước tiếp

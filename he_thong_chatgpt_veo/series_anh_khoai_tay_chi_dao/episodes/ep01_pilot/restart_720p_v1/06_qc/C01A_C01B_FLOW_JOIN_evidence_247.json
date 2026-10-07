@@ -1,0 +1,588 @@
+{
+  "status": "TECHNICAL_AND_FRAME_EVIDENCE_NOT_AV_PASS",
+  "source": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_C01B_T01_FLOW_JOIN_QC_247.mp4",
+  "sha256": "4f92cfd00ddf51b30dd99ec1d779fc703d22ea4fec0a51fd83ec8f0f4322a58d",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640032",
+        "width": 1280,
+        "height": 2274,
+        "coded_width": 1280,
+        "coded_height": 2288,
+        "has_b_frames": 0,
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_space": "smpte170m",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "top",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24000/1001",
+        "avg_frame_rate": "2718720/113357",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 113357,
+        "duration": "7.380013",
+        "bit_rate": "7641685",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "177",
+        "nb_read_frames": "177",
+        "extradata_size": 50,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 353280,
+        "duration": "7.360000",
+        "bit_rate": "128071",
+        "nb_frames": "345",
+        "nb_read_frames": "345",
+        "extradata_size": 2,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_C01B_T01_FLOW_JOIN_QC_247.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "7.380013",
+      "size": "7208023",
+      "bit_rate": "7813561",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf58.76.100"
+      }
+    }
+  },
+  "extracted_frames": 177,
+  "native_frame_timestamps": [
+    0.0,
+    0.041667,
+    0.083333,
+    0.125,
+    0.166667,
+    0.208333,
+    0.25,
+    0.291667,
+    0.333333,
+    0.375,
+    0.416667,
+    0.458333,
+    0.5,
+    0.541667,
+    0.583333,
+    0.625,
+    0.666667,
+    0.708333,
+    0.75,
+    0.791667,
+    0.833333,
+    0.875,
+    0.916667,
+    0.958333,
+    1.0,
+    1.041667,
+    1.083333,
+    1.125,
+    1.166667,
+    1.208333,
+    1.25,
+    1.291667,
+    1.333333,
+    1.375,
+    1.416667,
+    1.458333,
+    1.5,
+    1.541667,
+    1.583333,
+    1.625,
+    1.666667,
+    1.708333,
+    1.75,
+    1.791667,
+    1.833333,
+    1.875,
+    1.916667,
+    1.958333,
+    2.0,
+    2.041667,
+    2.083333,
+    2.125,
+    2.166667,
+    2.208333,
+    2.25,
+    2.291667,
+    2.333333,
+    2.375,
+    2.416667,
+    2.458333,
+    2.5,
+    2.541667,
+    2.583333,
+    2.625,
+    2.666667,
+    2.708333,
+    2.75,
+    2.791667,
+    2.833333,
+    2.875,
+    2.916667,
+    2.958333,
+    3.0,
+    3.041667,
+    3.083333,
+    3.125,
+    3.166667,
+    3.208333,
+    3.25,
+    3.291667,
+    3.333333,
+    3.380013,
+    3.42168,
+    3.463346,
+    3.505013,
+    3.54668,
+    3.588346,
+    3.630013,
+    3.67168,
+    3.713346,
+    3.755013,
+    3.79668,
+    3.838346,
+    3.880013,
+    3.92168,
+    3.963346,
+    4.005013,
+    4.04668,
+    4.088346,
+    4.130013,
+    4.17168,
+    4.213346,
+    4.255013,
+    4.29668,
+    4.338346,
+    4.380013,
+    4.42168,
+    4.463346,
+    4.505013,
+    4.54668,
+    4.588346,
+    4.630013,
+    4.67168,
+    4.713346,
+    4.755013,
+    4.79668,
+    4.838346,
+    4.880013,
+    4.92168,
+    4.963346,
+    5.005013,
+    5.04668,
+    5.088346,
+    5.130013,
+    5.17168,
+    5.213346,
+    5.255013,
+    5.29668,
+    5.338346,
+    5.380013,
+    5.42168,
+    5.463346,
+    5.505013,
+    5.54668,
+    5.588346,
+    5.630013,
+    5.67168,
+    5.713346,
+    5.755013,
+    5.79668,
+    5.838346,
+    5.880013,
+    5.92168,
+    5.963346,
+    6.005013,
+    6.04668,
+    6.088346,
+    6.130013,
+    6.17168,
+    6.213346,
+    6.255013,
+    6.29668,
+    6.338346,
+    6.380013,
+    6.42168,
+    6.463346,
+    6.505013,
+    6.54668,
+    6.588346,
+    6.630013,
+    6.67168,
+    6.713346,
+    6.755013,
+    6.79668,
+    6.838346,
+    6.880013,
+    6.92168,
+    6.963346,
+    7.005013,
+    7.04668,
+    7.088346,
+    7.130013,
+    7.17168,
+    7.213346,
+    7.255013,
+    7.29668,
+    7.338346
+  ],
+  "video_fps": "2718720/113357",
+  "full_decode_success": true,
+  "source_unchanged": true,
+  "boards": [
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 0,
+      "time_seconds": 0.0
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 24,
+      "time_seconds": 1.0
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 48,
+      "time_seconds": 2.0
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 72,
+      "time_seconds": 3.0
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 96,
+      "time_seconds": 4.005013
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 120,
+      "time_seconds": 5.005013
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 144,
+      "time_seconds": 6.005013
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 0,
+      "time_seconds": 0.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 4,
+      "time_seconds": 0.166667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 8,
+      "time_seconds": 0.333333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 12,
+      "time_seconds": 0.5
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 16,
+      "time_seconds": 0.666667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 20,
+      "time_seconds": 0.833333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 24,
+      "time_seconds": 1.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 28,
+      "time_seconds": 1.166667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 32,
+      "time_seconds": 1.333333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 36,
+      "time_seconds": 1.5
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 40,
+      "time_seconds": 1.666667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 44,
+      "time_seconds": 1.833333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 48,
+      "time_seconds": 2.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 52,
+      "time_seconds": 2.166667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 56,
+      "time_seconds": 2.333333
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 60,
+      "time_seconds": 2.5
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 64,
+      "time_seconds": 2.666667
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 68,
+      "time_seconds": 2.833333
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 72,
+      "time_seconds": 3.0
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 76,
+      "time_seconds": 3.166667
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 80,
+      "time_seconds": 3.333333
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 84,
+      "time_seconds": 3.505013
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 88,
+      "time_seconds": 3.67168
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 92,
+      "time_seconds": 3.838346
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 96,
+      "time_seconds": 4.005013
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 100,
+      "time_seconds": 4.17168
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 104,
+      "time_seconds": 4.338346
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 108,
+      "time_seconds": 4.505013
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 112,
+      "time_seconds": 4.67168
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 116,
+      "time_seconds": 4.838346
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 120,
+      "time_seconds": 5.005013
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 124,
+      "time_seconds": 5.17168
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 128,
+      "time_seconds": 5.338346
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 132,
+      "time_seconds": 5.505013
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 136,
+      "time_seconds": 5.67168
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 140,
+      "time_seconds": 5.838346
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 144,
+      "time_seconds": 6.005013
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 148,
+      "time_seconds": 6.17168
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 152,
+      "time_seconds": 6.338346
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 156,
+      "time_seconds": 6.505013
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 160,
+      "time_seconds": 6.67168
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 164,
+      "time_seconds": 6.838346
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 168,
+      "time_seconds": 7.005013
+    },
+    {
+      "board": "mouth_hands_6fps_03.jpg",
+      "frame_zero_based": 172,
+      "time_seconds": 7.17168
+    }
+  ],
+  "actual_listening": "NOT_PERFORMED",
+  "lip_sync": "NOT_CERTIFIED",
+  "frame_sampling_not_continuous_AV": true
+}

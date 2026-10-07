@@ -1,0 +1,21 @@
+{
+  "record_id": "REC247-C01B-T01-ROOT-JOIN-DISPOSITION",
+  "decision_by": "root producer, not owner wholefilm approval or independent critic",
+  "status": "JOIN_REWORK_SOURCE_T01_HOLD_TARGETED_T02_PREFLIGHT_OPEN",
+  "owner_audio_approval": "00_decisions/C01B-T01-audio-and-C01A-reimport-confirmation-247.json",
+  "exact_join_sha256": "4f92cfd00ddf51b30dd99ec1d779fc703d22ea4fec0a51fd83ec8f0f4322a58d",
+  "independent_report": "06_qc/C01A_C01B_actual_join_independent_247.md",
+  "root_report_read": "FULL",
+  "independent_scope": "76unique join frames incl65..105dense,176 and nativeA80/nativeB0/16; not continuousAV/listening/sync",
+  "root_visual_scope": "Join6fpsboards pages2/3 and full80/81/96, not continuousAV",
+  "observed_layer": "C01B native start/action mismatch, reproduced at actual joined boundary80PTS3.333333 to81PTS3.380013. No evidence wrongA-tail or reversedassembly",
+  "MAJOR_findings": ["inner-hand jumps from near bowl to leftplate area", "renewed two-hand approach to rims through short-word region"],
+  "other_findings": ["food pile arrangement/outline pop", "Flow QC export1280x2274VFR, format gate not finalPASS"],
+  "no_cut_rescue": "No evidenced honest offset simultaneously retains actualKhoan, cause-response and sourcepose. Do not use overlay/speed/cover/freeze/dissolve",
+  "root_integrated_inputs": ["06_qc/C01B_T01_DOP_diagnosis_246.md FULL", "06_qc/C01B_T01_ACT_diagnosis_246.md FULL", "06_qc/C01B_T01_native_independent_246.md FULL", "06_qc/C01A_C01B_actual_join_independent_247.md FULL"],
+  "targeted_next": "T02 actioncue bundle from draft247, independent paperpreflight then livegates before one paid submit under238",
+  "same_major_count": 1,
+  "join_is_same_take_not_second_generation": true,
+  "stop_rule_T02": "SameMAJOR repeats =>STOP diagnosis; no automaticT03",
+  "not_approval": ["T01 picture selected", "T02 paper or actualPASS", "newT02 audioaccepted", "C03A open", "wholefilm/final", "reserve110"]
+}

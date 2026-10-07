@@ -1,0 +1,7 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~		2 link Description: Skip to main content, Value: flow.google.com/u/1/
+~					311 button Phát bản nghe trước
+~					313 text 109 / 120
+~					314 text entry area (settable) Hội thoại mẫu, ID: fb1188da-e6c8-4156-9bba-0576c01a8da6-sample-dialogue, Value: Hồi bé, mỗi lần mẹ rang gạo trong bếp, anh cứ đứng cạnh cái chảo, đợi mẹ quay lưng. Khoan! Anh gắp cho em mà.
+The focused UI element is 252 text field (settable) Description: Tìm kiếm thành phần, Value: Orus

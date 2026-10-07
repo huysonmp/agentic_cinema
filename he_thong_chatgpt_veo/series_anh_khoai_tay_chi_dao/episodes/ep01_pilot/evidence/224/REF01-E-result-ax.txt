@@ -1,0 +1,90 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/73a13dbf-4f2a-407e-98cf-de9cf5ee1450".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/73a13dbf-4f2a-407e-98cf-de9cf5ee1450
+	1 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+	2 container main-content
+		3 container
+			4 button Nút quay lại để quay về trang trước
+			5 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: REF01-E_v01_REC224
+			6 button Hiện thông tin về thành phần
+			7 container
+				8 button Create reference still for scene
+					9 image Create reference still for scene
+				10 button REF01-E_v01_REC224
+					11 image REF01-E_v01_REC224
+				12 button Characters reaching for shared p…
+					13 image Characters reaching for shared p…
+				14 button Create reference still for episode
+					15 image Create reference still for episode
+				16 button frame-0175.jpg
+					17 image frame-0175.jpg
+				18 button Man speaking video edit instruct…
+					19 image Man speaking video edit instruct…
+				20 button Man speaking video edit instruct…
+					21 image Man speaking video edit instruct…
+				22 button Man speaking video edit instruct…
+					23 image Man speaking video edit instruct…
+				24 button Man picks up food portion
+					25 image Man picks up food portion
+				26 button Nem Bui on ceramic plate
+					27 image Nem Bui on ceramic plate
+				28 button People sharing food at table
+					29 image People sharing food at table
+				30 button U08_START_v0.3_REVIEW.png
+					31 image U08_START_v0.3_REVIEW.png
+				32 button U02_START_v0.1_REVIEW.png
+					33 image U02_START_v0.1_REVIEW.png
+				34 button U01_START_v0.2_REVIEW.png
+					35 image U01_START_v0.2_REVIEW.png
+				36 button Woman looking at water glass
+					37 image Woman looking at water glass
+				38 button Man drops food into bowl
+					39 image Man drops food into bowl
+				40 button U07_START_native_U06_frame35.png
+					41 image U07_START_native_U06_frame35.png
+				42 button Person placing bowl on table
+					43 image Person placing bowl on table
+				44 button U04_OUT_frame143.png
+					45 image U04_OUT_frame143.png
+				46 button Man holding chopsticks with food
+					47 image Man holding chopsticks with food
+				48 button P02_APPROVED_OUT_frame59.png
+					49 image P02_APPROVED_OUT_frame59.png
+				50 button Woman gazing screen left
+					51 image Woman gazing screen left
+				52 button Peach character turning head smi…
+					53 image Peach character turning head smi…
+				54 button END_Dao_closed_lip_v0.1.png
+					55 image END_Dao_closed_lip_v0.1.png
+			56 button Nội dung nghe nhìn tiếp theo
+			57 button Yêu thích
+			58 button Chia sẻ nội dung nghe nhìn
+			59 button Chuyển vào thùng rác
+			60 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand
+			61 button Ẩn nhật ký
+			62 button Đã chỉnh sửa xong
+		63 pop up button (collapsed) Description: Nút mở trình đơn cắt ảnh, Secondary Actions: Expand
+		64 image Chế độ xem hình ảnh chỉ có thể xem
+		65 container
+			66 text Bạn muốn thay đổi điều gì?
+			67 container 
+
+			68 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+			69 button Điều kiện kích hoạt cài đặt
+			70 button (disabled) Bắt đầu tạo
+		71 container
+			72 container
+				73 image Ô hiển thị hình ảnh của người dùng
+			74 button Thành phần
+				75 image Hình ảnh thành phần
+			76 container
+				77 text Create one vertical 9:16 reference still for the settled exit of R01, matching the supplied accepted N02 B visual anchor. This is a single pose after Dao has stopped her reaching intention and settled back, not a collage or a claim that the stopping motion has been filmed.
+
+Keep the same adult potato man Khoai screen-left and adult peach woman Dao screen-right, accepted B faces, clothes and pink waist tie, warm soft light, small tidy street-side eatery, background, wooden table, camera side and two-shot framing. They are friends. Show both complete faces, mouths and hands. Khoai calmly gives Dao his attention, ready to share why the meal matters to him. Dao listens with mild curiosity. Both mouths are closed and their hands are back at rest near their own bowls, matching the hand-and-table geography of the supplied B frame. No touching or romantic leaning.
+
+The shared plate has not changed position or been pulled toward Dao. Neither character has picked up food or chopsticks. Preserve the B cool Nem Bui mound, herbs front-left, two dipping dishes, two empty personal bowls, two resting chopstick pairs, and water glass outside Dao's right. No added garnish, filled personal bowl, plate transfer, eating, drinking, steam, smoke, written dialogue, captions, branding, children, flashback or new props. Retain any existing or mandatory native watermark.
+
+				78 button Sử dụng lại câu lệnh
+				79 button Mở rộng câu lệnh
+		80 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+
+The focused UI element is 0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/73a13dbf-4f2a-407e-98cf-de9cf5ee1450

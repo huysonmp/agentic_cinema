@@ -1,0 +1,1748 @@
+{
+  "record_id": "REC223-G1-FRAME-EVIDENCE",
+  "anchor_decision": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\evidence\\223\\anchor-decision.json",
+  "anchor_decision_sha256": "e5495d2712c90e7ccbf3f875243b18bb7623aa220a88d54ae1d836896ed749ab",
+  "records": [
+    {
+      "id": "ANCHOR_B",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\221_n02_pa_v_trial\\N02_B_NATIVE.mp4",
+      "sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001e",
+            "width": 360,
+            "height": 640,
+            "coded_width": 360,
+            "coded_height": 640,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 30,
+            "color_range": "tv",
+            "color_space": "smpte170m",
+            "color_transfer": "iec61966-2-1",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 122880,
+            "duration": "10.000000",
+            "bit_rate": "663903",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "240",
+            "extradata_size": 50,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 1024,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 480240,
+            "duration": "10.005000",
+            "bit_rate": "128374",
+            "nb_frames": "470",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\221_n02_pa_v_trial\\N02_B_NATIVE.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "10.005000",
+          "size": "1004684",
+          "bit_rate": "803345",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0000.jpg",
+          "sha256": "b483a087a50b878051a201da0ac23ced2eebcd80b7b8e214387f5bc67f04f225"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0012.jpg",
+          "sha256": "ad089b30e26bf182a70396f2ff1dca1b5d99b1b4448e66347dfb923204a594ee"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0024.jpg",
+          "sha256": "c0100d01c4ba2250951cba8684d752e8e6a66d33036fbb2a097ed98135007e38"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0048.jpg",
+          "sha256": "0047a1a29025e60a0f244e898e3659aac5734c8f76215425bca6dbe21daec2f5"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0072.jpg",
+          "sha256": "e62cbb7156d2e11e6c4d8a6d325c75bc380aa49be27bc97ea2e4f285fb655baa"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0096.jpg",
+          "sha256": "73007dd2da10edb4314c8502ee9c05a54a0d26cfc39545ca10022ac79f5ae15b"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0120.jpg",
+          "sha256": "248ce1396051c2ca3425041ec2168f98ae67f2e2fc0188556159bcb5efca3ca7"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0144.jpg",
+          "sha256": "ccd5c01bd41deb1883357589a44e49fa804cd592381fb6003ec3a10a58e870f3"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0167.jpg",
+          "sha256": "d3926fa70d6fab325e6d7145d3a15ffe1d7ac1efde2a9937ca7ee0b89cdf73d6"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0168.jpg",
+          "sha256": "7162f46195ef623ea7157d93ef05eef70e96c57aa5ca449b8d0bdd8873034b30"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0175.jpg",
+          "sha256": "5bec51d789cebc8b891b26c70d4c52a4a2185ed18b34d0fb933ab6e1cab8c6c5"
+        },
+        {
+          "native_frame": 239,
+          "native_time": 9.958333333333334,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\frame-0239.jpg",
+          "sha256": "cb0152e61b124aab34034df068d3c5aed7754103d47f4040d3dcac4bc46f3718"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ANCHOR_B\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "DIALOGUE_A02",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A02.mp4",
+      "sha256": "c8074e3b2a9ba65f33ac3e277db0f4d50350d52e35d58d86bfd793e75f548484",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001e",
+            "width": 360,
+            "height": 640,
+            "coded_width": 360,
+            "coded_height": 640,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 30,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 122880,
+            "duration": "10.000000",
+            "bit_rate": "710212",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "240",
+            "extradata_size": 46,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 1024,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 480240,
+            "duration": "10.005000",
+            "bit_rate": "128000",
+            "nb_frames": "470",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A02.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "10.005000",
+          "size": "1062089",
+          "bit_rate": "849246",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0000.jpg",
+          "sha256": "bb79a7a30bc93fdce796dd7fa4e1fbee623407131101fb5de28228c64e904cfc"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0012.jpg",
+          "sha256": "dbb93b5dc0f6916d2fb7deeec7beacfff85dabe0c9c952297230329807a53deb"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0024.jpg",
+          "sha256": "2135f650356d69fa39b72be1ad52757a0f5bf9db2b13d910f8fc97dbcba171f9"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0048.jpg",
+          "sha256": "ec6b7ea4fa64740316e7b55458ac033d37bfaf5facac2644f7a054437b808df8"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0072.jpg",
+          "sha256": "518931619b048bd37afb2c775feabb9a33849ede3933a48cc8aeefef35974727"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0096.jpg",
+          "sha256": "4feb5244dd84cab43abf534678a52bee3175b4fa1c85a79886e8ded74e68c84a"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0120.jpg",
+          "sha256": "40b1061cda9da9ac872879707508a66252c0d03c4cc4f7c02c73f2b3e660a3b9"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0144.jpg",
+          "sha256": "569d7baa253ceb99b79a942fefb833f87471f39767668b58629caf5f452faef0"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0167.jpg",
+          "sha256": "38c4ce3a9cc3f7674b917410a790b8edb44154b1b3a68b26f43ff0bdb988dfe6"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0168.jpg",
+          "sha256": "1e70a61d02768082213cba204804dbb644fa7b4d8d4535af19062cbbb9e26ad5"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0175.jpg",
+          "sha256": "089ddc51a10eba1a6b58bdbdc6251a27364158b20947fb5a7a136710c58f382b"
+        },
+        {
+          "native_frame": 239,
+          "native_time": 9.958333333333334,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\frame-0239.jpg",
+          "sha256": "ebee2b44cf78929c42b0729589f02887faed27b0f674a31c68910610d6cfe2e0"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A02\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "DIALOGUE_A03",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03.mp4",
+      "sha256": "3921e8f9d3a4475bcbd7677f3ca7a180e499adbf432702ccec08aa45dac1620b",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001e",
+            "width": 360,
+            "height": 640,
+            "coded_width": 360,
+            "coded_height": 640,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 30,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 122880,
+            "duration": "10.000000",
+            "bit_rate": "599921",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "240",
+            "extradata_size": 46,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 1024,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 480240,
+            "duration": "10.005000",
+            "bit_rate": "128047",
+            "nb_frames": "470",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "10.005000",
+          "size": "924285",
+          "bit_rate": "739058",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0000.jpg",
+          "sha256": "e6287928b90ff94f0d356a8910081b29448fc540dda8bb824a03fbd73355d70c"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0012.jpg",
+          "sha256": "3c35c0590a141bfc110845dd057b38a5e13f4bf89b3006b994abb713845395b1"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0024.jpg",
+          "sha256": "a0e1aef74abf35f93e60249b4cacdc538c70134476bbbf6b78d95540ed436192"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0048.jpg",
+          "sha256": "2dba2da303e2a82ecb2c650477a11d3b33499d898c208bfe030189e26859c6d6"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0072.jpg",
+          "sha256": "b5c29f959d4a78a8f888028d8cb8ddeddf02fc6e41e6700628e064f1366a2982"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0096.jpg",
+          "sha256": "8cf7f95dac14e5bcd75dbf01a13a6c427a17f1ec08674f4ab8232b0b542da968"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0120.jpg",
+          "sha256": "c7ac57f4bc240aeacda4f999d865227bbc8a49e1fb14465a7ef0361455ae24ec"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0144.jpg",
+          "sha256": "9a049410e2f6f45668e757282f7c373ac28cd6fc4cccaf5f87550cef38d9fce3"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0167.jpg",
+          "sha256": "feb46bf50b13f34d2eb04a9b5ced1438d8401e9157739f0abd17ed306048acb0"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0168.jpg",
+          "sha256": "d732359c40bfe47dfd10fb490bc50154bb1d0ecc6c6b843984b3e074b76829cc"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0175.jpg",
+          "sha256": "37fca2ed061091f732dd2ccf298876bfd7fdded019588d16d77d88a12f6ff9f7"
+        },
+        {
+          "native_frame": 239,
+          "native_time": 9.958333333333334,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\frame-0239.jpg",
+          "sha256": "bd919b10e277a8c7d591fb5e6f2439b88f114c0d70185e6a5ac03ec4370e3eed"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DIALOGUE_A03\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "ATTEMPT_163",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\163_low-hold-reaction\\R02.mp4",
+      "sha256": "8ddc0d65ca85c53d1d23f605ab2f9c35f0915bac3cf185d7f12670bbe7d4cc07",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 720,
+            "height": 1280,
+            "coded_width": 720,
+            "coded_height": 1280,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 98304,
+            "duration": "8.000000",
+            "bit_rate": "2162586",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "192",
+            "extradata_size": 46,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 2048,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 384000,
+            "duration": "8.000000",
+            "bit_rate": "140232",
+            "nb_frames": "377",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\163_low-hold-reaction\\R02.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "8.000000",
+          "size": "2381318",
+          "bit_rate": "2381318",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0000.jpg",
+          "sha256": "3f11f4c9c17dd1315edd611c7c8bc1e17a1b3697970150ea2e883190d02348cf"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0012.jpg",
+          "sha256": "867d4fc9a44b29037bdd3a9cb2675bd5a7338689d83e54512c0e5644fd66820e"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0024.jpg",
+          "sha256": "9da3a3717655dd92e06ec59388d8eb5cf73ae73a47b627898746ffd4d705d624"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0048.jpg",
+          "sha256": "07fb151fe84e1317a8632e4541d72d87871f9256bc1740fe88a068d3670c141e"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0072.jpg",
+          "sha256": "0ca9ff673955085bc324c6b9daf3486e59e6bc217fa642fe726a4bb9adb8e7f4"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0096.jpg",
+          "sha256": "53843a83eab49ee92469ce7cabe55208ff9f1ad38cbe7de2f5f0db8cfa4210d9"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0120.jpg",
+          "sha256": "cf682494941d10dcd5d41527ba97df94ed2e3a7c9c3feb3be43028a7c49b20a9"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0144.jpg",
+          "sha256": "9220771b46519a070a0fff611b4247a2541ea099cedebb1f2a153e232442b8b7"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0167.jpg",
+          "sha256": "188d638a5815419583c9e3c9b65bb8103182d721c38db89d5e298a465bbffeaf"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0168.jpg",
+          "sha256": "02eb6c9b4ee4414675706c4e3ed0f5da0ad45dff39395c6dfa2761ee0b309d04"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0175.jpg",
+          "sha256": "647b59ebb76e62c3c8d72cdffabb70a148d7d6a7c8a3dec5eb4a0578ce0bc1fb"
+        },
+        {
+          "native_frame": 191,
+          "native_time": 7.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\frame-0191.jpg",
+          "sha256": "c69beea791b7904e76238ca00093321e354f326d64aeefe7964c5f79a004b532"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ATTEMPT_163\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "REACTION_194",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\194_dao_reaction_R2\\R203.mp4",
+      "sha256": "1449616ecc6bd28adec3aa9d8764da58e95468a9827b5677358f4c42b2d2c568",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 720,
+            "height": 1280,
+            "coded_width": 720,
+            "coded_height": 1280,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "color_range": "tv",
+            "color_space": "smpte170m",
+            "color_transfer": "iec61966-2-1",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 98304,
+            "duration": "8.000000",
+            "bit_rate": "2201866",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "192",
+            "extradata_size": 48,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 2048,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 384000,
+            "duration": "8.000000",
+            "bit_rate": "140048",
+            "nb_frames": "377",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\194_dao_reaction_R2\\R203.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "8.000000",
+          "size": "2420432",
+          "bit_rate": "2420432",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0000.jpg",
+          "sha256": "8be65e316f40b214e2da06fc4234d7fcbe0a0c0102f9e6cb74d8eb6160b3bbbd"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0012.jpg",
+          "sha256": "73dad6b8257cc9156c41fba41e0bf43f518fc781a8fce2085ed0941676127730"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0024.jpg",
+          "sha256": "a948b2e730e58c1743e2f306af37fca34a97b0fe162c74c0657b28af95329620"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0048.jpg",
+          "sha256": "55df3b4d830055e3f557426cc842d391f6fda4f0f395059ca45b6b4eca304295"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0072.jpg",
+          "sha256": "8874d3b98f1cf30e585883e19dd3a2a0b14d6782e7fbc3dce54d687326bf6db2"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0096.jpg",
+          "sha256": "2a9cb4bec1c68521d6cd552ab7b79f223d30ad3d53745e9dfa7d839e1f30e9a6"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0120.jpg",
+          "sha256": "760112eeb224d1a3ec4742bb31fc86f6ee16ee64a0f3f34869da2108528c74f7"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0144.jpg",
+          "sha256": "d6529cfd808d8a2a66b2ae9b3111bb88f94af26f4bd9d252718146fa3c1127a4"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0167.jpg",
+          "sha256": "1ea59c6cd0c2d4e060c3cf6cbf030ad6163171a6571414ce38eae1c2fb143a57"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0168.jpg",
+          "sha256": "d6ec938ded356751c421d32ad3337c7e02dec19e07991adb302fc556a6abcae9"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0175.jpg",
+          "sha256": "bcb629ffe1a37ec108f66650c56ab9e2abee3dc7a8e536728328e188e6a1b9b5"
+        },
+        {
+          "native_frame": 191,
+          "native_time": 7.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\frame-0191.jpg",
+          "sha256": "4b177a203a18e0b08327d6cc04ab959fae4e2375ba547006dc109842fa857e10"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\REACTION_194\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "CLOSING_154",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+      "sha256": "9530c8c8315a7e3653c43cc400e7ab8891f536256e4d7dfaee5b16f326e59b19",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001e",
+            "width": 360,
+            "height": 640,
+            "coded_width": 360,
+            "coded_height": 640,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 30,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 98304,
+            "duration": "8.000000",
+            "bit_rate": "741481",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "192",
+            "extradata_size": 46,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 1024,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 384000,
+            "duration": "8.000000",
+            "bit_rate": "128000",
+            "nb_frames": "376",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\154_visual_lock\\R01.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "8.000000",
+          "size": "883343",
+          "bit_rate": "883343",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0000.jpg",
+          "sha256": "e165fc01c82094650e30eac1aa1717995c433cf7966eeacbc5a3bcdcaf7f16e7"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0012.jpg",
+          "sha256": "592d061a388a573a3075a8f634d2729d5a8d92c15cbf03da9ed54319d4ed397a"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0024.jpg",
+          "sha256": "167293f33504fc143af28172b094606a06fdf51c67d5080fa5f5c53aedcdf898"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0048.jpg",
+          "sha256": "71315ce5ec4f6c412db70db49feebc34f11f229fa2ec28d2be407311fe312415"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0072.jpg",
+          "sha256": "a83118ad35604679fc7c41b5a91b691f53b47b03cf7375b6282bfe8f18de331d"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0096.jpg",
+          "sha256": "17960ab1e01f2e816a98c58571a399a2a9d43377b970e25edcfb40ecca749e39"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0120.jpg",
+          "sha256": "bffcdd9c2768d4b66ae59a8bc5a646beb98ebe470d8deb8bbd22c0fa0ab7c908"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0144.jpg",
+          "sha256": "e515c1e29feddf6e783ba4141216d56c179d60bee984b63b1875bd38c0af2a91"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0167.jpg",
+          "sha256": "74a12f02e5db41f8343d83eec5fe8c08b4f792e99a301c12cfc5559cb114f795"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0168.jpg",
+          "sha256": "c5699d7d3e4cf8620c06df21ebeda7f0d6137f26684931cabd2abd2d050f1217"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0175.jpg",
+          "sha256": "036f083d1364046e7969583ec82381bf270d4d86d007012e945b8ce730649a35"
+        },
+        {
+          "native_frame": 191,
+          "native_time": 7.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\frame-0191.jpg",
+          "sha256": "ccec195690ad52deea058c762679854e19dc4833ab1d485d5200da6e0e57f147"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\CLOSING_154\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "DEPOSIT_207",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\207_u07_production\\U07_NATIVE.mp4",
+      "sha256": "9792a637316692967383990b0eb174471e4ede21edb37b470ef1d7fe60f0bdad",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 720,
+            "height": 1280,
+            "coded_width": 720,
+            "coded_height": 1280,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "color_range": "tv",
+            "color_space": "smpte170m",
+            "color_transfer": "iec61966-2-1",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 98304,
+            "duration": "8.000000",
+            "bit_rate": "1916235",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "192",
+            "extradata_size": 48,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 2048,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 384000,
+            "duration": "8.000000",
+            "bit_rate": "139831",
+            "nb_frames": "377",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\207_u07_production\\U07_NATIVE.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "8.000000",
+          "size": "2069386",
+          "bit_rate": "2069386",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0000.jpg",
+          "sha256": "2d273cc7390dfc87688f39f1e872d9628ddff834aac1b5507f92f391453695f8"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0012.jpg",
+          "sha256": "1d7bde5c2ca8031bf985fbf22da66fd65c5d10d03a2205a51d6766916a51926e"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0024.jpg",
+          "sha256": "40bc93b52f9ef115e695b646c5ec2aab3762d1901176a88804665cfb5692b36a"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0048.jpg",
+          "sha256": "04eb895e3c0308e35403d27ef954c10c6c66c58bec5f05421b4a77eb6397ce62"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0072.jpg",
+          "sha256": "52bfc5617d9193b806503d996022094c39607aef8ac31c9695fd788ed5742bcf"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0096.jpg",
+          "sha256": "3a081ec04150586dfbf8be95ec86b5f509c737909b98d4f0839bfb02b84c36dd"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0120.jpg",
+          "sha256": "57e2d53f8d22c1e29e0a6b4d3e82745984716179bbd33fb0dbdbd6750d8dfbd6"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0144.jpg",
+          "sha256": "6d083083ec7af559ddf6121a227bb6dadd23668ec3ab6c2bc53a598e8152f0f3"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0167.jpg",
+          "sha256": "6cf21b1377ebc9171193d2bcdf7651a240b094102bba63361fd218dfab8f3483"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0168.jpg",
+          "sha256": "63be8251f463e0d51d23981f68ccc363f8976780d045d8a17c07b118248fd8a7"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0175.jpg",
+          "sha256": "13157a57af61ab03e7db6fce99c4ea35758f246c4a1d92ef6ca74dad0aec78d4"
+        },
+        {
+          "native_frame": 191,
+          "native_time": 7.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\frame-0191.jpg",
+          "sha256": "0f60a5403847f55204bcd0ce3f394ca0a03a4304a34007678061cfaeefe77525"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\DEPOSIT_207\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    },
+    {
+      "id": "ENDING_209",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\209_remaining_production\\U08_NATIVE.mp4",
+      "sha256": "0c25609d1581046474b7f07230e457dfbee0320283ef4c8e4e45a9667f7647a0",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 720,
+            "height": 1280,
+            "coded_width": 720,
+            "coded_height": 1280,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "color_range": "tv",
+            "color_space": "smpte170m",
+            "color_transfer": "iec61966-2-1",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 98304,
+            "duration": "8.000000",
+            "bit_rate": "3570474",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "192",
+            "extradata_size": 48,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 2048,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 384000,
+            "duration": "8.000000",
+            "bit_rate": "139985",
+            "nb_frames": "377",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\209_remaining_production\\U08_NATIVE.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "8.000000",
+          "size": "3755466",
+          "bit_rate": "3755466",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Google"
+          }
+        }
+      },
+      "samples": [
+        {
+          "native_frame": 0,
+          "native_time": 0.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0000.jpg",
+          "sha256": "d27197176491d9f951bc1886b41fe2c736125ffa6a299e8c2ffc9b5eb4976f9e"
+        },
+        {
+          "native_frame": 12,
+          "native_time": 0.5,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0012.jpg",
+          "sha256": "a9ff85952b70b7f67a5f9fe5e2be74d672ef4dd2f85d66691d9d5a2b11680177"
+        },
+        {
+          "native_frame": 24,
+          "native_time": 1.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0024.jpg",
+          "sha256": "d558cd94e6970a56250fb5bf9d997f38f899924b652799c62b69db9001433e49"
+        },
+        {
+          "native_frame": 48,
+          "native_time": 2.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0048.jpg",
+          "sha256": "c0684861ababf942178962004b02552410186b30d82e990af3ecb7df17e3bde9"
+        },
+        {
+          "native_frame": 72,
+          "native_time": 3.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0072.jpg",
+          "sha256": "d635bd875421c83dc4c9a8804b8fbe5d78f9c4f6d66d4f849c871cdd2dce20c6"
+        },
+        {
+          "native_frame": 96,
+          "native_time": 4.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0096.jpg",
+          "sha256": "b19982b6ac90761163f9fb3b0102946ec0f87569244149a47ffe517e6b999f00"
+        },
+        {
+          "native_frame": 120,
+          "native_time": 5.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0120.jpg",
+          "sha256": "a9ddc802fd887d19ef567054c01db97e8a81c82bdaadfc07ea99e03c0589989e"
+        },
+        {
+          "native_frame": 144,
+          "native_time": 6.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0144.jpg",
+          "sha256": "3d88e709a454118c09676d4f6677ea4ed41fd31bc5f900b1d083d34146794732"
+        },
+        {
+          "native_frame": 167,
+          "native_time": 6.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0167.jpg",
+          "sha256": "989e59692d897d3f5fdefb26fe5b64211fe9bd71947a30b460a079c4163eaae7"
+        },
+        {
+          "native_frame": 168,
+          "native_time": 7.0,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0168.jpg",
+          "sha256": "25943c58960ed1d1fad28d0b6b2c603e708943638a4b38c3306db9dca01d3e6e"
+        },
+        {
+          "native_frame": 175,
+          "native_time": 7.291666666666667,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0175.jpg",
+          "sha256": "5760c1b3b9b42ba16a5a9afd6dd63f13da433ba256c2ad74f805d09b54b56de7"
+        },
+        {
+          "native_frame": 191,
+          "native_time": 7.958333333333333,
+          "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\frame-0191.jpg",
+          "sha256": "a2c4c6c10fa7cae580d28a621825f5db3540e374b75db642601ce74412ebad00"
+        }
+      ],
+      "contact": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\223_g1_source_frames\\ENDING_209\\contact-exact.png",
+      "status": "CANDIDATE_FRAME_EVIDENCE_NOT_PRODUCTION_PASS"
+    }
+  ],
+  "native_sample_count": 96,
+  "sample_time_mapping": "Exact selected native frame n/24, no fps resampling",
+  "new_generation": false,
+  "credit_spend": 0,
+  "sources_unchanged": true,
+  "actual_listening": false,
+  "continuous_av_review": false,
+  "release_authorized": false,
+  "limits": [
+    "Samples do not prove the complete action path or lip sync",
+    "A candidate pose can be wrong for a storyboard state",
+    "No source ranges or 30-second EDL are selected by this script"
+  ]
+}

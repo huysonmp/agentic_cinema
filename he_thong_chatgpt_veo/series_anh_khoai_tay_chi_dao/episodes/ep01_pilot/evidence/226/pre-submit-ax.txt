@@ -1,0 +1,110 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/558dc41c-45d2-437d-bcbf-e044ece386d7".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/558dc41c-45d2-437d-bcbf-e044ece386d7
+	1 container
+		2 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+		3 container main-content
+			4 container
+				5 button Nút quay lại để quay về trang trước
+				6 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: REF01-S_v01_REC224
+				7 button Hiện thông tin về thành phần
+				8 container
+					9 button REF03-S_v02_REC225
+						10 image REF03-S_v02_REC225
+					11 button REF01-E_v02_REC225
+						12 image REF01-E_v02_REC225
+					13 button REF01-M_v02_REC225
+						14 image REF01-M_v02_REC225
+					15 button REF01-M_v01_REC224
+						16 image REF01-M_v01_REC224
+					17 button REF01-S_v01_REC224
+						18 image REF01-S_v01_REC224
+					19 button REF03-S_v01_REC224
+						20 image REF03-S_v01_REC224
+					21 button REF01-E_v01_REC224
+						22 image REF01-E_v01_REC224
+					23 button frame-0175.jpg
+						24 image frame-0175.jpg
+					25 button Man speaking video edit instruct…
+						26 image Man speaking video edit instruct…
+					27 button Man speaking video edit instruct…
+						28 image Man speaking video edit instruct…
+					29 button Man speaking video edit instruct…
+						30 image Man speaking video edit instruct…
+					31 button Man picks up food portion
+						32 image Man picks up food portion
+					33 button Nem Bui on ceramic plate
+						34 image Nem Bui on ceramic plate
+					35 button People sharing food at table
+						36 image People sharing food at table
+					37 button U08_START_v0.3_REVIEW.png
+						38 image U08_START_v0.3_REVIEW.png
+					39 button U02_START_v0.1_REVIEW.png
+						40 image U02_START_v0.1_REVIEW.png
+					41 button U01_START_v0.2_REVIEW.png
+						42 image U01_START_v0.2_REVIEW.png
+					43 button Woman looking at water glass
+						44 image Woman looking at water glass
+					45 button Man drops food into bowl
+						46 image Man drops food into bowl
+					47 button U07_START_native_U06_frame35.png
+						48 image U07_START_native_U06_frame35.png
+					49 button Person placing bowl on table
+						50 image Person placing bowl on table
+					51 button U04_OUT_frame143.png
+						52 image U04_OUT_frame143.png
+					53 button Man holding chopsticks with food
+						54 image Man holding chopsticks with food
+					55 button P02_APPROVED_OUT_frame59.png
+						56 image P02_APPROVED_OUT_frame59.png
+				57 button Nội dung nghe nhìn tiếp theo
+				58 button Yêu thích
+				59 button Chia sẻ nội dung nghe nhìn
+				60 button Chuyển vào thùng rác
+				61 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand
+				62 button Ẩn nhật ký
+				63 button Đã chỉnh sửa xong
+			64 pop up button (collapsed) Description: Nút mở trình đơn cắt ảnh, Secondary Actions: Expand
+			65 image Chế độ xem hình ảnh chỉ có thể xem
+			66 container
+				67 container Edit the supplied REF01-S still, which has both characters' hands resting. Output one vertical 9:16 still. Keep the same characters and faces, closed lips, clothes, pink waist tie, gaze, lighting, street-side eatery, camera framing, wooden table and all meal objects. Preserve the native watermark. Do not create panels or text.
+
+Change only Dao's OUTER arm and hand, on the RIGHT SIDE OF THE IMAGE, the arm nearest her water glass. Bend that arm naturally so the hand reaches downward and slightly inward, around the outside of her personal bowl, toward the visible RIGHT edge of the shared ceramic Nem Bui plate. Position her gently curved fingertips just outside that right ceramic rim with a clearly visible small air gap. The fingertips should be at the SIDE of the plate, below the level of the mound's top, not behind the mound and not above the food. Show the ceramic edge and the gap clearly.
+
+Dao's INNER hand on the LEFT side of her body, nearest Khoai, stays resting beside her personal bowl. Both of Khoai's hands stay resting. Neither arm intersects or merges with the personal bowl, glass or dipping dish. Keep all four limbs anatomically natural. The shared plate and food remain exactly in their source positions: it has not been pulled or lifted. Both personal bowls remain empty; the herbs, two dipping dishes, two resting chopstick pairs and water glass stay unchanged. No food contact, food pickup, eating, drinking, extra hand, steam or smoke. Both mouths remain completely closed.
+					68 container
+						69 text Edit the supplied REF01-S still, which has both characters' hands resting. Output one vertical 9:16 still. Keep the same characters and faces, closed lips, clothes, pink waist tie, gaze, lighting, street-side eatery, camera framing, wooden table and all meal objects. Preserve the native watermark. Do not create panels or text.
+						70 text Change only Dao's OUTER arm and hand, on the RIGHT SIDE OF THE IMAGE, the arm nearest her water glass. Bend that arm naturally so the hand reaches downward and slightly inward, around the outside of her personal bowl, toward the visible RIGHT edge of the shared ceramic Nem Bui plate. Position her gently curved fingertips just outside that right ceramic rim with a clearly visible small air gap. The fingertips should be at the SIDE of the plate, below the level of the mound's top, not behind the mound and not above the food. Show the ceramic edge and the gap clearly.
+						71 text Dao's INNER hand on the LEFT side of her body, nearest Khoai, stays resting beside her personal bowl. Both of Khoai's hands stay resting. Neither arm intersects or merges with the personal bowl, glass or dipping dish. Keep all four limbs anatomically natural. The shared plate and food remain exactly in their source positions: it has not been pulled or lifted. Both personal bowls remain empty; the herbs, two dipping dishes, two resting chopstick pairs and water glass stay unchanged. No food contact, food pickup, eating, drinking, extra hand, steam or smoke. Both mouths remain completely closed.
+				72 button Xoá câu lệnh
+				73 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+				74 button Điều kiện kích hoạt cài đặt
+				75 button Bắt đầu tạo
+			76 container
+				77 container
+					78 image Ô hiển thị hình ảnh của người dùng
+				79 button Thành phần
+					80 image Hình ảnh thành phần
+				81 container
+					82 text Create one vertical 9:16 reference still for the opening of this episode, using the supplied frame from the accepted N02 B video as the visual anchor. This is not a video, montage, storyboard sheet, or illustration with labels.
+
+Preserve the same two adult anthropomorphic characters: golden potato man Khoai screen-left and peach woman Dao screen-right. Keep their accepted B facial identity, proportions, skin texture, clothes and pink waist tie, the same warm lighting, small tidy street-side eatery, wooden table and background. They are friends sharing a meal, not a romantic couple. Maintain the same camera side and two-shot composition; show both complete faces, mouths and relevant hands.
+
+Opening pose: Dao looks at Khoai with an easy, gently teasing curiosity, ready to begin the conversation. Khoai looks thoughtfully toward the shared meal, attentive to her. Both mouths are closed with natural restrained expressions. Both hands rest near their own personal bowls; neither holds chopsticks, food or the water glass. This is before her reaching gesture, not already pulling the plate.
+
+Keep the existing cool Nem Bui mound on the shared plate unchanged, the herbs plate front-left, two small dipping dishes, two empty personal bowls, two resting chopstick pairs, and one water glass outside Dao's right. Preserve the serving geography and the accepted B food appearance. No steam or smoke, added garnish on top, extra bowl, food in the personal bowls, eating, drinking, new text, captions, restaurant branding, flashback or children. Do not remove an existing or mandatory native watermark.
+
+					83 button Sử dụng lại câu lệnh
+					84 button Mở rộng câu lệnh
+			85 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+		86 container cdk-overlay-17
+			87 container Tỷ lệ khung hình
+				88 radio button 16:9, Value: 0, ID: mat-button-toggle-48-button
+				89 radio button 4:3, Value: 0, ID: mat-button-toggle-49-button
+				90 radio button 1:1, Value: 0, ID: mat-button-toggle-50-button
+				91 radio button 3:4, Value: 0, ID: mat-button-toggle-51-button
+				92 radio button 9:16, Value: 1, ID: mat-button-toggle-52-button
+			93 pop up button (collapsed) Description: Chọn nhóm mô hình, Secondary Actions: Expand
+			94 text Quá trình tạo sẽ tốn 
+			95 link Description: 0 tín dụng, Value: support.google.com/googleone?p=g1_ai_credit_menu
+
+The focused UI element is 74 button Điều kiện kích hoạt cài đặt

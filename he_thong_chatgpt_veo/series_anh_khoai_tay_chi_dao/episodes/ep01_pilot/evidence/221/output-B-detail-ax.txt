@@ -1,0 +1,120 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/65777488-e2fd-464d-9433-763cd6560e8e".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/65777488-e2fd-464d-9433-763cd6560e8e
+	1 container
+		2 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+		3 container main-content
+			4 container
+				5 button Nút quay lại để quay về trang trước
+				6 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: Man speaking video edit instruct…
+				7 text 360P
+				8 container
+					9 button Man speaking video edit instruct…
+						10 image Man speaking video edit instruct…
+					11 button Man speaking video edit instruct…
+						12 image Man speaking video edit instruct…
+					13 button Man speaking video edit instruct…
+						14 image Man speaking video edit instruct…
+					15 button Man picks up food portion
+						16 image Man picks up food portion
+					17 button Nem Bui on ceramic plate
+						18 image Nem Bui on ceramic plate
+					19 button People sharing food at table
+						20 image People sharing food at table
+					21 button U08_START_v0.3_REVIEW.png
+						22 image U08_START_v0.3_REVIEW.png
+					23 button U02_START_v0.1_REVIEW.png
+						24 image U02_START_v0.1_REVIEW.png
+					25 button U01_START_v0.2_REVIEW.png
+						26 image U01_START_v0.2_REVIEW.png
+					27 button Woman looking at water glass
+						28 image Woman looking at water glass
+					29 button Man drops food into bowl
+						30 image Man drops food into bowl
+					31 button U07_START_native_U06_frame35.png
+						32 image U07_START_native_U06_frame35.png
+					33 button Person placing bowl on table
+						34 image Person placing bowl on table
+					35 button U04_OUT_frame143.png
+						36 image U04_OUT_frame143.png
+					37 button Man holding chopsticks with food
+						38 image Man holding chopsticks with food
+					39 button P02_APPROVED_OUT_frame59.png
+						40 image P02_APPROVED_OUT_frame59.png
+					41 button Woman gazing screen left
+						42 image Woman gazing screen left
+					43 button Peach character turning head smi…
+						44 image Peach character turning head smi…
+					45 button END_Dao_closed_lip_v0.1.png
+						46 image END_Dao_closed_lip_v0.1.png
+					47 button START_Dao_closed_lip_v0.1.png
+						48 image START_Dao_closed_lip_v0.1.png
+					49 button Character recording audio direction
+						50 image Character recording audio direction
+					51 button Peach character smiling at compa…
+						52 image Peach character smiling at compa…
+					53 button Peach character smiling at compa…
+						54 image Peach character smiling at compa…
+					55 button Peach character smiling at compa…
+						56 image Peach character smiling at compa…
+				57 button Nội dung nghe nhìn tiếp theo
+				58 button Yêu thích
+				59 button Chia sẻ
+				60 pop up button (expanded) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Collapse
+				61 button Chuyển vào thùng rác
+				62 button (expanded) Ẩn nhật ký, Secondary Actions: Collapse
+				63 pop up button (collapsed) Description: Lựa chọn khác, Secondary Actions: Expand
+				64 button Đã chỉnh sửa xong cảnh
+			65 container
+				66 container
+					67 image Bản xem trước video cảnh
+					68 button Lưu khung hình
+				69 button Tắt tiếng
+				70 text Thời gian hiện tại: 00:00:00
+				71 button Chuyển về đoạn video trước
+				72 button Phát
+				73 button Chuyển đến đoạn video tiếp theo
+				74 text Tổng thời lượng: 00:10:00
+				75 button Toàn màn hình
+				76 checkbox Description: Tắt tính năng phát lặp lại, Value: 1
+				77 container history-sidebar
+					78 container
+						79 container
+							80 image Hình thu nhỏ của video đã tạo
+						81 button Thành phần
+							82 image Hình ảnh thành phần video
+						83 text Edit the supplied N02 video as a visual-coverage repair, not a new audio recording. Keep its original complete male Khoai speaking turn, wording, voice, timing and pauses unchanged:
+"Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ."
+
+The only speaker throughout is the adult golden potato man, Khoai, sitting screen left. The adult peach woman, Dao, sitting screen right, listens silently; she does not mouth his words. This is a private conversation between friends at their existing small tidy street-side eatery, not a presentation to the camera or a romantic scene.
+
+Retain the opening two-shot for "Khoan." and the established transition towards Khoai's face as he starts sharing the memory. Keep his complete face and mouth clearly visible in a matching medium close view through the entire final phrase "Hồi bé, mẹ rang gạo, anh đứng chờ." Replace the food-only cutaway with continuous speaking-face coverage. His attention gently goes from the meal towards Dao, on his screen-right side, with a small warm private smile. Do not create a kitchen flashback, a child or a second voice. Return to the same two-shot only after his final word has finished, with Dao still listening before her next question; add no new dialogue.
+
+Preserve the existing character identity, clothes, table, warm lighting, background and screen direction. Both hands remain at rest for this N02 proof. Neither character has picked up food yet. Keep the shared cool Nem Bui meal and its existing serving geography unchanged: the herbs plate front-left, two dipping dishes, two personal bowls, two resting chopstick pairs, and one water glass outside Dao's right. No new garnish on top of the food, new liquid-filled bowl, steam or smoke, food transfer, eating, drinking, plate pulling, added captions, music or narration. Preserve the native output watermark.
+
+Do not replace or remix the original speech with a newly generated recording. This request is a feasibility test of keeping the approved audio while repairing visible speaking coverage. It is not permission to rewrite the scene, hide the speaker, loop a still face or speed up the turn.
+
+						84 container
+							85 button Sử dụng lại câu lệnh
+							86 button Mở rộng câu lệnh
+				87 container
+					88 text 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+					89 container
+						90 button Thêm đoạn video
+				91 container
+					92 button Thu nhỏ
+					93 button (disabled) Phóng to
+				94 container
+					95 text Mô tả cách chỉnh sửa video này…
+					96 container 
+
+					97 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+					98 text Omni 1.1 Flash
+					99 button (disabled) Bắt đầu tạo
+			100 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+		101 container
+			102 menu mat-menu-panel-379
+				103 (collapsed) 270p Ảnh GIF động, Secondary Actions: Expand
+				104 (collapsed) 360p Kích thước gốc, Secondary Actions: Expand
+				105 (collapsed) 720p Đã tăng độ phân giải, Secondary Actions: Expand
+
+The focused UI element is 60 pop up button (expanded) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Collapse

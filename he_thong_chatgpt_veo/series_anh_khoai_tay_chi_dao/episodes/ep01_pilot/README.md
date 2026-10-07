@@ -1,6 +1,18 @@
 # EP01 — Pilot
 
-## Hiện hành — 210: bản ráp được duyệt, gói hoàn thiện v1.1 đã xuất
+## Hiện hành — 226: bộ ảnh đã sửa và kiểm độc lập, chờ nghiệm thu reference
+
+[226 — REF01-M v03 và bộ reference](226_ref01-m-v03-and-reference-review.md): REC225 sửa môi E/REF03-S dùng được; M v02 chưa đạt. REC226 dùng S làm nguồn, sửa đúng tay ngoài Đào, gap với vành đĩa rõ. Hai reviewer độc lập đánh giá M v03 là ứng viên ảnh tĩnh, cùng lưu ý tay che một phần mép bát; khoảng cách 3D/motion chưa kiểm. Native/hash/prompt/copies đã đối soát; một request quote 0, số dư sau 77. Chờ owner nghiệm thu bộ S v01/M v03/E v02/REF03-S v02. Flow lưu M v03 trong lịch sử container S; phải chọn exact version hoặc tách asset trước input motion. G1 còn mở, chưa video/voice/Quality hoặc master mới.
+
+## Mốc 224 — bốn ảnh ban đầu và đề nghị sửa
+
+[224 — ảnh native và QC](224_g1-four-reference-images-and-qc.md): đã tạo đúng bốn lượt ảnh/x1 theo owner duyệt, kiểm quote 0 trước từng lượt và tải đủ native. Số dư 77 → 77. Hai reviewer độc lập và root đã kiểm ảnh/hash: giữ S làm ứng viên; M chưa rõ đích vành đĩa, E/REF03-S sai trạng thái môi khép. Đề nghị sửa ba ảnh, mỗi ảnh một lượt, trần 0 credit; chưa được duyệt/chưa gửi. Không video, voice, Quality hoặc master mới.
+
+[223 — chuẩn hình và bộ khung](223_g1-visual-source-map-and-reference-plan.md) vẫn là bản đồ nguồn: dùng N02 B làm chuẩn hình riêng EP01; N02 B được chấp nhận đúng phạm vi tại 222. Đã kiểm tám nguồn/96 ảnh exact và lập chín thẻ rà soát, chưa là bộ ảnh sản xuất được duyệt. R01 kéo–dừng, R03 lời–hình và chuỗi A → bát → miếng B vẫn cần hoàn thiện.
+
+**210 không còn là bản hiện hành:** owner đã từ chối về ghép cảnh/mặt người nói tại [211](211_visual-story-failure-root-cause-audit.md). 212–224 là quy trình khắc phục. Các mục dưới giữ lịch sử; approval cục bộ hoặc kiểm kỹ thuật xanh không là full-film PASS.
+
+## Mốc 210: gói đã xuất trước khi owner từ chối chất lượng hình/kể chuyện
 
 [210 — approval và bàn giao](210_owner-cut-approved-and-finished-delivery.md): owner chấp nhận AV209 và bốn lệch đã nêu. Đã giữ hình/thoại, thêm đúng phụ đề và F01/F02/AI, giảm tiếng đều3,22dB; xuất MP4 có chữ/clean/SRT/WAV/cảnh rời/hướng dẫn. Kiểm hash/decoded clean/PCM gain/text720frame30s đạt; chưa agent nghe độc lập, chưa owner duyệt chữ/mix/export cuối hoặc phát hành. Folder owner210 v1.1 là hiện hành; hai folder210 cũ không dùng. Chi0, sổ419/422/còn3. Pending AV209 dưới đây là lịch sử đã xử lý theo210.
 

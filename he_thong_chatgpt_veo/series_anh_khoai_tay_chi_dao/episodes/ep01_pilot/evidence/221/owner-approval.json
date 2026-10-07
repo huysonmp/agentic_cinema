@@ -1,0 +1,19 @@
+{
+  "record_id": "REC221-N02-PA-V-R1",
+  "approval_of": "REC220-N02-PA-V-R1",
+  "date": "2026-10-06",
+  "owner_reply_exact": "ok",
+  "status": "OWNER_APPROVED_PRE_SUBMIT_CHECK",
+  "batch_count_authorized": 1,
+  "outputs_authorized": 3,
+  "credit_cap": 30,
+  "route": "PROJECT_COMPOSER_VIDEO_INGREDIENT_NOT_DIRECT_EDITOR",
+  "model": "Omni 1.1 Flash",
+  "resolution": "360p",
+  "aspect_ratio": "9:16",
+  "duration": "BASED_ON_VIDEO_INGREDIENT_10_SECONDS",
+  "prompt_sha256": "efd9770484a8274c6601c366ca5cb9f8b48be80f67ca8e9742717ff2928c9233",
+  "retry_authorized": false,
+  "fallback_authorized": false,
+  "release_authorized": false
+}

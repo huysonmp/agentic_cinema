@@ -1,0 +1,8 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/558dc41c-45d2-437d-bcbf-e044ece386d7".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 94-98
+~				61 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand
+~		92 container mat-snack-bar-container-live-7
+~			93 text Đã tải hình ảnh của bạn xuống!
++			94 button Đóng
+The focused UI element is 61 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand

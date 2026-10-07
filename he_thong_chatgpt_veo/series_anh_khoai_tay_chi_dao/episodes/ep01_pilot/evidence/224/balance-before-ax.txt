@@ -1,0 +1,246 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374
+	1 container
+		2 link Description: Skip to main content, Value: flow.google.com/u/1/
+		3 container main-content
+			4 container
+				5 container
+					6 button Trang chủ
+					7 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: EP01_P6_Khoai_Dao_Pilot
+					8 pop up button (collapsed) Description: Các lựa chọn khác cho dự án, Secondary Actions: Expand
+					9 button Tìm kiếm
+					10 text field (settable) Tìm kiếm
+					11 button (collapsed) Description: Các lựa chọn lọc và sắp xếp, Secondary Actions: Expand
+					12 pop up button (collapsed) Description: Trình đơn thêm nội dung nghe nhìn, Secondary Actions: Expand
+					13 button Trợ giúp về sản phẩm
+					14 pop up button (collapsed) Description: Cài đặt lưới ô, Secondary Actions: Expand
+					15 pop up button (collapsed) Description: Lựa chọn khác, Secondary Actions: Expand
+					16 button Thông tin về tài khoản
+						17 container PRO tier
+							18 text PRO
+						19 button (collapsed) Description: Tài khoản Google: Phạm Huy Sơn (huysonmp@gmail.com), Gói thành viên của Google, Secondary Actions: Expand
+				20 container Di chuyển trong dự án
+					21 container
+						22 text Tất cả nội dung nghe nhìn
+					23 container
+						24 text Hình ảnh
+					25 container
+						26 text Video
+					27 container
+						28 text Nhân vật
+					29 container
+						30 text Cảnh
+					31 container
+						32 text Tệp tải lên
+					33 link Description: Công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/tools
+					34 link Description: Tạo công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/create-tool
+					35 link Thùng rác
+						36 text Thùng rác
+					37 container
+						38 text Thu gọn
+				39 container
+					40 text Bạn sắp dùng hết tín dụng Google Flow. Tín dụng của bạn sẽ được đặt lại hằng tháng hoặc bạn có thể nạp tiền để nhận thêm ngay.
+					41 link Description: Thêm tín dụng AI, Value: accounts.google.com/AccountChooser
+					42 button Đóng biểu ngữ tín dụng
+					43 container
+						44 container Man speaking video edit instruct…
+							45 container
+								46 image Hình thu nhỏ của video đã tạo
+								47 text 360p
+						48 container Man speaking video edit instruct…
+							49 container
+								50 image Hình thu nhỏ của video đã tạo
+								51 text 360p
+						52 container Man speaking video edit instruct…
+							53 container
+								54 image Hình thu nhỏ của video đã tạo
+								55 text 360p
+						56 container Man picks up food portion
+							57 container
+								58 image Hình thu nhỏ của video đã tạo
+						59 container Nem Bui on ceramic plate
+							60 container
+								61 image Hình thu nhỏ của video đã tạo
+						62 container People sharing food at table
+							63 container
+								64 image Hình thu nhỏ của video đã tạo
+						65 container U08_START_v0.3_REVIEW.png
+							66 container
+								67 image Ô hiển thị hình ảnh của người dùng
+						68 container U02_START_v0.1_REVIEW.png
+							69 container
+								70 image Ô hiển thị hình ảnh của người dùng
+						71 container U01_START_v0.2_REVIEW.png
+							72 container
+								73 image Ô hiển thị hình ảnh của người dùng
+						74 container Woman looking at water glass
+							75 container
+								76 image Hình thu nhỏ của video đã tạo
+								77 text Chưa tạo âm thanh nào
+						78 container Man drops food into bowl
+							79 container
+								80 image Hình thu nhỏ của video đã tạo
+						81 container U07_START_native_U06_frame35.png
+							82 container
+								83 image Ô hiển thị hình ảnh của người dùng
+						84 container Person placing bowl on table
+							85 container
+								86 image Hình thu nhỏ của video đã tạo
+						87 container U04_OUT_frame143.png
+							88 container
+								89 image Ô hiển thị hình ảnh của người dùng
+						90 container Man holding chopsticks with food
+							91 container
+								92 image Hình thu nhỏ của video đã tạo
+						93 container P02_APPROVED_OUT_frame59.png
+							94 container
+								95 image Ô hiển thị hình ảnh của người dùng
+						96 container Woman gazing screen left
+							97 container
+								98 image Hình thu nhỏ của video đã tạo
+								99 text Chưa tạo âm thanh nào
+						100 container Peach character turning head smi…
+							101 container
+								102 image Hình thu nhỏ của video đã tạo
+								103 text Chưa tạo âm thanh nào
+						104 container END_Dao_closed_lip_v0.1.png
+							105 container
+								106 image Ô hiển thị hình ảnh của người dùng
+						107 container START_Dao_closed_lip_v0.1.png
+							108 container
+								109 image Ô hiển thị hình ảnh của người dùng
+						110 container Character recording audio direction
+							111 container
+								112 image Hình thu nhỏ của video đã tạo
+								113 text 360p
+						114 container Peach character smiling at compa…
+							115 container
+								116 image Hình thu nhỏ của video đã tạo
+								117 text Chưa tạo âm thanh nào
+						118 container Peach character smiling at compa…
+							119 container
+								120 image Hình thu nhỏ của video đã tạo
+						121 container Peach character smiling at compa…
+							122 container
+								123 image Hình thu nhỏ của video đã tạo
+						124 container Character turns head smiling
+							125 container
+								126 image Hình thu nhỏ của video đã tạo
+						127 container Character turns head smiling
+							128 container
+								129 image Hình thu nhỏ của video đã tạo
+						130 container Character turns head smiling
+							131 container
+								132 image Hình thu nhỏ của video đã tạo
+								133 text Chưa tạo âm thanh nào
+						134 container START_Dao_reaction_v0.2.png
+							135 container
+								136 image Ô hiển thị hình ảnh của người dùng
+						137 container END_Dao_reaction_v0.2.png
+							138 container
+								139 image Ô hiển thị hình ảnh của người dùng
+						140 container Chopsticks lifting food from plate
+							141 container
+								142 image Hình thu nhỏ của video đã tạo
+						143 container Chopsticks lifting food from plate
+							144 container
+								145 image Hình thu nhỏ của video đã tạo
+						146 container Chopsticks lifting food from plate
+							147 container
+								148 image Hình thu nhỏ của video đã tạo
+						149 container END_pickup_food_v0.1.png
+							150 container
+								151 image Ô hiển thị hình ảnh của người dùng
+						152 container START_pickup_food_v0.1.png
+							153 container
+								154 image Ô hiển thị hình ảnh của người dùng
+						155 container Person lifting chopsticks with food
+							156 container
+								157 image Hình thu nhỏ của video đã tạo
+						158 container Person lifting chopsticks with food
+							159 container
+								160 image Hình thu nhỏ của video đã tạo
+						161 container Person lifting chopsticks with food
+							162 container
+								163 image Hình thu nhỏ của video đã tạo
+						164 container END_hand_insert_v0.1.png
+							165 container
+								166 image Ô hiển thị hình ảnh của người dùng
+						167 container START_hand_insert_v0.1.png
+							168 container
+								169 image Ô hiển thị hình ảnh của người dùng
+						170 container Man and woman making eye contact…
+							171 container
+								172 image Hình thu nhỏ của video đã tạo
+								173 text Chưa tạo âm thanh nào
+						174 container Man and woman making eye contact…
+							175 container
+								176 image Hình thu nhỏ của video đã tạo
+								177 text Chưa tạo âm thanh nào
+						178 container Man and woman making eye contact…
+							179 container
+								180 image Hình thu nhỏ của video đã tạo
+								181 text Chưa tạo âm thanh nào
+						182 container END_lift_freeze_v0.1.png
+							183 container
+								184 image Ô hiển thị hình ảnh của người dùng
+						185 container Characters speaking dialogue at …
+							186 container
+								187 image Hình thu nhỏ của video đã tạo
+								188 text 360p
+						189 container Characters speaking dialogue at …
+							190 container
+								191 image Hình thu nhỏ của video đã tạo
+								192 text 360p
+						193 container Characters speaking dialogue at …
+							194 container
+								195 image Hình thu nhỏ của video đã tạo
+								196 text 360p
+						197 container Characters speaking dialogue at …
+							198 container
+								199 image Hình thu nhỏ của video đã tạo
+								200 text 360p
+						201 container Characters speaking dialogue at …
+							202 container
+								203 image Hình thu nhỏ của video đã tạo
+								204 text 360p
+					205 container
+						206 text Bạn muốn tạo những gì?
+						207 container 
+
+						208 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+						209 checkbox Tác nhân, Value: 0
+						210 button Điều kiện kích hoạt cài đặt
+							211 text 🍌 Nano Banana 2.1
+							212 text x1
+						213 button (disabled) Bắt đầu tạo
+			214 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+		215 container
+			216 container Cài đặt tài khoản
+				217 container
+					218 image Google
+					219 button Đóng bảng điều khiển tài khoản
+				220 text Sơn Phạm Huy huysonmp@gmail.com
+				221 link Description: Chuyển đổi tài khoản, Value: accounts.google.com/AccountChooser
+				222 container Hiển thị tín dụng
+					223 link Description: 77 tín dụng Google Flow, Value: accounts.google.com/AccountChooser
+					224 link Description: Nâng cấp, Value: accounts.google.com/AccountChooser
+				225 button Tạo hình đại diện
+				226 link Description: Quản lý gói thuê bao, Value: accounts.google.com/AccountChooser
+				227 button Đăng xuất khỏi mọi tài khoản
+				228 text Hình mờ có thể nhìn thấy
+				229 switch (disabled) Description: Hình mờ có thể nhìn thấy, Value: 1, ID: mat-mdc-slide-toggle-4-button
+				230 link Description: Khu vực của bạn yêu cầu phải có hình mờ có thể nhìn thấy, Value: support.google.com/flow/answer/16353333
+				231 link Description: Quyền riêng tư, Value: policies.google.com/privacy
+				232 text ·
+				233 link Description: Điều khoản dịch vụ, Value: policies.google.com/terms
+				234 text ·
+				235 link Description: Giấy phép, Value: flow.google.com/licenses.txt
+				236 container
+					237 text Trang web này được bảo vệ bằng reCAPTCHA, đồng thời có áp dụng 
+					238 link Description: Chính sách quyền riêng tư, Value: policies.google.com/privacy
+					239 text  và 
+					240 link Description: Điều khoản dịch vụ, Value: policies.google.com/terms
+					241 text  của Google.
+
+The focused UI element is 219 button Đóng bảng điều khiển tài khoản

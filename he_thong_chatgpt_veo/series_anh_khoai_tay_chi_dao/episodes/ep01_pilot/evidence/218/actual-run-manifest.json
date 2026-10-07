@@ -1,0 +1,39 @@
+{
+  "schema": "REC218_LOCAL_EXECUTION_LOG_V1_NOT_FINISHING_GATE",
+  "date": "2026-10-06",
+  "status": "LOCAL_ROLE_RUNS_AND_GATE_IMPLEMENTATION_COMPLETE_MEDIA_GATES_NOT_CLEARED",
+  "maker_reports": [
+    {"run_id":"REC218-DIR-R1","actor_id":"/root/rec218_dir","file":"01_dir-maker.md","sha256":"5e9e9aaefb9bb05163a9f1b8a7ebcc626e9ba074f75e8a7870cb9cb0919292c2","status":"PROPOSAL_COMPLETE"},
+    {"run_id":"REC218-DOP-R1","actor_id":"/root/rec218_dop","file":"02_dop-maker.md","sha256":"ed8f8bfefd7b69827698965b410bd3793cb1db380d9a57d03b8a1edce3a07ff4","status":"PROPOSAL_COMPLETE"},
+    {"run_id":"REC218-ACT-R1","actor_id":"/root/rec218_act","file":"03_act-maker.md","sha256":"734cb04fb47910a71134f304b1c537dd327bd74608dd0dc322ebc0f5154e4580","status":"PROPOSAL_COMPLETE"},
+    {"run_id":"REC218-EDIT-R1","actor_id":"/root/rec218_edit","file":"04_edit-maker.md","sha256":"e5ee7d8fb3920bc70ed9dfe0a343e732670d03d1c85e81432100fba50e62ed3e","status":"PROPOSAL_COMPLETE"}
+  ],
+  "reviewer_reports": [
+    {"run_id":"REC218-CINE-R1","actor_id":"/root/rec218_cine","file":"05_cine-review.md","sha256":"447cedb2ae9015d1ec1d4cb8009d5a5dce53b2d23ceb252bed85bc0d7a1db23a","scope":"SAMPLED_FRAMES","media_status":"HOLD"},
+    {"run_id":"REC218-PERF-R1","actor_id":"/root/rec218_perf","file":"06_perf-review.md","sha256":"4691710f324deec99682619028748a8dc804b96a21f380777397a69a6d252f7e","scope":"SAMPLED_FRAMES","media_status":"HOLD"},
+    {"run_id":"REC218-CONT-R1","actor_id":"/root/rec218_cont","file":"07_cont-review.md","sha256":"04175be017aa76445ea29341691c0ade4eda8a62d40dfccb1fb29f87b7a1e020","scope":"SAMPLED_FRAMES","media_status":"REWORK_A03_JOIN_AND_HOLD_TEMPORAL_FOOD"},
+    {"run_id":"REC218-SIA-R1","actor_id":"/root/rec218_sia","file":"08_sia-review.md","sha256":"85e68cdba6807b25e1d5d2c5dacc9d5765b2c943fb895edd4ba82e57acd0a666","scope":"CAPABILITY_PROVENANCE_PCM_AND_CODE_READBACK","media_status":"HOLD"}
+  ],
+  "root_read_all_reports": true,
+  "validation": {
+    "runtime": "D:/Workspace/agentic_cinema/.venv/Scripts/python.exe",
+    "ep01_suite": {"command":"-m unittest discover -s scripts -p test_ep01*.py","tests":91,"result":"OK","tool_output_chunk":"d6a266"},
+    "finishing_suite": {"command":"-m unittest discover -s scripts -p test_finish*.py","tests":5,"result":"OK","tool_output_chunk":"d6a266"},
+    "total":96,
+    "recovery_gate_fixture_tests":42,
+    "existing_sia_fixture_tests":39,
+    "independent_media_quality_test": "NOT_PERFORMED",
+    "negative_finisher": {"error":"FINISHING blocked: mandatory recovery gate evidence missing","output_folder_created":false,"tool_output_chunk":"3983ce"}
+  },
+  "code": {
+    "ep01_recovery_gate.py":"dba5141217112df41825ef9be32f5674e286e3b1e9fa50e7e0cb8047ae4f816e",
+    "test_ep01_recovery_gate.py":"1d191a2f311929396ddba262a3fe6179fa887e69aeb31266cc08aaa209f8bfc2",
+    "finish_ep01_approved_cut.py":"b97351f00f2214f44da7c5d80197e9d464cb22cb87849a61343a6dbca0995aec",
+    "verify_ep01_finished_export.py":"640ee9db2d32f324cf8f66754b05b484cf2df6f245ad8f0c75934a9f8fdf4d60"
+  },
+  "new_media_generated":false,
+  "source_media_modified":false,
+  "new_credit_spend":0,
+  "git_commit_or_push_performed":false,
+  "release_authorized":false
+}

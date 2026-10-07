@@ -1,0 +1,34 @@
+{
+  "run_id": "REC224-ROOT-QC-READBACK",
+  "date": "2026-10-07",
+  "stage": "P7_RECOVERY_G1_REFERENCE_IMAGES",
+  "review_scope": "ACTUAL_STILL_IMAGE_REVIEW_AND_HASH_VERIFICATION_ONLY",
+  "review_reports": [
+    {"role": "EDIT", "file": "01_edit-pose-review.md", "sha256": "1742933d34ae430433ccedaf5bd2eaf2191e5c8b345cd7a6615d876942d2ead0", "root_read_full": true},
+    {"role": "CONT", "file": "02_cont-image-review.md", "sha256": "4889df7386416f87a1c81b74f25d84d0f17099771fe9f28dd3b829ec23e0db87", "root_read_full": true}
+  ],
+  "source_provenance_manifest": "native-output-manifest.json",
+  "note": "Manifest qc_status is the capture-time pending state; use this readback and reports for current scoped disposition.",
+  "outputs": [
+    {"id": "REF01-S", "sha256": "eba9a13c86f359df458022a5a54664264e5bb29fcca08d6181454cb1ee482422", "status": "CANDIDATE_FOR_OWNER_POSE_REVIEW", "owner_output_accepted": false, "open": "Restrained serious expression and gaze need contextual selection; no motion/join proof"},
+    {"id": "REF01-M", "sha256": "bd48acb3223c417a22918a9d717cb0e1f5f22e118b8584fd2609581f3460f037", "status": "REWORK_HOLD", "owner_output_accepted": false, "open": "Fingertip target at rear/top region is not a clear near-right rim approach; food contact not confirmed"},
+    {"id": "REF01-E", "sha256": "887f00f0f78ea093529825b108b16d04a63c541b2b637281c7ebb4a52782c6c4", "status": "REWORK_HOLD", "owner_output_accepted": false, "open": "Both lips open/parted, contrary to closed-mouth exit reference"},
+    {"id": "REF03-S", "sha256": "4a4c4a9ae0dcd017b44a3e7b59b775577cbe7184594994f674526b93f915962e", "status": "REWORK_HOLD", "owner_output_accepted": false, "open": "Dao lips parted, contrary to closed-mouth reference start"}
+  ],
+  "original_approval_execution_complete": true,
+  "submissions": 4,
+  "retries": 0,
+  "quote_each": 0,
+  "observed_balance_before": 77,
+  "observed_balance_after": 77,
+  "new_repair_request": "repair-request-DRAFT.json",
+  "new_repair_approved": false,
+  "new_repair_submitted": false,
+  "full_g1_approved": false,
+  "motion_reviewed": false,
+  "actual_audio_listened": false,
+  "full_av_reviewed": false,
+  "video_or_voice_generated": false,
+  "quality_or_finishing_authorized": false,
+  "git_sync": "LOCAL_ONLY_RECOVERY_CHANGES_PENDING_COMMIT_PUSH"
+}

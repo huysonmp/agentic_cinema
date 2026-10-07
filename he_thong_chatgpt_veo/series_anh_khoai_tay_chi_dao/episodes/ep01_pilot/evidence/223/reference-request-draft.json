@@ -1,0 +1,26 @@
+{
+  "request_id": "REC223-G1-OPENING-FOUR-IMAGES-DRAFT",
+  "status": "OWNER_EXECUTION_APPROVAL_PENDING_LIVE_PREFLIGHT_REQUIRED",
+  "destination": "Google Flow project 9276788e-9781-44fb-ba5b-083006667374",
+  "media_type": "IMAGE_ONLY",
+  "reference_to_upload": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/223_g1_source_frames/ANCHOR_B/frame-0175.jpg",
+    "sha256": "5bec51d789cebc8b891b26c70d4c52a4a2185ed18b34d0fb933ab6e1cab8c6c5",
+    "source_video_sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535",
+    "source_native_frame": 175,
+    "not_a_speech_end_or_start_pose_approval": true
+  },
+  "image_ids": ["REF01-S", "REF01-M", "REF01-E", "REF03-S"],
+  "max_images": 4,
+  "max_attempts_per_image": 1,
+  "credit_cap": 0,
+  "current_ui_quote": null,
+  "current_image_model_ui": null,
+  "before_each_submit": ["VERIFY_IMAGE_MODE", "VERIFY_SINGLE_OUTPUT", "VERIFY_INPUT_REFERENCE_AND_PROMPT", "VERIFY_ZERO_CREDIT_COST"],
+  "stop_before_submit_if": ["ZERO_COST_CANNOT_BE_VERIFIED", "COST_GREATER_THAN_ZERO", "VIDEO_OR_VOICE_MODE", "INPUT_MISMATCH_OR_AMBIGUITY"],
+  "paid_generation_authorized": false,
+  "retry_authorized": false,
+  "fallback_provider_authorized": false,
+  "owner_approval": null,
+  "release_authorized": false
+}

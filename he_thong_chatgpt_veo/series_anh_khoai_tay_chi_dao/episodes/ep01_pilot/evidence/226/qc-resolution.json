@@ -1,0 +1,15 @@
+{
+  "record_id": "REC226",
+  "output_id": "REF01-M_v03",
+  "native_sha256": "66defd18afc0845da8b34968446b98f547dcad951e6712e2e6a81ff2d5e2017c",
+  "edit_review": "USABLE_CANDIDATE_IMAGE_ONLY",
+  "cont_review": "PASS_WITH_CAVEAT_IMAGE_ONLY",
+  "root_disposition": "USABLE_CANDIDATE_WITH_MINOR_OCCLUSION_CAVEAT",
+  "reviewers_independent": true,
+  "root_read_both_reports": true,
+  "caveat": "Hand occludes part of Dao bowl front-right edge; no clear intersection observed. 3D clearance and motion remain unknown.",
+  "owner_output_accepted": false,
+  "motion_tested": false,
+  "full_g1_approved": false,
+  "manifest_capture_status_preserved": true
+}

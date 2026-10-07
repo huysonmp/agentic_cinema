@@ -1,0 +1,77 @@
+{
+  "record_id": "REC220-N02-PA-V-R1",
+  "date": "2026-10-06",
+  "record_type": "PLANNING_AND_PREFLIGHT_NOT_RELEASE_GATE",
+  "status": "OWNER_REQUEST_APPROVAL_PENDING",
+  "owner_approval": null,
+  "release_authorized": false,
+  "actual_generation_submissions": 0,
+  "actual_new_media_outputs": 0,
+  "credits_spent_this_run": 0,
+  "credits_available_live": null,
+  "project_id": "9276788e-9781-44fb-ba5b-083006667374",
+  "proposed_request": {
+    "route": "PROJECT_COMPOSER_VIDEO_INGREDIENT_NOT_DIRECT_EDITOR",
+    "model_ui_label": "Omni 1.1 Flash",
+    "mode": "VIDEO_INGREDIENTS",
+    "resolution": "360p",
+    "aspect_ratio": "9:16",
+    "duration_ui": "BASED_ON_VIDEO_INGREDIENT_10_SECONDS",
+    "outputs": 3,
+    "agent_enabled": false,
+    "live_ui_quote": 30,
+    "proposed_cap": 30,
+    "retry_authorized": false,
+    "fallback_authorized": false,
+    "source_asset_expected_id": "3b312ed6-ac2b-4798-b965-cffe5f738893",
+    "source_title": "Character recording audio direction",
+    "binding_observed": "UNIQUE_PICKER_RESULT_AND_MATCHING_THUMBNAIL; UUID_NOT_EXPOSED_IN_CHIP",
+    "native_source_path": "C:/Users/PC/Downloads/du_an_nem_bui/200_n02_replacement/N02_NATIVE.mp4",
+    "native_source_sha256_from_216_218": "72cbaf7d9f66932002dfce1b1a57fa464935c315e84e54ae094fe29aa805a153",
+    "source_native_rehashed_this_run": false,
+    "prompt_path": "N02-PA-edit-DRAFT.txt",
+    "prompt_sha256": "efd9770484a8274c6601c366ca5cb9f8b48be80f67ca8e9742717ff2928c9233",
+    "additional_voice_presets_to_attach": [],
+    "audio_preservation": "HYPOTHESIS_NOT_TESTED",
+    "input_recheck_required_before_submit": true,
+    "quote_recheck_required_before_submit": true
+  },
+  "other_routes_not_approved": {
+    "new_recording_image_voice_3_outputs_ui_quote": 21,
+    "direct_editor_per_output_published_price": 40,
+    "direct_editor_exact_live_quote": null
+  },
+  "actual_reviews": [
+    {
+      "role": "CONT",
+      "actor": "/root/rec218_cont",
+      "report": "01_cont-source-hierarchy-review.md",
+      "sha256": "dda977eb6cc6c1ea6edf4a0948489f976f85333151ac15bbada5b237d324cb9d",
+      "scope": ["PAPER_REVIEW", "SAMPLED_STILLS", "SOURCE_HIERARCHY"],
+      "result": "HOLD_FOR_PRODUCTION_N02",
+      "root_full_readback": true,
+      "actual_audio_listening": false,
+      "continuous_av_review": false
+    }
+  ],
+  "proof": {
+    "ui_quote_screenshot": "flow-video-ingredient-prompt-x3.png",
+    "sha256": "6aabff3f23abaafb8a3dd281d408946d15b789212b913faabd14bc6fc3c05282",
+    "ax_capture_is_diff": true,
+    "final_full_ax": "flow-end-full-ax.txt"
+  },
+  "end_composer": {
+    "model": "Veo 3.1 - Lite",
+    "type": "FRAMES",
+    "aspect_ratio": "9:16",
+    "resolution": "720p",
+    "duration_seconds": 8,
+    "outputs": 1,
+    "start_end_inputs_present": false,
+    "prompt_present": false,
+    "generate_enabled": false
+  },
+  "human_checkpoints_pending": ["G1_FULL_EPISODE_IMAGE_PLAN", "G2_N02_PROOF", "G4_FULL_ROUGH_CUT", "G5_EXPORT"],
+  "no_film_pass_claim": true,
+  "git_commit_push_this_run": false
+}

@@ -1,0 +1,17 @@
+{
+  "record_id": "REC223-EP01-ANCHOR-A",
+  "date": "2026-10-07",
+  "owner_reply_exact": "a",
+  "decision": "OPTION_A_FROM_222",
+  "status": "APPROVED_EPISODE_VISUAL_VARIATION_NOT_GENERATION_OR_RELEASE",
+  "anchor_video_path": "C:/Users/PC/Downloads/du_an_nem_bui/221_n02_pa_v_trial/N02_B_NATIVE.mp4",
+  "anchor_sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535",
+  "approved_attributes": ["EP01_FACE_VARIATION", "EP01_WARM_LIGHTING", "EP01_EATERY_BACKGROUND", "EP01_FOOD_MOUND_APPEARANCE"],
+  "retained_constraints": ["PAIR03_CHARACTER_IDENTITY_AND_OUTFIT", "TABLE08_SERVING_GEOGRAPHY", "COOL_FOOD_NO_STEAM", "FRIENDS_NOT_ROMANTIC", "C_V06_DIALOGUE", "K20_D06_VOICES", "STORYBOARD214", "F0_F4_CAUSAL_CHAIN", "FIRST_MORSEL_A_TO_DAO_BOWL_THEN_NEW_MORSEL_B"],
+  "scope": "EP01_ONLY_NOT_SERIES_CANON_REPLACEMENT",
+  "all_camera_angles_or_start_poses_approved": false,
+  "generation_authorized": false,
+  "new_credit_cap": null,
+  "full_storyboard_or_full_film_approved": false,
+  "release_authorized": false
+}

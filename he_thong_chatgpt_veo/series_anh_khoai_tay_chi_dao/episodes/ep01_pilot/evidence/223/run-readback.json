@@ -1,0 +1,55 @@
+{
+  "record_id": "REC223-G1-SOURCE-AND-REFERENCE-PLAN",
+  "date": "2026-10-07",
+  "status": "LOCAL_SOURCE_PLAN_COMPLETE_REFERENCE_GENERATION_PENDING_NOT_RELEASE",
+  "anchor_decision": "anchor-decision.json",
+  "anchor_decision_sha256": "e5495d2712c90e7ccbf3f875243b18bb7623aa220a88d54ae1d836896ed749ab",
+  "native_source_count": 8,
+  "exact_native_samples": 96,
+  "root_boards_actually_viewed": 8,
+  "root_extra_full_frames_viewed": ["ENDING_209:0", "ANCHOR_B:175"],
+  "root_nine_card_versions_actually_viewed": ["v0.1", "v0.2"],
+  "source_manifest": "source-frames.json",
+  "card_manifest_current": "card-manifest-v02.json",
+  "native_and_frame_hash_readback": "8_OF_8_NATIVE_AND_96_OF_96_JPEG_MATCH",
+  "current_board_hash_readback": true,
+  "source_mutations": 0,
+  "reviews": [
+    {
+      "role": "EDIT_DLG_MAKER",
+      "actor": "/root/rec218_edit",
+      "report": "01_g1-shot-plan-maker.md",
+      "sha256": "e641d6b6cc93fa4b2f87c646df0292ea91651669a89573383eee67c395ebe9fe",
+      "scope": "PAPER_AND_EXACT_SAMPLED_NATIVE_FRAMES",
+      "root_full_final_readback": true,
+      "correction": "C1_ENDING209_F0_CHOPSTICK_TIPS_LOOK_EMPTY_BOWL_HAS_FOOD_NO_MORSEL_ID_PROOF"
+    },
+    {
+      "role": "CONT_CRITIC",
+      "actor": "/root/rec221_cont_review",
+      "report": "02_g1-cont-source-review.md",
+      "sha256": "ef8f743e5b78a88e51cf2bdcdef5d0e771042b5ee57212b84240bc6f8965e3a1",
+      "scope": "EXACT_SAMPLED_FRAMES_AND_SOURCE_HASH_CHECK",
+      "root_full_readback": true
+    }
+  ],
+  "actual_listening_this_run": false,
+  "continuous_visual_or_full_av_review_this_run": false,
+  "rough_cut_or_audio_assembly_created": false,
+  "draft_prompts": [
+    {"id": "REF01-S", "path": "REF01-S.prompt-DRAFT.txt", "sha256": "09ab77326cfa1d6c6d85836a44212a215759254cd71fb148ddc7f63b15618451"},
+    {"id": "REF01-M", "path": "REF01-M.prompt-DRAFT.txt", "sha256": "38c160d65b4ba1e88e967dee84b2382de1242a29c4114bbf2122718e9bbc0fda"},
+    {"id": "REF01-E", "path": "REF01-E.prompt-DRAFT.txt", "sha256": "c434ac94c16f7c6b2d341507fedbe68eaa833425e861f88cb5435989da92e6d4"},
+    {"id": "REF03-S", "path": "REF03-S.prompt-DRAFT.txt", "sha256": "dd338deadd66412fc5c1ff638c39cf4cf91d7d12043ce6a22d77678a34490a29"}
+  ],
+  "proposed_image_request": "reference-request-draft.json",
+  "external_generation_submissions": 0,
+  "new_credit_spend": 0,
+  "current_ui_quote_verified": false,
+  "image_execution_approval": null,
+  "g1_full_production_storyboard_approved": false,
+  "quality_authorized": false,
+  "release_authorized": false,
+  "project_and_episode_readme_status_updated": true,
+  "git_commit_push_this_run": false
+}

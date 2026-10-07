@@ -1,6 +1,18 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái hiện hành — 2026-10-06
+## Trạng thái hiện hành — 2026-10-07
+
+[226 — sửa REF01-M v03 và kiểm độc lập](episodes/ep01_pilot/226_ref01-m-v03-and-reference-review.md) là trạng thái ưu tiên: M v03 từ S đã đạt mục tiêu tư thế ảnh tĩnh theo hai reviewer; giữ caveat tay che một phần mép bát, chưa chứng minh motion. E/REF03-S v02 đã sửa môi và dùng được ở mức ảnh. Chờ owner nghiệm thu bộ reference; một lượt ảnh quote 0, số dư sau 77. G1 toàn tập còn mở. M v03 nằm trong lịch sử Flow container S, có content UUID/native hash riêng; không chọn nguồn chỉ theo tên card. Các đề nghị chưa chạy tại 224 dưới đây đã được xử lý bởi REC225/226.
+
+[224 — bốn ảnh mở cảnh và QC](episodes/ep01_pilot/224_g1-four-reference-images-and-qc.md): owner đã duyệt chạy bốn ảnh/x1, mỗi lượt kiểm 0 credit và đã tải native. Hai reviewer độc lập kiểm ảnh/hash: S là ứng viên; M cần sửa đích tay, E và REF03-S cần khép môi. Ba lượt sửa có giới hạn đang là đề nghị, chưa được duyệt/chưa gửi. Số dư UI kiểm trực tiếp trước/sau vẫn 77. Không video, thu voice mới, Quality hoặc bàn giao.
+
+[223 — chuẩn hình EP01 và bộ khung R01–R09](episodes/ep01_pilot/223_g1-visual-source-map-and-reference-plan.md): owner chọn N02 B làm chuẩn hình riêng EP01, giữ lời/giọng/bộ phục vụ và câu chuyện. N02 B được chấp nhận đúng phạm vi tại 222. Đã kiểm tám nguồn/96 ảnh native và lập chín thẻ rà soát; G1 vẫn thiếu ảnh đúng nhiệm vụ và bản dựng thử toàn tập.
+
+**Bản 210 đã bị owner từ chối về kể chuyện/hình tại 211.** Giữ làm bằng chứng, không là master hiện hành hoặc phim đã nghiệm thu. [219](episodes/ep01_pilot/219_recovery-execution-readback-and-g1-gap-map.md) là bản đồ khoảng thiếu; [221](episodes/ep01_pilot/221_n02-pa-v-approved-trial.md) ghi batch 30 credit đã chạy, không quyền chi mới. Quyền chọn chuẩn hình 223 không cấp generation; approval 224 chỉ cấp đúng bốn ảnh 0 credit đã thực thi.
+
+Các mục dưới đây là **nhật ký lịch sử**; nhãn “hiện hành/mới nhất”, ngân sách và trạng thái pending trong từng mục thuộc thời điểm ghi, không thắng 226.
+
+## Nhật ký trước khắc phục
 
 **Hiện hành — [207](episodes/ep01_pilot/207_entry-split-approved-and-u07-production.md):** owner duyệt tách đưa bát và chuyển–thả, giữ nguyên thoại và 30 giây. U07 một Lite/x1 đã tạo, tải native/hash/decode và frame QC; có ứng viên 58 frame chuyển nem vào bát Đào rồi nhả, nhưng bát dịch nhẹ ở điểm cắt, chưa continuity/owner-output PASS. Bản xem khối hành động 13,042 giây không tiếng đã lưu. Sổ379/422/còn43; bốn lượt U01/U02/U03/U08 dự kiến40, dự phòng3. Chưa phim30s/full-AV/master, không thêm lượt sửa hoặc Quality. Mốc chờ duyệt phương án206 là lịch sử.
 

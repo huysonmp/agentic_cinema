@@ -1,0 +1,14 @@
+{
+  "record_id": "REC226",
+  "date": "2026-10-07",
+  "approval_basis": "Owner requested continuation of the proposed REF01-M v03 repair from REF01-S v01.",
+  "source_flow_asset_id": "558dc41c-45d2-437d-bcbf-e044ece386d7",
+  "source_sha256": "eba9a13c86f359df458022a5a54664264e5bb29fcca08d6181454cb1ee482422",
+  "prompt_file": "../225/REF01-M.repair-v03-DRAFT.txt",
+  "max_requests": 1,
+  "total_credit_cap": 0,
+  "image_only": true,
+  "video_authorized": false,
+  "voice_authorized": false,
+  "target": "REF01-M_v03_REC226"
+}

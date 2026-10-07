@@ -1,0 +1,215 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374
+	1 link Description: Skip to main content, Value: flow.google.com/u/1/
+	2 container main-content
+		3 container
+			4 container
+				5 button Trang chủ
+				6 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: EP01_P6_Khoai_Dao_Pilot
+				7 pop up button (collapsed) Description: Các lựa chọn khác cho dự án, Secondary Actions: Expand
+				8 button Tìm kiếm
+				9 text field (settable) Tìm kiếm
+				10 button (collapsed) Description: Các lựa chọn lọc và sắp xếp, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Trình đơn thêm nội dung nghe nhìn, Secondary Actions: Expand
+				12 button Trợ giúp về sản phẩm
+				13 pop up button (collapsed) Description: Cài đặt lưới ô, Secondary Actions: Expand
+				14 pop up button (collapsed) Description: Lựa chọn khác, Secondary Actions: Expand
+				15 button Thông tin về tài khoản
+					16 container PRO tier
+						17 text PRO
+					18 button (collapsed) Description: Tài khoản Google: Phạm Huy Sơn (huysonmp@gmail.com), Gói thành viên của Google, Secondary Actions: Expand
+			19 container Di chuyển trong dự án
+				20 container
+					21 text Tất cả nội dung nghe nhìn
+				22 container
+					23 text Hình ảnh
+				24 container
+					25 text Video
+				26 container
+					27 text Nhân vật
+				28 container
+					29 text Cảnh
+				30 container
+					31 text Tệp tải lên
+				32 link Description: Công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/tools
+				33 link Description: Tạo công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/create-tool
+				34 link Thùng rác
+					35 text Thùng rác
+				36 container
+					37 text Thu gọn
+			38 container
+				220 text Bạn sắp dùng hết tín dụng Google Flow. Tín dụng của bạn sẽ được đặt lại hằng tháng hoặc bạn có thể nạp tiền để nhận thêm ngay.
+				221 link Description: Thêm tín dụng AI, Value: accounts.google.com/AccountChooser
+				222 button Đóng biểu ngữ tín dụng
+				39 container
+					223 container
+						224 text Edit the supplied N02 video as a visual-coverage repair, not a new audio recording. Keep its original complete male Khoai speaking turn, wording, voice, timing and pauses unchanged: "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ." The only speaker throughout is the adult golden potato man, Khoai, sitting screen left. The adult peach woman, Dao, sitting screen right, listens silently; she does not mouth his words. This is a private conversation between friends at their existing small tidy street-side eatery, not a presentation to the camera or a romantic scene. Retain the opening two-shot for "Khoan." and the established transition towards Khoai's face as he starts sharing the memory. Keep his complete face and mouth clearly visible in a matching medium close view through the entire final phrase "Hồi bé, mẹ rang gạo, anh đứng chờ." Replace the food-only cutaway with continuous speaking-face coverage. His attention gently goes from the meal towards Dao, on his screen-right side, with a small warm private smile. Do not create a kitchen flashback, a child or a second voice. Return to the same two-shot only after his final word has finished, with Dao still listening before her next question; add no new dialogue. Preserve the existing character identity, clothes, table, warm lighting, background and screen direction. Both hands remain at rest for this N02 proof. Neither character has picked up food yet. Keep the shared cool Nem Bui meal and its existing serving geography unchanged: the herbs plate front-left, two dipping dishes, two personal bowls, two resting chopstick pairs, and one water glass outside Dao's right. No new garnish on top of the food, new liquid-filled bowl, steam or smoke, food transfer, eating, drinking, plate pulling, added captions, music or narration. Preserve the native output watermark. Do not replace or remix the original speech with a newly generated recording. This request is a feasibility test of keeping the approved audio while repairing visible speaking coverage. It is not permission to rewrite the scene, hide the speaker, loop a still face or speed up the turn.
+						225 button Sử dụng lại câu lệnh
+					226 container
+						227 text Edit the supplied N02 video as a visual-coverage repair, not a new audio recording. Keep its original complete male Khoai speaking turn, wording, voice, timing and pauses unchanged: "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ." The only speaker throughout is the adult golden potato man, Khoai, sitting screen left. The adult peach woman, Dao, sitting screen right, listens silently; she does not mouth his words. This is a private conversation between friends at their existing small tidy street-side eatery, not a presentation to the camera or a romantic scene. Retain the opening two-shot for "Khoan." and the established transition towards Khoai's face as he starts sharing the memory. Keep his complete face and mouth clearly visible in a matching medium close view through the entire final phrase "Hồi bé, mẹ rang gạo, anh đứng chờ." Replace the food-only cutaway with continuous speaking-face coverage. His attention gently goes from the meal towards Dao, on his screen-right side, with a small warm private smile. Do not create a kitchen flashback, a child or a second voice. Return to the same two-shot only after his final word has finished, with Dao still listening before her next question; add no new dialogue. Preserve the existing character identity, clothes, table, warm lighting, background and screen direction. Both hands remain at rest for this N02 proof. Neither character has picked up food yet. Keep the shared cool Nem Bui meal and its existing serving geography unchanged: the herbs plate front-left, two dipping dishes, two personal bowls, two resting chopstick pairs, and one water glass outside Dao's right. No new garnish on top of the food, new liquid-filled bowl, steam or smoke, food transfer, eating, drinking, plate pulling, added captions, music or narration. Preserve the native output watermark. Do not replace or remix the original speech with a newly generated recording. This request is a feasibility test of keeping the approved audio while repairing visible speaking coverage. It is not permission to rewrite the scene, hide the speaker, loop a still face or speed up the turn.
+						228 button Sử dụng lại câu lệnh
+					229 container
+						230 text Edit the supplied N02 video as a visual-coverage repair, not a new audio recording. Keep its original complete male Khoai speaking turn, wording, voice, timing and pauses unchanged: "Khoan. Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ." The only speaker throughout is the adult golden potato man, Khoai, sitting screen left. The adult peach woman, Dao, sitting screen right, listens silently; she does not mouth his words. This is a private conversation between friends at their existing small tidy street-side eatery, not a presentation to the camera or a romantic scene. Retain the opening two-shot for "Khoan." and the established transition towards Khoai's face as he starts sharing the memory. Keep his complete face and mouth clearly visible in a matching medium close view through the entire final phrase "Hồi bé, mẹ rang gạo, anh đứng chờ." Replace the food-only cutaway with continuous speaking-face coverage. His attention gently goes from the meal towards Dao, on his screen-right side, with a small warm private smile. Do not create a kitchen flashback, a child or a second voice. Return to the same two-shot only after his final word has finished, with Dao still listening before her next question; add no new dialogue. Preserve the existing character identity, clothes, table, warm lighting, background and screen direction. Both hands remain at rest for this N02 proof. Neither character has picked up food yet. Keep the shared cool Nem Bui meal and its existing serving geography unchanged: the herbs plate front-left, two dipping dishes, two personal bowls, two resting chopstick pairs, and one water glass outside Dao's right. No new garnish on top of the food, new liquid-filled bowl, steam or smoke, food transfer, eating, drinking, plate pulling, added captions, music or narration. Preserve the native output watermark. Do not replace or remix the original speech with a newly generated recording. This request is a feasibility test of keeping the approved audio while repairing visible speaking coverage. It is not permission to rewrite the scene, hide the speaker, loop a still face or speed up the turn.
+						231 button Sử dụng lại câu lệnh
+					232 container Man picks up food portion
+						233 container
+							234 image Hình thu nhỏ của video đã tạo
+					235 container Nem Bui on ceramic plate
+						236 container
+							237 image Hình thu nhỏ của video đã tạo
+					238 container People sharing food at table
+						239 container
+							240 image Hình thu nhỏ của video đã tạo
+					241 container U08_START_v0.3_REVIEW.png
+						242 container
+							243 image Ô hiển thị hình ảnh của người dùng
+					244 container U02_START_v0.1_REVIEW.png
+						245 container
+							246 image Ô hiển thị hình ảnh của người dùng
+					247 container U01_START_v0.2_REVIEW.png
+						248 container
+							249 image Ô hiển thị hình ảnh của người dùng
+					250 container Woman looking at water glass
+						251 container
+							252 image Hình thu nhỏ của video đã tạo
+							253 text Chưa tạo âm thanh nào
+					254 container Man drops food into bowl
+						255 container
+							256 image Hình thu nhỏ của video đã tạo
+					257 container U07_START_native_U06_frame35.png
+						258 container
+							259 image Ô hiển thị hình ảnh của người dùng
+					260 container Person placing bowl on table
+						261 container
+							262 image Hình thu nhỏ của video đã tạo
+					263 container U04_OUT_frame143.png
+						264 container
+							265 image Ô hiển thị hình ảnh của người dùng
+					266 container Man holding chopsticks with food
+						267 container
+							268 image Hình thu nhỏ của video đã tạo
+					269 container P02_APPROVED_OUT_frame59.png
+						270 container
+							271 image Ô hiển thị hình ảnh của người dùng
+					272 container Woman gazing screen left
+						273 container
+							274 image Hình thu nhỏ của video đã tạo
+							275 text Chưa tạo âm thanh nào
+					276 container Peach character turning head smi…
+						277 container
+							278 image Hình thu nhỏ của video đã tạo
+							279 text Chưa tạo âm thanh nào
+					280 container END_Dao_closed_lip_v0.1.png
+						281 container
+							282 image Ô hiển thị hình ảnh của người dùng
+					283 container START_Dao_closed_lip_v0.1.png
+						284 container
+							285 image Ô hiển thị hình ảnh của người dùng
+					286 container Character recording audio direction
+						287 container
+							288 image Hình thu nhỏ của video đã tạo
+							289 text 360p
+					290 container Peach character smiling at compa…
+						291 container
+							292 image Hình thu nhỏ của video đã tạo
+							293 text Chưa tạo âm thanh nào
+					294 container Peach character smiling at compa…
+						295 container
+							296 image Hình thu nhỏ của video đã tạo
+					297 container Peach character smiling at compa…
+						298 container
+							299 image Hình thu nhỏ của video đã tạo
+					108 container Character turns head smiling
+						109 container
+							110 image Hình thu nhỏ của video đã tạo
+					111 container Character turns head smiling
+						112 container
+							113 image Hình thu nhỏ của video đã tạo
+					114 container Character turns head smiling
+						115 container
+							116 image Hình thu nhỏ của video đã tạo
+							117 text Chưa tạo âm thanh nào
+					300 container START_Dao_reaction_v0.2.png
+						301 container
+							302 image Ô hiển thị hình ảnh của người dùng
+					303 container END_Dao_reaction_v0.2.png
+						304 container
+							305 image Ô hiển thị hình ảnh của người dùng
+					306 container Chopsticks lifting food from plate
+						307 container
+							308 image Hình thu nhỏ của video đã tạo
+					309 container Chopsticks lifting food from plate
+						310 container
+							311 image Hình thu nhỏ của video đã tạo
+					312 container Chopsticks lifting food from plate
+						313 container
+							314 image Hình thu nhỏ của video đã tạo
+					315 container END_pickup_food_v0.1.png
+						316 container
+							317 image Ô hiển thị hình ảnh của người dùng
+					318 container START_pickup_food_v0.1.png
+						319 container
+							320 image Ô hiển thị hình ảnh của người dùng
+					321 container Person lifting chopsticks with food
+						322 container
+							323 image Hình thu nhỏ của video đã tạo
+					324 container Person lifting chopsticks with food
+						325 container
+							326 image Hình thu nhỏ của video đã tạo
+					327 container Person lifting chopsticks with food
+						328 container
+							329 image Hình thu nhỏ của video đã tạo
+					330 container END_hand_insert_v0.1.png
+						331 container
+							332 image Ô hiển thị hình ảnh của người dùng
+					333 container START_hand_insert_v0.1.png
+						334 container
+							335 image Ô hiển thị hình ảnh của người dùng
+					336 container Man and woman making eye contact…
+						337 container
+							338 image Hình thu nhỏ của video đã tạo
+							339 text Chưa tạo âm thanh nào
+					340 container Man and woman making eye contact…
+						341 container
+							342 image Hình thu nhỏ của video đã tạo
+							343 text Chưa tạo âm thanh nào
+					344 container Man and woman making eye contact…
+						345 container
+							346 image Hình thu nhỏ của video đã tạo
+							347 text Chưa tạo âm thanh nào
+					348 container END_lift_freeze_v0.1.png
+						349 container
+							350 image Ô hiển thị hình ảnh của người dùng
+					351 container Characters speaking dialogue at …
+						352 container
+							353 image Hình thu nhỏ của video đã tạo
+							354 text 360p
+					355 container Characters speaking dialogue at …
+						356 container
+							357 image Hình thu nhỏ của video đã tạo
+							358 text 360p
+					359 container Characters speaking dialogue at …
+						360 container
+							361 image Hình thu nhỏ của video đã tạo
+							362 text 360p
+					363 container Characters speaking dialogue at …
+						364 container
+							365 image Hình thu nhỏ của video đã tạo
+							366 text 360p
+					367 container Characters speaking dialogue at …
+						368 container
+							369 image Hình thu nhỏ của video đã tạo
+							370 text 360p
+				201 container
+					371 text Bạn muốn tạo những gì?
+					372 container 
+
+					213 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+					214 checkbox Tác nhân, Value: 0
+					215 button Điều kiện kích hoạt cài đặt
+						216 text Video · 360p · 10 giây
+						217 text x3
+					218 button (disabled) Bắt đầu tạo
+		219 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+
+The focused UI element is 372 container 

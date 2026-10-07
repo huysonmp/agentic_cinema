@@ -1,0 +1,214 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374
+	1 link Description: Skip to main content, Value: flow.google.com/u/1/
+	2 container main-content
+		3 container
+			4 container
+				5 button Trang chủ
+				6 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: EP01_P6_Khoai_Dao_Pilot
+				7 pop up button (collapsed) Description: Các lựa chọn khác cho dự án, Secondary Actions: Expand
+				8 button Tìm kiếm
+				9 text field (settable) Tìm kiếm
+				10 button (collapsed) Description: Các lựa chọn lọc và sắp xếp, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Trình đơn thêm nội dung nghe nhìn, Secondary Actions: Expand
+				12 button Trợ giúp về sản phẩm
+				13 pop up button (collapsed) Description: Cài đặt lưới ô, Secondary Actions: Expand
+				14 pop up button (collapsed) Description: Lựa chọn khác, Secondary Actions: Expand
+				15 button Thông tin về tài khoản
+					16 container PRO tier
+						17 text PRO
+					18 button (collapsed) Description: Tài khoản Google: Phạm Huy Sơn (huysonmp@gmail.com), Gói thành viên của Google, Secondary Actions: Expand
+			19 container Di chuyển trong dự án
+				20 container
+					21 text Tất cả nội dung nghe nhìn
+				22 container
+					23 text Hình ảnh
+				24 container
+					25 text Video
+				26 container
+					27 text Nhân vật
+				28 container
+					29 text Cảnh
+				30 container
+					31 text Tệp tải lên
+				32 link Description: Công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/tools
+				33 link Description: Tạo công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/create-tool
+				34 link Thùng rác
+					35 text Thùng rác
+				36 container
+					37 text Thu gọn
+			38 container
+				39 text Bạn sắp dùng hết tín dụng Google Flow. Tín dụng của bạn sẽ được đặt lại hằng tháng hoặc bạn có thể nạp tiền để nhận thêm ngay.
+				40 link Description: Thêm tín dụng AI, Value: accounts.google.com/AccountChooser
+				41 button Đóng biểu ngữ tín dụng
+				42 container
+					43 container
+						44 text 0%
+						45 text Edit this supplied reference still. Output one vertical 9:16 still only. The only change is to close both characters' lips: Khoai's upper and lower lips meet in a soft, small closed-mouth smile; Dao's upper and lower lips meet in a relaxed neutral expression. There is no visible dark gap between the lips and no visible teeth or tongue. Retain the current eye lines, head angles and calm attention toward each other. Preserve their facial identity and proportions, clothes, pink waist tie, all resting hands, camera framing, lighting, eatery background, wooden table and every meal object exactly as shown. The same cool Nem Bui stays on the same shared plate; both personal bowls stay empty; herbs, two dipping dishes, two resting chopstick pairs and Dao's water glass stay in place. Nothing moves, is held, or is added. No new text, panels, food pickup, steam, smoke, eating or drinking. Retain any existing or mandatory native watermark. Do not change the gaze or re-stage the scene.
+						46 button Sử dụng lại câu lệnh
+					47 container
+						48 text 99%
+						49 text Edit this supplied reference still. Output one vertical 9:16 still only. Preserve the two adult characters, their faces and closed lips, clothes, pink waist tie, eye lines, lighting, background, framing, and all food, bowls, herbs, dipping dishes, resting chopsticks and the water glass exactly as shown. Keep any native watermark. Do not add text or panels. Change only Dao's reaching arm and hand. Her fingertips should hover just outside the clearly visible RIGHT-HAND rim of the shared Nem Bui plate, on the side nearest Dao (screen-right), not over the mound and not behind the plate. Leave a small visible gap between fingertips and the ceramic rim so it reads as an intention to take the plate, not touching the food. Keep her wrist relaxed and fingers naturally curved. Route the arm without intersecting her personal bowl. Her other hand and both of Khoai's hands remain where they are. The shared plate remains stationary and unchanged; nothing is held or lifted. Both lips remain completely closed. No extra hand, smoke, steam, eating or drinking.
+						50 button Sử dụng lại câu lệnh
+					51 container REF01-M_v01_REC224
+						52 container
+							53 image Ô hiển thị hình ảnh của người dùng
+					54 container REF01-S_v01_REC224
+						55 container
+							56 image Ô hiển thị hình ảnh của người dùng
+					57 container REF03-S_v01_REC224
+						58 container
+							59 image Ô hiển thị hình ảnh của người dùng
+					60 container REF01-E_v01_REC224
+						61 container
+							62 image Ô hiển thị hình ảnh của người dùng
+					63 container frame-0175.jpg
+						64 container
+							65 image Ô hiển thị hình ảnh của người dùng
+					66 container Man speaking video edit instruct…
+						67 container
+							68 image Hình thu nhỏ của video đã tạo
+							69 text 360p
+					70 container Man speaking video edit instruct…
+						71 container
+							72 image Hình thu nhỏ của video đã tạo
+							73 text 360p
+					74 container Man speaking video edit instruct…
+						75 container
+							76 image Hình thu nhỏ của video đã tạo
+							77 text 360p
+					78 container Man picks up food portion
+						79 container
+							80 image Hình thu nhỏ của video đã tạo
+					81 container Nem Bui on ceramic plate
+						82 container
+							83 image Hình thu nhỏ của video đã tạo
+					84 container People sharing food at table
+						85 container
+							86 image Hình thu nhỏ của video đã tạo
+					87 container U08_START_v0.3_REVIEW.png
+						88 container
+							89 image Ô hiển thị hình ảnh của người dùng
+					90 container U02_START_v0.1_REVIEW.png
+						91 container
+							92 image Ô hiển thị hình ảnh của người dùng
+					93 container U01_START_v0.2_REVIEW.png
+						94 container
+							95 image Ô hiển thị hình ảnh của người dùng
+					96 container Woman looking at water glass
+						97 container
+							98 image Hình thu nhỏ của video đã tạo
+							99 text Chưa tạo âm thanh nào
+					100 container Man drops food into bowl
+						101 container
+							102 image Hình thu nhỏ của video đã tạo
+					103 container U07_START_native_U06_frame35.png
+						104 container
+							105 image Ô hiển thị hình ảnh của người dùng
+					106 container Person placing bowl on table
+						107 container
+							108 image Hình thu nhỏ của video đã tạo
+					109 container U04_OUT_frame143.png
+						110 container
+							111 image Ô hiển thị hình ảnh của người dùng
+					112 container Man holding chopsticks with food
+						113 container
+							114 image Hình thu nhỏ của video đã tạo
+					115 container P02_APPROVED_OUT_frame59.png
+						116 container
+							117 image Ô hiển thị hình ảnh của người dùng
+					118 container Woman gazing screen left
+						119 container
+							120 image Hình thu nhỏ của video đã tạo
+							121 text Chưa tạo âm thanh nào
+					122 container Peach character turning head smi…
+						123 container
+							124 image Hình thu nhỏ của video đã tạo
+							125 text Chưa tạo âm thanh nào
+					126 container END_Dao_closed_lip_v0.1.png
+						127 container
+							128 image Ô hiển thị hình ảnh của người dùng
+					129 container START_Dao_closed_lip_v0.1.png
+						130 container
+							131 image Ô hiển thị hình ảnh của người dùng
+					132 container Character recording audio direction
+						133 container
+							134 image Hình thu nhỏ của video đã tạo
+							135 text 360p
+					136 container Peach character smiling at compa…
+						137 container
+							138 image Hình thu nhỏ của video đã tạo
+							139 text Chưa tạo âm thanh nào
+					140 container Peach character smiling at compa…
+						141 container
+							142 image Hình thu nhỏ của video đã tạo
+					143 container Peach character smiling at compa…
+						144 container
+							145 image Hình thu nhỏ của video đã tạo
+					146 container Character turns head smiling
+						147 container
+							148 image Hình thu nhỏ của video đã tạo
+					149 container Character turns head smiling
+						150 container
+							151 image Hình thu nhỏ của video đã tạo
+					152 container Character turns head smiling
+						153 container
+							154 image Hình thu nhỏ của video đã tạo
+							155 text Chưa tạo âm thanh nào
+					156 container START_Dao_reaction_v0.2.png
+						157 container
+							158 image Ô hiển thị hình ảnh của người dùng
+					159 container END_Dao_reaction_v0.2.png
+						160 container
+							161 image Ô hiển thị hình ảnh của người dùng
+					162 container Chopsticks lifting food from plate
+						163 container
+							164 image Hình thu nhỏ của video đã tạo
+					165 container Chopsticks lifting food from plate
+						166 container
+							167 image Hình thu nhỏ của video đã tạo
+					168 container Chopsticks lifting food from plate
+						169 container
+							170 image Hình thu nhỏ của video đã tạo
+					171 container END_pickup_food_v0.1.png
+						172 container
+							173 image Ô hiển thị hình ảnh của người dùng
+					174 container START_pickup_food_v0.1.png
+						175 container
+							176 image Ô hiển thị hình ảnh của người dùng
+					177 container Person lifting chopsticks with food
+						178 container
+							179 image Hình thu nhỏ của video đã tạo
+					180 container Person lifting chopsticks with food
+						181 container
+							182 image Hình thu nhỏ của video đã tạo
+					183 container Person lifting chopsticks with food
+						184 container
+							185 image Hình thu nhỏ của video đã tạo
+					186 container END_hand_insert_v0.1.png
+						187 container
+							188 image Ô hiển thị hình ảnh của người dùng
+					189 container START_hand_insert_v0.1.png
+						190 container
+							191 image Ô hiển thị hình ảnh của người dùng
+					192 container Man and woman making eye contact…
+						193 container
+							194 image Hình thu nhỏ của video đã tạo
+							195 text Chưa tạo âm thanh nào
+					196 container Man and woman making eye contact…
+						197 container
+							198 image Hình thu nhỏ của video đã tạo
+							199 text Chưa tạo âm thanh nào
+				200 container
+					201 text Bạn muốn tạo những gì?
+					202 container 
+
+					203 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+					204 checkbox Tác nhân, Value: 0
+					205 button Điều kiện kích hoạt cài đặt
+						206 text 🍌 Nano Banana 2.1
+						207 text x1
+					208 button (disabled) Bắt đầu tạo
+		209 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+
+The focused UI element is 202 container 

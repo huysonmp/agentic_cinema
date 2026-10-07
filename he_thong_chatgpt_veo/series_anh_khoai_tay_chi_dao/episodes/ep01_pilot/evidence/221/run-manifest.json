@@ -1,0 +1,91 @@
+{
+  "record_id": "REC221-N02-PA-V-R1",
+  "status": "TRIAL_COMPLETE_THREE_REVIEWS_READ_BACK_G2_HOLD_NOT_RELEASE",
+  "submitted_at_utc": "2026-10-06T16:15:37.902Z",
+  "actual_generation_submissions": 1,
+  "requested_outputs": 3,
+  "live_ui_quote_before_submit": 30,
+  "credits_before": 107,
+  "credits_after": 77,
+  "actual_charge": 30,
+  "charge_evidence": "LIVE_BALANCE_DELTA_107_TO_77_NOT_BILLING_RECEIPT",
+  "source_native_rehashed": true,
+  "source_native_sha256": "72cbaf7d9f66932002dfce1b1a57fa464935c315e84e54ae094fe29aa805a153",
+  "source_ui_binding": "UNIQUE_PICKER_RESULT_IN_EXPECTED_PROJECT_AND_MATCHING_VIDEO_THUMBNAIL",
+  "source_chip_uuid_exposed": false,
+  "model_ui": "Omni 1.1 Flash",
+  "resolution": "360p",
+  "aspect_ratio": "9:16",
+  "duration_ui": "BASED_ON_VIDEO_INGREDIENT_10_SECONDS",
+  "agent_enabled": false,
+  "voice_presets_attached": [],
+  "prompt_sha256": "efd9770484a8274c6601c366ca5cb9f8b48be80f67ca8e9742717ff2928c9233",
+  "pre_submit_proof": ["pre-submit.png", "pre-submit-full-ax.txt", "source-picker-ax.txt", "balance-before-ax.txt"],
+  "post_submit_proof": ["post-submit.png", "post-submit-full-ax.txt"],
+  "retry_authorized": false,
+  "fallback_authorized": false,
+  "outputs": [
+    {
+      "label": "A",
+      "cloud_asset_id": "a939c7f0-f48f-4cce-88ab-8e470fec8745",
+      "download_original": "C:/Users/PC/Downloads/Man_speaking_video_edit_instruct…_20261006232010.mp4",
+      "native_path": "C:/Users/PC/Downloads/du_an_nem_bui/221_n02_pa_v_trial/N02_A_NATIVE.mp4",
+      "sha256": "35c1a0e527bf4171d8d92ed530f2058d5f7c0c005f372ff6d2f68dacbf524537"
+    },
+    {
+      "label": "B",
+      "cloud_asset_id": "65777488-e2fd-464d-9433-763cd6560e8e",
+      "download_original": "C:/Users/PC/Downloads/Man_speaking_video_edit_instruct…_20261006232038.mp4",
+      "native_path": "C:/Users/PC/Downloads/du_an_nem_bui/221_n02_pa_v_trial/N02_B_NATIVE.mp4",
+      "sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535"
+    },
+    {
+      "label": "C",
+      "cloud_asset_id": "3a536c83-cfc7-484e-b77d-d0f41a41e7d9",
+      "download_original": "C:/Users/PC/Downloads/Man_speaking_video_edit_instruct…_20261006231724.mp4",
+      "native_path": "C:/Users/PC/Downloads/du_an_nem_bui/221_n02_pa_v_trial/N02_C_NATIVE.mp4",
+      "sha256": "9bd637ed26b953d8ea87019c1fa93c1d09228551240f3b85be98815fbd2a494d"
+    }
+  ],
+  "inspection_path": "C:/Users/PC/Downloads/du_an_nem_bui/221_n02_pa_v_trial/inspection/inspection.json",
+  "actual_listening_by_root": false,
+  "continuous_av_review_by_root": false,
+  "reviews": [
+    {
+      "role": "SIA",
+      "actor": "/root/rec218_sia",
+      "path": "01_sia-output-review.md",
+      "sha256": "0f2bb0ec2768931318b22fb3cf3ba750a185fe8177000f1ffb15385a10cdbde3",
+      "scope": "MEASURED_AUDIO_COMPARISON_NOT_ACTUAL_HEARING",
+      "root_full_readback": true
+    },
+    {
+      "role": "PICTURE_COVERAGE",
+      "actor": "/root/rec218_edit",
+      "path": "02_picture-coverage-review.md",
+      "sha256": "1ab9aa99f8903e6f2d60f14710c3fb218bd0416bb61a25db8a7b9a7b3fd7382f",
+      "scope": "SAMPLED_FRAMES_AND_NATIVE_BOUNDARIES_NOT_CONTINUOUS_AV",
+      "root_full_readback": true
+    },
+    {
+      "role": "CONT",
+      "actor": "/root/rec221_cont_review",
+      "path": "03_cont-output-review.md",
+      "sha256": "473317ba25400ab6731db035f9535b99282ec4d3658cf2e5f49be4fc423503cf",
+      "scope": "SAMPLED_FRAME_CONTINUITY_NOT_CONTINUOUS_AV",
+      "root_full_readback": true
+    }
+  ],
+  "candidate_for_human_review": "B_OWNER_ACCEPTED_N02_SCOPED_SEE_222",
+  "owner_output_approval": "../222/owner-output-approval.json",
+  "post_trial_update_date": "2026-10-07",
+  "post_trial_status": "OWNER_ACCEPTED_N02_B_NOT_FULL_FILM_OR_ANCHOR_GATE",
+  "open_findings_scope_note": "List below is the historical pre-acceptance review state. B voice/wording/pacing/lip-sync/return7 and informed timing variation have owner disposition in222; measurement remains. A/C defects and episode-level gaps are not closed.",
+  "quality_generation_authorized": false,
+  "production_anchor_variation_approved": true,
+  "production_anchor_variation_scope": "EP01_FACE_LIGHT_BACKGROUND_FOOD_MOUND_ONLY_RETAIN_PAIR03_AND_TABLE08_SERVING_CONSTRAINTS",
+  "production_anchor_approval_record": "../223/anchor-decision.json",
+  "open_findings": ["A_FOOD_ONLY_CUTAWAY_AND_INSERT_SERVING_STATE", "C_ADDED_CAPTION_AND_FACE_BLEND", "B_LOCAL_AUDIO_TIMING_DIFFERENCE", "B_COVERAGE_VARIATION", "ACTUAL_HEARING_LIPSYNC_GAZE_AND_FULL_AV", "PRODUCTION_ANCHOR_VARIATION"],
+  "release_authorized": false,
+  "no_film_pass_claim": true
+}

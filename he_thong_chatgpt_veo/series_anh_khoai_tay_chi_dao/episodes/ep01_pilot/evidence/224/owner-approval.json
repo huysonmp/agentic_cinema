@@ -1,0 +1,23 @@
+{
+  "record_id": "REC224-G1-OPENING-FOUR-IMAGES",
+  "date": "2026-10-07",
+  "approval_of": "REC223-G1-OPENING-FOUR-IMAGES-DRAFT",
+  "owner_reply_exact": "ok",
+  "status": "OWNER_APPROVED_LIVE_ZERO_COST_PREFLIGHT_REQUIRED",
+  "destination_project_id": "9276788e-9781-44fb-ba5b-083006667374",
+  "image_ids": ["REF01-S", "REF01-M", "REF01-E", "REF03-S"],
+  "max_images": 4,
+  "max_attempts_per_image": 1,
+  "credit_cap": 0,
+  "reference_upload_authorized": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/223_g1_source_frames/ANCHOR_B/frame-0175.jpg",
+    "sha256": "5bec51d789cebc8b891b26c70d4c52a4a2185ed18b34d0fb933ab6e1cab8c6c5"
+  },
+  "stop_before_submit_if": ["ZERO_COST_CANNOT_BE_VERIFIED", "COST_GREATER_THAN_ZERO", "VIDEO_OR_VOICE_MODE", "INPUT_MISMATCH_OR_AMBIGUITY"],
+  "video_generation_authorized": false,
+  "paid_generation_authorized": false,
+  "retry_authorized": false,
+  "fallback_provider_authorized": false,
+  "output_acceptance": false,
+  "release_authorized": false
+}

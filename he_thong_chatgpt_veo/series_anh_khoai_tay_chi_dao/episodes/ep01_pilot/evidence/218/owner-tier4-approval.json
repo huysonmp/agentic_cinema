@@ -1,0 +1,13 @@
+{
+  "decision": "APPROVED_LOCAL_IMPLEMENTATION",
+  "approval_scope": "TIER4_ROLE_EXECUTION_AND_LOCAL_GATES_ONLY",
+  "evidence_quote": "1 A; 2 A; 3 A",
+  "decision_document": "D:/Workspace/agentic_cinema/he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/217_recovery-tier4-runtime-gates-and-questions.md",
+  "decision_document_sha256": "be0c82019acc8d4f1d466c1c2906642f528353d324e163ab5903a2b42e961873",
+  "allowed_actions": ["LOCAL_SPECIALISED_MAKER_RUNS", "INDEPENDENT_SCOPED_REVIEWS", "LOCAL_GATE_IMPLEMENTATION_AND_TESTS"],
+  "owner_checkpoints": ["G1_STORYBOARD_IMAGE_PLANNING", "G2_N02_FEASIBILITY_PROOF", "G4_FULL_ROUGH_CUT", "G5_FINAL_EXPORT"],
+  "paid_generation_authorized": false,
+  "finishing_authorized": false,
+  "delivery_authorized": false,
+  "release_authorized": false
+}

@@ -1,0 +1,222 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+1 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374
+	2 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+	3 container main-content
+		4 container
+			5 container
+				6 button Trang chủ
+				7 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: EP01_P6_Khoai_Dao_Pilot
+				8 pop up button (collapsed) Description: Các lựa chọn khác cho dự án, Secondary Actions: Expand
+				9 button Tìm kiếm
+				10 text field (settable) Tìm kiếm
+				11 button (collapsed) Description: Các lựa chọn lọc và sắp xếp, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Trình đơn thêm nội dung nghe nhìn, Secondary Actions: Expand
+				13 button Trợ giúp về sản phẩm
+				14 pop up button (collapsed) Description: Cài đặt lưới ô, Secondary Actions: Expand
+				15 pop up button (collapsed) Description: Lựa chọn khác, Secondary Actions: Expand
+				16 button Thông tin về tài khoản
+					17 container PRO tier
+						18 text PRO
+					19 button (collapsed) Description: Tài khoản Google: Phạm Huy Sơn (huysonmp@gmail.com), Gói thành viên của Google, Secondary Actions: Expand
+			20 container Di chuyển trong dự án
+				21 container
+					22 text Tất cả nội dung nghe nhìn
+				23 container
+					24 text Hình ảnh
+				25 container
+					26 text Video
+				27 container
+					28 text Nhân vật
+				29 container
+					30 text Cảnh
+				31 container
+					32 text Tệp tải lên
+				33 link Description: Công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/tools
+				34 link Description: Tạo công cụ, Value: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/create-tool
+				35 link Thùng rác
+					36 text Thùng rác
+				37 container
+					38 text Thu gọn
+			39 container
+				40 container
+					41 container Man picks up food portion
+						42 container
+							43 image Hình thu nhỏ của video đã tạo
+					44 container Nem Bui on ceramic plate
+						45 container
+							46 container Video được tạo
+					47 container People sharing food at table
+						48 container
+							49 container Video được tạo
+							50 container
+								51 button Yêu thích
+								52 button Sử dụng lại câu lệnh
+								53 pop up button (collapsed) Description: Tuỳ chọn khác, Secondary Actions: Expand
+							54 button People sharing food at table
+					55 container U08_START_v0.3_REVIEW.png
+						56 container
+							57 image Ô hiển thị hình ảnh của người dùng
+					58 container U02_START_v0.1_REVIEW.png
+						59 container
+							60 image Ô hiển thị hình ảnh của người dùng
+					61 container U01_START_v0.2_REVIEW.png
+						62 container
+							63 image Ô hiển thị hình ảnh của người dùng
+					64 container Woman looking at water glass
+						65 container
+							66 image Hình thu nhỏ của video đã tạo
+							67 text Chưa tạo âm thanh nào
+					68 container Man drops food into bowl
+						69 container
+							70 image Hình thu nhỏ của video đã tạo
+					71 container U07_START_native_U06_frame35.png
+						72 container
+							73 image Ô hiển thị hình ảnh của người dùng
+					74 container Person placing bowl on table
+						75 container
+							76 container Video được tạo
+					77 container U04_OUT_frame143.png
+						78 container
+							79 image Ô hiển thị hình ảnh của người dùng
+					80 container Man holding chopsticks with food
+						81 container
+							82 image Hình thu nhỏ của video đã tạo
+					83 container P02_APPROVED_OUT_frame59.png
+						84 container
+							85 image Ô hiển thị hình ảnh của người dùng
+					86 container Woman gazing screen left
+						87 container
+							88 image Hình thu nhỏ của video đã tạo
+							89 text Chưa tạo âm thanh nào
+					90 container Peach character turning head smi…
+						91 container
+							92 image Hình thu nhỏ của video đã tạo
+							93 text Chưa tạo âm thanh nào
+					94 container END_Dao_closed_lip_v0.1.png
+						95 container
+							96 image Ô hiển thị hình ảnh của người dùng
+					97 container START_Dao_closed_lip_v0.1.png
+						98 container
+							99 image Ô hiển thị hình ảnh của người dùng
+					100 container Character recording audio direction
+						101 container
+							102 image Hình thu nhỏ của video đã tạo
+							103 text 360p
+					104 container Peach character smiling at compa…
+						105 container
+							106 image Hình thu nhỏ của video đã tạo
+							107 text Chưa tạo âm thanh nào
+					108 container Peach character smiling at compa…
+						109 container
+							110 image Hình thu nhỏ của video đã tạo
+					111 container Peach character smiling at compa…
+						112 container
+							113 image Hình thu nhỏ của video đã tạo
+					114 container Character turns head smiling
+						115 container
+							116 image Hình thu nhỏ của video đã tạo
+					117 container Character turns head smiling
+						118 container
+							119 image Hình thu nhỏ của video đã tạo
+					120 container Character turns head smiling
+						121 container
+							122 image Hình thu nhỏ của video đã tạo
+							123 text Chưa tạo âm thanh nào
+					124 container START_Dao_reaction_v0.2.png
+						125 container
+							126 image Ô hiển thị hình ảnh của người dùng
+					127 container END_Dao_reaction_v0.2.png
+						128 container
+							129 image Ô hiển thị hình ảnh của người dùng
+					130 container Chopsticks lifting food from plate
+						131 container
+							132 image Hình thu nhỏ của video đã tạo
+					133 container Chopsticks lifting food from plate
+						134 container
+							135 image Hình thu nhỏ của video đã tạo
+					136 container Chopsticks lifting food from plate
+						137 container
+							138 image Hình thu nhỏ của video đã tạo
+					139 container END_pickup_food_v0.1.png
+						140 container
+							141 image Ô hiển thị hình ảnh của người dùng
+					142 container START_pickup_food_v0.1.png
+						143 container
+							144 image Ô hiển thị hình ảnh của người dùng
+					145 container Person lifting chopsticks with food
+						146 container
+							147 image Hình thu nhỏ của video đã tạo
+					148 container Person lifting chopsticks with food
+						149 container
+							150 image Hình thu nhỏ của video đã tạo
+					151 container Person lifting chopsticks with food
+						152 container
+							153 image Hình thu nhỏ của video đã tạo
+					154 container END_hand_insert_v0.1.png
+						155 container
+							156 image Ô hiển thị hình ảnh của người dùng
+					157 container START_hand_insert_v0.1.png
+						158 container
+							159 image Ô hiển thị hình ảnh của người dùng
+					160 container Man and woman making eye contact…
+						161 container
+							162 image Hình thu nhỏ của video đã tạo
+							163 text Chưa tạo âm thanh nào
+					164 container Man and woman making eye contact…
+						165 container
+							166 image Hình thu nhỏ của video đã tạo
+							167 text Chưa tạo âm thanh nào
+					168 container Man and woman making eye contact…
+						169 container
+							170 image Hình thu nhỏ của video đã tạo
+							171 text Chưa tạo âm thanh nào
+					172 container END_lift_freeze_v0.1.png
+						173 container
+							174 image Ô hiển thị hình ảnh của người dùng
+					175 container Characters speaking dialogue at …
+						176 container
+							177 image Hình thu nhỏ của video đã tạo
+							178 text 360p
+					179 container Characters speaking dialogue at …
+						180 container
+							181 image Hình thu nhỏ của video đã tạo
+							182 text 360p
+					183 container Characters speaking dialogue at …
+						184 container
+							185 image Hình thu nhỏ của video đã tạo
+							186 text 360p
+					187 container Characters speaking dialogue at …
+						188 container
+							189 image Hình thu nhỏ của video đã tạo
+							190 text 360p
+					191 container Characters speaking dialogue at …
+						192 container
+							193 image Hình thu nhỏ của video đã tạo
+							194 text 360p
+					195 container Characters speaking dialogue at …
+						196 container
+							197 image Hình thu nhỏ của video đã tạo
+							198 text 360p
+					199 container Characters performing dialogue d…
+						200 container
+							201 image Hình thu nhỏ của video đã tạo
+							202 text 360p
+					203 container Characters performing dialogue d…
+						204 container
+							205 image Hình thu nhỏ của video đã tạo
+							206 text 360p
+				207 container
+					208 button Bắt đầu
+					209 button Hoán đổi khung hình đầu tiên và cuối cùng
+					210 button Kết thúc
+					211 text Bạn muốn tạo những gì?
+					212 container 
+
+					213 checkbox Tác nhân, Value: 0
+					214 button Điều kiện kích hoạt cài đặt
+						215 text Video · 720p · 8 giây
+						216 text x1
+					217 button (disabled) Bắt đầu tạo
+		218 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+
+The focused UI element is 1 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374

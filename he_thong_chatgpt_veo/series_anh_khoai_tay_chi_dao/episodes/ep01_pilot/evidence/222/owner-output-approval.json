@@ -1,0 +1,20 @@
+{
+  "record_id": "REC222-N02-B-OWNER-ACCEPTANCE",
+  "date": "2026-10-07",
+  "owner_reply_exact": "ok rồi nhé",
+  "in_response_to": "N02_B_NATIVE exact media and scoped question about K20, wording, lip sync and return to two-shot at 7 seconds; N02 only, not full film",
+  "target_path": "C:/Users/PC/Downloads/du_an_nem_bui/221_n02_pa_v_trial/N02_B_NATIVE.mp4",
+  "target_sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535",
+  "target_rehashed_this_turn": true,
+  "cloud_asset_id": "65777488-e2fd-464d-9433-763cd6560e8e",
+  "range": {"in_frame": 0, "out_frame_exclusive": 240, "fps": 24},
+  "status": "OWNER_ACCEPTED_N02_SCOPED_NOT_RELEASE_GATE",
+  "accepted_scopes": ["PERCEIVED_K20_VOICE", "APPROVED_N02_WORDING", "PACING_ACCEPTANCE", "LIP_SYNC_ACCEPTANCE", "RETURN_TO_TWO_SHOT_AT_7_SECONDS"],
+  "audio_timing_difference": "MEASUREMENT_RETAINED_OWNER_ACCEPTED_CURRENT_OUTPUT_VARIATION_NOT_BIT_EXACT_RESTORATION",
+  "evidence_actor": "HUMAN_OWNER",
+  "root_or_agent_actual_hearing_claim": false,
+  "not_approved": ["A_OR_C_OUTPUT", "PRODUCTION_ANCHOR_VARIATION_FOR_WHOLE_EPISODE", "G1_FULL_IMAGE_PLAN", "FULL_FILM_AV", "QUALITY_OR_NEW_PAID_GENERATION", "RETIME_OR_AUDIO_OVERLAY", "RELEASE"],
+  "new_generation_submissions": 0,
+  "credits_spent_this_turn": 0,
+  "release_authorized": false
+}

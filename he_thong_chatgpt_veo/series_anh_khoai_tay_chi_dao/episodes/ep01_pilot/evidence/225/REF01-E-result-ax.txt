@@ -1,0 +1,88 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/c087d31a-affb-46dd-8665-a471fa26494d".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/c087d31a-affb-46dd-8665-a471fa26494d
+	1 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+	2 container main-content
+		3 container
+			4 button Nút quay lại để quay về trang trước
+			5 text field (settable) Description: Văn bản có thể chỉnh sửa, Value: REF01-E_v02_REC225
+			6 button Hiện thông tin về thành phần
+			7 container
+				8 button Edit Dao lips still image
+					9 image Edit Dao lips still image
+				10 button REF01-E_v02_REC225
+					11 image REF01-E_v02_REC225
+				12 button REF01-M_v02_REC225
+					13 image REF01-M_v02_REC225
+				14 button REF01-M_v01_REC224
+					15 image REF01-M_v01_REC224
+				16 button REF01-S_v01_REC224
+					17 image REF01-S_v01_REC224
+				18 button REF03-S_v01_REC224
+					19 image REF03-S_v01_REC224
+				20 button REF01-E_v01_REC224
+					21 image REF01-E_v01_REC224
+				22 button frame-0175.jpg
+					23 image frame-0175.jpg
+				24 button Man speaking video edit instruct…
+					25 image Man speaking video edit instruct…
+				26 button Man speaking video edit instruct…
+					27 image Man speaking video edit instruct…
+				28 button Man speaking video edit instruct…
+					29 image Man speaking video edit instruct…
+				30 button Man picks up food portion
+					31 image Man picks up food portion
+				32 button Nem Bui on ceramic plate
+					33 image Nem Bui on ceramic plate
+				34 button People sharing food at table
+					35 image People sharing food at table
+				36 button U08_START_v0.3_REVIEW.png
+					37 image U08_START_v0.3_REVIEW.png
+				38 button U02_START_v0.1_REVIEW.png
+					39 image U02_START_v0.1_REVIEW.png
+				40 button U01_START_v0.2_REVIEW.png
+					41 image U01_START_v0.2_REVIEW.png
+				42 button Woman looking at water glass
+					43 image Woman looking at water glass
+				44 button Man drops food into bowl
+					45 image Man drops food into bowl
+				46 button U07_START_native_U06_frame35.png
+					47 image U07_START_native_U06_frame35.png
+				48 button Person placing bowl on table
+					49 image Person placing bowl on table
+				50 button U04_OUT_frame143.png
+					51 image U04_OUT_frame143.png
+				52 button Man holding chopsticks with food
+					53 image Man holding chopsticks with food
+				54 button P02_APPROVED_OUT_frame59.png
+					55 image P02_APPROVED_OUT_frame59.png
+			56 button Nội dung nghe nhìn tiếp theo
+			57 button Yêu thích
+			58 button Chia sẻ nội dung nghe nhìn
+			59 button Chuyển vào thùng rác
+			60 pop up button (collapsed) Description: Tải nội dung nghe nhìn xuống, Secondary Actions: Expand
+			61 button Ẩn nhật ký
+			62 button Đã chỉnh sửa xong
+		63 pop up button (collapsed) Description: Nút mở trình đơn cắt ảnh, Secondary Actions: Expand
+		64 image Chế độ xem hình ảnh chỉ có thể xem
+		65 container
+			66 text Bạn muốn thay đổi điều gì?
+			67 container 
+
+			68 pop up button (collapsed) Description: Thêm thành phần vào ô nhập câu lệnh, Secondary Actions: Expand
+			69 button Điều kiện kích hoạt cài đặt
+			70 button (disabled) Bắt đầu tạo
+		71 container
+			72 container
+				73 image Ô hiển thị hình ảnh của người dùng
+			74 button Thành phần
+				75 image Hình ảnh thành phần
+			76 container
+				77 text Edit this supplied reference still. Output one vertical 9:16 still only. The only change is to close both characters' lips: Khoai's upper and lower lips meet in a soft, small closed-mouth smile; Dao's upper and lower lips meet in a relaxed neutral expression. There is no visible dark gap between the lips and no visible teeth or tongue. Retain the current eye lines, head angles and calm attention toward each other.
+
+Preserve their facial identity and proportions, clothes, pink waist tie, all resting hands, camera framing, lighting, eatery background, wooden table and every meal object exactly as shown. The same cool Nem Bui stays on the same shared plate; both personal bowls stay empty; herbs, two dipping dishes, two resting chopstick pairs and Dao's water glass stay in place. Nothing moves, is held, or is added. No new text, panels, food pickup, steam, smoke, eating or drinking. Retain any existing or mandatory native watermark. Do not change the gaze or re-stage the scene.
+
+				78 button Sử dụng lại câu lệnh
+				79 button Mở rộng câu lệnh
+		80 text Google Flow có thể mắc sai sót nên bạn hãy xác minh nội dung do Google Flow tạo
+
+The focused UI element is 0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374/edit/c087d31a-affb-46dd-8665-a471fa26494d

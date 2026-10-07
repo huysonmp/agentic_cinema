@@ -1,0 +1,5 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~		3 link Description: Skip to main content, Value: flow.google.com/u/1/#main-content
+~			246 link Description: 30 tín dụng, Value: support.google.com/googleone?p=g1_ai_credit_menu
+The focused UI element is 243 radio button x3, Value: 1, ID: mat-button-toggle-59-button

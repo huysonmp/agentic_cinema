@@ -1,6 +1,7 @@
 {
   "record_id": "REC238",
-  "status": "TWO_PRESETS_SAVED_OWNER_LISTENING_PENDING",
+  "status": "TWO_PRESETS_OWNER_LISTENING_APPROVED_REC239",
+  "owner_approval_record": "00_decisions/voice-approval-239.json",
   "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
   "voices": [
     {
@@ -14,7 +15,7 @@
       "preview_submissions": 1,
       "save_clicks": 1,
       "saved_name_sample_performance_read_back": true,
-      "owner_listening_approved": false,
+      "owner_listening_approved": true,
       "balance_after_preset": 1050
     },
     {
@@ -28,7 +29,7 @@
       "preview_submissions": 1,
       "save_clicks": 1,
       "saved_name_sample_performance_read_back": true,
-      "owner_listening_approved": false,
+      "owner_listening_approved": true,
       "balance_after_preset": 1050
     }
   ],

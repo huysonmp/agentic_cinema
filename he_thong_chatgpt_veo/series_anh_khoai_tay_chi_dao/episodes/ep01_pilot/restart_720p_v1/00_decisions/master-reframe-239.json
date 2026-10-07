@@ -1,0 +1,14 @@
+{
+  "record_id": "REC239",
+  "owner_exact_answer": "Sửa khung ảnh master trước khi chạy C02",
+  "question_scope": "Exact MASTER01 v2 candidate, crop herb plate left, glass close right, native aspect minor",
+  "source_file": "02_refs/MASTER01_v2_NATIVE.jpg",
+  "source_sha256": "239e91f53e00de3caeb7d9153c473b6ae4aadcb70945dfe5462a6b8a2d52115f",
+  "decision": "REWORK_MASTER_FRAMING_BEFORE_C02",
+  "voice_preview_approval": "REC239_UNCHANGED",
+  "master_v2_accepted": false,
+  "C02_submission_allowed_now": false,
+  "repair_scope": "Preserve identities, faces, wardrobe, food, F0 and scene geography; reframe to show complete herb plate and glass with margins, verify actual aspect",
+  "image_generation_authority": "Only actual full-input quote 0; charged image/new tool requires owner decision",
+  "next_owner_checkpoint": "Review new version with actual image/hash/remaining limits"
+}

@@ -1,0 +1,14 @@
+{
+  "record_id": "REC239",
+  "date": "2026-10-07",
+  "owner_message_verbatim": "giọng ok rồi nhé",
+  "scope": "Owner accepts the two restored voice previews on new account, following presentation of K20 and D06",
+  "approved_voice_ids": {
+    "Khoai_K20_Orus": "b447b35c-b35e-4140-af72-ecd277282b1a",
+    "Dao_D06_Aoede": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb"
+  },
+  "master_v2_approval": "OWNER_REQUESTED_FRAME_REPAIR_SEE_master-reframe-239.json",
+  "does_not_approve": ["production voice audio not yet generated", "lip sync", "C02 or full film output"],
+  "next_owner_message": "tiếp tục đi nào",
+  "next_action_scope": "Prepare C02 and specialist input reviews; ask exact remaining master checkpoint before paid submit"
+}

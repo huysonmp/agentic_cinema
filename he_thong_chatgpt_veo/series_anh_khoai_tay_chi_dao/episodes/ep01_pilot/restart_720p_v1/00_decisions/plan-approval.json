@@ -36,7 +36,7 @@
   "voice_preview_or_save_authorization": "REC238_OWNER_APPROVED_EXACT_TWO_RESTORED_PRESETS",
   "preset_created": true,
   "new_preset_bindings": "03_voices/bindings-238.json",
-  "initial_input_owner_checkpoint": "PENDING_MASTER_REPAIR_AND_TWO_VOICES",
+  "initial_input_owner_checkpoint": "VOICES_APPROVED_REC239_MASTER_V2_REFRAME_REQUIRED_NEW_VERSION_PENDING",
   "paid_submissions": 0,
   "old_project_or_media_modified": false,
   "secrets_recorded": false

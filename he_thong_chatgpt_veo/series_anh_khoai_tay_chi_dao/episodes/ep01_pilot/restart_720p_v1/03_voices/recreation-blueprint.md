@@ -1,6 +1,6 @@
 # Phục hồi giọng Khoai và Đào trên tài khoản mới
 
-Trạng thái cập nhật REC238: **TWO_PRESETS_SAVED / OWNER_LISTENING_PENDING**. Bản blueprint gốc được chuẩn bị tại REC237; chỉ dẫn và câu mẫu dưới đây được giữ nguyên. ID mới và bằng chứng thao tác nằm ở `bindings-238.json`; không nhập ID cũ làm ID mới.
+Trạng thái cập nhật REC239: **TWO_PRESETS_OWNER_LISTENING_APPROVED**. Owner nói “giọng ok rồi nhé”. Bản blueprint gốc được chuẩn bị tại REC237; chỉ dẫn và câu mẫu dưới đây được giữ nguyên. ID mới và bằng chứng thao tác nằm ở `bindings-238.json`; không nhập ID cũ làm ID mới. Approval bản nghe không thay nghiệm thu tiếng/khẩu hình của clip sản xuất mới.
 
 Các đoạn dưới trích nguyên văn tài liệu nguồn; mô tả câu audition là chỉ dẫn của bản preview gốc, **không được đọc thành lời EP01**. Khi tạo cảnh thật, giữ chất giọng và hướng diễn nhưng chỉ đưa đúng câu của cảnh vào dialogue.
 

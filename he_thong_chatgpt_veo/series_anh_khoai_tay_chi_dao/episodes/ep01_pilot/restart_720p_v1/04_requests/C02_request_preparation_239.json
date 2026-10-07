@@ -1,0 +1,37 @@
+{
+  "request_id": "EP01-720-C02-T01-239",
+  "status": "PREPARATION_ONLY_NOT_SUBMITTED",
+  "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "dialogue_authority": "178_C-v0.6_and236_split_after_Khoan",
+  "speaker": "Khoai",
+  "exact_dialogue": "Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ rang gạo, anh đứng chờ.",
+  "candidate_reference": {
+    "file": "02_refs/MASTER01_v2_NATIVE.jpg",
+    "sha256": "239e91f53e00de3caeb7d9153c473b6ae4aadcb70945dfe5462a6b8a2d52115f",
+    "actual_picker_and_chip_image_uuid": "e5c43965-51bd-44a8-b1e8-66309a5a2b72",
+    "owner_approval": "REWORK_FRAMING_REQUESTED_REC239_NOT_APPROVED"
+  },
+  "voice": {
+    "custom_id": "b447b35c-b35e-4140-af72-ecd277282b1a",
+    "name": "EP01_Khoai_K20_Orus_720p_v1",
+    "owner_preview_approval": "REC239",
+    "selected_exact_preset_then_added": true,
+    "voice_chip_count": 1,
+    "Dao_voice_added": false
+  },
+  "ui_config_without_final_prompt": {
+    "model": "Omni 1.1 Flash",
+    "model_verification": "read-only DOM text of model selector after opening settings",
+    "mode": "Ingredients",
+    "resolution": "720p",
+    "aspect": "9:16",
+    "seconds": 10,
+    "outputs": 1,
+    "agent_enabled": false,
+    "quote": 15,
+    "is_final_request_quote": false
+  },
+  "pending": ["new master framing version and owner checkpoint", "independent preflight of integrated draft then recheck new reference binding", "final full-input quote/readback screenshot", "assembly capabilities on current account"],
+  "submit_count": 0,
+  "production_audio_or_lipsync_pass": false
+}

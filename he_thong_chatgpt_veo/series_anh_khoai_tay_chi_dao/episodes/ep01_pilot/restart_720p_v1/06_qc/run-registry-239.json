@@ -1,0 +1,15 @@
+{
+  "record_id": "REC239",
+  "authority": "Owner approved specialized bounded local role runs in217 and production plan236; no subagent browser/credit/Git authority",
+  "master_checkpoint": "OWNER_REQUESTED_REFRAME_REC239_V2_HOLD_NEW_VERSION_PENDING",
+  "runs": [
+    {"run_id":"C02-DIR-239","role":"DIR","status":"PROPOSAL_COMPLETE_CONDITIONAL_INPUT_OWNER_CHECKPOINT","root_read_full_report":true,"mode":"PAPER_PROPOSAL_STATIC_REFERENCE_VIEW","target":"C02 brief and actual MASTER01 v2","output":"06_qc/C02_DIR_239.md"},
+    {"run_id":"C02-DOP-239","role":"DOP","status":"PROPOSAL_COMPLETE_ROOT_READ_FULL","output":"06_qc/C02_DOP_239.md"},
+    {"run_id":"C02-ACT-239","role":"ACT","status":"PROPOSAL_COMPLETE_ROOT_READ_FULL","output":"06_qc/C02_ACT_239.md"},
+    {"run_id":"C02-EDIT-239","role":"EDIT","status":"PROPOSAL_COMPLETE_ROOT_READ_FULL","output":"06_qc/C02_EDIT_239.md"},
+    {"run_id":"C02-CRITIC-239","role":"INDEPENDENT_PREFLIGHT","status":"PAPER_PASS_CONDITIONAL_SUBMIT_HOLD_ROOT_READ_FULL","output":"06_qc/C02_independent_preflight_239.md"},
+    {"run_id":"MASTER01-FRAME-CRITIC-239","role":"INDEPENDENT_STATIC_FRAMING_REVIEW","status":"FAILED_BEFORE_REPORT_INTERIM_FEEDBACK_ONLY_NOT_COMPLETED_REVIEW","output":null,"limitation":"Agent usage limit; did not save assigned report; root will not claim completed independent static review"}
+  ],
+  "subagent_permissions":"read local allowlisted source docs/images, write only assigned report; no browser/API/credit/Git/other file edits or approval",
+  "production_started":false
+}

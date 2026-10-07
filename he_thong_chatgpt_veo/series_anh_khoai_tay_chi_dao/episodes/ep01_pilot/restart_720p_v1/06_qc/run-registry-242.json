@@ -1,0 +1,9 @@
+{
+  "record_id": "REC242",
+  "authority": "217 bounded specialist roles, 236 production plan, 238 scoped authority,242 exact master approval",
+  "runs": [
+    {"run_id":"C02-REFRESH-CRITIC-242","role":"INDEPENDENT_PREFLIGHT","status":"PAPER_PASS_CONDITIONAL_ROOT_READ_FULL_LIVE_AND_ASSEMBLY_GATES_SEPARATE","output":"06_qc/C02_v5_independent_preflight_242.md"}
+  ],
+  "permissions": "Local exact-source reads/static view/assigned-report write only; no UI/API/Git/credit/other edits",
+  "C02_submit_count": 0
+}

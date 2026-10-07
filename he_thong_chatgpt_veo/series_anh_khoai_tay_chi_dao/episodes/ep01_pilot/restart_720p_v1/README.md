@@ -14,6 +14,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 - Công cụ dựng của account mới chưa được xác nhận đủ tính năng; mô tả Stringout Creator trong catalog không thay bằng chứng trim/arrange/linked audio/export. Xem `09_lessons/REC239_preflight_and_assembly_observations.md`.
 - Sau hai lượt sửa khung, số dư UI vẫn1.050; observed debit0, quyền video500 chưa sử dụng. Reviewer static khung bị ngắt trước report, không nhận đã hoàn tất independent review v3/v4.
 - REC241: owner cho phép tạo ảnhChatGPT. V5 tạo bằng built-in, đã tải/lưu và root kiểm: trọn rau/cốc, giữ F0/hai mặt, có minorlimits về margin/fidelity/ratio941×1672. Đang trình owner, chưa uploadFlow/duyệt master hoặc sinhC02. Xem `04_requests/MASTER01_chatgpt_241.json`.
+- REC242 cập nhật: owner đã duyệt exactv5, checkpoint master+hai voice đóng. Đã uploadv5 và gắn riêngK20, prompt242/cấu hình720p/Ingredients/Omni1.1Flash/10s/9:16/x1/AgentOFF, quote15 đủ inputs. Reviewer độc lập refreshv5 paperpassconditional, root đọc đầy đủ.
+- Scenebuilder gốc đã mở timeline trống và lưu scene8136b4bc-5020-4f7a-afd9-635f8ccf8629. Chưa video để đo trim/export thực. Đang hỏi dùng chínhC02 đầu để kiểm tích hợp hay clipcũQC riêng; chưa submit C02, không tự coi masterapproval là miễn kiểm dựng.
 - Clip đầu tiên vẫn là C02, Khoai kể ký ức. Chưa chạy video: cần qua checkpoint ảnh master + hai giọng, rồi đối soát exact inputs, quote và output720p.
 - Các đơn vị: C01A, C01B, C02, C03A, C03B, C04, C05, C06, C07, C08, C09. Thứ tự sinh theo kế hoạch 236, không theo tên file.
 

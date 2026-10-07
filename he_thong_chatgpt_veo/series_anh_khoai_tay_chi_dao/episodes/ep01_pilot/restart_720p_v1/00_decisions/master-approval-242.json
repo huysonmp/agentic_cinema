@@ -1,0 +1,15 @@
+{
+  "record_id": "REC242",
+  "date": "2026-10-07",
+  "owner_exact_message": "duyệt nhé",
+  "approval_context": "Reply to exact MASTER01 v5 ChatGPT image and disclosed framing/identity/aspect limits",
+  "approved_file": "02_refs/MASTER01_v5_CHATGPT_NATIVE.png",
+  "approved_sha256": "ab31c41ec168aea7fff2206d1536c9ff61c763c3da175defe7cc4bd14649bf96",
+  "native_dimensions": [941,1672],
+  "scope": "Master character look and table composition as image reference, with minor limits presented241",
+  "previous_versions": "v2/v3/v4 not selected; preserve as evidence",
+  "voices": "REC239 K20/Orus and D06/Aoede remain approved previews",
+  "initial_human_input_checkpoint": "CLOSED_MASTER_V5_AND_TWO_VOICE_PREVIEWS",
+  "does_not_approve": ["C02 output", "video aspect geometry", "production voice/lipsync", "new unapproved assembly route"],
+  "next_action": "Upload v5 and revalidate impacted C02 packet, final UI/quote and assembly capability before one in-scope production request"
+}

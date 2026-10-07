@@ -1,0 +1,16 @@
+{
+  "record_id": "REC242",
+  "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "scene_id": "8136b4bc-5020-4f7a-afd9-635f8ccf8629",
+  "scene_name_saved_UI": "EP01_720p_v1 — Dựng thô và kiểm điểm nối",
+  "scene_url": "https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6/scene/8136b4bc-5020-4f7a-afd9-635f8ccf8629",
+  "operation": "New blank native Scene from project menu, renamed; no old footage/media added, no generation",
+  "observed_controls": ["timeline", "Add video clip", "Play", "Mute", "Current and total duration", "Aspect toggle", "Download scene disabled on empty sequence"],
+  "Add_video_picker": "Video category opens but empty because fresh project has no native videos",
+  "actual_trim_rearrange_linked_audio_export": "NOT_TESTED_NO_VIDEO_IN_PROJECT",
+  "catalog_Stringout_remix": "Separate tool previously failed; not used as evidence for this native Scenebuilder",
+  "official_docs_checked": "https://support.google.com/flow/answer/16935718?hl=en; checked2026-10-07, declares arrange/trim/preview/download",
+  "readiness": "UI_INTERFACE_AVAILABLE_ACTUAL_INTEGRATED_PROBE_PENDING",
+  "owner_question": "Use first production C02 to validate actual trim/export before later shots, or isolated old-clip QC first",
+  "no_paid_scene_generation": true
+}

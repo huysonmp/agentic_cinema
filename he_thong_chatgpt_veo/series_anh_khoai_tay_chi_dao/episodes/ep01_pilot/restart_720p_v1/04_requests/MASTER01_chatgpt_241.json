@@ -18,9 +18,10 @@
   "owner_folder_copy_hash_matches": true,
   "status": "ROOT_STATIC_REVIEW_COMPLETE_PRESENT_CANDIDATE_WITH_LIMITS",
   "independent_new_image_review": "NOT_COMPLETED_NO_REPORT",
-  "owner_approval": "PENDING_EXACT_V5",
+  "owner_approval": "APPROVED_REC242_EXACT_V5_REFERENCE_SCOPE",
   "remaining_limits": ["Margins visible but narrower than the 8-10 percent prompt target", "Minor face/expression and background reconstruction, owner must judge character fidelity", "Native aspect differs from exact9:16 by approximately0.053 percent"],
   "Flow_credit_requests_this_run": 0,
-  "Flow_uploaded_new_image": false,
+  "Flow_uploaded_new_image": true,
+  "Flow_upload_record": "04_requests/C02_request_242.json",
   "C02_generated": false
 }

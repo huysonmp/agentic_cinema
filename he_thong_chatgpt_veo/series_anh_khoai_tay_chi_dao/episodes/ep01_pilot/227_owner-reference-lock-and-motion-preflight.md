@@ -1,5 +1,7 @@
 # 227 — Ghi nhận duyệt M và chuẩn bị thử chuyển động S → M
 
+**Cập nhật REC228:** owner hủy phép thử tay riêng và chuyển sang sản xuất rồi kiểm đầu ra, trong số credit còn lại. Request ba take dưới đây đã hủy trước submission; giữ làm lịch sử, không còn là gói chờ chạy. Approval M và hai nguồn S/M vẫn được giữ.
+
 Ngày: 2026-10-07. Giai đoạn **P7 khắc phục, hoàn thiện G1**. Owner đã chấp nhận tư thế ảnh tĩnh REF01-M v03. Đã tách đúng nguồn S/M thành hai asset Flow riêng, kiểm byte native và chuẩn bị gói thử. **Chưa gửi video, chưa chi credit, chưa có motion PASS.**
 
 ## Quyết định và nguồn đã khóa

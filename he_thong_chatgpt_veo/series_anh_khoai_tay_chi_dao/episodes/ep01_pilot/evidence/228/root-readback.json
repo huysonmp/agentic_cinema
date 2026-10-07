@@ -1,0 +1,39 @@
+{
+  "record_id": "REC228",
+  "owner_direction_verified": true,
+  "cancelled_flow_prompt_absent": true,
+  "submit_disabled": true,
+  "balance_live": 77,
+  "submissions": 0,
+  "credit_spent": 0,
+  "original_sources": [
+    {
+      "id": "N02_B",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\221_n02_pa_v_trial\\N02_B_NATIVE.mp4",
+      "sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535",
+      "matches_expected": true
+    },
+    {
+      "id": "N01_AUDIO",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N01_intended_Dao_UNVERIFIED.wav",
+      "sha256": "366e95086c57dc1c5d2a2d366d6b24410ab85b0dcc7b2f2d4fbb61d3aa69cfe1",
+      "matches_expected": true
+    },
+    {
+      "id": "REF01-S_v01_INPUT_REC227",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\224_g1_opening_refs_v01\\REF01-S_v01_NATIVE.jpg",
+      "sha256": "eba9a13c86f359df458022a5a54664264e5bb29fcca08d6181454cb1ee482422",
+      "matches_expected": true
+    },
+    {
+      "id": "REF01-M_v03_ACCEPTED_REC227",
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\226_ref01_m_v03_from_s\\REF01-M_v03_NATIVE.jpg",
+      "sha256": "66defd18afc0845da8b34968446b98f547dcad951e6712e2e6a81ff2d5e2017c",
+      "matches_expected": true
+    }
+  ],
+  "first_production_request_ready": false,
+  "blocker": "R01 causal Khoan stop versus unchanged N02-B opening picture needs coverage decision",
+  "actual_audio_hearing": false,
+  "full_av_pass": false
+}

@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [227](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/227_owner-reference-lock-and-motion-preflight.md): owner đã chấp nhận pose M v03; S/M tách đúng asset và đồng byte nguồn. Gói motion ba take Lite/trần30 đã chuẩn bị và kiểm độc lập, chưa duyệt chạy/submit/chi hoặc motion PASS. Số dư live77 là snapshot chuẩn bị, không phải quyền chi mới. Bản210 đã bị từ chối tại211; chưa Quality/master/phát hành. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
+`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [228](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/228_production-only-direction-and-budget-control.md): owner bỏ test tay riêng, chuyển production rồi QC trong credit còn lại; draft227 đã hủy trước submit, số dư live77/chi0. Giữ M, B và giọng/lời; P01 còn quyết định coverage “Khoan” để tránh nhảy tay. Chưa production request ready/footage mới/fullG1 hoặc bảo đảm đủ77. Bản210 đã bị từ chối tại211; chưa Quality/master/phát hành. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
 
 ## Tài liệu đang dùng
 

@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 227: M đã được duyệt, motion S → M đã chuẩn bị
+## Hiện hành — 228: bỏ test riêng, sản xuất rồi QC
+
+[228 — production-only và ngân sách](228_production-only-direction-and-budget-control.md): owner hủy batch test tay227 trước submit. Draft Flow đã bỏ, nút tạo disabled, số dư live77, chi0. Giữ M đã duyệt và nguồn B/K20/D06/lời. Đã kiểm hai vai chuyên môn: trước P01 cần giải quyết hình “Khoan”/M tay vươn→B tay nghỉ; đề xuất chỉ đổi coverage đầu B, giữ tiếng và phần ký ức. Chưa owner chốt thay coverage, chưa input/quote/production request ready hoặc video mới. Bảy nhiệm vụ/70 chỉ forecast có điều kiện, không đủ cơ sở hứa hoàn tất77. Không x3/test riêng/Quality/retry tự phát; G1/AV còn mở.
+
+## Mốc 227 — chuẩn bị test tay, đã hủy tại228
 
 [227 — approval và motion preflight](227_owner-reference-lock-and-motion-preflight.md): owner chấp nhận pose M v03; đã tách đúng S/M thành asset riêng và tải kiểm đồng byte. Draft Lite/9:16/720p/8s/x1 đúng nguồn; quote live10, số dư77. Hai reviewer độc lập READY_TO_REQUEST_APPROVAL cho ba take cùng brief, trần30. **Chưa duyệt paid batch, chưa submit/chi/motion PASS.** Đây là test đường tay–dừng, không phải thoại/khẩu hình hoặc causal nghe “Khoan”; M→E và full G1 còn mở. Trạng thái pending reference tại226 dưới đây là lịch sử, chỉ M đã được owner chấp nhận rõ tại227.
 

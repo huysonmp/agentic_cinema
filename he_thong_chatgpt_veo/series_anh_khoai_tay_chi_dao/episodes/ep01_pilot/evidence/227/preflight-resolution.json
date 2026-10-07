@@ -18,5 +18,6 @@
   "dialogue_lip_sync_tested": false,
   "audio_off_control_verified": false,
   "full_g1_pass": false,
-  "next_gate": "OWNER_EXACT_BATCH_APPROVAL"
+  "next_gate": "SUPERSEDED_BY_REC228_PRODUCTION_ONLY",
+  "separate_test_cancelled_before_submission": true
 }

@@ -1,0 +1,21 @@
+{
+  "record_id": "REC228",
+  "date": "2026-10-07",
+  "owner_message": "Không cần thử tay riêng nữa, làm sản xuất rồi check thôi, chứ k còn ngân sách để thử nữa",
+  "supersedes_request": "REC227-R01-SM-LITE-3",
+  "separate_hand_test_status": "CANCELLED_BEFORE_SUBMISSION",
+  "standalone_tests_authorized": false,
+  "three_take_test_policy_current": false,
+  "production_then_actual_output_qc": true,
+  "quality_gates_waived": false,
+  "additional_credits_granted": 0,
+  "working_balance_limit": 77,
+  "working_balance_limit_note": "Owner has constrained work to remaining credits; current balance must be verified. Not an approval of any unspecified retry or quality route.",
+  "one_output_per_production_unit": "WORKING_EXECUTION_DEFAULT_NOT_A_THREE_TAKE_TEST",
+  "retry_authorized": false,
+  "new_voice_auditions_authorized": false,
+  "script_and_voice_changes_authorized": false,
+  "preserve_original_inputs_and_cancelled_request_evidence": true,
+  "generation_submissions_this_record": 0,
+  "credit_spent_this_record": 0
+}

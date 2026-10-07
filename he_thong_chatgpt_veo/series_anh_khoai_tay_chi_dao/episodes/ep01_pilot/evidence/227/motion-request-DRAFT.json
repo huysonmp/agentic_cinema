@@ -1,6 +1,6 @@
 {
   "request_id": "REC227-R01-SM-LITE-3",
-  "status": "PREPARED_NOT_SUBMITTED",
+  "status": "CANCELLED_BY_OWNER_BEFORE_SUBMISSION_SEE_REC228",
   "purpose": "Test one reach and stop before plate contact; assess hand/bowl clearance before any R01 dialogue or final assembly.",
   "model_live": "Veo 3.1 - Lite",
   "route": "frames_start_end",

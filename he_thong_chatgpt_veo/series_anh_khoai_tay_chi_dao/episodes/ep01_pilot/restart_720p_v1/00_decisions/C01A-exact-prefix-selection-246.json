@@ -1,0 +1,21 @@
+{
+  "record_id": "REC246-C01A-ROOT-PREFIX-SELECTION",
+  "date": "2026-10-07",
+  "status": "SELECTED_SOURCE_FOR_C01B_UNDER_LIMITED_EXCEPTION_AND_REVIEWED_SCOPE",
+  "selector": "ROOT_PRODUCER_NOT_OWNER_WHOLE_FILM_APPROVAL",
+  "selected_file": "07_edits/C01A_T04_FLOW_0_3p333S_FOR_APPROVAL.mp4",
+  "selected_sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
+  "selected_frames": 81,
+  "selected_video_seconds": 3.375,
+  "selected_audio_seconds": 3.370667,
+  "owner_artistic_authority": "C01A-contact-exception-proposal-246.json permitsrimtouch/innergesture onlyifwholeN01/noPull/take/eat",
+  "owner_listening_evidence": "C01A-T04-cut-audio-approval-246.json exactD06/wholeN01/finalem/rhythm accepted",
+  "independent_picture_evidence": "06_qc/C01A_T04_native_independent_246.md root readfull;42uniqueexportframes including52..80dense, no visibleplatepull/newtext/presenting observed, conditionalvisualcandidate underexception",
+  "selection_rationale": "Exactprefix excludes observed nativeplatepull onsetaround91..92, retainsfullN01 heardbyowner; sourcepose takenfromactualexport lastframe80",
+  "source_for_C01B": "02_refs/C01B_START_from_C01A_T04_FLOW_v1.png",
+  "source_image_sha256": "0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb",
+  "remaining_capability_limits": ["NoAIactualhearing", "SampledframesnotcontinuousAV", "Fullphoneticlip-syncnotcertified", "Unseenframe/3Dcontactnotguaranteed"],
+  "later_gates": ["C01Bactualhear/release/retract/noplatepull", "C01A-to-C01B andC01B-to-C02 actualjoins", "FullroughownerAV", "Finalexactexportownerapproval"],
+  "not_selected": ["whole6sT04", "nativepulltail", "anyalternatecut", "C01Bnotyetgenerated", "wholeepisode"],
+  "production_permission": "REC238 unchanged; C01B independentpreflight/bindings/livequote required beforeonesubmit"
+}

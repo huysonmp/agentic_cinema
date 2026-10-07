@@ -16,7 +16,11 @@
     {"run_id":"C01A-T03-PREFLIGHT-246","role":"Independent integrated diagnosis and draft request check","agent":"/root/c02_critic_239","status":"COMPLETED_PASS_PAPER_ROOT_READ_FULL_LIVE_GATES_CLOSED","output":"06_qc/C01A_T03_preflight_independent_246.md"},
     {"run_id":"C01A-T03-NATIVE-246","role":"Independent native retake review before C01B","agent":"/root/c02_critic_239","status":"NOT_RUN_NO_MEDIA_POLICY_REFUSAL","output":null},
     {"run_id":"C01A-T03-POLICY-DIAGNOSIS-246","role":"Bounded harmless-adult-scene clarification review","agent":"/root/c02_critic_239","status":"COMPLETED_ROOT_READ_FULL_LIVE_GATES_CLOSED","output":"06_qc/C01A_T03_policy_diagnosis_246.md"},
-    {"run_id":"C01A-T04-NATIVE-246","role":"Independent native review after one adult-canon clarification","agent":"/root/c02_critic_239","status":"REGISTERED_PENDING_ACTUAL_MEDIA","output":"06_qc/C01A_T04_native_independent_246.md"}
+    {"run_id":"C01A-T04-NATIVE-246","role":"Independent native andactualexport review after one adult-canon clarification","agent":"/root/c02_critic_239","status":"COMPLETED_ROOT_READ_FULL_CONDITIONAL_EXPORT_VISUAL_CANDIDATE","output":"06_qc/C01A_T04_native_independent_246.md","target_sha256":"bbf5c423bff3e30b98aa0ec5b7f56d11b89467456f75dcf1ea2fe3b0829efa43","export_sha256":"e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803"},
+    {"run_id":"C01A-T04-EDIT-246","role":"EDIT material owner options, maker planning only","agent":"/root/c02_edit_239","status":"COMPLETED_ROOT_READ_FULL","output":"06_qc/C01A_T04_EDIT_options_246.md"},
+    {"run_id":"C01B-DOP-246","role":"DOP exact-state release/retract preparation","agent":"/root/c02_dop_239","status":"COMPLETED_ROOT_READ_FULL_PREPARATION_ONLY","output":"06_qc/C01B_DOP_246.md"},
+    {"run_id":"C01B-ACT-246","role":"ACT interruption/hear/release preparation","agent":"/root/c02_act_239","status":"COMPLETED_ROOT_READ_FULL_PREPARATION_ONLY","output":"06_qc/C01B_ACT_246.md"},
+    {"run_id":"C01B-PREFLIGHT-246","role":"Independent integrated next-unit preflight","agent":"/root/c02_critic_239","status":"QUEUED_AFTER_C01A_ACTUAL_REVIEW","output":"06_qc/C01B_preflight_independent_246.md"}
   ],
   "DIR_integration": "root, after reading all maker reports; not independent critic",
   "paid_submit_count_this_record": 4

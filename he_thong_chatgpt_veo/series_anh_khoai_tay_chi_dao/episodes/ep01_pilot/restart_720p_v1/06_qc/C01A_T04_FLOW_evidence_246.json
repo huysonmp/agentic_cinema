@@ -1,0 +1,352 @@
+{
+  "status": "TECHNICAL_AND_FRAME_EVIDENCE_NOT_AV_PASS",
+  "source": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_T04_FLOW_0_3p333S_FOR_APPROVAL.mp4",
+  "sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640020",
+        "width": 720,
+        "height": 1280,
+        "coded_width": 720,
+        "coded_height": 1280,
+        "has_b_frames": 0,
+        "pix_fmt": "yuv420p",
+        "level": 32,
+        "color_range": "tv",
+        "color_space": "smpte170m",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 51840,
+        "duration": "3.375000",
+        "bit_rate": "7075958",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "81",
+        "nb_read_frames": "81",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 161792,
+        "duration": "3.370667",
+        "bit_rate": "128337",
+        "nb_frames": "158",
+        "nb_read_frames": "158",
+        "extradata_size": 2,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_T04_FLOW_0_3p333S_FOR_APPROVAL.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "3.375000",
+      "size": "3055502",
+      "bit_rate": "7242671",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf58.76.100"
+      }
+    }
+  },
+  "extracted_frames": 81,
+  "native_frame_timestamps": [
+    0.0,
+    0.041667,
+    0.083333,
+    0.125,
+    0.166667,
+    0.208333,
+    0.25,
+    0.291667,
+    0.333333,
+    0.375,
+    0.416667,
+    0.458333,
+    0.5,
+    0.541667,
+    0.583333,
+    0.625,
+    0.666667,
+    0.708333,
+    0.75,
+    0.791667,
+    0.833333,
+    0.875,
+    0.916667,
+    0.958333,
+    1.0,
+    1.041667,
+    1.083333,
+    1.125,
+    1.166667,
+    1.208333,
+    1.25,
+    1.291667,
+    1.333333,
+    1.375,
+    1.416667,
+    1.458333,
+    1.5,
+    1.541667,
+    1.583333,
+    1.625,
+    1.666667,
+    1.708333,
+    1.75,
+    1.791667,
+    1.833333,
+    1.875,
+    1.916667,
+    1.958333,
+    2.0,
+    2.041667,
+    2.083333,
+    2.125,
+    2.166667,
+    2.208333,
+    2.25,
+    2.291667,
+    2.333333,
+    2.375,
+    2.416667,
+    2.458333,
+    2.5,
+    2.541667,
+    2.583333,
+    2.625,
+    2.666667,
+    2.708333,
+    2.75,
+    2.791667,
+    2.833333,
+    2.875,
+    2.916667,
+    2.958333,
+    3.0,
+    3.041667,
+    3.083333,
+    3.125,
+    3.166667,
+    3.208333,
+    3.25,
+    3.291667,
+    3.333333
+  ],
+  "video_fps": "24",
+  "full_decode_success": true,
+  "source_unchanged": true,
+  "boards": [
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 0,
+      "time_seconds": 0.0
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 24,
+      "time_seconds": 1.0
+    },
+    {
+      "board": "overview_1fps_01.jpg",
+      "frame_zero_based": 48,
+      "time_seconds": 2.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 0,
+      "time_seconds": 0.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 4,
+      "time_seconds": 0.166667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 8,
+      "time_seconds": 0.333333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 12,
+      "time_seconds": 0.5
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 16,
+      "time_seconds": 0.666667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 20,
+      "time_seconds": 0.833333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 24,
+      "time_seconds": 1.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 28,
+      "time_seconds": 1.166667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 32,
+      "time_seconds": 1.333333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 36,
+      "time_seconds": 1.5
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 40,
+      "time_seconds": 1.666667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 44,
+      "time_seconds": 1.833333
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 48,
+      "time_seconds": 2.0
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 52,
+      "time_seconds": 2.166667
+    },
+    {
+      "board": "mouth_hands_6fps_01.jpg",
+      "frame_zero_based": 56,
+      "time_seconds": 2.333333
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 60,
+      "time_seconds": 2.5
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 64,
+      "time_seconds": 2.666667
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 68,
+      "time_seconds": 2.833333
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 72,
+      "time_seconds": 3.0
+    },
+    {
+      "board": "mouth_hands_6fps_02.jpg",
+      "frame_zero_based": 76,
+      "time_seconds": 3.166667
+    }
+  ],
+  "actual_listening": "NOT_PERFORMED",
+  "lip_sync": "NOT_CERTIFIED",
+  "frame_sampling_not_continuous_AV": true
+}

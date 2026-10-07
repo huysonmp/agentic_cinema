@@ -4,7 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
-- Trần được duyệt: 500 credit; sổ bảo thủ REC246 ghi đã dùng/tạm trừ 60, còn 440 sau C01A T01/T02/T04 (mỗi lượt10). T03 bị từ chối, quote10 tạm trừ rồi cùng tab hoàn10, net0; không có media. T04 đang chờ kết quả. Lượt đầu còn140, tạo lại còn145, sau rough cut45 chưa dùng; dự phòng110 chưa được giải ngân. Số dư UI giữa các tab có chênh lệch chưa đối soát; không dùng số dư đó để tăng quyền chi.
+- Trạng thái hiện hành REC246: đã chi60/500, còn440; C02 đã duyệt, C01A T04 chọn đúng prefix81 khung/3,375s dưới ngoại lệ owner và phạm vi kiểm độc lập. Owner đã nghe đúng tiếng D06/đủ N01/nhịp của exact cut. Không chọn đuôi native kéo đĩa hoặc duyệt cả phim. C01B đang kiểm preflight, đã gắn ảnh cuối C01A và đúng K20; quote7, chưa submit. Lượt đầu còn140, tạo lại145, sau rough cut45 chưa dùng; dự phòng110 chưa được giải ngân. Số dư cùng account sau cắt/export/upload là1.020; các chênh lệch tab cũ chưa giải thích không tăng quyền chi.
+- Các dòng REC238–246 dưới đây là lịch sử theo thời điểm; quyết định source hiện hành ở `00_decisions/C01A-exact-prefix-selection-246.json` và request kế tiếp ở `04_requests/C01B_input_preparation_246.json`. Không coi heading PENDING cũ là phủ nhận quyết định mới hoặc approval một artifact là approval take khác.
 - Account đã được owner xác nhận; project **EP01 Nem Bùi — Khoai & Đào — 720p v1** đã tạo, giữ project cũ.
 - URL: https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6.
 - Đã kiểm Omni 1.1 Flash / Ingredients / 720p / 9:16 / 10s / x1 / Agent OFF; composer trống báo 15 credit, không quote cuối của C02.
@@ -26,6 +27,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 - REC246 cập nhật sau kiểm T02: critic52 khung xác nhận đúng tay, không thấy lặp rim-occlusion/early-return T01 trong mẫu, nhưng chữ và presenting là MAJOR mới. Root đọc đầy đủ ACT/DOP/critic và giữ diagnostic HOLD trước tích hợp sửa; preflight T03 qua có điều kiện và root đã đóng livegates. Một T03 gửi quote10, số dư cùng tab1.030→1.020; đang chờ output, chưa chứng nhận đã sửa. Nếu text/presenting lặp T03 thì STOP/noT04. C01B vẫn chưa mở.
 - REC246 kết quả T03: Flow từ chối với cảnh báo liên quan nội dung gây hại trẻ vị thành niên, dù request là hai nhân vật food trưởng thành trò chuyện món ăn. Không có output; UI ghi không tính phí, số dư cùng tab trở lại1.030, net0. Không chấm lỗi gesture/text vì chưa có video. Root giữ job lỗi, không bấm Retry; đang kiểm hướng làm rõ bối cảnh trưởng thành lành mạnh, không thay master/canon hoặc tìm cách né cơ chế an toàn.
 - REC246 T04: sau bounded diagnosis/preflight được root đọc đầy đủ, thêm đúng một preamble context canon lành mạnh, phần còn lại exactT03. Root kiểm live inputs/config/readback/quote10 và gửi một lần; chưa có kết quả. Nếu bị từ chối tiếp thì STOP/report, không đổi wording/model/account để chạy vòng lặp; nếu actual text/presenting lặp T02 thì STOP/noT05. T03 không có output không reset chuỗi actual.
+- REC246 T04 đã tải: hashbbf5c423… native720×1280/24fps/144frames/6s, audio6,016s, decode sạch. Không còn lettering/palm-up trong mẫu root, nhưng cả hai tay vươn và outerfingers tới rim rồi đĩa kéo ở đuôi. Đang kiểm độc lập; không chọn range theo beforecontact hoặc tự nới điều kiện. Chỉ cân nhắc owneroption cho phép chạm rim khi đã xác định đoạn hoàn lời/chưa di chuyển đĩa.
+- REC246 owner chốt ngoại lệ: “Cho phép chạm vành; giữ giới hạn chưa kéo/lấy món”. Cho phép thêm gesture tay trong như câu hỏi đã nêu; không duyệt whole6s, tiếng T04, cut/EDL hoặc C01B. Root chuẩn bị bản cắt riêng trên Flow, chờ exact pre-movement window và kiểm output thực. Không kéo đĩa hoặc che sai lệch bằng món cận.
 
 ## Hồ sơ
 

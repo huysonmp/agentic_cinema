@@ -1,0 +1,14 @@
+{
+  "record_id": "REC246-C01A-T04-CUT-AUDIO",
+  "date": "2026-10-07",
+  "owner_answer_verbatim": "Đúng D06, đủ lời và nhịp chấp nhận được",
+  "reviewed_file": "07_edits/C01A_T04_FLOW_0_3p333S_FOR_APPROVAL.mp4",
+  "reviewed_sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
+  "video_seconds": 3.375,
+  "audio_seconds": 3.370667,
+  "approved_scope": "OWNER_ACTUAL_LISTENING_EXACT_CUT_D06_FULL_N01_INCLUDING_FINAL_EM_AND_RHYTHM",
+  "associated_artistic_exception": "C01A-contact-exception-proposal-246.json permitsrimtouch/innergesture butno platepull/take/eat",
+  "not_approved": ["whole6sT04", "futurecut/audio waveform", "lip-sync certification", "C01B", "wholeepisode"],
+  "independent_picture_review": "PENDING_CURRENT_TARGET",
+  "exact_dialogue": "Anh nhìn mãi. Không hợp thì để em."
+}

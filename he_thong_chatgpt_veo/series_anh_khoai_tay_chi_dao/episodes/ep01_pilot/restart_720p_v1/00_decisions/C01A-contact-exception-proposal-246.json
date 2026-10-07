@@ -1,0 +1,18 @@
+{
+  "record_id": "REC246-C01A-CONTACT-EXCEPTION-PROPOSAL",
+  "status": "OWNER_APPROVED_LIMITED_RIM_TOUCH_AND_INNER_GESTURE_ONLY",
+  "owner_answer_verbatim": "Cho phép chạm vành; giữ giới hạn chưa kéo/lấy món",
+  "date": "2026-10-07",
+  "approval_scope": "Limited rimtouch and inner-hand supporting gesture beforeKhoan; exactT04 prefix onlyiffullspeech and no platepull/take isverified. Notwholeclipapproval",
+  "target_native": "05_native/EP01_720_C01A_T04_NATIVE.mp4",
+  "target_sha256": "bbf5c423bff3e30b98aa0ec5b7f56d11b89467456f75dcf1ea2fe3b0829efa43",
+  "owner_question": "Permit Dao rim-touch before Khoan plus inner-hand supporting gesture, but no platepull/taking/eating; retain T04 prefix only if independently verified full-dialogue pre-movement window exists?",
+  "options": ["Permit limitedrimtouch/innergesture, no platepull/take", "Keep strictbeforecontact, re-stage C01A"],
+  "recommended_condition": "Limited exception is potentially narrative-consistent, not a trim fix or unconditionalmediaapproval; if no cleanwindow then rework even if owner permits",
+  "constraints_unchanged": ["N01exactDao/D06", "KhoanexactKhoai inC01B", "no platepull/take/eat beforeKhoan", "fullfaces/speech/rhythm/continuity", "coldNemBui/canon/table", "no costlybatch/finalapproval inference"],
+  "range_status": "UNSELECTED_PENDING_DENSE_REVIEW_AND_ACTUAL_AUDIO",
+  "C01B_status": "HOLD_NO_APPROVED_ENDPOINT",
+  "new_credit_authority": false,
+  "T04_audio_approval": "NOT_INFERRED_FROM_THIS_ARTISTIC_QUESTION",
+  "not_approved": ["whole6sT04", "platepulltail", "newcut/EDL/hash", "C01B", "wholeepisode"]
+}

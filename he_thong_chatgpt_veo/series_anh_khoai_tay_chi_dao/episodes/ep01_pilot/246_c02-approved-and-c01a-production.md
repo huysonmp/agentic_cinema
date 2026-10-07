@@ -49,3 +49,13 @@ Root giữ diagnostic HOLD, đọc đầy đủ ACT/DOP/critic. Đề xuất kh�
 T03 bị Flow từ chối với cảnh báo liên quan nội dung gây hại trẻ vị thành niên; chưa có media. UI ghi không tính phí; số dư1.030→1.020 tạm trừ rồi trở lại1.030, net0. Giữ job/evidence, không chấm hiệu quả sửa tay/chữ hoặc gọi lỗi output. Đang kiểm một lần làm rõ bối cảnh vốn là nhân vật food hư cấu, trưởng thành, trò chuyện bình thường; không đổi source/voice/route hoặc né cơ chế an toàn. Nếu cảnh báo vẫn lặp, dừng trình hướng xử lý, không lặp sửa wording vô hạn.
 
 Sổ sau hoàn T03:50/500 đã dùng, còn450; firstpass140/retake155/postrough45/reserve110 chưa quyền. Git commit local `f275ce3` lưu nhóm C01A evidence/approval; push hai lần gặp remote Internal Server Error, remote xác minh vẫn `4b7e2a6`. Không nhận đã đồng bộ hoặc thay quyền xử lý GitHub. Các cập nhật sau commit này vẫn cần commit riêng.
+
+## Chọn đúng bản cắt C01A T04 và chuẩn bị C01B
+
+T04 đã tải native 6 giây, SHA256 `bbf5c423bff3e30b98aa0ec5b7f56d11b89467456f75dcf1ea2fe3b0829efa43`. Đuôi kéo đĩa nên không chọn toàn native. Owner cho phép chạm vành và cử chỉ tay trong hạn chế, tuyệt đối chưa kéo/lấy món. Bản cắt riêng trên Flow xuất thực 81 khung, 3,375 giây, SHA256 `e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803`. Owner đã nghe đúng bản này: “Đúng D06, đủ lời và nhịp chấp nhận được”.
+
+Root đọc đầy đủ kiểm độc lập: 42 khung riêng biệt của export, gồm mẫu dày 52–80; không thấy kéo đĩa, chữ mới hoặc cử chỉ giới thiệu món trong phạm vi đó. Root chọn đúng prefix dưới ngoại lệ owner; không nâng thành chứng nhận hình–tiếng liên tục, khớp môi toàn câu hoặc duyệt cả phim. Quyết định tại `00_decisions/C01A-exact-prefix-selection-246.json`; cả hai điểm nối và bản dựng thô vẫn phải kiểm.
+
+Đã chuẩn bị C01B từ nguyên khung cuối80, 720×1280, hash `0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb`; không reset tay. DOP/ACT/EDIT đã có đóng góp và được root đọc đầy đủ. C01B chỉ Khoai/K20 nói “Khoan.” → Đào nghe, buông vành, thu tay; đĩa đứng yên. Đã upload ảnh và gắn đúng custom K20, kiểm prompt readback và cấu hình Omni 1.1 Flash/Ingredients/720p/9:16/4s/x1/Agent OFF, quote7. Chưa submit; còn cổng preflight độc lập.
+
+Sổ trước C01B: đã chi60/500, còn440; firstpass140/retake145/postrough45/reserve110 chưa quyền. Số dư cùng account sau cắt/export/upload ảnh là1.020, không thấy trừ thêm so với sau T04. Giữ các số dư khác tab chưa đối soát như lịch sử, không coi đó là quyền thêm ngân sách.

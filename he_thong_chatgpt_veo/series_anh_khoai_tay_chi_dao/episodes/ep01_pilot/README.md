@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 230: đã xác nhận quyền tải, intake R01 lỗi
+## Hiện hành — 231: đóng tab lỗi và làm lại ở tab mới
+
+[231 — quy tắc phục hồi tab và kết quả](231_new-tab-recovery-rule-and-result.md): owner yêu cầu gặp lỗi thì đóng tab đó, mở tab mới đúng project trước retry; áp dụng cho lần sau. Đã đóng1/2, tải lại trên tab3 mới nhưng vẫn lỗi; lưu evidence, đóng3 và giữ tab5 sạch/submit disabled. Source229 không đổi, chi0/live77; chưa input/quote/generation. Không retry trên tab lỗi hoặc auto-paid retry. Cần upload tay cùng file một lần để tách lớp lỗi, không bấm tạo.
+
+## Mốc 230 — đã xác nhận quyền tải, intake R01 lỗi
 
 [230 — upload và điểm chặn](230_upload-consent-execution-and-intake-blocker.md): owner đã xác nhận quyền, đã bấm “Tôi đồng ý” đúng lần tải, không chọn không hiện lại. Cùng guide229 tải thất bại3lần qua2tab/2đường UI; local decode không lỗi, căn nguyên chưa xác định. Chi0/số dư live77; chưa ingredient/quote/generation. Giữ package229, không testtay/x3/Quality. Cần owner thử tải tay đúng source một lần, không bấm tạo, để phân biệt lỗi thao tác/Flow/file.
 

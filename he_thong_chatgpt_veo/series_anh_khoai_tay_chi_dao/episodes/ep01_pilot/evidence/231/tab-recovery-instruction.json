@@ -1,0 +1,18 @@
+{
+  "record_id": "REC231",
+  "date": "2026-10-07",
+  "owner_message": "tắt tab đi và làm lại ở tab mới, nếu lần sau lỗi thì tắt tab đó đi mở tab mới ra",
+  "rule": "Save observed failure evidence, close the affected Flow tab, open the same project in a new tab before retrying. Do not retry in the failed tab.",
+  "scope": "Flow project tab recovery, not clearing cookies, signing out, changing account, deleting media or paid generation retry",
+  "closed_initial_tabs": ["1", "2"],
+  "new_tab_attempt": "3",
+  "uploaded_source": "R01_SOURCE_GUIDE_NOT_FINAL.mp4",
+  "source_sha256": "1ecc6b496291179ce1f5e82153883e2df826b8cf3d7bfdd64edca2a78530b82f",
+  "observed_result": "Upload failed on newly created tab3",
+  "failed_new_tab_closed": "3",
+  "clean_project_tab_kept": "5",
+  "initial_failed_tabs_absent_from_current_inventory": true,
+  "generation_submitted": false,
+  "credits_spent": 0,
+  "root_cause": "UNKNOWN; new tab did not resolve this upload attempt"
+}

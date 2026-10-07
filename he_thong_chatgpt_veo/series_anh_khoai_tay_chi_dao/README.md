@@ -2,7 +2,9 @@
 
 ## Trạng thái hiện hành — 2026-10-07
 
-[230 — upload consent và lỗi intake](episodes/ep01_pilot/230_upload-consent-execution-and-intake-blocker.md) là trạng thái ưu tiên: owner đã xác nhận, nút quyền sử dụng đã bấm; guide229 chưa tải thành công qua2tab/2đường. Local decode không lỗi; căn nguyên còn mở. Chi0, live77; chưa quote đủ inputs/generation. Cần một lần owner upload tay đúng file để tách lỗi intake, không yêu cầu tạo/test video mới. Package229 và khóa voice/script/B giữ nguyên.
+[231 — đóng tab lỗi, mở mới](episodes/ep01_pilot/231_new-tab-recovery-rule-and-result.md) là trạng thái ưu tiên: quy tắc owner cho lần này/lần sau đã ghi. Đã đóng tab1/2, thử cùng source229 trên tab3 mới nhưng vẫn lỗi; đóng3, giữ tab5 sạch. Chi0/số dư77; chưa tạo video/quote đủ inputs. Giữ voice/script/B/refs; cần checkpoint upload tay một lần, không tạo video. Quy tắc tab không cấp paid retry hoặc xóa dữ liệu.
+
+[230 — upload consent và lỗi intake](episodes/ep01_pilot/230_upload-consent-execution-and-intake-blocker.md) là mốc intake: owner đã xác nhận, nút quyền sử dụng đã bấm; guide229 chưa tải thành công qua2tab/2đường. Local decode không lỗi; căn nguyên còn mở. Tiếp phục hồi tab tại231; không thay package229 hoặc khóa voice/script/B.
 
 [229 — coverage mở và nguồn R01](episodes/ep01_pilot/229_opening-coverage-approval-and-production-input.md) là mốc chuẩn bị: owner duyệt thay picture quanh “Khoan”, giữ tiếng B và phần ký ức sau. Đã tạo guide4s/N01+prefixB và PCM3,15s; boundary1s provisional. Gate quyền upload đã được owner xử lý tại230; lỗi intake và quote đủ đầu vào còn mở. Production-only/x1, không test tay riêng/x3/Quality/retry; chưa G1/AV/master PASS hoặc bảo đảm hoàn tất trong77.
 

@@ -1,0 +1,67 @@
+{
+  "record_id": "REC229",
+  "status": "PRODUCTION_INPUT_NOT_FINAL_NOT_AV_PASS",
+  "sources": {
+    "A03": {
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\180_c_v06_dialogue\\A03.mp4",
+      "sha256": "3921e8f9d3a4475bcbd7677f3ca7a180e499adbf432702ccec08aa45dac1620b"
+    },
+    "N01": {
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\183_speaker_audit\\N01_intended_Dao_UNVERIFIED.wav",
+      "sha256": "366e95086c57dc1c5d2a2d366d6b24410ab85b0dcc7b2f2d4fbb61d3aa69cfe1"
+    },
+    "B": {
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\221_n02_pa_v_trial\\N02_B_NATIVE.mp4",
+      "sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535"
+    },
+    "B_PCM": {
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\221_n02_pa_v_trial\\inspection\\N02_B_NATIVE\\AUDIO_REVIEW.wav",
+      "sha256": "bafac31224a35eb80d2121dc05f0e6f5ae4839e6623895a1d51adeff21decb1f"
+    }
+  },
+  "audio_pcm_ranges": [
+    {
+      "source": "N01",
+      "start_sample": 0,
+      "end_sample": 103200,
+      "output_start_sample": 0
+    },
+    {
+      "source": "B_PCM",
+      "start_sample": 0,
+      "end_sample": 48000,
+      "output_start_sample": 103200
+    }
+  ],
+  "audio_duration_s": 3.15,
+  "guide_duration_s": 4,
+  "guide_padding_s": 0.85,
+  "b_picture_boundary_candidate": {
+    "frame": 24,
+    "seconds": 1.0,
+    "fps": 24,
+    "basis": "ASR Khoan 0-.34, next word 1.10; silence .364292-1.209979; no new actual hearing",
+    "status": "PROVISIONAL_JOIN_REQUIRES_ACTUAL_OUTPUT_AV_CHECK"
+  },
+  "guide_warnings": [
+    "A03 picture is not target table or identity lock; replacement guided by S/M/E.",
+    "Guide hard cut is not desired movement or accepted join.",
+    "AAC upload guide is lossy; exact PCM sidecar is retained for verification/master.",
+    "Guide tail silence/held picture is padding only, not additional story beat.",
+    "Do not change voice, timing or words; no repeated Khoan or regenerated memory."
+  ],
+  "master_rule": "Use complete original B PCM continuously once at N02 start. Replace picture prefix only if new AV aligns; retain B picture from frame24 candidate after join QC. No cut/retime of B speech.",
+  "artifacts": {
+    "pcm": {
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\229_r01_production_input\\R01_N01_plus_B_prefix_EXACT_PCM.wav",
+      "sha256": "594e815ec69ee0e10e5881bceb20470ec09e54fcda61704d80439a4c157adfb4"
+    },
+    "guide": {
+      "path": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\229_r01_production_input\\R01_SOURCE_GUIDE_NOT_FINAL.mp4",
+      "sha256": "1ecc6b496291179ce1f5e82153883e2df826b8cf3d7bfdd64edca2a78530b82f"
+    }
+  },
+  "actual_listening": false,
+  "full_av_pass": false,
+  "paid_submission": false
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "REC229",
+  "date": "2026-10-07",
+  "owner_coverage_approved": true,
+  "prompt_sha256": "98ee8c606585da5e8e07bb66199f85a368c25d4b9b80d131d972e0363fde8b29",
+  "maker_report_sha256": "bf9ba0be73ef4e0757002446cb9b4f99d12cd7888335ca525395106417a02411",
+  "critic_report_sha256": "5f58e6b92574ba69215caa6c3ee6bd32c636d3fd9acb2c99d6264efae8ee9932",
+  "root_read_complete_reports": true,
+  "independent_pcm_checks": "6/6 source/artifact hashes and 151200 stereo sample frames match",
+  "scope_of_fixes": "Brief only: ignore stale mouth; E hand pose only; earlier smooth reach; settle before3s; no master padding; retain native watermark",
+  "boundary_b_1_second": "PROVISIONAL_NOT_ACTUAL_HEARING_APPROVED",
+  "browser_recovery": "Browser5 unavailable; connected same in-app project tab1 on browser6. Rights modal verified still present.",
+  "upload_rights_confirmation": "PENDING_OWNER_SPECIFIC_CONFIRMATION",
+  "quote_with_all_inputs": "NOT_VERIFIED",
+  "generation_submitted": false,
+  "credits_spent_this_record": 0,
+  "actual_listening": false,
+  "output_av_review": "NOT_RUN",
+  "full_film_acceptance": false
+}

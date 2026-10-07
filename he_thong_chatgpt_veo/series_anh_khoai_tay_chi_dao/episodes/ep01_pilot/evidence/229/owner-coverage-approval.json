@@ -1,0 +1,15 @@
+{
+  "record_id": "REC229",
+  "date": "2026-10-07",
+  "owner_message": "ok",
+  "approved_proposal": "Replace picture coverage around opening Khoan to show Dao hearing, stopping and returning hand; retain original Khoai audio and approved memory coverage afterwards",
+  "scope": "R01 picture bridge and opening N02 coverage only; no script, voice or memory-content change",
+  "anchor_native_sha256": "660f175775db6b082458846edb5c8edc8beb771b90a3330f53cb37d07f31a535",
+  "original_native_preserved": true,
+  "production_only": true,
+  "standalone_test_authorized": false,
+  "additional_credits": 0,
+  "generation_quote_not_yet_verified": true,
+  "quality_and_retry_authorized": false,
+  "full_film_output_accepted": false
+}

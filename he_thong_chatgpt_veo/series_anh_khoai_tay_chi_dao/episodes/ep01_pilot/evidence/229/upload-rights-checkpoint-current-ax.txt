@@ -1,0 +1,64 @@
+Browser tab: 1, Title: "Google Flow – EP01_P6_Khoai_Dao_Pilot", URL: "https://flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374".
+0 AXWebArea Google Flow – EP01_P6_Khoai_Dao_Pilot, URL: flow.google.com/u/1/project/9276788e-9781-44fb-ba5b-083006667374
+	1 container
+		2 container
+			3 container cdk-overlay-53
+				4 combo box (collapsed) Description: Chọn dự án, Value: EP01_P6_Khoai_Dao_Pilot, ID: mat-select-11, Secondary Actions: Expand
+					5 container
+						6 text EP01_P6_Khoai_Dao_Pilot
+				7 tab group Di chuyển theo danh mục
+					8 tab (selected, settable, boolean) Tất cả, Value: 1
+Tất cả
+					9 tab (selectable, settable, boolean) Hình ảnh, Value: 0
+Hình ảnh
+					10 tab (selectable, settable, boolean) Video, Value: 0
+Video
+					11 tab (selectable, settable, boolean) Giọng nói, Value: 0
+Giọng nói
+					12 tab (selectable, settable, boolean) Nhân vật, Value: 0
+Nhân vật
+					13 tab (selectable, settable, boolean) Hình đại diện, Value: 0
+Hình đại diện
+					14 tab (selectable, settable, boolean) Tệp tải lên, Value: 0
+Tệp tải lên
+				15 button Tải nội dung nghe nhìn lên
+				16 container
+					17 text field (settable) Tìm kiếm thành phần
+					18 combo box (collapsed) Description: Sắp xếp thành phần, Value: Gần đây, ID: mat-select-10, Secondary Actions: Expand
+						19 container
+							20 text Gần đây
+				21 list Danh sách thành phần
+					22 container
+						23 REF01-S_v01_INPUT_REC227 Hình ảnh
+						24 frame-0175.jpg Hình ảnh
+						25 REF01-M_v03_ACCEPTED_REC227 Hình ảnh
+						26 REF01-S_v01_REC224 Hình ảnh
+						27 REF03-S_v01_REC224 Hình ảnh
+						28 REF01-E_v01_REC224 Hình ảnh
+						29 REF03-S_v02_REC225 Hình ảnh
+						30 REF01-M_v01_REC224 Hình ảnh
+						31 REF01-E_v02_REC225 Hình ảnh
+						32 REF01-M_v02_REC225 Hình ảnh
+						33 Man speaking video edit instruct… Video
+						34 Man speaking video edit instruct… Video
+						35 Man speaking video edit instruct… Video
+						36 Character recording audio direction Video
+						37 Man picks up food portion Video
+				38 container
+					39 image Bản xem trước của REF01-S_v01_INPUT_REC227
+					40 button Thêm vào câu lệnh
+		41 container
+			42 container Quyền sử dụng video này, ID: mat-mdc-dialog-0
+				43 container
+					44 heading Quyền sử dụng video này, Value: 2, ID: mat-mdc-dialog-title-0
+						45 text Quyền sử dụng video này
+					46 text Hãy đảm bảo rằng bạn có 
+					47 link Description: các quyền cần thiết, Value: policies.google.com/terms#toc-relationship
+					48 text  đối với mọi nội dung hoặc tệp mà bạn tải lên, kể cả nội dung về trẻ vị thành niên. Không được tạo nội dung vi phạm quyền của người khác, chẳng hạn như nội dung lừa gạt, quấy rối hoặc gây hại. Khi sử dụng Flow, bạn phải tuân thủ 
+					49 link Description: Chính sách về các hành vi bị cấm của Google, Value: policies.google.com/terms/generative-ai/use-policy
+					50 text .
+					51 button Huỷ
+					52 button Tôi đồng ý, không hiện lại
+					53 button Tôi đồng ý
+
+The focused UI element is 53 button Tôi đồng ý

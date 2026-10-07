@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 228: bỏ test riêng, sản xuất rồi QC
+## Hiện hành — 229: duyệt coverage, chuẩn bị nguồn R01
+
+[229 — coverage và nguồn sản xuất](229_opening-coverage-approval-and-production-input.md): owner duyệt thay picture quanh “Khoan”, giữ tiếng B và phần ký ức sau đó. Đã chuẩn bị guide4s có N01+prefixB, WAV exactPCM3,15s và prompt sửa hình/mouth/action; boundary1s provisional, không AV PASS. Flow upload đang chờ xác nhận quyền sử dụng video; chưa quote đủ inputs, chưa generation/chi. Không test tay riêng/x3/Quality/retry; số dư gần nhất77 ở228, fullG1/master còn mở.
+
+## Mốc 228 — bỏ test riêng, sản xuất rồi QC
 
 [228 — production-only và ngân sách](228_production-only-direction-and-budget-control.md): owner hủy batch test tay227 trước submit. Draft Flow đã bỏ, nút tạo disabled, số dư live77, chi0. Giữ M đã duyệt và nguồn B/K20/D06/lời. Đã kiểm hai vai chuyên môn: trước P01 cần giải quyết hình “Khoan”/M tay vươn→B tay nghỉ; đề xuất chỉ đổi coverage đầu B, giữ tiếng và phần ký ức. Chưa owner chốt thay coverage, chưa input/quote/production request ready hoặc video mới. Bảy nhiệm vụ/70 chỉ forecast có điều kiện, không đủ cơ sở hứa hoàn tất77. Không x3/test riêng/Quality/retry tự phát; G1/AV còn mở.
 

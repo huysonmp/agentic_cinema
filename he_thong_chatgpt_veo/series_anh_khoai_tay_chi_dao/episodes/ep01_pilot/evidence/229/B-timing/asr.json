@@ -1,0 +1,188 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.94,
+      "text": " Khoan, mùi này làm anh nhớ đến bếp nhà anh.",
+      "tokens": [
+        50364,
+        591,
+        1289,
+        282,
+        11,
+        275,
+        5035,
+        72,
+        12542,
+        22319,
+        18931,
+        6245,
+        27260,
+        26353,
+        272,
+        6115,
+        79,
+        35398,
+        18931,
+        13,
+        50572
+      ],
+      "avg_logprob": -0.3208865770479528,
+      "compression_ratio": 0.9901960784313726,
+      "no_speech_prob": 0.03238896280527115,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.34,
+          "word": " Khoan,",
+          "probability": 0.8245504995187124
+        },
+        {
+          "start": 1.1,
+          "end": 1.4,
+          "word": " mùi",
+          "probability": 0.9760894974072775
+        },
+        {
+          "start": 1.4,
+          "end": 1.56,
+          "word": " này",
+          "probability": 0.9859133362770081
+        },
+        {
+          "start": 1.56,
+          "end": 1.78,
+          "word": " làm",
+          "probability": 0.9853653311729431
+        },
+        {
+          "start": 1.78,
+          "end": 1.94,
+          "word": " anh",
+          "probability": 0.9877261519432068
+        },
+        {
+          "start": 1.94,
+          "end": 2.18,
+          "word": " nhớ",
+          "probability": 0.9929740726947784
+        },
+        {
+          "start": 2.18,
+          "end": 2.32,
+          "word": " đến",
+          "probability": 0.994224488735199
+        },
+        {
+          "start": 2.32,
+          "end": 2.58,
+          "word": " bếp",
+          "probability": 0.9949286977450053
+        },
+        {
+          "start": 2.58,
+          "end": 2.72,
+          "word": " nhà",
+          "probability": 0.9892975091934204
+        },
+        {
+          "start": 2.72,
+          "end": 2.94,
+          "word": " anh.",
+          "probability": 0.9849697351455688
+        }
+      ],
+      "temperature": 0.0
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.86,
+      "end": 7.3,
+      "text": " Hồi bé, mẹ gian gạo, anh đứng chờ.",
+      "tokens": [
+        50572,
+        389,
+        15695,
+        15807,
+        11,
+        275,
+        26965,
+        290,
+        952,
+        290,
+        43789,
+        11,
+        18931,
+        2934,
+        44555,
+        417,
+        21270,
+        13,
+        50782
+      ],
+      "avg_logprob": -0.3208865770479528,
+      "compression_ratio": 0.9901960784313726,
+      "no_speech_prob": 0.03238896280527115,
+      "words": [
+        {
+          "start": 3.86,
+          "end": 4.38,
+          "word": " Hồi",
+          "probability": 0.9227147996425629
+        },
+        {
+          "start": 4.38,
+          "end": 4.62,
+          "word": " bé,",
+          "probability": 0.9858059287071228
+        },
+        {
+          "start": 5.34,
+          "end": 5.66,
+          "word": " mẹ",
+          "probability": 0.9645220935344696
+        },
+        {
+          "start": 5.66,
+          "end": 5.88,
+          "word": " gian",
+          "probability": 0.433247908949852
+        },
+        {
+          "start": 5.88,
+          "end": 6.22,
+          "word": " gạo,",
+          "probability": 0.9707486629486084
+        },
+        {
+          "start": 6.56,
+          "end": 6.72,
+          "word": " anh",
+          "probability": 0.9851124882698059
+        },
+        {
+          "start": 6.72,
+          "end": 6.92,
+          "word": " đứng",
+          "probability": 0.9939253926277161
+        },
+        {
+          "start": 6.92,
+          "end": 7.3,
+          "word": " chờ.",
+          "probability": 0.9162255823612213
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

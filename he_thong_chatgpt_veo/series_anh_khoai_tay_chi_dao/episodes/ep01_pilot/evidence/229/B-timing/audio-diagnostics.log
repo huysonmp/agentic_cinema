@@ -1,0 +1,49 @@
+ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 16.2.0 (Rev3, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-cairo --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-openal --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      61.  1.102 / 61.  1.102
+  libavcodec     63.  1.102 / 63.  1.102
+  libavformat    63.  1.102 / 63.  1.102
+  libavdevice    63.  1.102 / 63.  1.102
+  libavfilter    12.  1.102 / 12.  1.102
+  libswscale     10.  1.102 / 10.  1.102
+  libswresample   7.  1.102 /  7.  1.102
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\Downloads\du_an_nem_bui\221_n02_pa_v_trial\N02_B_NATIVE.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Google
+  Duration: 00:00:10.01, start: 0.000000, bitrate: 803 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/iec61966-2-1, progressive), 360x640, 663 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 000001b78ed2e4c0] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf63.1.102
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+      handler_name    : SoundHandler
+[Parsed_silencedetect_1 @ 000001b79098da80] silence_start: 0.364292
+[Parsed_silencedetect_1 @ 000001b79098da80] silence_end: 1.209979 | silence_duration: 0.845687
+[Parsed_silencedetect_1 @ 000001b79098da80] silence_start: 3.005583
+[Parsed_silencedetect_1 @ 000001b79098da80] silence_end: 4.171938 | silence_duration: 1.166354
+[Parsed_volumedetect_0 @ 000001b79098a540] n_samples: 960480
+[Parsed_volumedetect_0 @ 000001b79098a540] mean_volume: -20.6 dB
+[Parsed_volumedetect_0 @ 000001b79098a540] max_volume: -1.4 dB
+[Parsed_volumedetect_0 @ 000001b79098a540] histogram_1db: 31
+[Parsed_volumedetect_0 @ 000001b79098a540] histogram_2db: 110
+[Parsed_volumedetect_0 @ 000001b79098a540] histogram_3db: 457
+[Parsed_volumedetect_0 @ 000001b79098a540] histogram_4db: 931
+[out#0/null @ 000001b78ed16140] video:0KiB audio:1876KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:10.00 bitrate=N/A speed= 688x elapsed=0:00:00.01    

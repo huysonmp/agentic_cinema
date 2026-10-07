@@ -2,6 +2,8 @@
 
 ## Hiện hành — 247: làm lại 720p, kiểm điểm nối C01A → C01B
 
+Ngày08/10/2026: T02 đã chạy đúng7 credit, kiểm độc lập và root đọc đầy đủ. LặpMAJOR start-poseT01/T02 nên STOP/noT03, chưa mởC03A. Dự án74/500, còn426;110 dự phòng chưa giải ngân. Chờ owner chốt hướng quay/staging mới, không audio overlay/cover/speed để che lỗi. Các con số trướcT02 bên dưới giữ lịch sử.
+
 [247 — tiếng C01B và bản ghép QC thực](247_actual-c01a-c01b-join-qc.md): tiếng đúng C01B T01 đã được owner chấp nhận; đã nhập exact C01A và xuất scene QC riêng trên Flow. Hình/điểm nối vẫn HOLD, chưa mở C03A. Dự án67/500, còn433, ghép/xuất lượt này observed debit0. Hồ sơ hiện hành chi tiết ở [restart720p](restart_720p_v1/README.md). Các mốc bên dưới là lịch sử, không quyền/phê duyệt hiện hành.
 
 ## Mốc 232: nguồn đã nhận, production R01 bị từ chối không tính phí

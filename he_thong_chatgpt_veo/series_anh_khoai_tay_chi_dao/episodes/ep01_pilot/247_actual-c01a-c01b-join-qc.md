@@ -1,5 +1,9 @@
 # 247 — Tiếng C01B đã chấp nhận; kiểm bản ghép thực trên Flow
 
+## Kết luận hiện hành — 08/10/2026
+
+Đã chạy một T02 giá7 trong quyền238, tải native và kiểm độc lập25 mẫu. Root đọc đầy đủ: thu/rest sớm hơn nhưng lỗi lớn start-pose lặpT01. **STOP sinh thêm, không tựT03; C01B chưa được chọn, chưa mởC03A.** Lỗi có ngay ở clip sinh, không do Flow ghép nhầm. Dự án đã dùng74/500, còn426;110 dự phòng chưa giải ngân. Giữ C01A/C02/voices. Owner cần chốt hướng thiết kế lại coverage hay staging ở `restart_720p_v1/00_decisions/C01B-stop-and-coverage-options-247.md`; các đoạn phía dưới giữ lịch sử của bước ghép/preflight trướcT02.
+
 ## Quyết định đã chốt
 
 Owner trả lời “ok” cho hai điểm đã hỏi: tiếng Khoai/K20 nói một từ “Khoan” ở đúng C01B T01 chấp nhận được; cho phép bấm “Tôi đồng ý” một lần để nhập lại bản cắt C01A trên Flow. Đã ghi đúng phạm vi vào `restart_720p_v1/00_decisions/C01B-T01-audio-and-C01A-reimport-confirmation-247.json`. Không chọn tùy chọn “không hiện lại”; không coi đây là duyệt hình C01B hay cả phim.

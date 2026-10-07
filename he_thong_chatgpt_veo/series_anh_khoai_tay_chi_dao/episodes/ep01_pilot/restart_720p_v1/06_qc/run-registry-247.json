@@ -19,9 +19,18 @@
       "output": "06_qc/C01B_T02_preflight_independent_247.md",
       "target_prompt_sha256": "77f928d13d9249e47cc334d7c2e3a972e52f8a603cd8d08a9175a173902ec7da",
       "limits": "Localread/writeone report only, rootlivegates mandatory"
+    },
+    {
+      "run_id": "C01B-T02-FOCUSED-NATIVE-CRITIC-247",
+      "agent": "/root/c02_critic_239",
+      "role": "Independent focused repeated-blocker confirmation, not exhaustive AV",
+      "status": "COMPLETED_SAME_MAJOR_CONFIRMED_ROOT_READ_FULL_STOP_DIAGNOSIS",
+      "output": "06_qc/C01B_T02_native_independent_247.md",
+      "target_sha256": "b2203e0e3572b997f3f58959acb60aacd343d353a775347e0c49c90066b78f5d",
+      "limits": "Localnative/refs limitedsampleinspection and one report; noUI/API/Git/generation/spending"
     }
   ],
   "paid_submit_count": 1,
-  "observed_debit": "Generation balance pending; assembly observed0",
+  "observed_debit": 7,
   "root_is_independent_reviewer": false
 }

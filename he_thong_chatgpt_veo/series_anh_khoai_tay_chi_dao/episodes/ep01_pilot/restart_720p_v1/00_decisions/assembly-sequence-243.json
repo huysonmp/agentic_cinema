@@ -1,0 +1,11 @@
+{
+  "record_id": "REC243",
+  "date": "2026-10-07",
+  "owner_exact_answer": "1a",
+  "question_context": "242 choose A production C02 first for integrated visual/audio and actual trim/export, or B isolated old clip QC",
+  "decision": "A_USE_FIRST_PRODUCTION_C02_FOR_INTEGRATED_SCENEBUILDER_CHECK",
+  "scope": "One C02, native720p,10s,x1,livequote<=15; no separate paid test clip",
+  "target_request": "04_requests/C02_request_242.json",
+  "after_generation_gate": "Check actual native and trim/export before later shots; owner C02 checkpoint retained",
+  "does_not_approve": ["C02 unseen output", "later shots before C02 check", "local assembly fallback", "new voice/script/tool", "reserve spending"]
+}

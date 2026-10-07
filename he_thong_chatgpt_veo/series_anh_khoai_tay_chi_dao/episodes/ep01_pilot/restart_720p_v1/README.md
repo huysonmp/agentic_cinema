@@ -4,7 +4,7 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
-- Trần dự trù được duyệt: 500 credit; đã chi: 0; còn trong trần: 500.
+- Trần dự trù được duyệt: 500 credit; đã chi: 15; còn trong trần: 485. Số dư accountcurrent sauC02:1.035.
 - Account đã được owner xác nhận; project **EP01 Nem Bùi — Khoai & Đào — 720p v1** đã tạo, giữ project cũ.
 - URL: https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6.
 - Đã kiểm Omni 1.1 Flash / Ingredients / 720p / 9:16 / 10s / x1 / Agent OFF; composer trống báo 15 credit, không quote cuối của C02.
@@ -16,6 +16,7 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 - REC241: owner cho phép tạo ảnhChatGPT. V5 tạo bằng built-in, đã tải/lưu và root kiểm: trọn rau/cốc, giữ F0/hai mặt, có minorlimits về margin/fidelity/ratio941×1672. Đang trình owner, chưa uploadFlow/duyệt master hoặc sinhC02. Xem `04_requests/MASTER01_chatgpt_241.json`.
 - REC242 cập nhật: owner đã duyệt exactv5, checkpoint master+hai voice đóng. Đã uploadv5 và gắn riêngK20, prompt242/cấu hình720p/Ingredients/Omni1.1Flash/10s/9:16/x1/AgentOFF, quote15 đủ inputs. Reviewer độc lập refreshv5 paperpassconditional, root đọc đầy đủ.
 - Scenebuilder gốc đã mở timeline trống và lưu scene8136b4bc-5020-4f7a-afd9-635f8ccf8629. Chưa video để đo trim/export thực. Đang hỏi dùng chínhC02 đầu để kiểm tích hợp hay clipcũQC riêng; chưa submit C02, không tự coi masterapproval là miễn kiểm dựng.
+- REC243 hiện hành: owner chọnA. MộtC02đãsinh/tải/kiểm,REWORKhình(dođổiset/khungrộng/Đàochắptayđầu);chưaC01A. Nativevoice chưahumanaccepted. Flowtrim/exportmộtclip đãkiểmactual;output9,041667s/217frames/720×1280,giữtiếngnguồn. KhôngcoiQCexportlàfilmapproved; xem243và`07_edits/C02_flow_trim_export_243.json`.
 - Clip đầu tiên vẫn là C02, Khoai kể ký ức. Chưa chạy video: cần qua checkpoint ảnh master + hai giọng, rồi đối soát exact inputs, quote và output720p.
 - Các đơn vị: C01A, C01B, C02, C03A, C03B, C04, C05, C06, C07, C08, C09. Thứ tự sinh theo kế hoạch 236, không theo tên file.
 

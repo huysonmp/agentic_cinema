@@ -7,10 +7,12 @@
   "operation": "New blank native Scene from project menu, renamed; no old footage/media added, no generation",
   "observed_controls": ["timeline", "Add video clip", "Play", "Mute", "Current and total duration", "Aspect toggle", "Download scene disabled on empty sequence"],
   "Add_video_picker": "Video category opens but empty because fresh project has no native videos",
-  "actual_trim_rearrange_linked_audio_export": "NOT_TESTED_NO_VIDEO_IN_PROJECT",
+  "actual_trim_rearrange_linked_audio_export": "REC243_ONE_CLIP_TRIM_EXPORT_AUDIO_RETENTION_TECHNICALLY_CHECKED_MULTI_CLIP_JOINS_NOT_TESTED",
   "catalog_Stringout_remix": "Separate tool previously failed; not used as evidence for this native Scenebuilder",
   "official_docs_checked": "https://support.google.com/flow/answer/16935718?hl=en; checked2026-10-07, declares arrange/trim/preview/download",
-  "readiness": "UI_INTERFACE_AVAILABLE_ACTUAL_INTEGRATED_PROBE_PENDING",
+  "readiness": "ONE_CLIP_ACTUAL_PROBE_COMPLETED243_SCOPED_NOT_FULL_FILM_PASS",
+  "actual_probe_record": "07_edits/C02_flow_trim_export_243.json",
   "owner_question": "Use first production C02 to validate actual trim/export before later shots, or isolated old-clip QC first",
+  "owner_decision": "REC243 answer1a, useC02first; actual check still pending",
   "no_paid_scene_generation": true
 }

@@ -1,0 +1,11 @@
+{
+  "record_id": "REC243",
+  "authority": "217 bounded specialist review,236 plan,238 scope,242 image and243 integrated-check choiceA",
+  "runs": [
+    {"run_id":"C02-NATIVE-CRITIC-243","role":"INDEPENDENT_VISUAL_NATIVE_REVIEW","status":"REWORK_VISUAL_SCOPE_ROOT_READ_FULL_HOLD_DEPENDENT_SHOTS","output":"06_qc/C02_native_independent_243.md"}
+  ],
+  "source_sha256": "5ba2878f2e59bbe03a49345217a0bccbf00b5d8c7864dac64d22cf26ceb6d4d4",
+  "permissions": "Read exact local inputs and view actual frame evidence; assigned report only; no UI/API/Git/credit/media edit",
+  "C02_submission_count": 1,
+  "media_approved": false
+}

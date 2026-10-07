@@ -1,6 +1,6 @@
 # C01B — Dừng lặp take và chốt hướng khắc phục
 
-Trạng thái: **ĐỀ XUẤT HƯỚNG ĐẠO DIỄN, CHƯA DUYỆT THAY COVERAGE HOẶC CHẠY TIẾP**.
+Trạng thái hiện hành — REC248: **OWNER CHỌN A, ĐƯỢC CHUẨN BỊ THIẾT KẾ COVERAGE C01B; CHƯA DUYỆT MEDIA HOẶC CHẠY TRẢ PHÍ**. Owner trả lời “a”, sau đó yêu cầu tiếp tục. Xem `C01B-coverage-direction-248.json`. Nội dung lựa chọn phía dưới giữ làm lịch sử quyết định; STOP tuyến T01/T02 không tự được gỡ.
 
 ## Hiện trạng
 

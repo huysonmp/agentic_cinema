@@ -1,0 +1,25 @@
+{
+  "record_id": "REC248",
+  "authority": "Owner217 chuyên biệt và reviewer độc lập; owner chọn A sau STOP247; chuẩn bị thiết kế, không paid resume",
+  "runs": [
+    {"run_id": "REC248-C01B-DIR-COVERAGE", "agent": "/root/c01b_dir_248", "role": "DIR maker", "output": "06_qc/C01B_coverage_DIR_248.md", "status": "COMPLETED_ROOT_READ_FULL_THEN_INTEGRATION_AMENDMENT_READ", "scope": "Paper and two original reference stills; not AV; stale initial composition superseded by amendment"},
+    {"run_id": "C01B-COVERAGE-DOP-248", "agent": "/root/c02_dop_239", "role": "DOP maker", "output": "06_qc/C01B_coverage_DOP_248.md", "status": "COMPLETED_REVISED_ROOT_READ_FULL", "scope": "Paper and three reference stills; outer contact outside BM UNKNOWN"},
+    {"run_id": "C01B-COVERAGE-ACT-248", "agent": "/root/c02_act_239", "role": "ACT maker", "output": "06_qc/C01B_coverage_ACT_248.md", "status": "COMPLETED_ROOT_READ_FULL_WITH_UPDATED_BEAT", "scope": "Paper and two original reference stills; not movement/hearing PASS"},
+    {"run_id": "REC248-C01B-EDIT-DLG-COVERAGE", "agent": "/root/c01b_edit_248", "role": "EDIT and DLG-EDIT maker", "output": "06_qc/C01B_coverage_EDIT_248.md", "status": "COMPLETED_REVISED_ROOT_READ_FULL", "scope": "Paper and BM candidate still; native ranges new sources UNKNOWN"},
+    {"run_id": "REC248-C01B-INDEPENDENT-DESIGN", "agent": "/root/c02_critic_239", "role": "Independent paper/still critic", "output": "06_qc/C01B_coverage_independent_248.md", "status": "COMPLETED_ROOT_READ_FULL_CONDITIONAL_HANDOFF_PRODUCTION_HOLD", "scope": "Design and three stills only; no voice/motion/AV PASS"}
+  ],
+  "root_is_independent_reviewer": false,
+  "media": {
+    "BM_reference": "02_refs/C01B_BM_START_v1_CHATGPT_FOR_REVIEW_248.png",
+    "BM_reference_sha256": "8ecb1105de2b8a0b786c05ad38e4965206d62a7629741a7863e8fcb77f7bad03",
+    "BM_reference_dimensions": [941, 1672],
+    "image_route": "Built-in ChatGPT image tool; source A80; no Flow video generation",
+    "image_prompt": "02_refs/C01B_BM_START_v1_image_prompt_248.txt",
+    "BM_video": "NOT_CREATED",
+    "BR_video": "NOT_CREATED"
+  },
+  "paid_video_submit_count": 0,
+  "Flow_video_credit_debit_this_record": 0,
+  "production_ready": false,
+  "root_disposition": "Conditional paper/still package ready for owner review; DIR specification conflict reconciled in appended amendment, read by root; critic did not review later amendment. Not motion/AV/rights PASS or production resume."
+}

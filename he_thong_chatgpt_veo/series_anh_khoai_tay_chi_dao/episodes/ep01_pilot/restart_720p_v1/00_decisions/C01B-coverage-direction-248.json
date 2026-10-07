@@ -1,0 +1,25 @@
+{
+  "record_id": "REC248-C01B-COVERAGE-A",
+  "date": "2026-10-08",
+  "owner_reply": "a",
+  "followup": "tiếo tuc đi",
+  "decision": "A: thiết kế lại coverage riêng C01B",
+  "status": "DESIGN_AUTHORIZED_PRODUCTION_NOT_RESUMED",
+  "authority_source": "00_decisions/C01B-stop-and-coverage-options-247.md; owner lựa chọn A sau REC247",
+  "scope": ["Khoai hiện rõ mặt và miệng khi nói Khoan", "Đào nghe, buông tiếp xúc và thu tay, rồi nối C02", "DIR/DOP/ACT/EDIT thiết kế riêng; phản biện độc lập; chuẩn bị ảnh tham chiếu"],
+  "preserve": {
+    "C01A_selected_cut_sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
+    "C02_selected_cut_sha256": "d151eb1d9f5f5b4486fed030579d9da3de0d23f434a65db2f6c4dca88b3228f3",
+    "C01A_last_frame_sha256": "0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb",
+    "C02_F0_reference_sha256": "c59ad1e436ad42e7525c564a883269ef9f80288f4c76b675e64bba1798500cad",
+    "C01B_dialogue": "Khoan.",
+    "speaker": "Khoai",
+    "voice": "K20 đã chọn; không chuyển approval tiếng T01 sang nguồn mới",
+    "canon": "Giữ hai nhân vật, trục, món/bàn, toàn bộ lời và quan hệ bạn bè"
+  },
+  "old_route": "T01/T02 không được chọn; STOP vẫn áp dụng, không tự T03 cùng coverage cũ",
+  "not_authorized_by_direction": ["paid generation", "media approval", "new tool/model/voice", "reserve110", "C03A trước khi chuỗi C01B đạt", "che lỗi bằng món/crop/freeze/speed/overlay"],
+  "budget_snapshot_source": "REC247, chưa kiểm số dư live lại ở REC248",
+  "budget": {"spent": 74, "cap": 500, "remaining_total": 426, "allocated_spendable_remaining": 316, "reserve_unapproved": 110, "REC248_video_spend": 0},
+  "next_gate": "Tích hợp đóng góp chuyên môn, phản biện thiết kế/ảnh, trình owner phạm vi quay mới trước sản xuất"
+}

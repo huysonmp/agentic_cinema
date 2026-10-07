@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — 232: nguồn đã nhận, production R01 bị từ chối không tính phí
+## Hiện hành — 247: làm lại 720p, kiểm điểm nối C01A → C01B
+
+[247 — tiếng C01B và bản ghép QC thực](247_actual-c01a-c01b-join-qc.md): tiếng đúng C01B T01 đã được owner chấp nhận; đã nhập exact C01A và xuất scene QC riêng trên Flow. Hình/điểm nối vẫn HOLD, chưa mở C03A. Dự án67/500, còn433, ghép/xuất lượt này observed debit0. Hồ sơ hiện hành chi tiết ở [restart720p](restart_720p_v1/README.md). Các mốc bên dưới là lịch sử, không quyền/phê duyệt hiện hành.
+
+## Mốc 232: nguồn đã nhận, production R01 bị từ chối không tính phí
 
 [232 — intake và kết quả production](232_source-intake-resolved-and-r01-production-result.md): source anh tải đã chọn được trên tab mới, đối soát nội dung/waveform tương ứng guide229. Đủ video+S/M/E, prompt khớp, quote10/OmniFlash360p9:16/4s/x1. Owner duyệt một lượt10; submit1lần nhưng Flow báo không thể chỉnh sửa lời nói, không output/không tính phí, balance77. Không auto-retry; tab lỗi đã đóng, giữ8 sạch. Đang chẩn đoán tuyến/request; sourceB/voice/script/food giữ, G1/AV/master chưa đạt.
 

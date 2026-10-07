@@ -1,0 +1,17 @@
+{
+  "record_id": "REC247-OWNER-TWO-POINT-CONFIRMATION",
+  "date": "2026-10-07",
+  "owner_answer_verbatim": "ok",
+  "context": "Immediately preceding final asked two points: exact C01B T01 Khoai/K20 single Khoan with acceptable rhythm; one-time Flow Tôi đồng ý for rights/policy confirmation on reimport exact project-created C01A cut",
+  "interpretation": "Affirmative to the two explicitly scoped questions; root stated this interpretation before proceeding. Not independent AI listening",
+  "C01B_audio_status": "OWNER_ACCEPTED_EXACT_T01_AUDIO_IN_CONTEXT",
+  "C01B_native_sha256": "f7321e72c952cf849f9b5febede7fb08951c997970de82e6f8d424f54415089b",
+  "C01B_audio_file": "C:/Users/PC/Downloads/du_an_nem_bui/ep01_restart_720p_v1/06_qc/C01B_T01_NATIVE_246/native_audio.wav",
+  "C01B_PCM_sha256": "8decc9f2342221e096de3bd45ac98a8a9a51dc0e05d1bf33977b334ab62d0528",
+  "C01A_reimport_status": "OWNER_AUTHORIZED_ONE_TIME_RIGHTS_CONFIRMATION_AT_ACTION_TIME",
+  "C01A_cut_sha256": "e22c113204c404e928683c69465237921f601f2b33a3eb9a9187eb0648f4b803",
+  "authorized_button": "Tôi đồng ý",
+  "not_authorized": ["Tôi đồng ý không hiện lại", "Other video rights confirmations", "New credit budget", "C01B picture or joins", "Wholefilm approval", "Future voice waveforms", "Lip-sync certification"],
+  "C01B_picture_status": "HOLD_START_AND_RENEWED_REACH",
+  "next": "Separate actual joint QC, not paid retake or dependent C03A"
+}

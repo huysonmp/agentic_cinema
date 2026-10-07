@@ -1,0 +1,18 @@
+{
+  "record_id": "REC247",
+  "authority": "Owner217 bounded specialists; production236/238; owner247 exactB audio and one-timeA rights",
+  "runs": [
+    {
+      "run_id": "C01A-C01B-ACTUAL-JOIN-CRITIC-247",
+      "agent": "/root/c02_critic_239",
+      "role": "Independent actual exported join reviewer",
+      "status": "DISPATCHED_PENDING_ROOT_FULL_READ",
+      "output": "06_qc/C01A_C01B_actual_join_independent_247.md",
+      "target_sha256": "4f92cfd00ddf51b30dd99ec1d779fc703d22ea4fec0a51fd83ec8f0f4322a58d",
+      "limits": "Read/view assignedlocal evidence, write one report; no UI/API/Git/credit/generation/release, framesnotcontinuousAV"
+    }
+  ],
+  "paid_submit_count": 0,
+  "observed_debit": 0,
+  "root_is_independent_reviewer": false
+}

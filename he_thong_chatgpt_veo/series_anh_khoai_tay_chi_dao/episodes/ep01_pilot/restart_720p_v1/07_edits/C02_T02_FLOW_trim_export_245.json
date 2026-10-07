@@ -1,6 +1,6 @@
 {
   "record_id": "REC245",
-  "status": "EXPORTED_FOR_OWNER_CHECKPOINT_NOT_APPROVED",
+  "status": "EXACT_EXPORT_OWNER_APPROVED_REC246",
   "scene_id": "13856f3b-e94b-4ec7-a20f-4761275add18",
   "scene_name": "EP01_C02_T02 — BẢN CẮT CHỜ DUYỆT",
   "source_file": "05_native/EP01_720_C02_T02_NATIVE.mp4",
@@ -33,7 +33,8 @@
   "silence_tail_start_seconds_at_minus40dB": 6.968604,
   "ASR_uncertain_word": "rang rendered gang with probability0.328; requires listening, no canon rewrite",
   "voice_approval_244_transferred": false,
-  "owner_actual_AV_decision": "PENDING_EXACT_EXPORT_CHECKPOINT",
+  "owner_actual_AV_decision": "ACCEPTED_EXACT_EXPORT_REC246",
+  "owner_approval_record": "00_decisions/C02-export-approval-246.json",
   "whole_film_EDL_locked": false,
   "C01A_submitted": false,
   "new_video_generation_for_trim": false,

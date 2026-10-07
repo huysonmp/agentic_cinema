@@ -1,7 +1,7 @@
 {
   "request_id": "EP01-720-C02-T02-245",
   "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
-  "status": "FLOW_TRIMMED_EXPORT_SENT_FOR_OWNER_CHECKPOINT",
+  "status": "EXACT_FLOW_EXPORT_OWNER_APPROVED_REC246",
   "authority": "REC238 scoped <=15/x1/720p production retake, owner continue REC245",
   "reference_authority": "REC236 shot-specific camera preparation, approved master REC242, independent static review REC244; not a replacement master or new owner approval",
   "image_file": "02_refs/C02_MEDIUM_v1_CHATGPT_NATIVE.png",
@@ -42,7 +42,8 @@
   "independent_native_report_root_read_full": true,
   "independent_export_report_root_read_full": true,
   "export_record": "07_edits/C02_T02_FLOW_trim_export_245.json",
-  "owner_C02_T02_checkpoint": "PENDING_EXACT_FLOW_EXPORT",
+  "owner_C02_T02_checkpoint": "APPROVED_EXACT_FLOW_EXPORT_REC246",
+  "owner_approval_record": "00_decisions/C02-export-approval-246.json",
   "C01A_submitted": false,
   "frame_evidence_directory": "C:/Users/PC/Downloads/du_an_nem_bui/ep01_restart_720p_v1/06_qc/C02_T02_245",
   "observed_balance_after": 1020,
@@ -55,7 +56,7 @@
   "remaining_cap_before": 485,
   "retake_bucket_before": 180,
   "reserved_110_authorized": false,
-  "open_checks": ["actual video frame/background/hand/voice/lipsync", "actual timing and joins", "owner C02 checkpoint"],
+  "open_checks": ["actual whole-episode timing and joins; C02 selected export accepted by owner246"],
   "audio_approval_244_applies_to": "T01 native only, not future T02 audio",
   "stop_rule": "Same MAJOR in second consecutive C02 output: stop and diagnose, do not submit T03 automatically"
 }

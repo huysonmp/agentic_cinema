@@ -4,7 +4,7 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
-- Trần dự trù được duyệt: 500 credit; đã chi: 15; còn trong trần: 485. Số dư accountcurrent sauC02:1.035.
+- Trần được duyệt: 500 credit; sổ bảo thủ REC245 ghi đã dùng 30, còn 470. Số dư UI giữa các tab có chênh lệch chưa đối soát; không dùng số dư đó để tăng quyền chi.
 - Account đã được owner xác nhận; project **EP01 Nem Bùi — Khoai & Đào — 720p v1** đã tạo, giữ project cũ.
 - URL: https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6.
 - Đã kiểm Omni 1.1 Flash / Ingredients / 720p / 9:16 / 10s / x1 / Agent OFF; composer trống báo 15 credit, không quote cuối của C02.
@@ -21,6 +21,7 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 - REC245 hiện hành: đã sinh một C02 T02 sửa bằng ảnh cận vừa, giữ lời/K20. Ba lỗi lớn T01 không lặp trong mẫu kiểm; phần Đào hé môi ở đuôi đã loại khỏi bản cắt Flow. Export 720×1280, 24 fps, 181 khung, dài 7,541667 giây, đang chờ owner duyệt hình–tiếng. Chưa mở C01A.
 - Ngân sách REC245: tab tạo video ghi 1.020 sau T02, trừ 15. Sổ dự án tính bảo thủ đã dùng 30/500, còn 470. Tab mới sau đó hiển thị 1.050, chưa đối soát nguyên nhân; không suy hoàn phí hoặc tăng quyền chi. Native, bản cắt, kiểm và bài học đã lưu riêng.
 - Các đơn vị: C01A, C01B, C02, C03A, C03B, C04, C05, C06, C07, C08, C09. Thứ tự sinh theo kế hoạch 236, không theo tên file.
+- REC246 hiện hành: owner “ok được rồi đấy” duyệt đúng export C02 T02, SHA256 d151eb1d9f5f5b4486fed030579d9da3de0d23f434a65db2f6c4dca88b3228f3. Đóng checkpoint C02 cho đoạn được chọn; không duyệt đuôi native hoặc cả phim. Chuyển sang chuẩn bị C01A; tiếng Đào trong output sản xuất vẫn cần owner nghe trước khi mở rộng thoại Đào.
 
 ## Hồ sơ
 

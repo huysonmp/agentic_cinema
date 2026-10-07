@@ -1,0 +1,18 @@
+{
+  "record_id": "REC246",
+  "date": "2026-10-07",
+  "owner_reply_verbatim": "ok được rồi đấy",
+  "decision": "APPROVED_EXACT_C02_T02_FLOW_EXPORT",
+  "target_file": "07_edits/C02_T02_FLOW_0_7p5S_FOR_APPROVAL.mp4",
+  "target_sha256": "d151eb1d9f5f5b4486fed030579d9da3de0d23f434a65db2f6c4dca88b3228f3",
+  "hash_reverified_owner_copy": true,
+  "video_seconds": 7.541667,
+  "video_frames": 181,
+  "scope": "Owner accepts the exact C02 cut presented for picture, Khoai voice, dialogue and rhythm; closes C02 checkpoint for this selected export only",
+  "not_approved": ["unselected 10s native tail", "whole episode", "future takes", "final export"],
+  "independent_reports_preserved_as_historical": true,
+  "next_production_unit": "C01A",
+  "remaining_authority": "REC238 native720p/x1/live quote<=15, conservative project remaining470; reserve110 still requires owner",
+  "C01A_actual_Dao_voice_checkpoint": "REQUIRED_BEFORE_EXTENDING_DAO_DIALOGUE",
+  "C01A_submitted_at_approval_record": false
+}

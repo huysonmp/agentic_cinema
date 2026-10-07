@@ -12,7 +12,7 @@ Ngày 07/10/2026. Owner xác nhận **“Đúng K20, lời và nhịp chấp nh�
 
 ## Đầu ra và ranh giới
 
-Ảnh: `02_refs/C02_MEDIUM_v1_CHATGPT_NATIVE.png`, hash `c0ec77283233b4b4f49c172697f8c7b42fd2a7cc4bf3960670723b1a871fd0a7`, 941×1672. Bản owner trong folder 
+Ảnh: `02_refs/C02_MEDIUM_v1_CHATGPT_NATIVE.png`, hash `c0ec77283233b4b4f49c172697f8c7b42fd2a7cc4bf3960670723b1a871fd0a7`, 941×1672. Bản owner trong folder
 `C:/Users/PC/Downloads/du_an_nem_bui/ep01_restart_720p_v1/02_refs/`.
 
 Đây là **shot-specific reference**, không thay master đã duyệt hoặc yêu cầu mọi shot đều cận. Prompt nguyên văn tại `02_refs/C02_medium_reference_244.txt`; request tại `04_requests/C02_medium_reference_244.json`.

@@ -6,6 +6,18 @@
     "role": "INDEPENDENT_REQUEST_REVIEW",
     "status": "COMPLETED_PASS_PAPER_ROOT_READ_FULL",
     "output": "06_qc/C02_T02_preflight_independent_245.md"
+  }, {
+    "run_id": "C02-T02-NATIVE-CRITIC-245",
+    "role": "INDEPENDENT_NATIVE_FRAME_REVIEW",
+    "status": "COMPLETED_RETAIN_CANDIDATE_WITH_TAIL_EDIT_ROOT_READ_FULL",
+    "output": "06_qc/C02_T02_native_independent_245.md",
+    "target_sha256": "2f20ec53b20cf3dea2eb48ee0c3f76913ce8a4da45f05ebf24dc33587a9ed297"
+  }, {
+    "run_id": "C02-T02-FLOW-EXPORT-CRITIC-245",
+    "role": "INDEPENDENT_TRIMMED_EXPORT_FRAME_REVIEW",
+    "status": "COMPLETED_EXPORT_SAMPLE_VISUAL_PASS_FOR_OWNER_REVIEW_ROOT_READ_FULL",
+    "output": "06_qc/C02_T02_FLOW_export_independent_245.md",
+    "target_sha256": "d151eb1d9f5f5b4486fed030579d9da3de0d23f434a65db2f6c4dca88b3228f3"
   }],
   "permissions": "Read exact local inputs and write assigned report only; no UI, API, Git, credit use or generation",
   "paid_submit_count_this_record": 1

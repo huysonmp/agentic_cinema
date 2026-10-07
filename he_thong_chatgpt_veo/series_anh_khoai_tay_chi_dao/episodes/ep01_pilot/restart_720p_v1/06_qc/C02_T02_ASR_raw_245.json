@@ -1,0 +1,161 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.9600000000000004,
+      "end": 6.94,
+      "text": " Mùi này làm anh nhớ đến bếp nhà anh. Hồi bé, mẹ găng gạo, anh đứng chờ.",
+      "tokens": [
+        50364,
+        376,
+        5035,
+        72,
+        12542,
+        22319,
+        18931,
+        6245,
+        27260,
+        26353,
+        272,
+        6115,
+        79,
+        35398,
+        18931,
+        13,
+        389,
+        15695,
+        15807,
+        11,
+        275,
+        26965,
+        290,
+        34705,
+        290,
+        43789,
+        11,
+        18931,
+        2934,
+        44555,
+        417,
+        21270,
+        13,
+        50714
+      ],
+      "avg_logprob": -0.25176673105784825,
+      "compression_ratio": 0.9895833333333334,
+      "no_speech_prob": 0.06401051580905914,
+      "words": [
+        {
+          "start": 0.9600000000000004,
+          "end": 1.48,
+          "word": " Mùi",
+          "probability": 0.9322844743728638
+        },
+        {
+          "start": 1.48,
+          "end": 1.66,
+          "word": " này",
+          "probability": 0.9958479404449463
+        },
+        {
+          "start": 1.66,
+          "end": 1.92,
+          "word": " làm",
+          "probability": 0.9613540172576904
+        },
+        {
+          "start": 1.92,
+          "end": 2.08,
+          "word": " anh",
+          "probability": 0.9833774566650391
+        },
+        {
+          "start": 2.08,
+          "end": 2.34,
+          "word": " nhớ",
+          "probability": 0.9968933761119843
+        },
+        {
+          "start": 2.34,
+          "end": 2.5,
+          "word": " đến",
+          "probability": 0.9938871264457703
+        },
+        {
+          "start": 2.5,
+          "end": 2.76,
+          "word": " bếp",
+          "probability": 0.993225117524465
+        },
+        {
+          "start": 2.76,
+          "end": 2.9,
+          "word": " nhà",
+          "probability": 0.9843747019767761
+        },
+        {
+          "start": 2.9,
+          "end": 3.12,
+          "word": " anh.",
+          "probability": 0.9490603804588318
+        },
+        {
+          "start": 3.78,
+          "end": 4.26,
+          "word": " Hồi",
+          "probability": 0.9361763894557953
+        },
+        {
+          "start": 4.26,
+          "end": 4.52,
+          "word": " bé,",
+          "probability": 0.9826391935348511
+        },
+        {
+          "start": 5.06,
+          "end": 5.24,
+          "word": " mẹ",
+          "probability": 0.9806581139564514
+        },
+        {
+          "start": 5.24,
+          "end": 5.46,
+          "word": " găng",
+          "probability": 0.3282589316368103
+        },
+        {
+          "start": 5.46,
+          "end": 5.8,
+          "word": " gạo,",
+          "probability": 0.9858865737915039
+        },
+        {
+          "start": 6.22,
+          "end": 6.38,
+          "word": " anh",
+          "probability": 0.9772379994392395
+        },
+        {
+          "start": 6.38,
+          "end": 6.56,
+          "word": " đứng",
+          "probability": 0.9964683651924133
+        },
+        {
+          "start": 6.56,
+          "end": 6.94,
+          "word": " chờ.",
+          "probability": 0.9503565430641174
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

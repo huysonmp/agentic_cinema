@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC256: BM ngắn được chốt, kiểm nối và chờ quyền BR
+
+Owner “ok r đấy” chấp nhận đúng BM ngắn 0,75 giây đã gửi. Đã chọn 18 khung và dựng QC A→BM 4,125 giây, chi 0; nhịp/AV bản nối mới còn chờ kiểm. BR chưa được phép chi vì đợt đã 34/34; đề xuất riêng một lượt ≤15 sau kiểm tuyến/quote live, không retry/reserve. Xem [256 — chốt BM và điểm nối đầu](256_short-BM-approved-and-first-join-check.md). Mốc 255 trở xuống giữ lịch sử, không còn là trạng thái chọn BM hiện hành.
+
 ## Hiện hành — REC255: cắt gọn nhịp “Khoan”
 
 Theo yêu cầu owner, đã cắt bản sửa áo REC254 còn 0,75 giây/18 khung (F20–37 nguồn), bỏ 3,25 giây hình dư; tiếng và hình cùng dịch gốc, không đổi tốc độ/giọng. Chi 0 credit. **NOT_SELECTED / OWNER_SHORT_AV_PENDING**: chờ nghe/xem đúng bản ngắn; không dùng yêu cầu cắt làm approval hình/giọng/khẩu hình. BM range chưa chọn, BR chưa mở. Xem [255 — bản cắt nhịp “Khoan”](255_trim-khoan-to-speaking-beat.md). Mốc 254 trở xuống giữ lịch sử.

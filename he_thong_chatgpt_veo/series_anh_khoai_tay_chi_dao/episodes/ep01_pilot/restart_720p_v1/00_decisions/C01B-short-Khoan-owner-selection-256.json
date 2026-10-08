@@ -1,0 +1,17 @@
+{
+  "record": "REC256",
+  "date": "2026-10-08",
+  "owner_reply_verbatim": "ok r đấy",
+  "reply_context": "Exact 0.75-second Khoan preview REC255, asked complete word and acceptable mouth sync",
+  "target": "07_edits/C01B_KHOAN_SHORT_0p75S_T01_FOR_REVIEW.mp4",
+  "target_sha256": "c6bbc9de803badf608f576f5dc47f126581db317434dcd92c00abd06698887bc",
+  "hash_reverified": true,
+  "status": "OWNER_ACCEPTED_EXACT_SHORT_BM_SELECTED",
+  "accepted_scope": "Exact short clip as presented: picture, word, voice and speaking rhythm/mouth sync acceptable by owner; no laboratory sync certification",
+  "actual_listening_evidence": "OWNER_REPORTED_ACCEPTANCE_NOT_AGENT_LISTENING",
+  "source_REC254_range_frames_half_open_zero_based": [20, 38],
+  "selected_output_range_frames_half_open_zero_based": [0, 18],
+  "selected_duration_seconds": 0.75,
+  "not_approved": ["Full 4-second REC254", "Other voices or takes", "New joins", "BR production", "Whole film or final export", "New credit spend or reserve110"],
+  "next_allowed_action": "Local actual C01A-to-BM join QC and BR preflight preparation only"
+}

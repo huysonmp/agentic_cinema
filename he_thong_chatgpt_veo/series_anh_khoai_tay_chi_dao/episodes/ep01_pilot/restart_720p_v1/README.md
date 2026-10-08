@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC256:** owner chấp nhận/chọn BM ngắn REC255 đúng hash và 0,75 giây. Đã dựng QC A→BM 4,125 giây/99 khung, chi 0; bản nối mới chưa owner duyệt. BR giữ hai mốc A80/C02F0, nhưng chưa quyền chi; đề xuất một output ≤15 sau kiểm live, chưa quote/submit. Đợt vẫn 34/34, dự án 108/500, còn 392, reserve đóng. Xem `06_qc/run-registry-256.json` và `../256_short-BM-approved-and-first-join-check.md`. Mốc 255 trở xuống giữ lịch sử.
+
 - **Hiện hành REC255:** cắt theo yêu cầu owner còn 0,75 giây/18 khung F20–37 nguồn REC254, tiếng/hình cùng dịch gốc; không đổi tốc độ/giọng. Chi 0, **NOT_SELECTED / OWNER_SHORT_AV_PENDING**; chờ nghe/xem bản ngắn, BM range chưa chọn, BR chưa mở. Xem `06_qc/run-registry-255.json` và `../255_trim-khoan-to-speaking-beat.md`. Mốc 254 trở xuống giữ lịch sử.
 
 - **Hiện hành REC254:** owner duyệt thử local, đã tạo candidate sửa vùng áo từ T02 gốc; root/reviewer độc lập kiểm đủ 96 frame, không còn chữ; copy audio packet/timing và PCM bằng tuyệt đối. **GO_FOR_OWNER_AV_CHECK / NOT_SELECTED**: áo hơi mềm cần playback, voice/sync còn chờ owner. Chi 0, không Flow hoặc cài mới; 108/500, còn 392, đợt 34/34, reserve đóng; BR chưa mở. Xem `06_qc/run-registry-254.json` và `../254_local-shirt-repair-and-owner-av-check.md`. Mốc 253 trở xuống giữ lịch sử.

@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC253:** đã chạy một video-edit được owner duyệt, thực chi 20, số dư 992→972. Native tải riêng; kiểm đủ 96 frame qua board đối soát xác nhận chữ vẫn còn F23–57. **NOT_SELECTED / BR_HOLD**, không retry hoặc mở reserve. Review độc lập output mới chưa chạy được do giới hạn agent; chưa nghe/sync. Tổng dự án 108/500, còn 392 (110 reserve đóng), đợt 34/34. Xem `06_qc/run-registry-253.json` và `../253_one-text-repair-result-and-stop.md`. Mốc 252 trở xuống là lịch sử.
+
 - **Hiện hành REC252:** owner chọn B giữ hình sạch; T02 không được chọn, BR vẫn giữ. Đã chuẩn bị tuyến sửa áo trên đúng T02; giá 20 credit cho 720p, nguồn 4 giây, x1, Omni 1.1 Flash, Tác nhân tắt. Chưa gửi tạo do vượt 15 mỗi lượt và tổng 34 vượt trần đợt 30; cần owner duyệt ngoại lệ. Sau kiểm, ô nhập trống và nút tạo bị vô hiệu hóa; số dư 992, chi 0; dự án đã chi 88/500, còn 412; 110 dự phòng chưa mở. Xem `00_decisions/C01B-clean-picture-repair-proposal-252.md` và `../252_clean-picture-decision-and-video-edit-proposal.md`. Mốc 251 trở xuống giữ lịch sử.
 
 - **Hiện hành REC251 / 08-10-2026:** Owner duyệt solo v2 + một BM max15. Đã kiểm live và review preflight độc lập, gửi đúng một lượt Omni1.1Flash Ingredients720p9:164sx1/customK20/AgentOFF quote7. Native T02 solo đã tải, hash780ab0b3…;720×1280/24fps/96khung/video4s/audio4,01s, decode sạch. Root/reviewer độc lập xác nhận burn-in “Khoan” chồng đoạn khẩu hình; **NOT_SELECTED / BR_HOLD**, không tự retry, chưa actual listening hoặc joins. Dự án88/500, còn412 gồm110 reserve chưa mở; số dư999→992. Xem `06_qc/run-registry-251.json` và `../251_BM-solo-production-and-native-gate.md`. Các dòng247 trở xuống giữ lịch sử.

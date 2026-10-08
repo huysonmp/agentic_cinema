@@ -1,0 +1,9 @@
+# REC253 — Đối chiếu điều kiện trước một lượt sửa chữ
+
+Root đọc đầy đủ phản biện độc lập 252 và proposal 252. Báo cáo độc lập kết luận không có blocker giấy buộc sửa draft; điều kiện còn thiếu là quyền một lượt 20 credit/trần đợt 34 và xác nhận live trước submit. Owner đã duyệt đúng ngoại lệ này tại REC253, sau đó yêu cầu tiếp tục.
+
+Hash nguồn và draft kiểm lại đều khớp báo cáo độc lập 252. Không thay creative intent, nguồn, prompt, route, model, voice, thời lượng, số đầu ra hoặc tiêu chí kiểm. UI hiện tại: đúng một video T02/chip fd1953fa, readback prompt khớp; Omni 1.1 Flash, Ingredients, 720p, 9:16, 4s theo nguồn, x1, Agent OFF; quote 20; cùng tài khoản có 992 credit. Screenshot `C:/Users/PC/Downloads/du_an_nem_bui/253_BM_TEXT_REPAIR/config_quote.png`.
+
+Đã giao phản biện preflight 253 nhưng agent trả thông báo giới hạn lượt dùng. Tại quyết định submit, root dựa trên thông báo đó và tái sử dụng đúng scope review 252 cho cùng hash; chưa đọc report 253. Khi đối soát file ở closeout mới phát hiện agent **đã lưu report preflight 253 trước khi dừng**, kết luận GO_FOR_ONE_AUTHORIZED_SUBMIT; root đã đọc đầy đủ lúc này. Không ghi lùi thời điểm đọc hoặc lấy report đọc sau submit làm điều kiện đã đóng trước click. Root delta ban đầu không phải review độc lập mới; nội dung review 252 giữ nguyên.
+
+Quyết định root tại thời điểm click: **GO_ONE_OWNER_AUTHORIZED_SUBMIT**, dựa trên owner authority + phản biện giấy 252 còn đúng artifact + kiểm live hiện hành. Report độc lập 253 được phát hiện/đọc tại closeout chỉ là đối soát thêm, không backdate preflight. Giao diện nhận quote không bảo đảm backend nhận request hoặc giữ hình/tiếng. Một submit, không retry, BR giữ, reserve đóng. Review output độc lập chưa thực hiện do giới hạn agent, phải ghi HOLD đúng scope thay vì tự nghiệm thu. Không mở finishing.

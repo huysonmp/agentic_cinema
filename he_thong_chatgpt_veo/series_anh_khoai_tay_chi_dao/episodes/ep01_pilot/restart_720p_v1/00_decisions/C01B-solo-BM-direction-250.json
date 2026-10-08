@@ -1,0 +1,15 @@
+{
+  "record_id": "REC250-SOLO-BM-DIRECTION",
+  "date": "2026-10-08",
+  "owner_reply": "cứ làm đi, phần nào cần tôi duyệt thì hãy hỏi",
+  "context": "Root proposed a solo Khoai BM, a new reference for owner approval before video, and two further outputs within 23 additional / 30 total credits",
+  "decision": "Proceed with solo-BM preparation and bounded sequential plan; retain explicit reference and actual-media gates",
+  "coverage": "C01A selected → solo Khoai BM saying Khoan → Dao BR in original wide setup → C02 selected",
+  "bounded_budget": {"additional_outputs_max": 2, "additional_credits_max": 23, "whole_coverage_round_credits_max": 30, "whole_round_outputs_max": 3, "per_output_quote_max": 15, "outputs_per_request": 1, "automatic_retry": false},
+  "before_video": ["New image presented and owner approved", "Independent preflight/root full read", "Full-input live configuration and quote checked"],
+  "BR_dependency": "Only after actual BM image/range and new audio gate; no resets or old audio-approval transfer",
+  "not_approved": ["New reference quality", "New native media/audio quality", "Actual joins/full film", "Reserve110", "New voice/tool/model", "Additional retry beyond scoped outputs"],
+  "status": "PREPARATION_ALLOWED_NEW_IMAGE_OWNER_REVIEW_PENDING",
+  "video_submits_in_REC250": 0,
+  "Flow_credits_spent_in_REC250": 0
+}

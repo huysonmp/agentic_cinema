@@ -1,0 +1,23 @@
+{
+  "record": "REC250",
+  "owner_authority": "Owner217 specialized local role runs; owner250 proceed with scoped preparation and ask at remaining approval gates",
+  "maker_root": "Generated v2 solo reference via built-in image_gen, persisted image/prompt/provenance, integrated brief and video prompt draft",
+  "role_runs": [
+    {"role": "DIR", "agent": "/root/solo_dir_250", "output": "C01B_solo_DIR_250.md", "status": "COMPLETE_ROOT_READ_FULL"},
+    {"role": "DOP", "agent": "/root/solo_dop_250", "output": "C01B_solo_DOP_250.md", "status": "COMPLETE_ROOT_READ_FULL"},
+    {"role": "ACT", "agent": "/root/solo_act_250", "output": "C01B_solo_ACT_250.md", "status": "COMPLETE_ROOT_READ_FULL"},
+    {"role": "EDIT", "agent": "/root/solo_edit_250", "output": "C01B_solo_EDIT_250.md", "status": "COMPLETE_ROOT_READ_FULL"}
+  ],
+  "independent_final_static_reviewer": "/root/solo_critic_250",
+  "independent_report": "C01B_solo_independent_250.md",
+  "independent_status": "STATIC_AND_SPEC_REVIEW_COMPLETE_CAN_PRESENT_OWNER_NOT_MEDIA_PASS",
+  "root_full_read_of_independent": true,
+  "image_sha256": "ea705dc746d39d40240b21ebd21899cddd09f94b8b9a61250e219dbadc5fa67e",
+  "owner_image_approval": "PENDING",
+  "actual_native_motion": "NOT_GENERATED",
+  "actual_listening": "NOT_PERFORMED",
+  "actual_joins": "NOT_PERFORMED",
+  "Flow_video_submits": 0,
+  "Flow_video_credits_spent": 0,
+  "production_ready": false
+}

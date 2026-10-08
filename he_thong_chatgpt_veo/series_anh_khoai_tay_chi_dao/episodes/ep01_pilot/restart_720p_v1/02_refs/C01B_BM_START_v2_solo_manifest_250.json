@@ -1,0 +1,27 @@
+{
+  "record": "REC250-BM-SOLO-REFERENCE",
+  "status": "GENERATED_ROLE_CONTRIBUTIONS_AND_INDEPENDENT_STATIC_REVIEW_ROOT_READ_FULL_OWNER_PENDING",
+  "tool": "built-in image_gen; no CLI/API fallback",
+  "intent": "identity-preserve edit, change camera to solo Khoai coverage; do not remove Dao from story",
+  "source_generated_file": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-2895517a-b683-4c6f-9d1e-739c5cb7be9a.png",
+  "workspace_file": "02_refs/C01B_BM_START_v2_SOLO_CHATGPT_FOR_REVIEW_250.png",
+  "owner_archive_file": "C:/Users/PC/Downloads/du_an_nem_bui/ep01_restart_720p_v1/02_refs/C01B_BM_START_v2_SOLO_CHATGPT_FOR_REVIEW_250.png",
+  "sha256": "ea705dc746d39d40240b21ebd21899cddd09f94b8b9a61250e219dbadc5fa67e",
+  "generated_workspace_archive_hash_equal": true,
+  "dimensions": [941, 1672],
+  "exact_9_16": false,
+  "native_720p": false,
+  "prompt": "02_refs/C01B_BM_START_v2_solo_image_prompt_250.txt",
+  "prompt_sha256": "165ecf58a8faccce53c699e0b29fde5d4d7068991dad906dca06411203472ac1",
+  "independent_report": "06_qc/C01B_solo_independent_250.md; root read full; can present still, not media PASS",
+  "input_images": [
+    {"file": "02_refs/C01B_BM_START_v1_CHATGPT_FOR_REVIEW_248.png", "sha256": "8ecb1105de2b8a0b786c05ad38e4965206d62a7629741a7863e8fcb77f7bad03", "role": "edit target and identity/lighting reference"},
+    {"file": "02_refs/C01B_START_from_C01A_T04_FLOW_v1.png", "sha256": "0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb", "role": "original table/axis/context reference"}
+  ],
+  "root_observed": "Only Khoai visible, full face and closed mouth, gaze to screen right, both hands resting, empty personal bowl and resting chopsticks, existing dip/dish edges; no visible letters or steam",
+  "limits": ["Static image only", "Offscreen Dao/contact not verified", "Cannot certify mouth motion, voice, generated text-free video or actual joins", "Final native video raster/aspect requires separate check"],
+  "owner_image_approval": "PENDING",
+  "Flow_video_submits": 0,
+  "Flow_video_credits_spent": 0,
+  "old_assets_preserved": true
+}

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC252: giữ hình sạch chữ, chờ quyền tuyến sửa
+
+Owner chọn B, không chấp nhận chữ tự sinh. Đã chuẩn bị tuyến sửa video, chỉ phục hồi áo từ T02; giá thực 20 credit, vượt trần 15 mỗi lượt và đưa tổng đợt lên 34, vượt trần 30 nên **chưa gửi tạo**. BR vẫn giữ. Chi REC252 = 0, số dư 992; dự án đã chi 88/500, còn 412; 110 dự phòng chưa mở. Hồ sơ [252 — hình sạch và đề xuất sửa trực tiếp](252_clean-picture-decision-and-video-edit-proposal.md). Mốc 251 trở xuống là lịch sử.
+
 ## Hiện hành — REC251: BM solo đã sinh, lỗi chữ giữ BR
 
 Owner duyệt ảnh v2 và một BM720p/K20/x1 tối đa15. Đã chạy đúng một lượt quote/thực chi7, tải native720×1280/24fps/96 khung/4s; root và reviewer độc lập kiểm hình và giữ **NOT_SELECTED / BR_HOLD** vì chữ “Khoan” tự sinh chồng khẩu hình. Chưa nghe nguồn mới, chưa tự retry/mở BR hoặc C03A. Tổng dự án88/500, còn412 gồm110 dự phòng chưa mở; cùng account999→992. Hồ sơ: [251 — BM solo và cổng nguồn](251_BM-solo-production-and-native-gate.md). Các mốc247 trở xuống là lịch sử, không trạng thái hiện hành.

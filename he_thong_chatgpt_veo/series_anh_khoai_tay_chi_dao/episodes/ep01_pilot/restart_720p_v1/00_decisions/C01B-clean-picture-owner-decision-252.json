@@ -1,0 +1,19 @@
+{
+  "record":"REC252-OWNER-B",
+  "date":"2026-10-08",
+  "owner_reply":"B",
+  "reply_context":"Keep clean-picture requirement; prepare a different evidence-backed repair route and quote before requesting further generation",
+  "decision":"GENERATED_DIALOGUE_TEXT_NOT_ACCEPTED",
+  "target_native":"05_native/EP01_720_C01B_BM_T02_SOLO_NATIVE.mp4",
+  "target_sha256":"780ab0b3fb29454f732d2f56ed30526a77f81ed98bbaf04ca04cdb5cf094b231",
+  "status":"SOURCE_NOT_SELECTED_BR_HOLD_REPAIR_PREPARATION_ONLY",
+  "authorized_now":["Record decision","Read-only research and UI capability/quote inspection","Local draft and independent bounded paper review"],
+  "not_authorized_now":["Paid video-edit submit","New native generation/retry","Use BR slot as a retry without separate approval","Accept burn-in as intentional text","Change voice/model/words/canon or open reserve"],
+  "Flow_submits_this_record":0,
+  "Flow_credits_spent_this_record":0,
+  "scoped_project_spent":88,
+  "scoped_project_remaining":412,
+  "coverage_round_spent":14,
+  "coverage_round_limit":30,
+  "reserve110_opened":false
+}

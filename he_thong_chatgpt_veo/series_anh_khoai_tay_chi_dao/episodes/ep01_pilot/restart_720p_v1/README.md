@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC252:** owner chọn B giữ hình sạch; T02 không được chọn, BR vẫn giữ. Đã chuẩn bị tuyến sửa áo trên đúng T02; giá 20 credit cho 720p, nguồn 4 giây, x1, Omni 1.1 Flash, Tác nhân tắt. Chưa gửi tạo do vượt 15 mỗi lượt và tổng 34 vượt trần đợt 30; cần owner duyệt ngoại lệ. Sau kiểm, ô nhập trống và nút tạo bị vô hiệu hóa; số dư 992, chi 0; dự án đã chi 88/500, còn 412; 110 dự phòng chưa mở. Xem `00_decisions/C01B-clean-picture-repair-proposal-252.md` và `../252_clean-picture-decision-and-video-edit-proposal.md`. Mốc 251 trở xuống giữ lịch sử.
+
 - **Hiện hành REC251 / 08-10-2026:** Owner duyệt solo v2 + một BM max15. Đã kiểm live và review preflight độc lập, gửi đúng một lượt Omni1.1Flash Ingredients720p9:164sx1/customK20/AgentOFF quote7. Native T02 solo đã tải, hash780ab0b3…;720×1280/24fps/96khung/video4s/audio4,01s, decode sạch. Root/reviewer độc lập xác nhận burn-in “Khoan” chồng đoạn khẩu hình; **NOT_SELECTED / BR_HOLD**, không tự retry, chưa actual listening hoặc joins. Dự án88/500, còn412 gồm110 reserve chưa mở; số dư999→992. Xem `06_qc/run-registry-251.json` và `../251_BM-solo-production-and-native-gate.md`. Các dòng247 trở xuống giữ lịch sử.
 
 - **Hiện hành REC247 / 08-10-2026:** T02 được kiểm độc lập25 mẫu; root đọc đầy đủ và chốt **STOP_FOR_DIAGNOSIS** vì lặp đúng MAJOR start-pose trong hai outputT01/T02. Không tựT03, không mởC03A. Dự án đã dùng74/500, còn426, gồm110 dự phòng chưa giải ngân; livebalance1.006. C01A/C02 đã chọn không đổi; audioT01 chấp nhận, T02 chưa duyệt. Chờ owner chốt hướng đạo diễn ở `00_decisions/C01B-stop-and-coverage-options-247.md`, không dùng cut/overlay/cover để giả đóng lỗi. Các dòng bên dưới giữ lịch sử theo thời điểm.

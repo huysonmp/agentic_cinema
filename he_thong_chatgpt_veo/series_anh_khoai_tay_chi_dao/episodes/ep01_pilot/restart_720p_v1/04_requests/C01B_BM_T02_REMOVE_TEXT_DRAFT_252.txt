@@ -1,0 +1,3 @@
+Edit the existing four-second video. Remove only the added white dialogue word with a black outline from the front of Khoai's shirt wherever it appears. Restore the shirt fabric, buttons, shading and natural folds underneath that lettering, consistent with the clean shirt in the opening and ending frames.
+
+Keep the original framing and timing, face, eyes, mouth movements, body, hands, bowl, chopsticks, cold dish, light and background unchanged. Preserve the original audio without editing or regenerating speech. Do not add any new text or graphic. Retain the native provider watermark. This is a visual lettering cleanup only, not a new performance, camera move, crop, cut or audio edit.

@@ -1,6 +1,6 @@
 {
   "record": "REC250-BM-SOLO-REFERENCE",
-  "status": "GENERATED_ROLE_CONTRIBUTIONS_AND_INDEPENDENT_STATIC_REVIEW_ROOT_READ_FULL_OWNER_PENDING",
+  "status": "STILL_APPROVED_REC251; nativeT02 has text blocker and is not selected; source still approval remains",
   "tool": "built-in image_gen; no CLI/API fallback",
   "intent": "identity-preserve edit, change camera to solo Khoai coverage; do not remove Dao from story",
   "source_generated_file": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-2895517a-b683-4c6f-9d1e-739c5cb7be9a.png",
@@ -20,7 +20,9 @@
   ],
   "root_observed": "Only Khoai visible, full face and closed mouth, gaze to screen right, both hands resting, empty personal bowl and resting chopsticks, existing dip/dish edges; no visible letters or steam",
   "limits": ["Static image only", "Offscreen Dao/contact not verified", "Cannot certify mouth motion, voice, generated text-free video or actual joins", "Final native video raster/aspect requires separate check"],
-  "owner_image_approval": "PENDING",
+  "owner_image_approval": "APPROVED_REC251; still reference only, not new native media/audio/joins approval",
+  "approval_record": "00_decisions/C01B-solo-BM-image-and-run-approval-251.json",
+  "Flow_upload_cloud_id_observed_REC251": "600c779c-d30d-4178-afb7-c53355ee29a9",
   "Flow_video_submits": 0,
   "Flow_video_credits_spent": 0,
   "old_assets_preserved": true

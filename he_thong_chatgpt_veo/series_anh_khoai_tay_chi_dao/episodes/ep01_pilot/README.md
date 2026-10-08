@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC251: BM solo đã sinh, lỗi chữ giữ BR
+
+Owner duyệt ảnh v2 và một BM720p/K20/x1 tối đa15. Đã chạy đúng một lượt quote/thực chi7, tải native720×1280/24fps/96 khung/4s; root và reviewer độc lập kiểm hình và giữ **NOT_SELECTED / BR_HOLD** vì chữ “Khoan” tự sinh chồng khẩu hình. Chưa nghe nguồn mới, chưa tự retry/mở BR hoặc C03A. Tổng dự án88/500, còn412 gồm110 dự phòng chưa mở; cùng account999→992. Hồ sơ: [251 — BM solo và cổng nguồn](251_BM-solo-production-and-native-gate.md). Các mốc247 trở xuống là lịch sử, không trạng thái hiện hành.
+
 ## Hiện hành — 247: làm lại 720p, kiểm điểm nối C01A → C01B
 
 Ngày08/10/2026: T02 đã chạy đúng7 credit, kiểm độc lập và root đọc đầy đủ. LặpMAJOR start-poseT01/T02 nên STOP/noT03, chưa mởC03A. Dự án74/500, còn426;110 dự phòng chưa giải ngân. Chờ owner chốt hướng quay/staging mới, không audio overlay/cover/speed để che lỗi. Các con số trướcT02 bên dưới giữ lịch sử.

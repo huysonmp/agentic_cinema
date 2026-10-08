@@ -1,0 +1,17 @@
+{
+  "record_id": "REC251-SOLO-BM-IMAGE-AND-ONE-RUN",
+  "date": "2026-10-08",
+  "owner_reply": "duyệt nhé,",
+  "approved_context": "Root final250: approve solo BM v2 image, then verify live configuration/price and generate one BM native720p/K20/x1 with max15credits; BR stays behind actual BM image/audio gate",
+  "image_file": "02_refs/C01B_BM_START_v2_SOLO_CHATGPT_FOR_REVIEW_250.png",
+  "image_sha256": "ea705dc746d39d40240b21ebd21899cddd09f94b8b9a61250e219dbadc5fa67e",
+  "voice": "Saved custom EP01_Khoai_K20_Orus_720p_v1, not base Orus or recreated voice",
+  "dialogue": "Khoan.",
+  "one_run": {"model": "Omni 1.1 Flash", "mode": "Ingredients", "native_resolution": "720p", "aspect": "9:16", "seconds": 4, "outputs": 1, "quote_max": 15},
+  "cumulative_limits": "Coverage round already spent7; additional<=23 and whole round<=30; reserve110notopened",
+  "conditions": ["Verify processed image/custom voice/prompt readback and final quote before click", "No automatic retry", "No BR until actual BM image/range and new audio checkpoint", "No approval transfer from previous takes"],
+  "not_approved": ["New native quality/voice/lip-sync", "Actual joins/full film", "New model/voice/tool", "Credit purchase/reserve"],
+  "status": "ONE_BM_PRODUCED_VISUAL_TEXT_BLOCKER_NOT_SELECTED_BR_HOLD",
+  "submits": 1,
+  "Flow_credits_spent": 7
+}

@@ -1,5 +1,7 @@
 # REC250 — BM cận riêng Khoai, gói chuẩn bị trình duyệt
 
+**Cập nhật REC251:** owner “duyệt nhé,” cho đúng ảnh v2 và một lượt BM native 720p/K20/x1, tối đa 15 credit sau kiểm live. Xem `C01B-solo-BM-image-and-run-approval-251.json`. Các trạng thái chờ duyệt phía dưới là lịch sử lúc trình 250; native/tiếng/joins mới vẫn chưa được duyệt, BR vẫn giữ dependency gate.
+
 Owner cho tiếp tục chuẩn bị và hỏi ở cổng cần duyệt. Giữ trần đợt quay 30 credit; đã dùng 7 tại REC249, đề xuất đã được cho tiếp tục trong phạm vi tối đa hai đầu ra tiếp theo, thêm không quá 23 credit, từng lượt x1 và không tự retry. **Ảnh mới vẫn chờ owner duyệt; chưa mở submit.** Không chuyển approval ảnh v1 hoặc giọng take cũ sang v2/native mới.
 
 ## Thay đổi và lý do

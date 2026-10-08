@@ -1,0 +1,21 @@
+{
+  "record": "REC249",
+  "owner_authority": "Owner approved BM/BR coverage ≤2 video outputs / ≤30 credits; owner217 bounded independent roles",
+  "maker": "root: integrated prompt, live UI, generation, native evidence",
+  "paper_reviewer": "/root/bm_preflight_249",
+  "paper_report": "C01B_BM_T01_preflight_independent_249.md",
+  "paper_report_root_read_full": true,
+  "previous_review_attempt": "/root/c02_critic_239 interrupted after delayed paper response; no report accepted from that attempt, no authority transferred",
+  "paper_review_status": "CONDITIONAL_NO_PAPER_BLOCKER_NOT_MEDIA_PASS",
+  "BM_submit_count": 1,
+  "BR_submit_count": 0,
+  "reserved_credits": 7,
+  "actual_debit": 7,
+  "account_balance_before_after": [1006, 999],
+  "native_reviewer": "/root/bm_preflight_249; independent from maker root",
+  "native_review": "C01B_BM_T01_native_independent_249.md; root read full; BLOCK native caption and Dao state change",
+  "actual_listening": "NOT_PERFORMED",
+  "actual_join_review": "NOT_PERFORMED",
+  "BR_dependency": "BLOCKED_NATIVE_VISUAL; BR submit0, no retry or audio-approval transfer",
+  "full_film": "NOT_APPROVED"
+}

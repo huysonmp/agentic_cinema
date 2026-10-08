@@ -2,6 +2,10 @@
 
 Ngày 08/10/2026. Phiên bản 248/v1. **THIẾT KẾ VÀ ẢNH DỰ THẢO — CHƯA CHẠY VIDEO, CHƯA ĐƯỢC CHỌN LÀ MEDIA SẢN XUẤT.** Owner đã chọn hướng A; việc này không tự gỡ STOP của hai take cũ.
 
+**Cập nhật REC249:** owner trả lời “duyệt” cho ảnh/cách quay và tối đa hai đầu ra, tổng ≤30 credit, mỗi đầu ra ≤15 sau kiểm tuyến/quote live. Xem `C01B-coverage-owner-approval-249.json`. Các dòng “chưa owner duyệt”/PRODUCTION_HOLD phía dưới giữ làm lịch sử lúc trình248; nay được mở kiểm live và sản xuất có điều kiện, không tự duyệt chất lượng output, retry cũ hoặc cả phim.
+
+**Kết quả thực REC249:** đã tạo một BM, debit 7 credit; nguồn native được root và reviewer độc lập đối chiếu hình, chưa nghe thực. Burn-in “Khoan” và thay đổi gaze/hover của Đào chặn chọn BM theo gói này. **BM không được chọn; BR chưa chạy và vẫn bị chặn; không automatic retry.** Xem request, native report và bài học 249. Đề xuất cận riêng Khoai/ảnh mới và tăng count cả đợt lên tối đa ba đầu ra trong cùng trần 30 vẫn chưa được duyệt.
+
 ## 1. Thay đổi đúng tầng phát sinh lỗi
 
 T01/T02 đã sai tư thế đầu C01B trước khi ghép: tay trong Đào ở vùng vành trái thay vì gần bát. Bản nối Flow chỉ tái hiện lỗi nguồn. Chưa chứng minh một câu prompt cụ thể hoặc cơ chế nội bộ nào là nguyên nhân duy nhất.

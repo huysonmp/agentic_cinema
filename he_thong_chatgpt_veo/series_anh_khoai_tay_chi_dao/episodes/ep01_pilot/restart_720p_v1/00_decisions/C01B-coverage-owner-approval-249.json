@@ -1,0 +1,17 @@
+{
+  "record_id": "REC249-C01B-COVERAGE-APPROVAL",
+  "date": "2026-10-08",
+  "owner_reply": "duyệt",
+  "approved_request_context": "Root final REC248: khung BM/cách quay mới; tối đa hai đầu ra, tổng không quá 30 credit sau kiểm tuyến/giá thực Flow",
+  "coverage": "C01A selected → BM Khoai nói trọn Khoan → BR Đào nghe, buông và thu tay trong góc bàn gốc → C02 selected",
+  "BM_reference_sha256": "8ecb1105de2b8a0b786c05ad38e4965206d62a7629741a7863e8fcb77f7bad03",
+  "BR_state_sources": ["A80 exact 0cf422f2b28dae631785af6ec19fc7488800c0cf8d22bb95dddd04e1b7ae2acb", "C02F0 exact c59ad1e436ad42e7525c564a883269ef9f80288f4c76b675e64bba1798500cad"],
+  "authorization": {"max_video_outputs": 2, "max_total_credits": 30, "max_quote_per_output": 15, "outputs_per_request": 1, "resolution": "native_720p", "aspect": "9:16", "sequence": "BM first; BR only after actual BM dependency check", "automatic_retry": false},
+  "conditions": ["Verify current route, input processing and live quote", "BM only approved custom K20; BR no speech", "No eye-lift/release in BM followed by BR reset to A80", "Keep selected C01A/C02 and all canon", "Preserve native watermark and sources"],
+  "old_T01_T02": "Remain unselected; no automatic same-coverage T03",
+  "not_approved": ["New take audio or picture quality", "Actual join or full film", "New voice/tool/model", "Reserve110", "Credit purchase"],
+  "status": "BM_NATIVE_NOT_SELECTED_BR_BLOCKED_NO_AUTOMATIC_RETRY",
+  "video_submits_so_far": 1,
+  "quote_reserved_so_far": 7,
+  "video_credits_spent_so_far": 7
+}

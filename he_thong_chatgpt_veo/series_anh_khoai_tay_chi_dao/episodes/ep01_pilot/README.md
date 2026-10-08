@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC254: bản sửa áo local chờ xem/nghe
+
+Đã tạo một bản riêng từ T02 gốc, chi 0; root và reviewer độc lập kiểm đủ 96 frame, chữ đã sạch. Tiếng packet/timing và PCM bằng tuyệt đối nguồn. **GO_FOR_OWNER_AV_CHECK / NOT_SELECTED**: cần xem áo khi phát và nghe “Khoan”/Khoai/K20, khẩu hình; chưa chọn BM range hoặc mở BR. Dự án vẫn 108/500, còn 392, reserve 110 đóng, đợt 34/34. Xem [254 — local và cổng AV](254_local-shirt-repair-and-owner-av-check.md). Mốc 253 trở xuống là lịch sử.
+
 ## Hiện hành — REC253: sửa chữ không đạt, dừng lượt mới
 
 Owner duyệt ngoại lệ một lượt 20 credit/trần đợt 34. Đã chạy đúng một lượt và tải native; chữ “Khoan” vẫn còn F23–57, nên **NOT_SELECTED / BR_HOLD**, không retry. Đã xem 96 frame qua board đối soát; chưa actual listening/sync hoặc review độc lập output mới. Dự án đã chi 108/500, còn 392, reserve 110 đóng; đợt 34/34, số dư 972. Xem [253 — kết quả sửa và dừng](253_one-text-repair-result-and-stop.md). Mốc 252 trở xuống là lịch sử.

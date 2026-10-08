@@ -1,0 +1,18 @@
+{
+  "record": "REC254",
+  "date": "2026-10-08",
+  "owner_reply": "ok",
+  "approved_context": "Thử phục hồi riêng vùng áo bị chữ che bằng công cụ local sẵn có; giữ tiếng nguồn; không che mặt hoặc miệng; không dùng credit",
+  "source": "05_native/EP01_720_C01B_BM_T02_SOLO_NATIVE.mp4",
+  "source_sha256": "780ab0b3fb29454f732d2f56ed30526a77f81ed98bbaf04ca04cdb5cf094b231",
+  "allowed": ["Read-only motion analysis", "Local shirt-region repair candidate", "Copy original audio stream", "Technical and frame QC", "Archive and record outcome"],
+  "not_authorized": ["Paid generation", "New tools or API", "Crop or freeze whole scene", "Modify face mouth hands or voice", "BR generation", "Reserve spending", "Release or whole-video acceptance"],
+  "Flow_submits": 0,
+  "Flow_credits_spent": 0,
+  "project_spent": 108,
+  "project_remaining": 392,
+  "coverage_round_spent": 34,
+  "coverage_round_limit": 34,
+  "source_voice_approval": "PENDING_ACTUAL_LISTENING",
+  "media_approval": false
+}

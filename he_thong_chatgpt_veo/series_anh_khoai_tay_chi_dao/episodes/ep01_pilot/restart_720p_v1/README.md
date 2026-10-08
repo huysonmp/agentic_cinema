@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC254:** owner duyệt thử local, đã tạo candidate sửa vùng áo từ T02 gốc; root/reviewer độc lập kiểm đủ 96 frame, không còn chữ; copy audio packet/timing và PCM bằng tuyệt đối. **GO_FOR_OWNER_AV_CHECK / NOT_SELECTED**: áo hơi mềm cần playback, voice/sync còn chờ owner. Chi 0, không Flow hoặc cài mới; 108/500, còn 392, đợt 34/34, reserve đóng; BR chưa mở. Xem `06_qc/run-registry-254.json` và `../254_local-shirt-repair-and-owner-av-check.md`. Mốc 253 trở xuống giữ lịch sử.
+
 - **Hiện hành REC253:** đã chạy một video-edit được owner duyệt, thực chi 20, số dư 992→972. Native tải riêng; kiểm đủ 96 frame qua board đối soát xác nhận chữ vẫn còn F23–57. **NOT_SELECTED / BR_HOLD**, không retry hoặc mở reserve. Review độc lập output mới chưa chạy được do giới hạn agent; chưa nghe/sync. Tổng dự án 108/500, còn 392 (110 reserve đóng), đợt 34/34. Xem `06_qc/run-registry-253.json` và `../253_one-text-repair-result-and-stop.md`. Mốc 252 trở xuống là lịch sử.
 
 - **Hiện hành REC252:** owner chọn B giữ hình sạch; T02 không được chọn, BR vẫn giữ. Đã chuẩn bị tuyến sửa áo trên đúng T02; giá 20 credit cho 720p, nguồn 4 giây, x1, Omni 1.1 Flash, Tác nhân tắt. Chưa gửi tạo do vượt 15 mỗi lượt và tổng 34 vượt trần đợt 30; cần owner duyệt ngoại lệ. Sau kiểm, ô nhập trống và nút tạo bị vô hiệu hóa; số dư 992, chi 0; dự án đã chi 88/500, còn 412; 110 dự phòng chưa mở. Xem `00_decisions/C01B-clean-picture-repair-proposal-252.md` và `../252_clean-picture-decision-and-video-edit-proposal.md`. Mốc 251 trở xuống giữ lịch sử.

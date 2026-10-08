@@ -1,0 +1,477 @@
+{
+  "source_sha256": "780ab0b3fb29454f732d2f56ed30526a77f81ed98bbaf04ca04cdb5cf094b231",
+  "roi": [
+    230,
+    715,
+    510,
+    943
+  ],
+  "excluded_patch": [
+    260,
+    830,
+    463,
+    918
+  ],
+  "search_limit_pixels_xy": [
+    8,
+    40
+  ],
+  "frames": [
+    {
+      "frame": 23,
+      "anchor22": {
+        "dx": 0,
+        "dy": 1,
+        "visible_shirt_mae": 1.9784887767530885
+      },
+      "anchor58": {
+        "dx": 0,
+        "dy": 3,
+        "visible_shirt_mae": 2.6474682443013746
+      }
+    },
+    {
+      "frame": 24,
+      "anchor22": {
+        "dx": 1,
+        "dy": 4,
+        "visible_shirt_mae": 2.2548358563888407
+      },
+      "anchor58": {
+        "dx": 1,
+        "dy": 5,
+        "visible_shirt_mae": 2.7964227713009686
+      }
+    },
+    {
+      "frame": 25,
+      "anchor22": {
+        "dx": 2,
+        "dy": 6,
+        "visible_shirt_mae": 3.16721042862943
+      },
+      "anchor58": {
+        "dx": 2,
+        "dy": 8,
+        "visible_shirt_mae": 3.4093150049301086
+      }
+    },
+    {
+      "frame": 26,
+      "anchor22": {
+        "dx": 2,
+        "dy": 8,
+        "visible_shirt_mae": 3.9154268893915667
+      },
+      "anchor58": {
+        "dx": 2,
+        "dy": 10,
+        "visible_shirt_mae": 4.079795255495621
+      }
+    },
+    {
+      "frame": 27,
+      "anchor22": {
+        "dx": 3,
+        "dy": 11,
+        "visible_shirt_mae": 5.064316164955629
+      },
+      "anchor58": {
+        "dx": 3,
+        "dy": 13,
+        "visible_shirt_mae": 5.054477698509367
+      }
+    },
+    {
+      "frame": 28,
+      "anchor22": {
+        "dx": 3,
+        "dy": 13,
+        "visible_shirt_mae": 6.287563076387681
+      },
+      "anchor58": {
+        "dx": 3,
+        "dy": 15,
+        "visible_shirt_mae": 6.270771706977554
+      }
+    },
+    {
+      "frame": 29,
+      "anchor22": {
+        "dx": 4,
+        "dy": 16,
+        "visible_shirt_mae": 6.949147381242387
+      },
+      "anchor58": {
+        "dx": 4,
+        "dy": 18,
+        "visible_shirt_mae": 6.888412795081492
+      }
+    },
+    {
+      "frame": 30,
+      "anchor22": {
+        "dx": 4,
+        "dy": 18,
+        "visible_shirt_mae": 7.916188156139435
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 20,
+        "visible_shirt_mae": 7.783154979409547
+      }
+    },
+    {
+      "frame": 31,
+      "anchor22": {
+        "dx": 5,
+        "dy": 20,
+        "visible_shirt_mae": 8.322530595673104
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 8.196696827330202
+      }
+    },
+    {
+      "frame": 32,
+      "anchor22": {
+        "dx": 5,
+        "dy": 20,
+        "visible_shirt_mae": 8.720760106722349
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 22,
+        "visible_shirt_mae": 8.608890145583203
+      }
+    },
+    {
+      "frame": 33,
+      "anchor22": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 8.85377878313323
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 22,
+        "visible_shirt_mae": 8.74039353865785
+      }
+    },
+    {
+      "frame": 34,
+      "anchor22": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 9.118786613305494
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 23,
+        "visible_shirt_mae": 9.002791311408851
+      }
+    },
+    {
+      "frame": 35,
+      "anchor22": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 9.123868975117453
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 23,
+        "visible_shirt_mae": 8.995388898555769
+      }
+    },
+    {
+      "frame": 36,
+      "anchor22": {
+        "dx": 6,
+        "dy": 22,
+        "visible_shirt_mae": 9.349965199234383
+      },
+      "anchor58": {
+        "dx": 6,
+        "dy": 24,
+        "visible_shirt_mae": 9.174496838930457
+      }
+    },
+    {
+      "frame": 37,
+      "anchor22": {
+        "dx": 6,
+        "dy": 22,
+        "visible_shirt_mae": 9.30718925816368
+      },
+      "anchor58": {
+        "dx": 6,
+        "dy": 24,
+        "visible_shirt_mae": 9.12609477408503
+      }
+    },
+    {
+      "frame": 38,
+      "anchor22": {
+        "dx": 5,
+        "dy": 22,
+        "visible_shirt_mae": 9.3485514181312
+      },
+      "anchor58": {
+        "dx": 6,
+        "dy": 24,
+        "visible_shirt_mae": 9.174424337335422
+      }
+    },
+    {
+      "frame": 39,
+      "anchor22": {
+        "dx": 5,
+        "dy": 22,
+        "visible_shirt_mae": 9.321087813931907
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 23,
+        "visible_shirt_mae": 9.141182356011832
+      }
+    },
+    {
+      "frame": 40,
+      "anchor22": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 9.401811089843976
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 23,
+        "visible_shirt_mae": 9.25642364132011
+      }
+    },
+    {
+      "frame": 41,
+      "anchor22": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 9.220122092686038
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 23,
+        "visible_shirt_mae": 9.078519227423003
+      }
+    },
+    {
+      "frame": 42,
+      "anchor22": {
+        "dx": 5,
+        "dy": 20,
+        "visible_shirt_mae": 9.20030740676295
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 22,
+        "visible_shirt_mae": 9.013847804651702
+      }
+    },
+    {
+      "frame": 43,
+      "anchor22": {
+        "dx": 5,
+        "dy": 20,
+        "visible_shirt_mae": 8.988950756916653
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 22,
+        "visible_shirt_mae": 8.835464880227365
+      }
+    },
+    {
+      "frame": 44,
+      "anchor22": {
+        "dx": 5,
+        "dy": 19,
+        "visible_shirt_mae": 8.821936082593817
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 21,
+        "visible_shirt_mae": 8.620751406530944
+      }
+    },
+    {
+      "frame": 45,
+      "anchor22": {
+        "dx": 4,
+        "dy": 18,
+        "visible_shirt_mae": 8.42576561684357
+      },
+      "anchor58": {
+        "dx": 5,
+        "dy": 20,
+        "visible_shirt_mae": 8.25772867003074
+      }
+    },
+    {
+      "frame": 46,
+      "anchor22": {
+        "dx": 4,
+        "dy": 17,
+        "visible_shirt_mae": 7.830781277188098
+      },
+      "anchor58": {
+        "dx": 4,
+        "dy": 18,
+        "visible_shirt_mae": 7.6480700075401655
+      }
+    },
+    {
+      "frame": 47,
+      "anchor22": {
+        "dx": 4,
+        "dy": 15,
+        "visible_shirt_mae": 7.384040948900876
+      },
+      "anchor58": {
+        "dx": 4,
+        "dy": 17,
+        "visible_shirt_mae": 7.168587958935096
+      }
+    },
+    {
+      "frame": 48,
+      "anchor22": {
+        "dx": 3,
+        "dy": 13,
+        "visible_shirt_mae": 7.030595673104808
+      },
+      "anchor58": {
+        "dx": 3,
+        "dy": 15,
+        "visible_shirt_mae": 6.856678846934632
+      }
+    },
+    {
+      "frame": 49,
+      "anchor22": {
+        "dx": 3,
+        "dy": 12,
+        "visible_shirt_mae": 5.947922104286294
+      },
+      "anchor58": {
+        "dx": 3,
+        "dy": 14,
+        "visible_shirt_mae": 5.825865669044719
+      }
+    },
+    {
+      "frame": 50,
+      "anchor22": {
+        "dx": 2,
+        "dy": 10,
+        "visible_shirt_mae": 5.4475885969491324
+      },
+      "anchor58": {
+        "dx": 3,
+        "dy": 12,
+        "visible_shirt_mae": 5.222956905051912
+      }
+    },
+    {
+      "frame": 51,
+      "anchor22": {
+        "dx": 2,
+        "dy": 8,
+        "visible_shirt_mae": 4.595027840612493
+      },
+      "anchor58": {
+        "dx": 2,
+        "dy": 10,
+        "visible_shirt_mae": 4.407966475262456
+      }
+    },
+    {
+      "frame": 52,
+      "anchor22": {
+        "dx": 2,
+        "dy": 7,
+        "visible_shirt_mae": 4.337465924250334
+      },
+      "anchor58": {
+        "dx": 2,
+        "dy": 8,
+        "visible_shirt_mae": 4.0996534423757325
+      }
+    },
+    {
+      "frame": 53,
+      "anchor22": {
+        "dx": 1,
+        "dy": 5,
+        "visible_shirt_mae": 3.4648874775245053
+      },
+      "anchor58": {
+        "dx": 1,
+        "dy": 7,
+        "visible_shirt_mae": 3.3721869381126384
+      }
+    },
+    {
+      "frame": 54,
+      "anchor22": {
+        "dx": 1,
+        "dy": 3,
+        "visible_shirt_mae": 2.909423757322661
+      },
+      "anchor58": {
+        "dx": 1,
+        "dy": 5,
+        "visible_shirt_mae": 2.5573705121512673
+      }
+    },
+    {
+      "frame": 55,
+      "anchor22": {
+        "dx": 1,
+        "dy": 2,
+        "visible_shirt_mae": 2.5960936140595092
+      },
+      "anchor58": {
+        "dx": 1,
+        "dy": 4,
+        "visible_shirt_mae": 2.344977089495969
+      }
+    },
+    {
+      "frame": 56,
+      "anchor22": {
+        "dx": 0,
+        "dy": 0,
+        "visible_shirt_mae": 2.0047198538367845
+      },
+      "anchor58": {
+        "dx": 0,
+        "dy": 1,
+        "visible_shirt_mae": 1.5908662490574792
+      }
+    },
+    {
+      "frame": 57,
+      "anchor22": {
+        "dx": 0,
+        "dy": -1,
+        "visible_shirt_mae": 1.9018835914390118
+      },
+      "anchor58": {
+        "dx": 0,
+        "dy": 0,
+        "visible_shirt_mae": 1.1183226030972682
+      }
+    }
+  ],
+  "media_created": false
+}

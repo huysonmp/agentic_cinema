@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC255:** cắt theo yêu cầu owner còn 0,75 giây/18 khung F20–37 nguồn REC254, tiếng/hình cùng dịch gốc; không đổi tốc độ/giọng. Chi 0, **NOT_SELECTED / OWNER_SHORT_AV_PENDING**; chờ nghe/xem bản ngắn, BM range chưa chọn, BR chưa mở. Xem `06_qc/run-registry-255.json` và `../255_trim-khoan-to-speaking-beat.md`. Mốc 254 trở xuống giữ lịch sử.
+
 - **Hiện hành REC254:** owner duyệt thử local, đã tạo candidate sửa vùng áo từ T02 gốc; root/reviewer độc lập kiểm đủ 96 frame, không còn chữ; copy audio packet/timing và PCM bằng tuyệt đối. **GO_FOR_OWNER_AV_CHECK / NOT_SELECTED**: áo hơi mềm cần playback, voice/sync còn chờ owner. Chi 0, không Flow hoặc cài mới; 108/500, còn 392, đợt 34/34, reserve đóng; BR chưa mở. Xem `06_qc/run-registry-254.json` và `../254_local-shirt-repair-and-owner-av-check.md`. Mốc 253 trở xuống giữ lịch sử.
 
 - **Hiện hành REC253:** đã chạy một video-edit được owner duyệt, thực chi 20, số dư 992→972. Native tải riêng; kiểm đủ 96 frame qua board đối soát xác nhận chữ vẫn còn F23–57. **NOT_SELECTED / BR_HOLD**, không retry hoặc mở reserve. Review độc lập output mới chưa chạy được do giới hạn agent; chưa nghe/sync. Tổng dự án 108/500, còn 392 (110 reserve đóng), đợt 34/34. Xem `06_qc/run-registry-253.json` và `../253_one-text-repair-result-and-stop.md`. Mốc 252 trở xuống là lịch sử.

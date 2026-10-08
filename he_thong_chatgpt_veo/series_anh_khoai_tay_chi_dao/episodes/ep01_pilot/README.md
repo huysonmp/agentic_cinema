@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC255: cắt gọn nhịp “Khoan”
+
+Theo yêu cầu owner, đã cắt bản sửa áo REC254 còn 0,75 giây/18 khung (F20–37 nguồn), bỏ 3,25 giây hình dư; tiếng và hình cùng dịch gốc, không đổi tốc độ/giọng. Chi 0 credit. **NOT_SELECTED / OWNER_SHORT_AV_PENDING**: chờ nghe/xem đúng bản ngắn; không dùng yêu cầu cắt làm approval hình/giọng/khẩu hình. BM range chưa chọn, BR chưa mở. Xem [255 — bản cắt nhịp “Khoan”](255_trim-khoan-to-speaking-beat.md). Mốc 254 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC254: bản sửa áo local chờ xem/nghe
 
 Đã tạo một bản riêng từ T02 gốc, chi 0; root và reviewer độc lập kiểm đủ 96 frame, chữ đã sạch. Tiếng packet/timing và PCM bằng tuyệt đối nguồn. **GO_FOR_OWNER_AV_CHECK / NOT_SELECTED**: cần xem áo khi phát và nghe “Khoan”/Khoai/K20, khẩu hình; chưa chọn BM range hoặc mở BR. Dự án vẫn 108/500, còn 392, reserve 110 đóng, đợt 34/34. Xem [254 — local và cổng AV](254_local-shirt-repair-and-owner-av-check.md). Mốc 253 trở xuống là lịch sử.

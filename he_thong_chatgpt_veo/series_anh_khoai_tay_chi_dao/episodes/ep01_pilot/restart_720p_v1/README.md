@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC257:** owner chấp nhận đúng nối A→BM và một lượt BR tối đa 15 credit. Đã chạy/tải một BR, thực chi 7, số dư 972→965; dự án 115/500, còn 385, đợt 41/49, reserve đóng, không retry. Root và reviewer kiểm đủ 96 khung: có buông–thu tay nhưng tay trong tiến sát mép đĩa; native vẫn có audio dù setting ON, nên **native HOLD**. Bản bỏ tiếng riêng giữ đủ hình; candidate BR 50 khung/2,083 giây được ghép A→BM→BR→C02 thành 13,75 giây, chỉ **GO_FOR_OWNER_CONDITIONAL_CHECK / NOT_SELECTED**. Chờ ngoại lệ tư thế hai tay sát đĩa và AV/nhịp trên bản nối mới; chưa mở C03A/finishing. Xem `06_qc/run-registry-257.json` và `../257_one-BR-result-and-conditional-opening-join.md`. REC256 trở xuống giữ lịch sử.
+
 - **Hiện hành REC256:** owner chấp nhận/chọn BM ngắn REC255 đúng hash và 0,75 giây. Đã dựng QC A→BM 4,125 giây/99 khung, chi 0; bản nối mới chưa owner duyệt. BR giữ hai mốc A80/C02F0, nhưng chưa quyền chi; đề xuất một output ≤15 sau kiểm live, chưa quote/submit. Đợt vẫn 34/34, dự án 108/500, còn 392, reserve đóng. Xem `06_qc/run-registry-256.json` và `../256_short-BM-approved-and-first-join-check.md`. Mốc 255 trở xuống giữ lịch sử.
 
 - **Hiện hành REC255:** cắt theo yêu cầu owner còn 0,75 giây/18 khung F20–37 nguồn REC254, tiếng/hình cùng dịch gốc; không đổi tốc độ/giọng. Chi 0, **NOT_SELECTED / OWNER_SHORT_AV_PENDING**; chờ nghe/xem bản ngắn, BM range chưa chọn, BR chưa mở. Xem `06_qc/run-registry-255.json` và `../255_trim-khoan-to-speaking-beat.md`. Mốc 254 trở xuống giữ lịch sử.

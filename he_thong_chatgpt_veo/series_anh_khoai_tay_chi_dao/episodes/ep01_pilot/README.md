@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC257: BR đã sinh, bản nối có điều kiện chờ duyệt
+
+Owner chấp nhận A→BM và một lượt BR tối đa 15 credit. Thực chi 7, số dư 965, dự án 115/500; không retry/reserve. Đã kiểm đủ 96 khung: BR có buông–thu tay nhưng tay trong vẫn tiến sát mép đĩa, nên native HOLD. Đã bỏ tiếng ở derivative riêng và dựng candidate mở đầu 13,75 giây; reviewer chỉ cho phép trình **ngoại lệ tư thế và nhịp AV**, chưa chọn BR hoặc duyệt phim. Xem [257 — kết quả BR và bản nối có điều kiện](257_one-BR-result-and-conditional-opening-join.md). Mốc 256 trở xuống là lịch sử.
+
 ## Hiện hành — REC256: BM ngắn được chốt, kiểm nối và chờ quyền BR
 
 Owner “ok r đấy” chấp nhận đúng BM ngắn 0,75 giây đã gửi. Đã chọn 18 khung và dựng QC A→BM 4,125 giây, chi 0; nhịp/AV bản nối mới còn chờ kiểm. BR chưa được phép chi vì đợt đã 34/34; đề xuất riêng một lượt ≤15 sau kiểm tuyến/quote live, không retry/reserve. Xem [256 — chốt BM và điểm nối đầu](256_short-BM-approved-and-first-join-check.md). Mốc 255 trở xuống giữ lịch sử, không còn là trạng thái chọn BM hiện hành.

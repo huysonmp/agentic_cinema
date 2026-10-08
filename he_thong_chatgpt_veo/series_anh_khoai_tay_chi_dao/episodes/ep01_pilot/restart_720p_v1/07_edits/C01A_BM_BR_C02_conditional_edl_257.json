@@ -1,0 +1,84 @@
+{
+  "record": "REC257",
+  "status": "CONDITIONAL_REVIEW_NOT_SELECTED_NOT_DELIVERY",
+  "sources": [
+    {
+      "path": "07_edits/C01A_BM_4p125S_JOIN_QC_NOT_FINAL.mp4",
+      "sha256": "4cb1b2d7c94081ec1c301eec57f9fdfcb7d08bceb40ada089f081991ed030510"
+    },
+    {
+      "path": "07_edits/C01B_BR_T01_SILENT_DERIVED_NOT_SELECTED.mp4",
+      "sha256": "8a56f13cfebcba8c5d2569e2be3288fe6e7cc9dc3ce3ea0e7df54f384bfbbeed"
+    },
+    {
+      "path": "07_edits/C02_T02_FLOW_0_7p5S_FOR_APPROVAL.mp4",
+      "sha256": "d151eb1d9f5f5b4486fed030579d9da3de0d23f434a65db2f6c4dca88b3228f3"
+    }
+  ],
+  "BR_native_range_half_open": [
+    28,
+    78
+  ],
+  "BR_trim_sha256": "425b8fb92fe7a147a2fa3d6ea3968815de4a263d0efe73c0a4e551de1a5777d5",
+  "target_path": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_BM_BR_C02_13p75S_CONDITIONAL_QC_NOT_FINAL.mp4",
+  "target_sha256": "dd8a24d271b28796a1df28b35e5d7ac4f3e5902614cc53ca9d7886c0e3eaf12c",
+  "expected_frames": 330,
+  "expected_seconds": 13.75,
+  "cuts_zero_based": [
+    81,
+    99,
+    149
+  ],
+  "cuts_seconds": [
+    3.375,
+    4.125,
+    6.208333333333333
+  ],
+  "source_order": [
+    "A 81 frames",
+    "BM 18 frames",
+    "BR 50 frames",
+    "C02 181 frames"
+  ],
+  "audio": "Accepted A-BM source then 100000 stereo silence sample frames then accepted C02; pad source audio to image duration; no new voice/gain/speed/crossfade; encoded AAC not bit-exact",
+  "open_blocker": "BR enters with apparent two-rim contact; native inner renewed reach omitted, not corrected. Requires owner exception and actual joins AV checkpoint.",
+  "full_AV_actual_listening": "NOT_PERFORMED",
+  "whole_film": false,
+  "ffmpeg_command": [
+    "D:\\Workspace\\agentic_cinema\\.local-tools\\ffmpeg\\verified-9.0.2\\ffmpeg-9.0.2-essentials_build\\bin\\ffmpeg.exe",
+    "-nostdin",
+    "-hide_banner",
+    "-loglevel",
+    "error",
+    "-n",
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_BM_4p125S_JOIN_QC_NOT_FINAL.mp4",
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01B_BR_T01_SILENT_DERIVED_NOT_SELECTED.mp4",
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C02_T02_FLOW_0_7p5S_FOR_APPROVAL.mp4",
+    "-filter_complex",
+    "[0:v]trim=end_frame=99,setpts=PTS-STARTPTS[v0];[1:v]trim=start_frame=28:end_frame=78,setpts=PTS-STARTPTS[v1];[2:v]trim=end_frame=181,setpts=PTS-STARTPTS[v2];[v0][v1][v2]concat=n=3:v=1:a=0[v];[0:a]aresample=48000,apad,atrim=end_sample=198000,asetpts=PTS-STARTPTS[a0];anullsrc=r=48000:cl=stereo,atrim=end_sample=100000,asetpts=PTS-STARTPTS[a1];[2:a]aresample=48000,apad,atrim=end_sample=362000,asetpts=PTS-STARTPTS[a2];[a0][a1][a2]concat=n=3:v=0:a=1[a]",
+    "-map",
+    "[v]",
+    "-map",
+    "[a]",
+    "-c:v",
+    "libx264",
+    "-crf",
+    "16",
+    "-preset",
+    "medium",
+    "-pix_fmt",
+    "yuv420p",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "192k",
+    "-ar",
+    "48000",
+    "-movflags",
+    "+faststart",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C01A_BM_BR_C02_13p75S_CONDITIONAL_QC_NOT_FINAL.mp4"
+  ]
+}

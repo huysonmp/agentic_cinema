@@ -1,0 +1,22 @@
+{
+  "record": "REC257",
+  "date": "2026-10-08",
+  "owner_reply_verbatim": "ok đấy",
+  "approval_context": "REC256 final asked acceptance of exact A-to-BM join and one silent BR output max15 credits",
+  "accepted_join": "07_edits/C01A_BM_4p125S_JOIN_QC_NOT_FINAL.mp4",
+  "accepted_join_sha256": "4cb1b2d7c94081ec1c301eec57f9fdfcb7d08bceb40ada089f081991ed030510",
+  "join_scope": "Owner acceptance of presented rhythm, speaker cut and audio join only, not whole film",
+  "BR_authorized": true,
+  "max_BR_outputs": 1,
+  "max_BR_credits": 15,
+  "coverage_round_limit": 49,
+  "resolution": "720p",
+  "aspect": "9:16",
+  "outputs_per_request": 1,
+  "BR_has_dialogue_or_custom_voice": false,
+  "conditions": ["Exact approved START A80 and END C02F0", "Frames route verified live", "Silent/no voice settings verified", "Live quote <=15", "Independent preflight then one submit"],
+  "retry_authorized": false,
+  "reserve110": "CLOSED",
+  "not_approved": ["BR output quality", "BM-to-BR or BR-to-C02 actual joins", "Future paid requests", "Whole film", "Final export"],
+  "status": "AUTHORITY_EXECUTED_ONE_BR_7_CREDITS_OUTPUT_NOT_APPROVED"
+}

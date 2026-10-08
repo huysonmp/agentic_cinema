@@ -1,0 +1,23 @@
+{
+  "record": "REC257",
+  "target_sha256": "dd8a24d271b28796a1df28b35e5d7ac4f3e5902614cc53ca9d7886c0e3eaf12c",
+  "status": "TECHNICAL_AUDIO_SOURCE_AND_SILENCE_ONLY_NOT_AV_PASS",
+  "native_audio_max_abs_pcm": 1432,
+  "native_audio_nonzero_values": 380859,
+  "silent_derivative_sha256": "8a56f13cfebcba8c5d2569e2be3288fe6e7cc9dc3ce3ea0e7df54f384bfbbeed",
+  "silent_derivative_audio_streams": 0,
+  "silent_derivative_all96_decoded_video_frames_exact": true,
+  "join_audio_start_A_BM_sample_frame": 0,
+  "join_BR_silence_sample_range_half_open": [
+    198000,
+    298000
+  ],
+  "join_C02_audio_start_sample_frame": 298000,
+  "join_A_BM_source_zero_lag_correlation": 0.9999921101727205,
+  "join_C02_source_zero_lag_correlation": 0.9998240234468236,
+  "join_silence_interior_2048_sample_margin_nonzero": 0,
+  "boundary_AAC_leakage_not_ruled_out": true,
+  "agent_actual_listening": "NOT_PERFORMED",
+  "owner_join_AV_acceptance": "PENDING",
+  "encoding_audio_not_bit_exact": true
+}

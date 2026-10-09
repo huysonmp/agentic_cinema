@@ -1,0 +1,15 @@
+{
+  "record": "REC262",
+  "owner_reply_verbatim": "uh, đúng rồi đó, chạy tiếp đi",
+  "context": "Answer to whether97credit decrease before C04 was outside EP01; owner confirms outside and asks continue",
+  "account_gap_97": "OWNER_CONFIRMED_OUTSIDE_EP01",
+  "project_known_spent": 139,
+  "project_remaining": 361,
+  "first_pass_remaining": 109,
+  "retake_remaining": 97,
+  "post_rough_remaining": 45,
+  "reserve": {"credits": 110, "status": "CLOSED"},
+  "parked_97_released": true,
+  "authority": "scoped-autonomy-238.json remains; no new cap/tool/script/voice or media acceptance",
+  "next": "Prepare and review focused C04_T02, live quote<=15, one retake only after readiness; repeated same major stops for diagnosis"
+}

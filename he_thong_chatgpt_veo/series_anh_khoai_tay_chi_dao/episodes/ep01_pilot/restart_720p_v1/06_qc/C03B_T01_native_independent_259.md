@@ -1,0 +1,21 @@
+# REC259 — C03B T01 native và candidate join, QC độc lập
+
+Kết luận: **HOLD_C03B_FULL / GO_FOR_OWNER_CONDITIONAL_AV_AND_BOUNDARY_CHECK_ONLY**. Native không hoàn thành cue Đào hướng chú ý về ly ngoài phải; trim chưa sửa được thiếu này. **C04 HOLD**, chưa chọn range/duyệt join/cho retake.
+Scope217 bounded local: đọc full request259, approval259, revised preflight; xem đủ 12 denseboards/F0..95, reference và nativeF0; thêm 7 actual-joinboards/F366..421 (56 encoded stills). Đọc native_evidence và technical derivatives; không nghe actual audio/continuous AV, không UI/network/paid/Git/install/mediawrites.
+Native rehash đúng `f85df55c24a267851258bc64a8d0e5579e954175a34039ed563903a89ed343a1`; evidence H264720×1280/24fps/96frames/4s, AAC48k stereo. Decode/hash/metadata không chứng minh giọng K20, im-lặng của Đào hoặc lip-sync đạt.
+Yêu cầu hiện hành bind prompt `9add23d02c3d0bfe68af9f943b6f3fa9a2e8f9c5f195622c8a5f1f13fb953ed5`: Khoai-only N04 “Chờ mẹ quay lưng.”; Đào closed-lip smile sau lastword, rồi eyes/head hướng ly phải, handsrest/nofoodmotion.
+
+- Reference selectedC03A lastF41→nativeF0 giữ Khoai trái/Đào phải, scale/camera/hand/bowl/plate/gaze tương tự; không thấy reset pose/cỡ nhân vật rõ như seam258 cũ. Không pixel-lock: Khoai F0 đã hé môi nhẹ so với source môi khép; cần nghe actual onset ở cut, không suy ra mất chữ từ still này.
+- Khoai có speech-shaped mouth F0..29 (~0..1.2083s), xen vài frame khép; F30/1.25s trở đi đến F95 không thấy mở miệng nói thêm. Khoai blink khoảng F36..40, sau đó cười kín. Đây là quan sát hình, không mapping phoneme hay xác nhận đủ âm “lưng”.
+- Đào môi khép F0..95, không thấy mouth opening/speech-shaped reply; đầu shot nhìn Khoai và nghe. Khoảng F49..55 (2.0417..2.2917s) có biến đổi mắt/cười kín/blink; F56..58 (2.3333..2.4167s) mắt mở và quay dần ra trước.
+- **MAJOR thiếu glass-attention**: F58..95 mắt/mặt hướng ra trước gần camera, không hướng xuống/ngoài phải nơi ly nằm; endpointF95 vẫn vậy. Không có đoạn nào chứng minh COMPLETE turn-to-glass. Không coi mắt nhìn trước là mắt nhìn ly, cũng không tuyên bố nhân vật đã thấy Khoai gắp.
+- Timing phản ứng hình nằm sau mốc ASR-offline mà root báo N04 kết1.24s, nên không thấy reaction sớm rõ; ASR không thay human nghe câu/âm cuối/K20/nam-only và nhịp AV thực.
+- Cả bốn tay nghỉ xuyên96frames; không thấy cầm/nâng ly, với đũa, gắp/chạm đĩa hay dịch thức ăn. Nem nguội/không steam; rau, hai chấm, hai bát, đũa và ly giữ vị trí. Fullfaces còn đọc được; không caption/lettering mới ngoài watermark native, không camera cut/zoom hay morph rõ trên các still.
+
+Candidate local **NOT_SELECTED** `[0,50)` = F0..49, 50frames/2.083333s, rehash `87a5d8639ce89ae6bfc4c99cc0f2e67ed7dd65737e57f5b2437634f5c091481c`. Giữ toàn đoạn mouth N04 nhìn thấy và đoạn nghỉ sau đó; endpoint49 hai môi khép/tay nghỉ/Đào vẫn nhìn Khoai, cười rất nhẹ. Không chứa blink/reaction rõ F50+ và không chứa glass cue; không gọi full reaction hoặc full C03B PASS.
+Actual join rehash `e9d222a2537c12279b2a3e76a338245037e8c97648eab8f4b8870dfc4e6e043e`, 422frames/17.583333s; cutF372/15.5s từ C03A sang C03B F0. Đã tự xem ALL56 encoded frames F366..421, gồm 6 frame trước cut và toàn50frame C03B candidate.
+Ở F371→372 thấy state/axis/scale/props/hands gần liên tục; thay đổi nhỏ ở môi Khoai phù hợp onset hình. Không thấy blocker seam hình mới cụ thể, không thấy artifact encode/camera/face/hand mới trong đoạn đã xem. Không tái-chứng nhận phần opening F0..365 hoặc mọi seam cũ bằng acceptance259.
+F421/17.5417s (native49) kết candidate vẫn closed-mouth/handsrest/gaze sang nhau; hợp một điểm dừng reply có điều kiện, **chưa** là endpoint đạt yêu cầu Đào đã quay ly để C04 bắt đầu pickup.
+Technical report ghi no speed/pitch change và AAC re-encoded; không audio bit-exact/actual hearing/sync PASS. Owner cần nghe đúng N04, đủ “lưng”, K20/nam-only, không voice Đào và xem actual nhịp nối15.5s/điểm cắt2.083333s.
+
+Gate: trình owner exact candidate/join và nêu thiếu glass cue. Nếu owner chấp nhận chuyển COMPLETE turn-to-glass sang đầu C04, phải khóa boundary mới: Đào quay/nhìn ly rõ **trước bất kỳ Khoai pickup**, rồi kiểm actual C03B→C04; đó là thay đổi cần quyết định, không reviewer tự duyệt. Phương án retake C03B cũng chưa có paid authority từ report này. Không blind retry, reserve vẫnclosed, không whole-film/final PASS.

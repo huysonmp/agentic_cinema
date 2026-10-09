@@ -1,0 +1,20 @@
+{
+  "record": "REC261",
+  "date": "2026-10-09",
+  "owner_reply_verbatim": "ok đấy",
+  "question_context": "REC260 final explicitly asked whether shown C03B2.083s has correct K20, complete Chờ mẹ quay lưng, acceptable rhythm/lip-sync",
+  "selected_C03B": "07_edits/C03B_T01_F0_49_2p083S_FOR_REVIEW.mp4",
+  "selected_sha256": "87a5d8639ce89ae6bfc4c99cc0f2e67ed7dd65737e57f5b2437634f5c091481c",
+  "native_half_open_range": [0,50],
+  "selected_frames": 50,
+  "selected_seconds": 2.0833333333333335,
+  "human_acceptance": "Shown exact clip K20/N04/full words/rhythm/lip-sync; human evidence, not AI hearing certification",
+  "boundary_A": "Following preparation260: C03B ends mutual gaze, entire attention-turn/liftglass begins C04; Dao turns/lifts FIRST then Khoai picks up his chopsticks/oneA towardself without eating",
+  "full4s_C03B_native": "HOLD missing glass attention; not accepted by this decision",
+  "joined17p583": "QC candidate preserved; prior root/independent56 encoded-frame review no new visual blocker; owner acceptance of short C03B is NOT explicit acceptance of entire17.583s export or futurejoin",
+  "next": "One C04 first-pass under scoped238 after current paper/live gates; no automatic retry",
+  "not_approved": ["Whole film", "Final export", "Future motion", "New voice identity", "Reserve110", "Blanket future joins"],
+  "credit_spent_for_selection": 0,
+  "project_spent_before_C04": 129,
+  "project_remaining_before_C04": 371
+}

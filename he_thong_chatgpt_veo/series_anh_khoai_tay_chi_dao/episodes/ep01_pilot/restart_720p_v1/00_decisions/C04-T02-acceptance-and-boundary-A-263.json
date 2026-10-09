@@ -1,0 +1,26 @@
+{
+  "record": "REC263",
+  "date": "2026-10-09",
+  "owner_reply_verbatim": "thế này ok r này",
+  "reply_context": "Owner responds to the displayed C04 T02 native and REC262 alternatives; accepts this result. Root records the contextual acceptance under option A, not a new take or full-film approval.",
+  "accepted_artifact": "05_native/EP01_720_C04_T02_NATIVE.mp4",
+  "sha256": "8ad98f21c0c904b01055d6f579900cd60c107a152a9166a8cfa563165a47a209",
+  "selected_frame_range_half_open": [0, 144],
+  "fps": 24,
+  "duration_seconds": 6,
+  "selection_status": "OWNER_ACCEPTED_C04_VISUAL_WITH_BOUNDARY_A",
+  "boundary_A": {
+    "Dao_preparing_sip_cup_near_lips_and_lips_part": "ACCEPTED_FOR_THIS_NATIVE",
+    "Dao_returns_gaze_after_A_lift_in_C04_tail": "ACCEPTED_FOR_THIS_NATIVE",
+    "C05_entry": "Already returned gaze; no repeated turn or repeated discovery. Dao N05; Khoai recognizes being caught and pauses before excuse.",
+    "not_claimed": "Actual swallowing, audio silence or conformity to old closed-mouth/persistent-away prompt."
+  },
+  "audio": "NOT_APPROVED_AS_SOURCE; no dialogue intended. Residual AAC requires edit/QC handling within existing scope.",
+  "scope_exclusions": ["Full opening join", "C03B-to-C04 encoded join", "C05 or new voice", "Full episode or final export", "Extension beyond 30 seconds", "New spending cap, reserve release or tools"],
+  "STOP_resolution": "Owner accepts a concrete staging change, not authority for another C04 retry. C04 production closed; C05 readiness, continuity and timing must be checked.",
+  "authority_retained": "00_decisions/scoped-autonomy-238.json",
+  "credit_spent_this_record": 0,
+  "known_project_spent": 149,
+  "project_remaining": 351,
+  "reserve_110": "CLOSED"
+}

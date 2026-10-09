@@ -1,0 +1,20 @@
+{
+  "record": "REC264",
+  "date": "2026-10-09",
+  "owner_reply_verbatim": "a",
+  "question_context": "REC263 asked A allow rough cut up to35s with natural rhythm, or B retain30s and re-edit rests before production.",
+  "selected_option": "A",
+  "rough_cut_max_seconds": 35,
+  "keep_dialogue_and_natural_rhythm": true,
+  "prefer_near_30_if_safe_trim_exists": true,
+  "not_guaranteed": "35s feasibility still requires actual future source timing and owner rough-cut review.",
+  "final_export_approval": false,
+  "authority": "scoped-autonomy-238.json unchanged; current inputs and live quote/config required before each submission",
+  "budget_cap": 500,
+  "project_spent_before_C05": 149,
+  "project_remaining_before_C05": 351,
+  "buckets_remaining_before": {"first_pass": 109, "retake": 87, "post_rough": 45, "reserve": 110},
+  "reserve110": "CLOSED",
+  "C04": "Keep owner-selected T02 F0..143 under boundary A; no further C04 retake",
+  "next": "One C05 T01 under scoped238 after current paper/root/live gates; no automatic retry or downstream approval."
+}

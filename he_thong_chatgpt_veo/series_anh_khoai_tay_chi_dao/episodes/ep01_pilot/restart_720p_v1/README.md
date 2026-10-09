@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC260 / 09-10-2026:** tiếp tục chuẩn bị C04 theo A: toàn bộ cue nhìn/nâng cốc trước Khoai lấy đũa/gắp. Đã trích provisional F49, chạy đóng góp DIR/DOP/ACT/EDIT/CONT và phản biện độc lập; root đọc đầy đủ, tích hợp ba sửa đầu vào. UI prospective Frames720p/6s/x1/OmniFlash giá10, composer trống, chưa upload/submit. **C03B exact AV/selection còn chờ xác nhận rõ, C04 paid HOLD**; chi0, sổ129/500 còn371/reserve đóng. Xem `06_qc/run-registry-260.json` và `../260_C04-input-preparation-and-prior-AV-check.md`. REC259 trở xuống giữ lịch sử.
+
 - **Hiện hành REC259 / 09-10-2026:** owner chấp nhận exact opening15,5 giây/C03A và ngoại lệ đã trình. Một C03B/K20/720p đã chạy, tải gốc và kiểm96 native +56 khung nối mới bởi root/reviewer. Chi7, số dư1.008→1.001; dự án129/500, còn371, reserve đóng. Lời ASR đúng nhưng Đào quay ra trước thay vì cốc: **full C03B HOLD**. Candidate `[0,50)` /2,083 giây và bản nối17,583 giây **NOT_SELECTED**, chờ human AV và quyết định giữ đoạn đáp rồi chuyển động tác quay cốc sang đầuC04 hay làm lạiC03B; C04 chưa mở. Xem `06_qc/run-registry-259.json` và `../259_C03A-approved-and-C03B-reply-review.md`. Các dòng258 trở xuống là lịch sử.
 
 - **Hiện hành REC258 / 09-10-2026:** owner chọn A, chốt đúng opening13,75 giây và ngoại lệ BR. Đã chạy một C03A/D06/720p, chi7, số dư1.015→1.008; dự án122/500, còn378, reserve đóng. Đã kiểm96 khung, cắt candidate1,75 giây để loại Khoai hé môi ở đuôi và nối QC15,5 giây. ASR mơ hồ từ “ăn”, cỡ khung ở chỗ nối thay đổi nhẹ: **NOT_SELECTED / OWNER_AV_PENDING**, C03B chưa mở. Xem `06_qc/run-registry-258.json` và `../258_opening-approved-and-C03A-production-check.md`; các mục257 trở xuống là lịch sử.

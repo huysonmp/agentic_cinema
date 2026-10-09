@@ -1,0 +1,20 @@
+{
+  "record": "REC260",
+  "date": "2026-10-09",
+  "owner_reply_verbatim": "tiếp tục đi",
+  "context": "REC259 proposed A retaining reply range and moving complete glass attention into C04; separately asked actual K20/word/AV acceptance",
+  "working_direction": "Proceed with preparation of recommended A: C03B reply ending with mutual gaze, C04 begins COMPLETE turn toward glass BEFORE Khoai pickup",
+  "boundary_status": "A_USED_FOR_PREPARATION_FROM_OWNER_CONTINUE; no new dialogue or omitted cause",
+  "C03B_candidate": "07_edits/C03B_T01_F0_49_2p083S_FOR_REVIEW.mp4",
+  "candidate_sha256": "87a5d8639ce89ae6bfc4c99cc0f2e67ed7dd65737e57f5b2437634f5c091481c",
+  "joined_target": "07_edits/OPENING_C03B_17p583S_QC_NOT_FINAL.mp4",
+  "joined_sha256": "e9d222a2537c12279b2a3e76a338245037e8c97648eab8f4b8870dfc4e6e043e",
+  "actual_owner_K20_word_rhythm_sync_acceptance": "PENDING_EXPLICIT_AUDIO_CHECK; continue is not a statement that audio was heard",
+  "selected": false,
+  "full_C03B_native": "HOLD missing glass attention; no retroactive PASS",
+  "C04_paid_gate": "HOLD until explicit human AV closes prior dependency plus current specialist/input/live gates",
+  "credit_spent": 0,
+  "project_spent": 129,
+  "project_remaining": 371,
+  "reserve110": "CLOSED"
+}

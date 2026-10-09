@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC258: mở đầu được chốt, C03A mới chờ nghe/xem
+
+Owner chọn A chấp nhận đúng opening13,75 giây và ngoại lệ BR. C03A đã sinh một lượt720p/7credit; root kiểm96 khung và dựng candidate1,75 giây loại Khoai hé môi ở đuôi, nối QC15,5 giây. Chờ xác nhận D06, “ăn à”, khẩu hình/nhịp và cỡ khung mới; chưa chọn candidate/mở C03B. Dự án122/500, còn378, reserve đóng. Xem [258 — C03A và bản nối mới](258_opening-approved-and-C03A-production-check.md). Mốc257 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC257: BR đã sinh, bản nối có điều kiện chờ duyệt
 
 Owner chấp nhận A→BM và một lượt BR tối đa 15 credit. Thực chi 7, số dư 965, dự án 115/500; không retry/reserve. Đã kiểm đủ 96 khung: BR có buông–thu tay nhưng tay trong vẫn tiến sát mép đĩa, nên native HOLD. Đã bỏ tiếng ở derivative riêng và dựng candidate mở đầu 13,75 giây; reviewer chỉ cho phép trình **ngoại lệ tư thế và nhịp AV**, chưa chọn BR hoặc duyệt phim. Xem [257 — kết quả BR và bản nối có điều kiện](257_one-BR-result-and-conditional-opening-join.md). Mốc 256 trở xuống là lịch sử.

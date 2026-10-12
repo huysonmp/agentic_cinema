@@ -1,0 +1,21 @@
+{
+  "record": "REC272",
+  "date": "2026-10-12",
+  "owner_reply_verbatim": "Đào đặt cốc nươc vào bát rồi, mặt của khoai chưa đạt",
+  "target": "05_native/EP01_720_C06_T01_NATIVE.mp4",
+  "target_sha256": "a07433e358a2fa2fa946f51069dc2dc5304609c0a1625216c100d46c6bc775b7",
+  "status": "OWNER_VISUAL_REWORK_C06_NOT_SELECTED_C07_HOLD",
+  "owner_findings": ["Dao places glass in bowl", "Khoai face not satisfactory; exact acting versus identity concern needs clarification"],
+  "selected_range": null,
+  "prefix_0_76": "NOT_APPROVED; removing glass tail alone does not resolve owner face concern",
+  "audio_approval_from_this_reply": false,
+  "current_source_retained": true,
+  "root_current_full_frames_viewed": [0,30,75,143],
+  "root_current_reference_viewed": "02_refs/C06_START_from_C05_T02_selected_F65_269.png",
+  "root_reports_full_read": ["06_qc/C06_actual_independent_271.md", "06_qc/C06_DIR_DOP_ACT_EDIT_actual_271.md"],
+  "working_interpretation_not_owner_decision": "Entry smile and later teeth-exposing speaking expression weaken caught/embarrassed excuse; owner may instead mean facial identity or both",
+  "retake_submitted": false,
+  "new_credit_spend": 0,
+  "budget_from_run271": {"spent": 173, "remaining": 327, "closed_reserve": 110},
+  "next": "Clarify specific face target; propose observable acting and glass/bowl constraints together; current input review/live gates required before any targeted retake. Do not reopen C05 or advance C07."
+}

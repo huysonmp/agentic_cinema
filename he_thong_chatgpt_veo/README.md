@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 khắc phục / hoàn thiện G1, chưa bàn giao` — trạng thái mới nhất tại [232](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/232_source-intake-resolved-and-r01-production-result.md): source229 đã nhận, đủ inputs/quote10 và owner duyệt một lượt R01. Submit1lần bị Flow từ chối chỉnh lời nói, không output/không tính phí, balance77. Đã đổi tab sạch theo231; không tự retry. Giữ coverage229/B/voice/script/food, không testtay/x3/Quality/API/vendor; chưa fullG1/AV/master PASS. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md).
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [277](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/277_C07-two-takes-and-reference-adherence-stop.md): C05→C06 được duyệt; hai C07 đã tải/kiểm nhưng lỗi bát/danh tính/entry, **STOP_FOR_DIAGNOSIS**, chưa chọn C07 hoặc mở C08. Sổ207/500, còn293/reserve110 đóng; không T03 tự động. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); các hồ sơ kế hoạch cũ không thắng approval hiện hành.
 
 ## Tài liệu đang dùng
 

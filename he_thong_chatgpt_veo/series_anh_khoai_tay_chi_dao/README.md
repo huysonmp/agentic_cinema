@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — 2026-10-13 / REC277
+
+[277 — C07 dừng tại tầng neo hình](episodes/ep01_pilot/277_C07-two-takes-and-reference-adherence-stop.md): điểm nối C05→C06 được owner duyệt. Hai C07 đã tải/kiểm nhưng chưa chọn: T01 sai bát; T02 mất danh tính Đào, mất bát Khoai và reset entry. Không T03 tự động/C08; chi20, sổ207/500, còn293/reserve đóng. Đang trình hướng chuẩn bị neo hình mạnh hơn, chưa duyệt route hoặc nguồn mới. Mốc232 và các mục dưới là lịch sử, không còn ưu tiên vận hành.
+
 ## Trạng thái hiện hành — 2026-10-07
 
 [232 — intake xong, production R01 từ chối](episodes/ep01_pilot/232_source-intake-resolved-and-r01-production-result.md) là trạng thái ưu tiên: source229 anh tải hiện dùng được, bốn ingredients/prompt/quote đã kiểm. Owner duyệt1lượt10credit; submit1lần bị báo không thể chỉnh sửa lời nói, không tính phí/không output, balance77. Đã đổi tab sạch theo231; không tự retry. Chẩn đoán request/route chưa là căn nguyên được cô lập; không thay voice/script/mặt/story hoặc mở Quality/API/vendor.

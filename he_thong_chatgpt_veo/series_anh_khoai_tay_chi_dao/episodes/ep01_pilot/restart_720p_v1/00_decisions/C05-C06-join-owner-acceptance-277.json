@@ -1,0 +1,13 @@
+{
+  "record":"REC277",
+  "date":"2026-10-13",
+  "owner_answer_verbatim":"Đạt — duyệt điểm nối C05→C06",
+  "question":"Accept full final sounds, Dao then Khoai, dialogue rhythm and cut on exact 5.125s C05-C06 join; not whole film",
+  "accepted_target":"C:/Users/PC/Downloads/du_an_nem_bui/276_C05_C06_JOIN/C05_C06_5p125S_JOIN_QC_NOT_FINAL.mp4",
+  "accepted_sha256":"42d826e1356ce67acc6e1057b4ceefc9703f3e705ffa14ae6c09dea7934b5bdf",
+  "accepted_scopes":["Full N05 and N06 final sounds on encoded join","Dao then Khoai voice/speaker sequence","Dialogue rhythm and encoded C05-C06 cut"],
+  "human_AV_evidence":true,
+  "root_agents_actual_listening":"NOT_PERFORMED",
+  "C07":"DEPENDENCY_JOIN_CLOSED_REFRESH_LIVE_BEFORE_ONE_REQUEST_UNDER238",
+  "exclusions":["C07 output or source audio acceptance","Whole-film or release","C06 full native tail","New voice or tool","Budget/reserve/timing cap expansion"]
+}

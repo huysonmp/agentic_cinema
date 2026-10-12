@@ -1,0 +1,23 @@
+{
+  "record":"REC277","date":"2026-10-13",
+  "status":"C05_C06_JOIN_OWNER_ACCEPTED_C07_TWO_REJECTED_TAKES_STOP_FOR_DIAGNOSIS",
+  "join_approval":"00_decisions/C05-C06-join-owner-acceptance-277.json",
+  "join_sha256":"42d826e1356ce67acc6e1057b4ceefc9703f3e705ffa14ae6c09dea7934b5bdf",
+  "join_human_AV":"ACCEPTED_EXACT_TARGET_NOT_WHOLE_FILM",
+  "C07_T01":{"run":"04_requests/C07_T01_run_277.json","sha256":"d1ed08ffca20e8bbee1455f14ed672fb4e2f538374a3ba209d6cfe49a195bfc0","status":"WRONG_KHOAI_BOWL_NO_COMPLETE_RANGE","frames_checked":144,"selected":null,"credit_debit":10},
+  "C07_T02":{"run":"04_requests/C07_T02_run_277.json","sha256":"c793308e55ed02f5b61fb9dfd1f4f6edaa4b3302bdb520defb108cfa5b5140da","status":"DAO_HUMAN_IDENTITY_REGRESSION_MISSING_KHOAI_BOWL_ENTRY_RESET","frames_checked":144,"selected":null,"credit_debit":10},
+  "review_reports":["06_qc/C07_T01_maker_actual_277.md","06_qc/C07_T01_independent_actual_277.md","06_qc/C07_T02_independent_preflight_277.md","06_qc/C07_T02_maker_actual_277.md","06_qc/C07_T02_independent_actual_277.md"],
+  "root_T01_and_T02_preflight_reports_full_read":true,
+  "root_T02_actual_reports_full_read":true,
+  "root_scope":"ALL144_FRAME_STILLS_EACH_TAKE_NOT_AV",
+  "root_agents_actual_listening":"NOT_PERFORMED",
+  "paid_submits":2,"credit_debit":20,"observed_account_balance":1023,
+  "spent":207,"cap":500,"remaining":293,
+  "buckets_remaining":{"first_pass":82,"retake":56,"post_rough":45,"reserve":110},
+  "reserve_status":"CLOSED","prior_account_change133":"PARKED_NOT_BUDGET_AUTHORITY",
+  "through_C06_frames":689,"fps":24,"remaining_frames_to_rough35":151,
+  "C07_C09_selected_duration":"UNKNOWN","C08":"HOLD",
+  "stop":"Repeated inherited entry reset plus new identity/props MAJOR; no T03 automatic",
+  "next_owner_decision":"A prepare stronger image anchoring without paid run, or B change shot action boundary after storyboard/timing review",
+  "release_authorized":false
+}

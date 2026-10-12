@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC277: điểm nối duyệt, C07 dừng chẩn đoán
+
+Owner đã duyệt đúng điểm nối C05→C06 5,125s. Hai C07 native đã tải/kiểm toàn khung: T01 dùng sai bát; T02 biến Đào thành người thật, mất bát Khoai và reset entry. **C07 NOT_SELECTED / STOP_FOR_DIAGNOSIS / C08 HOLD**, không T03 tự động. Chi20, tổng207/500/còn293/reserve110 đóng. Xem [277 — kết quả và hướng neo hình](277_C07-two-takes-and-reference-adherence-stop.md). REC276 trở xuống giữ lịch sử, không dùng trạng thái chuẩn bị cũ thay kết quả mới.
+
 ## Hiện hành — REC276: C06 đã chọn, C07 đã chuẩn bị
 
 Owner duyệt prefix C06 [0,57), K20/N06/diễn–sync–nhịp và boundary cut-on-motion; full nativeT03 vẫn bị bác vì thả sớm. Đã dựng/kiểm ảnh điểm nối C05→C06 5,125s, chưa human AV trên target encode mới. C07 final qua maker/critic riêng, root đọc đủ; live đã gắn đúng F56/chỉD06,720p/9:16/6s/x1/âm thanh bật/AgentOFF/quote10. **Chưa gửi**, chờ checkpoint join rồi kiểm lại live; C08 giữ. Chi0, sổ187/500/còn313/reserve110 đóng. Xem [276 — approval, điểm nối và C07](276_C06-approved-join-review-and-C07-ready.md). REC275 trở xuống là lịch sử.

@@ -1,0 +1,11 @@
+{
+  "record": "REC273",
+  "date": "2026-10-12",
+  "owner_reply_verbatim": "A",
+  "question_source": "REC272: A expression too cheerful, restrained embarrassed excuse; B stronger fluster; C identity drift",
+  "approved_direction": "A: preserve facial identity; short caught stillness, look at Dao slightly embarrassed, speak composed excuse, only a tiny unilateral mouth-corner lift at sentence end, then redirect A",
+  "not_approved": ["C06 T01 source or shortened range", "voice or lip sync on any new take", "redesign character face", "glass placed in bowl", "C07", "new tool or budget"],
+  "production_authority": "00_decisions/scoped-autonomy-238.json unchanged",
+  "status": "ACTING_DIRECTION_LOCKED_REPAIR_INPUT_PREPARATION",
+  "credit_spend": 0
+}

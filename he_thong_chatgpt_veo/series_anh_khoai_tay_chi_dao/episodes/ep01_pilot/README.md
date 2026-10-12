@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC273: C06 T02 dừng để chẩn đoán diễn
+
+Owner chọn hướng A: Khoai tỉnh, hơi ngượng, chỉ nhếch kín cuối câu. Đã chạy/tải một C06 T02 720p/4 giây, giá 7 credit và kiểm đủ 96 khung với maker/reviewer độc lập. Cốc không còn vào bát, nhưng diễn cười quá rõ trong lời vẫn lặp: **STOP_FOR_DIAGNOSIS / C06 NOT_SELECTED / C07 HOLD**. Tiếng/AV chưa chứng nhận, không tự chạy T03. Sổ 180/500, còn 320; reserve 110 đóng. Xem [273 — kết quả và chẩn đoán](273_C06-acting-A-production-and-stop-diagnosis.md). Các mục dưới là lịch sử; C05 đã được chọn tại REC269.
+
 ## Hiện hành — REC258: mở đầu được chốt, C03A mới chờ nghe/xem
 
 Owner chọn A chấp nhận đúng opening13,75 giây và ngoại lệ BR. C03A đã sinh một lượt720p/7credit; root kiểm96 khung và dựng candidate1,75 giây loại Khoai hé môi ở đuôi, nối QC15,5 giây. Chờ xác nhận D06, “ăn à”, khẩu hình/nhịp và cỡ khung mới; chưa chọn candidate/mở C03B. Dự án122/500, còn378, reserve đóng. Xem [258 — C03A và bản nối mới](258_opening-approved-and-C03A-production-check.md). Mốc257 trở xuống giữ lịch sử.

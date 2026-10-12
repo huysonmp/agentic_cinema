@@ -1,0 +1,19 @@
+{
+  "record": "REC269",
+  "date": "2026-10-12",
+  "status": "C05_T02_SELECTED_RANGE_JOIN_ACCEPTED_C06_CURRENT_FINAL_LIVE_STATE_HOLD",
+  "supersedes_current_status": "run-registry-268.json",
+  "C05": {"native_sha256": "3df61217ddf6d09792fe1e5991c3668d115ce5648c00802f196d87abe57d23df", "selected_range_half_open": [0,66], "selected_seconds": 2.75, "exit_native_frame": 65, "range_join_decision": "00_decisions/C05-T02-range-and-join-acceptance-269.json", "source_AV_decision": "00_decisions/C05-T02-owner-audio-AV-acceptance-268.json", "status": "OWNER_SELECTED_RANGE_AND_JOIN"},
+  "C06": {"status": "LIVE_AGENT_AND_AUDIO_STATE_HOLD_NOT_SUBMITTED", "preparation": "04_requests/C06_T01_preparation_269.json", "prompt": "04_requests/C06_T01_prompt_269.txt", "prompt_sha256": "881cb9a14db21f427c5c13e451e5c5852d40febf9dc178b3d2c24930e1eca940", "reference": "02_refs/C06_START_from_C05_T02_selected_F65_269.png", "reference_sha256": "f091e35fc7c779591c918c47ba34752a8a2c3b30de507cd99dc0e76143e83196", "paper_maker": "06_qc/C06_DIR_DOP_ACT_EDIT_input_269.md", "paper_independent": "06_qc/C06_input_independent_269.md", "root_full_read_both": true, "paper_status": "CURRENT_FINAL_PAPER_AND_REFERENCE_GO", "live_quote": 10, "current_balance_observed": 934, "model_route_resolution_aspect_duration_x1_readback": true, "single_K20_and_image_selected": true, "exact_prompt_readback": true, "agent_off_live_verified": null, "source_audio_on_live_verified": null, "reference_uploads": 1, "submit_count": 0, "output": null, "native": null},
+  "credit_spend_this_record": 0,
+  "project_spent": 163,
+  "reserved_pending_debit": 0,
+  "remaining_budget": 337,
+  "buckets_remaining": {"first_pass": 102, "retake": 80, "post_rough": 45, "closed_reserve": 110},
+  "timing": {"selected_frames_through_C05": 632, "selected_seconds_through_C05": 26.333333333333332, "remaining_frames_to_rough35": 208, "remaining_seconds_to_rough35": 8.666666666666666, "actual_future_timing": "UNKNOWN", "fit35": "NOT_GUARANTEED"},
+  "browser": "Codex In-app Browser only; composer preserved as handoff, no hidden API/session/cookie extraction",
+  "new_script_or_install": false,
+  "C05_regeneration": 0,
+  "blocker": "Current Flow UI does not expose the prior Agent/audio toggles on checked visible composer/settings/model/project/home surfaces. Cannot assert required current states from stale prior screenshots; paid request not sent.",
+  "next": "Resolve current live-state evidence or owner explicitly accepts one bounded C06 generation with current10-credit/x1 composer despite missing toggle readback; no automatic paid submission."
+}

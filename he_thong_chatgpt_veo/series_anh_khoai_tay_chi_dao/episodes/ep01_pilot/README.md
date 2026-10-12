@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC276: C06 đã chọn, C07 đã chuẩn bị
+
+Owner duyệt prefix C06 [0,57), K20/N06/diễn–sync–nhịp và boundary cut-on-motion; full nativeT03 vẫn bị bác vì thả sớm. Đã dựng/kiểm ảnh điểm nối C05→C06 5,125s, chưa human AV trên target encode mới. C07 final qua maker/critic riêng, root đọc đủ; live đã gắn đúng F56/chỉD06,720p/9:16/6s/x1/âm thanh bật/AgentOFF/quote10. **Chưa gửi**, chờ checkpoint join rồi kiểm lại live; C08 giữ. Chi0, sổ187/500/còn313/reserve110 đóng. Xem [276 — approval, điểm nối và C07](276_C06-approved-join-review-and-C07-ready.md). REC275 trở xuống là lịch sử.
+
 ## Hiện hành — REC275: T03 thả sớm; bản cắt 2,375s chờ duyệt
 
 Owner đã duyệt riêng tiếngT02 và mộtT03 theo274-A. Đã chạy/tải T03 đúng720p/4s/x1, debit7; kiểm đủ96 ảnh. Cốc giữ nâng nhưng đuôi thả A vào bát trướcC08: **full native STOP**, khôngT04. Đã làm proposal prefix[0,57)/2,375s còn kẹp, cắt khi tay đang chuyển — chưa đạt hold cũ, cần owner duyệt boundary và AV đúng bản ngắn; C06 chưa chọn/C07 HOLD. Sổ187/500, còn313; reserve110 đóng, chênh account+133 park riêng. Xem [275 — kết quả và bản cắt](275_C06-T03-production-stop-and-prefix57-proposal.md). REC274 trở xuống là lịch sử.

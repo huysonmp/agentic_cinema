@@ -1,0 +1,15 @@
+{
+  "record": "REC268",
+  "date": "2026-10-12",
+  "owner_reply_verbatim": "Đạt toàn bộ tiếng và AV trên T02",
+  "question_context": "Owner checkpoint on exact C05 T02 native: Dao says Chờ em quay lưng nữa à? exactly once, D06 voice, full final sound, no male voice or extra words, lips match audio.",
+  "target": "05_native/EP01_720_C05_T02_NATIVE.mp4",
+  "sha256": "3df61217ddf6d09792fe1e5991c3668d115ce5648c00802f196d87abe57d23df",
+  "owner_copy": "C:/Users/PC/Downloads/du_an_nem_bui/265_C05/C05_T02_NATIVE_720p.mp4",
+  "accepted_scopes": ["exact single N05 dialogue", "Dao speaker and D06 source voice", "no male voice or extra words", "complete final sound", "source lip sync and AV"],
+  "human_evidence": true,
+  "root_or_agent_actual_listening": "NOT_PERFORMED",
+  "not_inherited_from_T01": true,
+  "scope_exclusions": ["shortened selected range", "encoded C04 to C05 seam", "C06 output or generation", "whole film", "final export"],
+  "next": "Evaluate conditional range and encoded seam on actual review target; prepare C06 only after dependency gates. No generation in current resume scope."
+}

@@ -1,0 +1,17 @@
+{
+  "record": "REC270",
+  "date": "2026-10-12",
+  "owner_reply_verbatim": "Giữ HOLD — tôi sẽ chỉ vị trí hoặc xác nhận trạng thái UI",
+  "question_context": "Choose whether to retain C06 live-state HOLD for visible Agent/audio verification, or explicitly allow one C06 request at10 credits despite missing toggle readback.",
+  "selected_option": "RETAIN_HOLD_PENDING_OWNER_UI_LOCATION_OR_STATE_CONFIRMATION",
+  "status": "C06_OWNER_HOLD_NOT_SUBMITTED",
+  "target_preparation": "04_requests/C06_T01_preparation_269.json",
+  "prompt_sha256": "881cb9a14db21f427c5c13e451e5c5852d40febf9dc178b3d2c24930e1eca940",
+  "reference_sha256": "f091e35fc7c779591c918c47ba34752a8a2c3b30de507cd99dc0e76143e83196",
+  "missing_live_states_not_waived": ["Agent OFF", "Source audio ON / return without audio OFF"],
+  "new_paid_request_authorized_despite_missing_readback": false,
+  "C06_submit_count": 0,
+  "credit_spend_this_record": 0,
+  "C05_regeneration": 0,
+  "next": "Wait for owner UI location/state evidence; inspect current required states and refresh remaining live gates before any submit. Hold does not revoke accepted C05 source/range/join."
+}

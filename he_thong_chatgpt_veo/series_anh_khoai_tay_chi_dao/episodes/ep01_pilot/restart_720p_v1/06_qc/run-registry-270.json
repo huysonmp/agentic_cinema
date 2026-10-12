@@ -1,0 +1,23 @@
+{
+  "record": "REC270",
+  "date": "2026-10-12",
+  "status": "C05_SELECTED_C06_OWNER_HOLD_AWAITING_UI_STATE_EVIDENCE",
+  "supersedes_current_status": "run-registry-269.json",
+  "owner_decision": "00_decisions/C06-owner-live-state-hold-270.json",
+  "C05_selection_retained": "00_decisions/C05-T02-range-and-join-acceptance-269.json",
+  "C05_range_half_open": [0,66],
+  "C06_current_final_preparation": "04_requests/C06_T01_preparation_269.json",
+  "C06_paper_and_reference": "GO_CURRENT_FINAL_FROM269_NOT_LIVE_OR_MEDIA_PASS",
+  "C06_submit_count": 0,
+  "C06_native": null,
+  "agent_off_live_verified": null,
+  "source_audio_on_live_verified": null,
+  "missing_state_waiver": false,
+  "credit_spend_this_record": 0,
+  "project_spent": 163,
+  "pending_credit_reservation": 0,
+  "project_remaining": 337,
+  "reserve110": "CLOSED",
+  "C05_regeneration": 0,
+  "next": "Owner provides UI location or state confirmation; root inspects relevant visible browser surface and refreshes live quote/config/balance/input readback before any C06 submit. No action against paid generation while HOLD retained."
+}

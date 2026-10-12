@@ -1,0 +1,12 @@
+{
+  "record": "REC274",
+  "date": "2026-10-12",
+  "owner_reply_verbatim": "ok nhé",
+  "reply_context": "REC273 stopped C06 T02 for repeated overly-cheerful acting and proposed diagnosis before more credit",
+  "accepted_scope": "Continue local diagnosis and prepare an intervention proposal using existing sources",
+  "not_approved": ["C06 T02 selection", "T02 voice or lip sync", "C06 T03 generation", "changing the tiny unilateral smile direction", "changing saved K20", "new reference, route, tool or coverage", "C07", "reserve use or budget increase"],
+  "acting_direction_273": "UNCHANGED_PENDING_EXPLICIT_DECISION",
+  "same_major_stop": "REMAINS_IN_FORCE",
+  "credits_spent_this_record": 0,
+  "status": "DIAGNOSIS_CONTINUATION_ONLY"
+}

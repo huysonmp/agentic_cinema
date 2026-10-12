@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC274: chẩn đoán xong tầng nguồn, chờ chọn can thiệp
+
+Không sinh thêm, chi0; C06 T02 chưa chọn và C07 HOLD. Maker/reviewer độc lập đối chiếu T01/T02: cue “một khóe cuối” không giải thích gốc vì T01 chưa có cue vẫn cười; chưa có căn cứ đổi K20. Đề nghị giữ một cảnh và thay cue cười bằng mắt–mày–nhịp, cần owner chốt vì khác micro-cue273. Đang hỏi riêng tiếng T02; chưa có full prompt/live quote mới. Sổ180/500, còn320/reserve đóng. Xem [274 — phương án và quyết định](274_C06-diagnosis-and-intervention-decision.md). Các mục dưới là lịch sử.
+
 ## Hiện hành — REC273: C06 T02 dừng để chẩn đoán diễn
 
 Owner chọn hướng A: Khoai tỉnh, hơi ngượng, chỉ nhếch kín cuối câu. Đã chạy/tải một C06 T02 720p/4 giây, giá 7 credit và kiểm đủ 96 khung với maker/reviewer độc lập. Cốc không còn vào bát, nhưng diễn cười quá rõ trong lời vẫn lặp: **STOP_FOR_DIAGNOSIS / C06 NOT_SELECTED / C07 HOLD**. Tiếng/AV chưa chứng nhận, không tự chạy T03. Sổ 180/500, còn 320; reserve 110 đóng. Xem [273 — kết quả và chẩn đoán](273_C06-acting-A-production-and-stop-diagnosis.md). Các mục dưới là lịch sử; C05 đã được chọn tại REC269.

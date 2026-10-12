@@ -1,0 +1,15 @@
+{
+  "record": "REC275",
+  "date": "2026-10-12",
+  "owner_reply_verbatim": "ok",
+  "clarification_question": "Confirm both: 274-A removes instructed corner-lift, one new C06 up to15 after gates, stop on failure; T02 K20/full N06/slightly embarrassed tone accepted, audio only",
+  "approved": {
+    "acting": "274-A: keep composed slightly embarrassed excuse; express through eyes/brow/rhythm, no instructed mouth-corner lift",
+    "one_request": {"shot":"C06","take":"T03","max_outputs":1,"resolution":"720p","planned_seconds":4,"max_credit_debit":15,"bucket":"retake","after_current_final_and_live_gates_only":true},
+    "T02_audio": {"source_sha256":"a2422a7e827ef80be3b95ff07335bd66e8ec1207d14af64a3763098e90c91b6a","presented_audio_sha256":"03325d53dbc4f7da2c89ee7b9b80c984ac65613d6268786c2256cc8c61393db3","K20":true,"full_N06":true,"tone": "slightly embarrassed accepted","scope":"HUMAN_SOURCE_AUDIO_ONLY"}
+  },
+  "not_approved": ["T02 picture or selection", "T02 lip sync or seam", "T03 output or audio", "automatic T04", "changing K20 preset", "new tools or route", "coverage split", "C07", "reserve or budget increase"],
+  "standing_authority": "scoped-autonomy-238.json",
+  "status": "ONE_TARGETED_T03_AUTHORIZED_CONDITIONALLY",
+  "credits_spent": 0
+}

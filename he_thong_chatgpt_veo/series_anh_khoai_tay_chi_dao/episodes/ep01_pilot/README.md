@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC275: T03 thả sớm; bản cắt 2,375s chờ duyệt
+
+Owner đã duyệt riêng tiếngT02 và mộtT03 theo274-A. Đã chạy/tải T03 đúng720p/4s/x1, debit7; kiểm đủ96 ảnh. Cốc giữ nâng nhưng đuôi thả A vào bát trướcC08: **full native STOP**, khôngT04. Đã làm proposal prefix[0,57)/2,375s còn kẹp, cắt khi tay đang chuyển — chưa đạt hold cũ, cần owner duyệt boundary và AV đúng bản ngắn; C06 chưa chọn/C07 HOLD. Sổ187/500, còn313; reserve110 đóng, chênh account+133 park riêng. Xem [275 — kết quả và bản cắt](275_C06-T03-production-stop-and-prefix57-proposal.md). REC274 trở xuống là lịch sử.
+
 ## Hiện hành — REC274: chẩn đoán xong tầng nguồn, chờ chọn can thiệp
 
 Không sinh thêm, chi0; C06 T02 chưa chọn và C07 HOLD. Maker/reviewer độc lập đối chiếu T01/T02: cue “một khóe cuối” không giải thích gốc vì T01 chưa có cue vẫn cười; chưa có căn cứ đổi K20. Đề nghị giữ một cảnh và thay cue cười bằng mắt–mày–nhịp, cần owner chốt vì khác micro-cue273. Đang hỏi riêng tiếng T02; chưa có full prompt/live quote mới. Sổ180/500, còn320/reserve đóng. Xem [274 — phương án và quyết định](274_C06-diagnosis-and-intervention-decision.md). Các mục dưới là lịch sử.

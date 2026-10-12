@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC275 / 12-10-2026:** tiếngT02 được owner duyệt riêng; mộtT03 theo274-A đã chạy/tải, debit7. ALL96 ảnh cho thấy cốc nâng nhưng A thả vào bát sớm: **full native STOP / noT04**. Proposal prefix57/2,375s cắt trên chuyển động còn kẹp chờ owner ACT/AV và boundary, chưa đạt hold cũ; C06 NOT_SELECTED, C07 HOLD. Sổ187/500, còn313, reserve110 đóng; park+133 thay đổi account có sẵn, không tăng ngân sách. Xem `06_qc/run-registry-275.json`, `07_edits/C06_T03_prefix57_proposal_275.json` và `../275_C06-T03-production-stop-and-prefix57-proposal.md`. Các mục dưới là lịch sử.
+
 - **Hiện hành REC274 / 12-10-2026:** chỉ chẩn đoán local, chi0. T01 chưa có cue một khóe mà vẫn cười, nên chưa chứng minh nguyên nhân nội bộ; chưa có căn cứ đổi K20. Đề nghị274-A giữ một shot/giọng/set nhưng bỏ cue cười, cần owner chốt và quyền mở lại một request sau STOP. TiếngT02 đang hỏi riêng; chưa có full prompt/quote/paid GO mới. C06 NOT_SELECTED, C07 HOLD; sổ180/500 còn320, reserve110 đóng. Xem `06_qc/run-registry-274.json` và `../274_C06-diagnosis-and-intervention-decision.md`. REC273 trở xuống là lịch sử.
 
 - **Hiện hành REC273 / 12-10-2026:** owner chọn hướng diễn A. Đã chạy/tải một C06 T02 720p/4s/x1 giá 7; root và hai reviewer kiểm đủ 96 khung. Cốc nâng/bát rỗng được giữ, nhưng Khoai vẫn cười rõ trong lời: **STOP_FOR_DIAGNOSIS / C06 NOT_SELECTED / C07 HOLD**, không tự chạy T03. Tiếng/AV chưa chứng nhận. Sổ 180/500, còn 320; reserve 110 đóng. Xem `06_qc/run-registry-273.json` và `../273_C06-acting-A-production-and-stop-diagnosis.md`. Các mục REC265 trở xuống là lịch sử; download hold cũ đã được giải quyết, C05 đã chọn tại REC269.

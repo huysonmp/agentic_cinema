@@ -4,6 +4,10 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC302 / 13-10-2026:** owner duyệt1max7/noauto; đã chạy/tải720p/hash/decode/full96stills+criticalfullres. Root+independentcompleted/read: NOT_SELECTED vìhumanĐào/cốcreset/twohands/missingrestchopsticks; khôngprefix/retry/C08. Historyimage đúngF47; đã ghi misspreflightactual277/280. Debit1029→1022/7;258/500/còn242/first82/retake5/post45/reserve110 đóng. Khôngvoice/AVPASS/EDLrelease. Xem `../302_C07-native-rejected-and-regression-diagnosis.md` và `06_qc/run-registry-302.json`. REC301 giữ lịch sử.
+
+- **Hiện hành REC301 / 13-10-2026:** C07 F47 + một D06/N07, nâng bát chưa thả; live720p/4s/x1/Ingredients/quote7/AgentOFF/audioON. Paper+stills độc lập, root đã đọc. Chờ bound approval mới, chưa submit. Chi0;251/500/còn249/retake12/reserve110 đóng. Accountlive1029, tăng50 chưa rõ không thêm cap. Xem `../301_C07-receive-live-preparation-and-one-run-gate.md` và `06_qc/run-registry-301.json`. REC300 giữ lịch sử.
+
 - **Hiện hành REC300 / 13-10-2026:** owner chốt range C06 [0,48) và đối thoại/sync exact nối REC299. START ứng viên native F47 cùng hash đã kiểm; preflight nhận chưa sẵn sàng paid. Food/A seam chưa đóng. Qua C06 680F/28,333333s; còn160F tới rough35 theo REC264, không final35. Chi0; 251/500, còn249, tạo lại12, dự phòng110 đóng. Xem `../300_C06-range-approved-and-receive-preflight.md` và `06_qc/run-registry-300.json`. REC299 trở xuống giữ lịch sử.
 
 - **Hiện hành REC299 / 13-10-2026:** owner chốt tiếng/K20, diễn và ngoại lệ ánh nhìn native REC298 để chuẩn nối. Trial C05 [0,66) + C06 [0,48) = 114 khung/4,75 giây đã encode, kiểm hash và decode; nhãn board v2 đủ sau sửa lỗi lặp v1. **NATIVE_SCOPES_ACCEPTED / RANGE_AND_DIALOGUE_JOIN_PENDING / FOOD_SEAM_OPEN**. Không thay EDL chính, trả phí hoặc đổi giọng; 251/500, còn 249, phần tạo lại 12, dự phòng 110 đóng. Nếu range mới được chọn, kết 30 giây chỉ còn 40 khung, chưa đóng thời lượng. Xem `06_qc/run-registry-299.json` và `../299_C06-accepted-native-and-short-join-trial.md`. REC298 trở xuống giữ lịch sử.

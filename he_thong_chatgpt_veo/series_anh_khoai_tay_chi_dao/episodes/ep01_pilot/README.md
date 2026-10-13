@@ -1,6 +1,14 @@
 # EP01 — Pilot
 
-## Hiện hành — REC300: range và đối thoại/sync đã duyệt
+## Hiện hành — REC302: C07 native không đạt, không chạy lại
+
+[302 — Native và hồi quy](302_C07-native-rejected-and-regression-diagnosis.md): chạy1/debit7, native720p/96F đã tải/kiểm. Root+reviewer độc lập loại vì Đào hóa người và cốc/tay sai; không prefix/EDL/C08. InputF47 thực đúng, hồi quy lịch sử277/280 bị bỏ sót ởpreflight301. Chuẩn hướng sửa/ngân sách cần chốt. Spent258/rem242/retake5/reserve110 đóng; foodseam/finaltiming mở.
+
+## Lịch sử — REC301: C07 chuẩn live, chờ một lượt
+
+[301 — Gói C07](301_C07-receive-live-preparation-and-one-run-gate.md): F47 nguồn thật và một D06, only N07/đưa bát/chưa thả; quote7/720p/4s/x1. Gói giấy/ảnh được phản biện, UI readback/toggle đã kiểm; chưa submit/output. Chi0/còn249/retake12/reserve110 đóng. Món C05→C06 và timing cuối chưa đóng.
+
+## Lịch sử — REC300: range và đối thoại/sync đã duyệt
 
 [300 — Duyệt và chuẩn bước nhận](300_C06-range-approved-and-receive-preflight.md): owner chốt range C06 48F/2s và đối thoại/sync trên exact nối REC299. START ứng viên native F47 đã kiểm, preflight Đào nhận còn gate; không paid/EDL final. Food/A cut vẫn lỗi mở. Rough35 có quyền REC264, còn 160F; final30 còn 40F, chưa đóng kết. Sổ 251/500, còn 249, tạo lại 12, dự phòng 110 đóng.
 

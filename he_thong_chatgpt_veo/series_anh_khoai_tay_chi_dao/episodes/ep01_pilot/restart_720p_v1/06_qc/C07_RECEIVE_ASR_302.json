@@ -1,0 +1,80 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.8600000000000001,
+      "end": 2.6,
+      "text": " Thế em quay lại đúng lúc rồi",
+      "tokens": [
+        50364,
+        334,
+        6115,
+        846,
+        421,
+        320,
+        23017,
+        2934,
+        16926,
+        287,
+        31585,
+        19908,
+        50514
+      ],
+      "avg_logprob": -0.3354009177003588,
+      "compression_ratio": 0.7708333333333334,
+      "no_speech_prob": 0.3284468948841095,
+      "words": [
+        {
+          "start": 0.8600000000000001,
+          "end": 1.3,
+          "word": " Thế",
+          "probability": 0.8189580738544464
+        },
+        {
+          "start": 1.3,
+          "end": 1.52,
+          "word": " em",
+          "probability": 0.7757630348205566
+        },
+        {
+          "start": 1.52,
+          "end": 1.74,
+          "word": " quay",
+          "probability": 0.9836671948432922
+        },
+        {
+          "start": 1.74,
+          "end": 1.92,
+          "word": " lại",
+          "probability": 0.996898889541626
+        },
+        {
+          "start": 1.92,
+          "end": 2.1,
+          "word": " đúng",
+          "probability": 0.9784010946750641
+        },
+        {
+          "start": 2.1,
+          "end": 2.34,
+          "word": " lúc",
+          "probability": 0.9924917221069336
+        },
+        {
+          "start": 2.34,
+          "end": 2.6,
+          "word": " rồi",
+          "probability": 0.9949644804000854
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

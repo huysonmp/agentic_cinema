@@ -1,0 +1,23 @@
+{
+  "record": "REC301",
+  "status": "LIVE_PREPARED_OWNER_ONE_RUN_REQUEST_PENDING_NOT_SUBMITTED",
+  "root_report": "../301_C07-receive-live-preparation-and-one-run-gate.md",
+  "preparation": "04_requests/C07_RECEIVE_D06_T01_preparation_301.json",
+  "independent_report": "06_qc/C07_RECEIVE_preflight_independent_301.md",
+  "independent_scope": "PAPER_AND_FULL_STILLS_REVIEW_ROOT_FULL_READ_NO_MOTION_OR_AV_PASS",
+  "successful_submits": 0,
+  "credit_debit": 0,
+  "project_spent": 251,
+  "project_remaining": 249,
+  "buckets_remaining": {
+    "first_pass": 82,
+    "retake": 12,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "account_live": 1029,
+  "unattributed_increase": 50,
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

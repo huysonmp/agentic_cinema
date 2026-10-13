@@ -1,0 +1,76 @@
+{
+  "record": "REC301",
+  "date": "2026-10-13",
+  "request": "C07_RECEIVE_D06_T01",
+  "status": "LIVE_PREPARED_OWNER_ONE_RUN_REQUEST_PENDING_NOT_SUBMITTED",
+  "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "inputs": [
+    {
+      "kind": "image",
+      "path": "02_refs/C07_START_NATIVE_C06_KEEP_A_F47_CANDIDATE_300.png",
+      "sha256": "34f51b2a30650ed9ffdae1e30f177bbfd28c2e5c53bd47fa57063488ded9a4f2",
+      "native_frame": 47,
+      "source_scope_authority": "00_decisions/C06-KEEP-A-encoded-range-dialogue-sync-approval-300.json"
+    },
+    {
+      "kind": "saved_voice",
+      "selected_UI_name": "EP01_Dao_D06_Aoede_720p_v1",
+      "expected_id_from_prior_binding": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb",
+      "opaque_id_live_observed": false,
+      "identity_evidence": "SELECTED_EXACT_SAVED_NAME_AND_NORTHERN_VIETNAMESE_CUSTOM_DESCRIPTION_NOT_BASE_AOEDE"
+    }
+  ],
+  "pose_drafts_used_as_inputs": false,
+  "image_chips": 1,
+  "voice_chips": 1,
+  "prompt": "04_requests/C07_RECEIVE_D06_T01_prompt_DRAFT_301.txt",
+  "prompt_sha256": "f8f69ef206dc969a782641c054b333815e902e1f6df2696d4acfd852b7811a2d",
+  "prompt_exact_readback": true,
+  "dialogue": "Thế em quay lại đúng lúc rồi.",
+  "speaker": "DAO_D06_ONLY",
+  "action": "RAISE_OWN_EMPTY_BOWL_CLEAR_OF_KHOAI_RESTING_HAND_TOWARDS_BELOW_HELD_A_KEEP_GLASS_OUTSIDE_NO_RELEASE",
+  "config": {
+    "route": "Ingredients",
+    "model": "Omni 1.1 Flash",
+    "resolution": "720p",
+    "aspect": "9:16",
+    "native_seconds": 4,
+    "outputs": 1,
+    "quote": 7,
+    "agent_aria_pressed": false,
+    "return_video_without_audio_aria_checked": false
+  },
+  "account_balance_live_before": 1029,
+  "last_account_balance_recorded": 979,
+  "account_increase_unattributed": 50,
+  "account_increase_added_to_project_cap": false,
+  "project_cap": 500,
+  "project_spent": 251,
+  "project_remaining": 249,
+  "buckets_remaining": {
+    "first_pass": 82,
+    "retake": 12,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "proposed_bucket": "retake",
+  "after_if_debit7": {
+    "project_spent": 258,
+    "project_remaining": 242,
+    "retake_remaining": 5,
+    "reserve110": "CLOSED"
+  },
+  "successful_submits": 0,
+  "credit_debit": 0,
+  "automatic_retry": false,
+  "operator_recovery": "AGENT_TOGGLED_ON_DURING_INSPECTION_THEN_OFF_REVERIFIED_AND_VOICE_CHIP_CLICK_REMOVED_IT_THEN_EXACT_D06_REATTACHED_NO_PREVIEW_EDIT_OR_SUBMIT",
+  "proof_directory": "06_qc/C07_RECEIVE_preflight_301",
+  "reviewer_report": "06_qc/C07_RECEIVE_preflight_independent_301.md",
+  "owner_request_scope": "EXACTLY_ONE_RUN_MAX7_IF_PACKAGE_CHANGED_RECONFIRM_NOT_OUTPUT_APPROVAL",
+  "owner_one_run_approval": "PENDING",
+  "physical_motion_proven": false,
+  "voice_or_AV_pass": false,
+  "food_C05_C06_seam_open": true,
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

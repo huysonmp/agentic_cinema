@@ -1,6 +1,14 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái ưu tiên — REC300 / 2026-10-13
+## Trạng thái ưu tiên — REC302 / 2026-10-13
+
+[302 — C07 bị loại, truy hồi quy](episodes/ep01_pilot/302_C07-native-rejected-and-regression-diagnosis.md): một7 đã chạy/tải gốc/96F QC/hash/decode. Đào hóa người toàn nguồn, cốc về bàn/hai tay nâng bát, mất đũa nghỉ; root và phản biệnactual NOT_SELECTED. A giữ không đủ cứu nguồn. Không retry/C08/EDL;258/500/còn242/retake5/reserve110 đóng. Input history đúng F47; lỗi preflight bỏ qua actualhistory277/280 đã ghi.
+
+## Lịch sử — REC301 / 2026-10-13
+
+[301 — C07 chuẩn live](episodes/ep01_pilot/301_C07-receive-live-preparation-and-one-run-gate.md): exact F47 + một saved D06; 720p/4s/x1/Ingredients/quote7, Agent OFF/audio ON. Paper/still reviewer đã chạy, không motion/AV PASS. Chờ một lượt mới, chưa submit; remaining249/retake12/reserve110 đóng. Food seam và final timing vẫn mở.
+
+## Lịch sử — REC300 / 2026-10-13
 
 [300 — Range duyệt, chuẩn nhịp nhận](episodes/ep01_pilot/300_C06-range-approved-and-receive-preflight.md): range C06 [0,48) và đối thoại/sync bản nối exact REC299 được owner chốt. START native F47 đã kiểm; nhịp nhận còn preflight, chưa trả phí. Food/A seam chưa đóng; qua C06 28,333333s, còn 6,666667s tới trần rough35 đã duyệt, không phải final35. Sổ 251/500, còn 249, tạo lại 12, dự phòng 110 đóng.
 

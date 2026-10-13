@@ -1,0 +1,30 @@
+{
+  "record": "REC302",
+  "date": "2026-10-13",
+  "question_item_id": "[\"request_user_input_async\",\"call_NPinXz1TrfaUMh99bJvbsNQo\",0]",
+  "owner_answer_verbatim": "Duyệt một lượt C07 — tối đa 7 credit, không tự chạy lại",
+  "approved_request": "C07_RECEIVE_D06_T01",
+  "max_submits": 1,
+  "max_quote_credits": 7,
+  "preparation": "04_requests/C07_RECEIVE_D06_T01_preparation_301.json",
+  "prompt_sha256": "f8f69ef206dc969a782641c054b333815e902e1f6df2696d4acfd852b7811a2d",
+  "config": {
+    "route": "Ingredients",
+    "model": "Omni 1.1 Flash",
+    "resolution": "720p",
+    "aspect": "9:16",
+    "duration_seconds": 4,
+    "outputs": 1
+  },
+  "inputs": [
+    "C07_START_NATIVE_C06_KEEP_A_F47_CANDIDATE_300.png",
+    "EP01_Dao_D06_Aoede_720p_v1"
+  ],
+  "dialogue": "Thế em quay lại đúng lúc rồi.",
+  "action": "DAO_RAISE_OWN_EMPTY_BOWL_BELOW_HELD_A_KHOAI_KEEP_A_NO_RELEASE",
+  "auto_retry": false,
+  "if_package_or_quote_changes": "STOP_RECONFIRM",
+  "proposed_bucket": "retake",
+  "reserve110": "CLOSED",
+  "new_take_or_seam_or_final_acceptance": false
+}

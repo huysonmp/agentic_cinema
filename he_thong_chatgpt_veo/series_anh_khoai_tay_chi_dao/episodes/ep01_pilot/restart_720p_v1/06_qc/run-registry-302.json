@@ -1,0 +1,30 @@
+{
+  "record": "REC302",
+  "status": "NATIVE_RECEIVED_ROOT_REJECT_IDENTITY_AND_GLASS_HAND_STATE_NO_RETRY",
+  "authority": "00_decisions/C07-RECEIVE-D06-one-run-approval-302.json",
+  "run": "04_requests/C07_RECEIVE_D06_T01_run_302.json",
+  "root_report": "../302_C07-native-rejected-and-regression-diagnosis.md",
+  "native_sha256": "85fb15de347d8054803eeeef186ea6d4f2985baa9fe46018bf281af9a6cfe527",
+  "root_scope": "ALL96_F0_TO_F95_SIX_VALID_FULL16_BOARDS_PLUS_FULL_F0_F32_F64_F95",
+  "independent_review": "COMPLETED_ALL96_STILLS_PLUS_FULLRES_HASH_REVIEW_ROOT_FULL_READ_NOT_SELECTED",
+  "independent_report": "06_qc/C07_RECEIVE_actual_independent_302.md",
+  "actual_listening": "NOT_PERFORMED",
+  "new_paid_submits": 1,
+  "credit_debit": 7,
+  "account_before": 1029,
+  "account_after": 1022,
+  "project_spent": 258,
+  "project_remaining": 242,
+  "buckets_remaining": {
+    "first_pass": 82,
+    "retake": 5,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "selected_range": null,
+  "automatic_retry": false,
+  "C08": "HOLD_NO_ACCEPTED_C07",
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC285 / 2026-10-13
+
+[285 — tuyến project composer, gói20](episodes/ep01_pilot/285_project-prompt-video-edit-route-preflight.md): một video nguồn + START/cùng prompt, UI720p/9:16/x1/Omni/AgentOFF/source-based5,14s và quote20 được kiểm. Independent proof/hash/prompt report xong, root đọc đủ. Chưa nguyên nhân284 hoặc preservation PASS; chờ owner một request mới cap20/bucketretake/no retry. Không submit/chi thêm;217/500 còn283/reserve110 đóng, food gate mở. REC284 trở xuống là lịch sử.
+
 ## Trạng thái ưu tiên — REC284 / 2026-10-13
 
 [284 — request sửa món không có output](episodes/ep01_pilot/284_food-edit-one-request-failed-no-output.md): owner duyệt một lượt cap12, đã submit đúng một lần; Flow lỗi chung không trả video. Giữ nguồn/job, không retry. Balance reload1.013→1.013, observed net0;217/500 còn283/reserve110 đóng. Reviewer độc lập kiểm evidence, root đọc đủ; nguyên nhân chưa xác định, không chấm chất lượng output không tồn tại. Food gate toàn tập còn mở, request mới cần chốt riêng. REC283 trở xuống là lịch sử.

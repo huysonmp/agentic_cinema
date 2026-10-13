@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC285: tuyến vào khác, gói20 đang chờ duyệt
+
+Kiểm không trả phí thấy mục upload-card → Thêm vào câu lệnh đưa video nguồn vào composer dự án, có một video + START material-only và cùng prompt. Cấu hình UI720p/9:16/x1/Omni1.1Flash/AgentOFF, source-based5,14s, quote20 rõ hơn editor12. Reviewer độc lập kiểm proof/hash/prompt, root đọc đủ; chưa chứng minh lỗi284 được sửa hay giữ audio/cut. Đề nghị một request mới cap20/bucketretake/no retry, chờ owner vì vượt15; chưa submit/chi thêm.217/500 còn283/reserve110 đóng. Xem [285 — cấu hình và quyết định](285_project-prompt-video-edit-route-preflight.md). REC284 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC284: một request sửa món thất bại, không video mới
 
 Owner duyệt một lượt cap12; root kiểm lại gói và submit đúng một lần. Flow báo lỗi chung không tạo được video; không retry/download nguồn cũ giả làm output. Số dư sau reload1.013→1.013, observed net0; sổ217/500 còn283, retake46, reserve110 đóng. Reviewer độc lập kiểm evidence và root đọc đủ: execution failure, nguyên nhân chưa biết, không actual food/voice/sync PASS hoặc FAIL. Quyền một lượt đã dùng; giữ job/source, food gate vẫn mở. Xem [284 — kết quả và bước tiếp](284_food-edit-one-request-failed-no-output.md). REC283 trở xuống giữ lịch sử.

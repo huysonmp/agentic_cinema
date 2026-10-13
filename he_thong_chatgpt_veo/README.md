@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [284](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/284_food-edit-one-request-failed-no-output.md): đã chạy một request sửa món đúng quyền cap12, Flow lỗi chung không có video mới. Không retry, giữ nguồn/job; balance reload không đổi, observed net0;217/500 còn283/reserve110 đóng. Reviewer độc lập đã kiểm evidence, root đọc đủ; nguyên nhân chưa biết, không quality PASS cho output không tồn tại. Food gate còn mở; request tiếp cần chốt riêng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC283 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [285](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/285_project-prompt-video-edit-route-preflight.md): tuyến upload video→project prompt cho gói nguồn+START/cùng prompt, UI720p/9:16/x1/Omni/AgentOFF/source-based5,14s/quote20 rõ. Reviewer độc lập kiểm proof/hash/prompt, root đọc đủ; chưa output/rootcause284/preservation PASS. Chờ owner một request mới cap20/bucketretake/no retry; chi0,217/500 còn283/reserve110 đóng, food gate mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC284 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

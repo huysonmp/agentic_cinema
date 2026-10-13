@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC298: native C06 giữ A đã kiểm, chưa chọn và chờ kiểm nghe/entry
+## Hiện hành — REC299: native tiếng/diễn duyệt, nối thử 4,75 giây chờ chốt
+
+[299 — Range và nối thử](299_C06-accepted-native-and-short-join-trial.md): owner duyệt tiếng/K20, đủ N06, nét diễn native REC298 và ngoại lệ ánh nhìn đầu để chuẩn nối. Đã dựng C05 [0,66) + C06 [0,48), tổng 114 khung/4,75 giây; giữ đầu câu, không thay giọng hoặc đổi tốc. Range, điểm nối đối thoại và sync còn chờ; món cũ chuyển sang món mới tại cut vẫn là lỗi mở. Chưa thay EDL chính hoặc nghiệm thu toàn phim. Chi mới 0; 251/500, còn 249, phần tạo lại 12, dự phòng 110 đóng. Nếu chọn 48 khung, kết 30 giây chỉ còn 40 khung; chưa chứng minh vừa. REC298 trở xuống giữ lịch sử.
+
+## Lịch sử — REC298: native C06 giữ A đã kiểm, chưa chọn và chờ kiểm nghe/entry
 
 [298 — Kết quả một lượt](298_C06-keep-A-native-check-and-owner-review.md): chạy đúng một7, tải gốc720×1280/24fps/96F, hash/decode sạch; root xem toàn96 và full critical frames. A vẫn kẹp, không thấy về đĩa/thả/ăn; props giữ. Gaze đầu F0–10 chưa chú ý Đào; nghe/diễn/khẩu hình actual còn pending, không auto range hoặc source/EDL. Debit986→979;251/500, còn249, retake12, dự phòng110 đóng. Không retry; timing30/món toàn tập mở. REC297 trở xuống giữ lịch sử.
 

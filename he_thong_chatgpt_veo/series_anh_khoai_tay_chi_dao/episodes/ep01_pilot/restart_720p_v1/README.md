@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC299 / 13-10-2026:** owner chốt tiếng/K20, diễn và ngoại lệ ánh nhìn native REC298 để chuẩn nối. Trial C05 [0,66) + C06 [0,48) = 114 khung/4,75 giây đã encode, kiểm hash và decode; nhãn board v2 đủ sau sửa lỗi lặp v1. **NATIVE_SCOPES_ACCEPTED / RANGE_AND_DIALOGUE_JOIN_PENDING / FOOD_SEAM_OPEN**. Không thay EDL chính, trả phí hoặc đổi giọng; 251/500, còn 249, phần tạo lại 12, dự phòng 110 đóng. Nếu range mới được chọn, kết 30 giây chỉ còn 40 khung, chưa đóng thời lượng. Xem `06_qc/run-registry-299.json` và `../299_C06-accepted-native-and-short-join-trial.md`. REC298 trở xuống giữ lịch sử.
+
 - **Hiện hành REC298 / 13-10-2026:** owner duyệt một7; sau khôi phục IAB connection, chỉ submit1/tải native720×1280/24fps/96F/hash/decode. Root xemall96 +criticalfullframes: A vẫn kẹp/no-release/no-sharedplate; gaze entry F0–10 mở. **NATIVE_QC / OWNER_AV_AND_ENTRY_PENDING / NOT_SELECTED / NO_RETRY**. Debit7/account979;251/500 còn249, retake12, reserve110closed; chưa range/source/EDL/voice change hoặc final30. Xem `06_qc/run-registry-298.json` và `../298_C06-keep-A-native-check-and-owner-review.md`. REC297 trở xuống giữ lịch sử.
 
 - **Hiện hành REC297 / 13-10-2026:** owner duyệt hướng P1v2/P2v1, không endpoint/paid. Gói C06_KEEP_A_T01 live từ entry v3 + một K20, đọc ID/name/sample/performance, prompt v0.3 khớp hash; Ingredients/Omni1.1Flash/720p/9:16/4s/x1/Agent tắt, quote 7/balance 986. **LIVE_PACKAGE_PREPARED / PAID_PENDING / NO_RUN**. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng; timing/món toàn tập còn mở. Xem `06_qc/run-registry-297.json` và `../297_pose-approved-C06-keep-A-live-package.md`. REC296 trở xuống giữ lịch sử.

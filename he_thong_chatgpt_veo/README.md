@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [298](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/298_C06-keep-A-native-check-and-owner-review.md): đã chạy đúng một7/tải native720p/hash/decode/kiểm toàn96frame. A vẫn giữ/no-release/no-plate; gaze entry còn lệch, nghe/diễn/khẩu hình chờ owner actual. Native/range chưa chọn, không source/EDL/voice change hoặc retry. Sổ251/500 còn249, retake12, reserve110đóng;account979. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC297 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [299](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/299_C06-accepted-native-and-short-join-trial.md): tiếng/K20 và diễn native C06 được owner chốt, ánh nhìn đầu chấp nhận cho chuẩn nối. Trial C05→C06 mới dài 4,75 giây đã dựng/kiểm; range 48 khung và đối thoại/sync trên bản encode chưa duyệt, hình món đổi tại cut vẫn là lỗi mở. Không trả phí hoặc thay EDL chính; 251/500, còn 249, phần tạo lại 12, dự phòng 110 đóng. Thời lượng 30 giây và chất lượng toàn tập chưa đóng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC298 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

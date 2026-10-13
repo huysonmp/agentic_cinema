@@ -1,0 +1,22 @@
+{
+  "record": "REC299",
+  "date": "2026-10-13",
+  "owner_answers": [
+    {"question_item_id": "[\"request_user_input_async\",\"call_755cac1d0c154caea52aa5a1a1b20ef5\",0]", "answer_verbatim": "Tiếng/K20 và nét diễn chấp nhận được"},
+    {"question_item_id": "[\"request_user_input_async\",\"call_755cac1d0c154caea52aa5a1a1b20ef5\",1]", "answer_verbatim": "Chấp nhận ánh nhìn đầu, chuẩn bản nối thử"}
+  ],
+  "target_native": "05_native/EP01_720_C06_KEEP_A_T01_NATIVE_298.mp4",
+  "target_sha256": "0174cf58e30699f59e74c1cef1157dd560999802afa751cead5ee41b462ec639",
+  "owner_copy": "C:/Users/PC/Downloads/du_an_nem_bui/298_C06_KEEP_A_T01/C06_KEEP_A_T01_NATIVE_720p_298.mp4",
+  "accepted_scopes": ["SINGLE_KHOAI_K20_FULL_N06_AND_ACTING_ON_EXACT_NATIVE", "DISCLOSED_INITIAL_FRONT_DOWN_GAZE_EXCEPTION_FOR_JOIN_PREPARATION"],
+  "human_listening_and_acting_evidence": true,
+  "root_or_agents_actual_listening": "NOT_PERFORMED",
+  "lip_sync_approval_explicitly_requested_or_granted": false,
+  "next_authority": "PREPARE_C05_TO_NEW_C06_ENCODED_JOIN_TRIAL_WITH_COMPLETE_LINE_START_AND_REVIEW_TAIL",
+  "exclusions": ["ENCODED_NEW_RANGE_OR_SEAM_ACCEPTANCE", "WHOLE_FILM_OR_FINAL_ACCEPTANCE", "ALL_PIXEL_IDENTITY_OR_FOOD_DRIFT_WAIVER", "NEW_PAID_GENERATION_OR_RETRY", "PRODUCTION_EDL_REPLACEMENT", "RESERVE_RELEASE"],
+  "credit_debit": 0,
+  "project_spent": 251,
+  "project_remaining": 249,
+  "retake_remaining": 12,
+  "reserve110": "CLOSED"
+}

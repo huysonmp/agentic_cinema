@@ -1,6 +1,10 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái ưu tiên — REC302 / 2026-10-13
+## Trạng thái ưu tiên — REC303 / 2026-10-13
+
+[303 — Hai ảnh đầu vào](episodes/ep01_pilot/303_C07-two-reference-input-preparation.md): F47 không đổi + portrait nhận diện mới từ cùng F47; một lượt imagegen tích hợp, chưa Flow. Gói hồi quy277/280/302 và hai vai ảnh/draft đã phản biện, root đọc đủ. Portrait đủ trình neo phụ với sai khác mặt/texture/lá, không khóa pixel hoặc pose. Owner duyệt ảnh còn chờ; sổ258/còn242/tạo lại5/dự phòng110 đóng. Không video, chuyển ngân sách hoặc EDL.
+
+## Lịch sử — REC302 / 2026-10-13
 
 [302 — C07 bị loại, truy hồi quy](episodes/ep01_pilot/302_C07-native-rejected-and-regression-diagnosis.md): một7 đã chạy/tải gốc/96F QC/hash/decode. Đào hóa người toàn nguồn, cốc về bàn/hai tay nâng bát, mất đũa nghỉ; root và phản biệnactual NOT_SELECTED. A giữ không đủ cứu nguồn. Không retry/C08/EDL;258/500/còn242/retake5/reserve110 đóng. Input history đúng F47; lỗi preflight bỏ qua actualhistory277/280 đã ghi.
 

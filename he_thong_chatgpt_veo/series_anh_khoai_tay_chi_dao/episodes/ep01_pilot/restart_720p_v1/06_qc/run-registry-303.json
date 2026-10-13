@@ -1,0 +1,35 @@
+{
+  "record": "REC303",
+  "date": "2026-10-13",
+  "status": "TWO_REFERENCE_DRAFT_PREPARED_IDENTITY_OWNER_REVIEW_PENDING_NO_FLOW_RUN",
+  "root_report": "../303_C07-two-reference-input-preparation.md",
+  "authority": "00_decisions/C07-identity-two-reference-preparation-approval-303.json",
+  "manifest": "04_requests/C07_two_reference_input_manifest_303.json",
+  "regression_pack": "06_qc/C07_failure_regression_pack_303.md",
+  "root_actual_history_read": [
+    "04_requests/C07_T02_run_277.json",
+    "06_qc/C07_T03_root_actual_280.md",
+    "06_qc/C07_RECEIVE_actual_independent_302.md"
+  ],
+  "built_in_imagegen_calls": 1,
+  "Flow_uploads": 0,
+  "new_paid_submits": 0,
+  "Flow_credit_debit": 0,
+  "project_spent": 258,
+  "project_remaining": 242,
+  "buckets_remaining": {
+    "first_pass": 82,
+    "retake": 5,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "root_still_observation": "F47_AND_GENERATED_PORTRAIT_VIEWED_SAME_FOOD_HEAD_TYPES_NO_HAIR_EARS_PORTRAIT_REDRAW_CAVEATS",
+  "independent_review": "COMPLETED_REGRESSION_HISTORY_PAPER_AND_TWO_FULL_STILLS_ROOT_FULL_READ_REVIEWABLE_AS_SECONDARY_ANCHOR_WITH_REDRAW_CAVEATS",
+  "independent_report": "06_qc/C07_identity_two_reference_independent_303.md",
+  "new_live_quote": null,
+  "video_ready": false,
+  "owner_identity_anchor_acceptance": false,
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

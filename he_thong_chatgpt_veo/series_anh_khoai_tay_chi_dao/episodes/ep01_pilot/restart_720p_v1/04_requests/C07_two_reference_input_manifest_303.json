@@ -1,0 +1,93 @@
+{
+  "record": "REC303",
+  "date": "2026-10-13",
+  "status": "TWO_REFERENCE_DRAFT_PREPARED_IDENTITY_OWNER_REVIEW_PENDING_NO_FLOW_RUN",
+  "authority": "00_decisions/C07-identity-two-reference-preparation-approval-303.json",
+  "references": [
+    {
+      "order_proposed": 1,
+      "role": "SCENE_STATE_AND_COMPOSITION_AUTHORITY",
+      "path": "02_refs/C07_START_NATIVE_C06_KEEP_A_F47_CANDIDATE_300.png",
+      "owner_copy": "C:/Users/PC/Downloads/du_an_nem_bui/303_C07_TWO_REFERENCE_INPUTS/C07_SCENE_F47_UNCHANGED_303.png",
+      "sha256": "34f51b2a30650ed9ffdae1e30f177bbfd28c2e5c53bd47fa57063488ded9a4f2",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "mode": "RGB",
+      "changed_pixels_in_this_step": 0,
+      "native_source": "05_native/EP01_720_C06_KEEP_A_T01_NATIVE_298.mp4",
+      "native_sha256": "0174cf58e30699f59e74c1cef1157dd560999802afa751cead5ee41b462ec639",
+      "native_zero_based_frame": 47,
+      "defines": [
+        "Camera/scale/light/current-expression",
+        "Clothes/complete-table/props",
+        "A held on Khoai side/Dao glass raised/own bowl empty on table"
+      ],
+      "not_new_pose": true
+    },
+    {
+      "order_proposed": 2,
+      "role": "IDENTITY_SHAPES_AND_FACES_ONLY_DERIVED_REDRAW_NOT_POSE_OR_LIGHT_AUTHORITY",
+      "path": "02_refs/C07_IDENTITY_PAIR_v1_CHATGPT_FOR_REVIEW_303.png",
+      "owner_copy": "C:/Users/PC/Downloads/du_an_nem_bui/303_C07_TWO_REFERENCE_INPUTS/C07_IDENTITY_PAIR_v1_CHATGPT_FOR_REVIEW_303.png",
+      "sha256": "796a7a9c70cdc3354755f18c95ea1ad9dcb9037912270de3f9bc96703281583d",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "generation": "BUILTIN_IMAGEGEN_ONE_CALL",
+      "sole_reference": "02_refs/C07_START_NATIVE_C06_KEEP_A_F47_CANDIDATE_300.png",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-a4b5e8ef-47fa-49a7-9ee2-e2f76671539d.png",
+      "owner_acceptance": "PENDING",
+      "pixel_identical": false,
+      "defines": [
+        "Same potato and peach identity",
+        "No human hair ears scalp",
+        "Stem leaf peach silhouette and facial features"
+      ],
+      "never_defines": [
+        "Scene pose or new start/end",
+        "Chopsticks/glass/bowls/food",
+        "Camera or whole scene lighting"
+      ],
+      "root_caveats": [
+        "Faces texture lighting and slight relative scale are regenerated",
+        "No hands/props present by design",
+        "Scene dominates if portrait expression/clothes/light differ"
+      ]
+    }
+  ],
+  "voice_retained": {
+    "name": "EP01_Dao_D06_Aoede_720p_v1",
+    "expected_prior_id": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb",
+    "new_live_binding_checked": false
+  },
+  "dialogue_unchanged": "Thế em quay lại đúng lúc rồi.",
+  "image_prompt": "04_requests/C07_IDENTITY_PAIR_image_prompt_303.txt",
+  "image_prompt_sha256": "453d270e4fbe30e6120fbdcbf517866f150c2948dfc61cef8720fea560cc3024",
+  "video_prompt_draft": "04_requests/C07_RECEIVE_identity_restore_prompt_DRAFT_303.txt",
+  "video_prompt_sha256": "e07e76d6b798e59d4443bcad016655b9ab72e204e67dfc52a3c84631dde9e435",
+  "failure_regression_pack": "06_qc/C07_failure_regression_pack_303.md",
+  "independent_review": "COMPLETED_REGRESSION_HISTORY_PAPER_AND_TWO_FULL_STILLS_ROOT_FULL_READ_REVIEWABLE_AS_SECONDARY_ANCHOR_WITH_REDRAW_CAVEATS",
+  "independent_report": "06_qc/C07_identity_two_reference_independent_303.md",
+  "Flow_uploads": 0,
+  "Flow_paid_submits": 0,
+  "Flow_credit_debit": 0,
+  "project_spent": 258,
+  "project_remaining": 242,
+  "buckets_remaining": {
+    "first_pass": 82,
+    "retake": 5,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "new_live_quote": null,
+  "old_quote302_not_current_quote": 7,
+  "paid_authority": "NONE_FOR_NEW_REQUEST",
+  "production_EDL_changed": false,
+  "voice_changed": false,
+  "final_acceptance": false
+}

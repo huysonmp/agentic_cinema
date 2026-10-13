@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC303 / 13-10-2026:** owner duyệt chuẩn hai ảnh chưa trả phí. F47 giữ nguyên SHA; portrait v1 mới1536×1024, một imagegen tích hợp. Reviewer kiểm hồ sơ hồi quy277/280/302 + hai ảnh/draft, root đọc đủ; đủ trình neo phụ với redraw mặt/texture/lá. Chưa owner portrait acceptance, live quote/upload/video/budget transfer/EDL. Flow chi0;258/500/còn242/tạo lại5/dự phòng110 đóng. Xem `../303_C07-two-reference-input-preparation.md`, `04_requests/C07_two_reference_input_manifest_303.json` và `06_qc/run-registry-303.json`. REC302 giữ lịch sử.
+
 - **Hiện hành REC302 / 13-10-2026:** owner duyệt1max7/noauto; đã chạy/tải720p/hash/decode/full96stills+criticalfullres. Root+independentcompleted/read: NOT_SELECTED vìhumanĐào/cốcreset/twohands/missingrestchopsticks; khôngprefix/retry/C08. Historyimage đúngF47; đã ghi misspreflightactual277/280. Debit1029→1022/7;258/500/còn242/first82/retake5/post45/reserve110 đóng. Khôngvoice/AVPASS/EDLrelease. Xem `../302_C07-native-rejected-and-regression-diagnosis.md` và `06_qc/run-registry-302.json`. REC301 giữ lịch sử.
 
 - **Hiện hành REC301 / 13-10-2026:** C07 F47 + một D06/N07, nâng bát chưa thả; live720p/4s/x1/Ingredients/quote7/AgentOFF/audioON. Paper+stills độc lập, root đã đọc. Chờ bound approval mới, chưa submit. Chi0;251/500/còn249/retake12/reserve110 đóng. Accountlive1029, tăng50 chưa rõ không thêm cap. Xem `../301_C07-receive-live-preparation-and-one-run-gate.md` và `06_qc/run-registry-301.json`. REC300 giữ lịch sử.

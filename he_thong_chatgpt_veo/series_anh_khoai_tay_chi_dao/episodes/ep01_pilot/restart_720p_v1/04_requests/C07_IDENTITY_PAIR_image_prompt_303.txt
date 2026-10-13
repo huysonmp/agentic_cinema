@@ -1,0 +1,10 @@
+Use case: identity-preserve.
+Asset type: one clean two-character identity reference for an animated episode; NOT a replacement scene or action endpoint.
+Input image 1 is the sole identity source: the approved C06 final frame F47. Derive the exact same two stylized adult food characters into a simple chest-up paired portrait against a plain warm light-gray background.
+
+Keep Khoai on the left and Dao on the right with a little clear space between their silhouettes, and the same relative head scale and three-quarter head angles as in the source. Fully show both head silhouettes, including Dao's stem and leaf. Preserve the source facial geometry, eyelids, eye direction, brown eyes, eyebrow shapes, small closed mouths, mature proportions, surface colors and textures; do not beautify, redesign, enlarge smiles, or make them younger. Their expressions should remain the calm, restrained closed-mouth expressions in the source.
+
+Khoai's head IS an irregular elongated tan potato, with natural potato speckles, substantial dark eyebrows and the exact source facial features; same charcoal jacket and open-collar light shirt.
+Dao's whole head IS the same round pink-orange fuzzy peach fruit, with its visible peach cleft, short brown stem and single green leaf. Her face is integrated directly into peach skin. Keep the exact source eyelids, eyebrows, eyes, subtle mouth and white collared blouse, with only a modest glimpse of her same muted green waist clothing if visible in the chest-up framing. She has no human scalp, hair, ears or human neck/head substitute. She is not an apple or a realistic human woman.
+
+Keep the same stylized 3D rendering, soft warm facial illumination and material texture. Remove the street/table setting from this identity portrait only. Do not include hands, chopsticks, food, bowl or glass; these belong to the separate unchanged scene frame. Do not add hats, jewelry, body changes or decorative props. Landscape composition with comfortable margins and readable large faces, no labels, text, logos or new watermark. No collage panels or alternate views.

@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC302: C07 native không đạt, không chạy lại
+## Hiện hành — REC303: chuẩn hai ảnh, neo nhận diện chờ duyệt
+
+[303 — Gói hai ảnh và hồi quy](303_C07-two-reference-input-preparation.md): F47 giữ nguyên; portrait mới chỉ định danh Khoai củ khoai/Đào quả đào, không thay state. Reviewer đọc actualhistory và xem hai ảnh; đủ trình neo phụ nhưng có redraw mặt/texture/lá. Chưa duyệt ảnh/video, upload Flow hoặc chi mới. Sổ258/500/còn242, tạo lại5/dự phòng110 đóng. Cut món và thời lượng cuối vẫn mở.
+
+## Lịch sử — REC302: C07 native không đạt, không chạy lại
 
 [302 — Native và hồi quy](302_C07-native-rejected-and-regression-diagnosis.md): chạy1/debit7, native720p/96F đã tải/kiểm. Root+reviewer độc lập loại vì Đào hóa người và cốc/tay sai; không prefix/EDL/C08. InputF47 thực đúng, hồi quy lịch sử277/280 bị bỏ sót ởpreflight301. Chuẩn hướng sửa/ngân sách cần chốt. Spent258/rem242/retake5/reserve110 đóng; foodseam/finaltiming mở.
 

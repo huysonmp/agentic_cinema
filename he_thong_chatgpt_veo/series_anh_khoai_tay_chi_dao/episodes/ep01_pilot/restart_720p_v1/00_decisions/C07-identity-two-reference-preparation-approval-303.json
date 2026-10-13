@@ -1,0 +1,25 @@
+{
+  "record": "REC303",
+  "date": "2026-10-13",
+  "owner_reply_verbatim": "ok",
+  "question_context": "After REC302 root proposed preparation of unchanged scene F47 plus a new separate identity anchor, no paid video.",
+  "scope": "PREPARE_SCENE_AND_NEW_IDENTITY_REFERENCE_AND_LOCAL_REVIEW_ONLY",
+  "retained": [
+    "Exact F47 scene and current faces",
+    "D06 and N07 unchanged",
+    "Receiver-first one-hand bowl and outer-hand glass",
+    "C06 range approval300 and existing native history"
+  ],
+  "exclusions": [
+    "New paid Flow video or retry",
+    "Video or voice or final acceptance",
+    "Budget reallocation or reserve release",
+    "Scene pixel redraw or new action endpoint",
+    "Production EDL replacement"
+  ],
+  "Flow_credit_debit": 0,
+  "project_spent": 258,
+  "project_remaining": 242,
+  "retake_remaining": 5,
+  "reserve110": "CLOSED"
+}

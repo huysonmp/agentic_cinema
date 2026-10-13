@@ -9,6 +9,8 @@
 
 ## Trạng thái
 
+[REC303](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/303_C07-two-reference-input-preparation.md): owner duyệt chuẩn hai ảnh, F47 giữ nguyên và portrait mới từ F47 bằng imagegen tích hợp. Reviewer đã kiểm lịch sử hồi quy/ảnh/draft; đủ trình neo phụ với redraw caveat, chưa duyệt ảnh hoặc video. Không upload/chạy Flow/chi mới; sổ258/500/còn242, tạo lại5/dự phòng110 đóng. REC302 bên dưới giữ lịch sử.
+
 [REC302](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/302_C07-native-rejected-and-regression-diagnosis.md): một C07 max7 đã chạy/tải native720p/hash/decode/QC96F. Root và reviewer loại: Đào hóa người, cốc về bàn/hai tay nâng bát; không prefix hoặc retry/C08. Sổ258/500, còn242, retake5/reserve110 đóng. Đã truy input đúng F47 và thiếu kiểm hồi quy277/280; gói sửa nhận diện/ngân sách chờ quyết định. REC301 bên dưới giữ lịch sử.
 
 [REC301](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/301_C07-receive-live-preparation-and-one-run-gate.md): gói C07 từ native F47 + một D06 đã chuẩn live, quote7/720p/4s/x1; Agent tắt, giữ tiếng. Chưa submit, đang chờ duyệt một lượt; motion/food seam/timing cuối còn mở. Chi0, sổ251/500/còn249, retake12/reserve110 đóng. REC300 bên dưới giữ lịch sử.

@@ -1,0 +1,127 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.92,
+      "text": " Chờ em quay lưng nữa à.",
+      "tokens": [
+        50364,
+        761,
+        21270,
+        846,
+        421,
+        320,
+        287,
+        42509,
+        35047,
+        1531,
+        13,
+        50464
+      ],
+      "avg_logprob": -0.38639112223278393,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.032202307134866714,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.66,
+          "word": " Chờ",
+          "probability": 0.708118736743927
+        },
+        {
+          "start": 0.66,
+          "end": 0.82,
+          "word": " em",
+          "probability": 0.9902600646018982
+        },
+        {
+          "start": 0.82,
+          "end": 1.1,
+          "word": " quay",
+          "probability": 0.9883771240711212
+        },
+        {
+          "start": 1.1,
+          "end": 1.3,
+          "word": " lưng",
+          "probability": 0.9675575792789459
+        },
+        {
+          "start": 1.3,
+          "end": 1.52,
+          "word": " nữa",
+          "probability": 0.999178946018219
+        },
+        {
+          "start": 1.52,
+          "end": 1.92,
+          "word": " à.",
+          "probability": 0.880567193031311
+        }
+      ],
+      "temperature": 0.0
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.04,
+      "end": 4.2,
+      "text": " Anh gấp cho em mà.",
+      "tokens": [
+        50514,
+        23574,
+        290,
+        47176,
+        1586,
+        846,
+        13901,
+        13,
+        50614
+      ],
+      "avg_logprob": -0.38639112223278393,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.032202307134866714,
+      "words": [
+        {
+          "start": 3.04,
+          "end": 3.48,
+          "word": " Anh",
+          "probability": 0.8684895038604736
+        },
+        {
+          "start": 3.48,
+          "end": 3.66,
+          "word": " gấp",
+          "probability": 0.7513343989849091
+        },
+        {
+          "start": 3.66,
+          "end": 3.82,
+          "word": " cho",
+          "probability": 0.9988321661949158
+        },
+        {
+          "start": 3.82,
+          "end": 4.02,
+          "word": " em",
+          "probability": 0.998710036277771
+        },
+        {
+          "start": 4.02,
+          "end": 4.2,
+          "word": " mà.",
+          "probability": 0.6992073655128479
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

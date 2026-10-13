@@ -1,0 +1,19 @@
+{
+  "record": "REC286",
+  "date": "2026-10-13",
+  "owner_reply_verbatim": "duyệt",
+  "preceding_proposal": "REC285 one project-composer food-only edit, cap20, retake bucket, no automatic retry; source/START/prompt unchanged and audio/cut preservation still requires output checks",
+  "scope": "APPROVED_ONE_NEW_REQUEST_NOT_MEDIA_QUALITY_OR_WHOLE_FILM_APPROVAL",
+  "preparation": "04_requests/C05_C06_project_prompt_food_edit_preparation_285.json",
+  "source_sha256": "42d826e1356ce67acc6e1057b4ceefc9703f3e705ffa14ae6c09dea7934b5bdf",
+  "ingredient_sha256": "491575988bbbea26e16fda3a7f02401b874f9abcc24eda7cdef340764ab232d8",
+  "prompt_sha256": "332915713148401fe4aacc8ddda761d86c84e5e50cbb2471c2106e854e513faf",
+  "cap": 20,
+  "count": 1,
+  "bucket": "retake",
+  "UI_config_required": "Omni1.1Flash_Ingredients_720p_9:16_x1_AgentOFF_sourceBasedDuration",
+  "auto_retry": false,
+  "reserve110": "CLOSED",
+  "source_audio_and_AV_approval_transfer": false,
+  "whole_film_new_tool_voice_or_release": false
+}

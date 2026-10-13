@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC286 / 2026-10-13
+
+[286 — native720 có drift ngoài món](episodes/ep01_pilot/286_food-edit-native-result-and-visual-stop.md): một request20 đã duyệt có file720p/124F, tải/hash/decode/kiểm đủ124F qua boards và critical full-res. Món cải thiện, nhưng Đào thêm yếm xanh và hậu cảnh/camera đổi ngoài phạm vi; maker/critic/root thống nhất NOT_SELECTED, không EDL/retry. Chưa actual nghe/AV PASS. Debit20;237/500 còn263/retake26/reserve110 đóng; food gate mở, chưa nhân route sửa cả tập. REC285 trở xuống là lịch sử.
+
 ## Trạng thái ưu tiên — REC285 / 2026-10-13
 
 [285 — tuyến project composer, gói20](episodes/ep01_pilot/285_project-prompt-video-edit-route-preflight.md): một video nguồn + START/cùng prompt, UI720p/9:16/x1/Omni/AgentOFF/source-based5,14s và quote20 được kiểm. Independent proof/hash/prompt report xong, root đọc đủ. Chưa nguyên nhân284 hoặc preservation PASS; chờ owner một request mới cap20/bucketretake/no retry. Không submit/chi thêm;217/500 còn283/reserve110 đóng, food gate mở. REC284 trở xuống là lịch sử.

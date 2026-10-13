@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC286: có native720, không chọn vì drift ngoài món
+
+Owner duyệt một request cap20, đã chạy/tải đúng720p gốc và giải mã124F. Đĩa/A rời hơn, nhưng Đào thêm yếm xanh ngayF0 và hậu cảnh/camera đổi mạnh tạiF72/3s; không giữ food-only scope/cut. Root/maker/critic xem đủ124F qua boards và critical full-res; chưa actual nghe/AV/sync PASS. **NOT_SELECTED, không EDL/retry**. Balance1.013→993 debit20; sổ237/500 còn263,retake26/reserve110 đóng. Giữ source/job/native, food gate toàn tập mở. Xem [286 — kết quả, kiểm và bước tiếp](286_food-edit-native-result-and-visual-stop.md). REC285 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC285: tuyến vào khác, gói20 đang chờ duyệt
 
 Kiểm không trả phí thấy mục upload-card → Thêm vào câu lệnh đưa video nguồn vào composer dự án, có một video + START material-only và cùng prompt. Cấu hình UI720p/9:16/x1/Omni1.1Flash/AgentOFF, source-based5,14s, quote20 rõ hơn editor12. Reviewer độc lập kiểm proof/hash/prompt, root đọc đủ; chưa chứng minh lỗi284 được sửa hay giữ audio/cut. Đề nghị một request mới cap20/bucketretake/no retry, chờ owner vì vượt15; chưa submit/chi thêm.217/500 còn283/reserve110 đóng. Xem [285 — cấu hình và quyết định](285_project-prompt-video-edit-route-preflight.md). REC284 trở xuống giữ lịch sử.

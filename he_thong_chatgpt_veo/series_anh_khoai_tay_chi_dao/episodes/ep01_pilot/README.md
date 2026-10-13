@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC287: rà riêng diễn mặt–thân Khoai
+
+Owner xác nhận điểm chưa ổn là **diễn mặt–thân người**, không ưu tiên tay/đũa. Đối chiếu nguồn và286 thấy nhiều nhịp mắt/miệng đã có trong nguồn; chưa đủ quy hết lỗi cho food edit hoặc phủ nhận approval nguồn276. Review mở ACT/PERF cho target286 và coupling mắt–đầu–thân–ý định. Có silent compare QA trái nguồn/phải286; không phoneme-aligned/production/AV PASS. Reviewer có report đã được root đọc; maker lỗi capacity chưa có report hoàn tất. Không sinh/sửa/chi thêm;237/500 còn263/reserve110 đóng. Xem [287 — chẩn đoán và đề xuất diễn](287_Khoai-face-body-performance-diagnostic.md). REC286 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC286: có native720, không chọn vì drift ngoài món
 
 Owner duyệt một request cap20, đã chạy/tải đúng720p gốc và giải mã124F. Đĩa/A rời hơn, nhưng Đào thêm yếm xanh ngayF0 và hậu cảnh/camera đổi mạnh tạiF72/3s; không giữ food-only scope/cut. Root/maker/critic xem đủ124F qua boards và critical full-res; chưa actual nghe/AV/sync PASS. **NOT_SELECTED, không EDL/retry**. Balance1.013→993 debit20; sổ237/500 còn263,retake26/reserve110 đóng. Giữ source/job/native, food gate toàn tập mở. Xem [286 — kết quả, kiểm và bước tiếp](286_food-edit-native-result-and-visual-stop.md). REC285 trở xuống giữ lịch sử.

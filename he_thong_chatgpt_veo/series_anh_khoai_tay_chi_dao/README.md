@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC287 / 2026-10-13
+
+[287 — Khoai: diễn mặt–thân](episodes/ep01_pilot/287_Khoai-face-body-performance-diagnostic.md): owner khoanh diễn mặt–thân; rà source vs286 thấy nhiều pattern có từsource, không tự phủ nhận approval276 hoặc kết luận lỗi chỉ do food edit. Mở ACT/PERF target286, có compare QA không tiếng; chưa continuous performance/AV PASS. Critic report được root đọc, maker chỉ partial trước capacity. Không chi/sinh/sửa thêm;237/500 còn263/reserve110 đóng; cần chốt brief diễn trước lựa chọn nguồn/sửa mới. REC286 trở xuống là lịch sử.
+
 ## Trạng thái ưu tiên — REC286 / 2026-10-13
 
 [286 — native720 có drift ngoài món](episodes/ep01_pilot/286_food-edit-native-result-and-visual-stop.md): một request20 đã duyệt có file720p/124F, tải/hash/decode/kiểm đủ124F qua boards và critical full-res. Món cải thiện, nhưng Đào thêm yếm xanh và hậu cảnh/camera đổi ngoài phạm vi; maker/critic/root thống nhất NOT_SELECTED, không EDL/retry. Chưa actual nghe/AV PASS. Debit20;237/500 còn263/retake26/reserve110 đóng; food gate mở, chưa nhân route sửa cả tập. REC285 trở xuống là lịch sử.

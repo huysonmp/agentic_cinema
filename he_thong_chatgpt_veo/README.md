@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [297](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/297_pose-approved-C06-keep-A-live-package.md): owner duyệt hướng P1/P2, không endpoint/video hoặc paid. Đã chuẩn C06 giữ A từ entry v3 + saved K20; live kiểm ID/mẫu/performance, prompt v0.3 khớp hash và Ingredients/Omni 1.1 Flash/720p/9:16/4s/x1/quote 7/balance 986. Chưa submit/actual PASS/source/EDL; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC296 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [298](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/298_C06-keep-A-native-check-and-owner-review.md): đã chạy đúng một7/tải native720p/hash/decode/kiểm toàn96frame. A vẫn giữ/no-release/no-plate; gaze entry còn lệch, nghe/diễn/khẩu hình chờ owner actual. Native/range chưa chọn, không source/EDL/voice change hoặc retry. Sổ251/500 còn249, retake12, reserve110đóng;account979. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC297 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

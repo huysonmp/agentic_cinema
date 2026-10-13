@@ -1,0 +1,64 @@
+{
+  "model": "small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "vi",
+  "initial_prompt": null,
+  "status": "ASR_EVIDENCE_ONLY_NOT_VOICE_APPROVAL",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.45999999999999985,
+      "end": 1.6,
+      "text": " Anh gấp cho em mà.",
+      "tokens": [
+        50364,
+        23574,
+        290,
+        47176,
+        1586,
+        846,
+        13901,
+        13,
+        50464
+      ],
+      "avg_logprob": -0.4498607665300369,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.031249303370714188,
+      "words": [
+        {
+          "start": 0.45999999999999985,
+          "end": 0.86,
+          "word": " Anh",
+          "probability": 0.8110809326171875
+        },
+        {
+          "start": 0.86,
+          "end": 1.02,
+          "word": " gấp",
+          "probability": 0.8181126117706299
+        },
+        {
+          "start": 1.02,
+          "end": 1.2,
+          "word": " cho",
+          "probability": 0.9988629817962646
+        },
+        {
+          "start": 1.2,
+          "end": 1.4,
+          "word": " em",
+          "probability": 0.9974724650382996
+        },
+        {
+          "start": 1.4,
+          "end": 1.6,
+          "word": " mà.",
+          "probability": 0.8144848346710205
+        }
+      ],
+      "temperature": 0.0
+    }
+  ]
+}

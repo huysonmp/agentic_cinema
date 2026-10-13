@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC297: tư thế duyệt, C06 giữ A chuẩn live và chờ quyền một lượt
+## Hiện hành — REC298: native C06 giữ A đã kiểm, chưa chọn và chờ kiểm nghe/entry
+
+[298 — Kết quả một lượt](298_C06-keep-A-native-check-and-owner-review.md): chạy đúng một7, tải gốc720×1280/24fps/96F, hash/decode sạch; root xem toàn96 và full critical frames. A vẫn kẹp, không thấy về đĩa/thả/ăn; props giữ. Gaze đầu F0–10 chưa chú ý Đào; nghe/diễn/khẩu hình actual còn pending, không auto range hoặc source/EDL. Debit986→979;251/500, còn249, retake12, dự phòng110 đóng. Không retry; timing30/món toàn tập mở. REC297 trở xuống giữ lịch sử.
+
+## Lịch sử — REC297: tư thế duyệt, C06 giữ A chuẩn live và chờ quyền một lượt
 
 [297 — Gói C06 mới](297_pose-approved-C06-keep-A-live-package.md): owner duyệt hướng P1 v2/P2 v1, không endpoint/video hoặc paid. Đã chọn entry v3 + một saved K20, đọc ID/mẫu/performance live, đối soát hash prompt v0.3 và kiểm Ingredients/Omni 1.1 Flash/720p/9:16/4s/x1/Agent tắt, quote 7, balance 986. Chưa submit hoặc thay source/EDL; xin riêng một lượt 7, không retry. Sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Khoảng hở nhịp nhận, timing 30 giây/món toàn tập còn mở. REC296 trở xuống giữ lịch sử.
 

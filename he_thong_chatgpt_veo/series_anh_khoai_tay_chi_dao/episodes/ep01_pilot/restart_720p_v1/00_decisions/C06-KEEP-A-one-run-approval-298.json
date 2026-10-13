@@ -1,0 +1,19 @@
+{
+  "record": "REC298",
+  "date": "2026-10-13",
+  "question_item_id": "[\"request_user_input_async\",\"call_c52265d29567465bb720abcc57e762ca\",0]",
+  "owner_answer_verbatim": "Duyệt một lượt C06 — tối đa 7 credit, không tự chạy lại",
+  "approved_request": "C06_KEEP_A_T01",
+  "preparation": "04_requests/C06_KEEP_A_T01_preparation_297.json",
+  "max_submits": 1,
+  "max_quote_credits": 7,
+  "auto_retry": false,
+  "config": {"route": "Ingredients", "model": "Omni 1.1 Flash", "resolution": "720p", "aspect": "9:16", "duration_seconds": 4, "outputs": 1},
+  "inputs": ["C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png", "EP01_Khoai_K20_Orus_720p_v1"],
+  "prompt_sha256": "d1bd57c6ce6c6cf7aece99bb03ab2e28616fc76625765c1665ac717c62925eab",
+  "dialogue": "Anh gắp cho em mà.",
+  "purpose": "ONLY_N06_KEEP_SAME_A_ON_KHOAI_SIDE_NOT_HANDOVER_OR_RELEASE",
+  "changed_quote_or_package": "STOP_AND_RECONFIRM",
+  "reserve110": "CLOSED",
+  "owner_approval_of_output_or_new_EDL": false
+}

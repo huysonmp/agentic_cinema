@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC290: sắc thái B đã chốt
+
+Owner chọn **B: biết bị bắt tỏng, vẫn giữ thể diện**. [290 — Brief Khoai v0.2 và ảnh thử](290_Khoai-nuance-B-locked.md) giữ N06/K20, bớt gồng và không dò xem Đào tin chưa. Một ảnh sửa món đã chuẩn bị; root không chọn vì vùng ngoài món bị redraw/mất dấu nguồn/A đổi hình. Chưa upload/thay refs hoặc video, cần cơ chế bảo toàn cục bộ. Giữ nhịp nhận REC281 và phê duyệt nguồn REC276 riêng; REC286 không chọn. Không Flow chi/EDL mới; 237/500 còn 263, dự phòng 110 đóng. REC289 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC289: chuẩn kỹ thuật C06, chưa chạy
 
 [289 — Phạm vi, nguồn và trình tự](289_C06-acting-technical-preparation.md) đề xuất chuẩn C06 một speaker K20 từ đúng cuối C05; đã phản biện PAPER. Owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt brief chi tiết/bước ảnh. Giữ phương án là dự thảo, không chuẩn ảnh hoặc chạy. START REC283 là điểm ra; cấu hình/giọng/giá lịch sử không là preflight live. Chưa ảnh sửa/prompt cuối/lượt trả phí; không thay source/EDL. Chi 0; 237/500 còn 263, dự phòng 110 đóng. REC288 trở xuống giữ lịch sử.

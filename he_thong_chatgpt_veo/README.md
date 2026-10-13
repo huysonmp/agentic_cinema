@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [289](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/289_C06-acting-technical-preparation.md): brief và phương án kỹ thuật đã phản biện PAPER; owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt chi tiết/bước chuẩn ảnh. Giữ phương án dự thảo, chưa ảnh/prompt cuối/kiểm live/quyền chạy mới. Nguồn REC276 giữ phạm vi duyệt riêng, REC286 không chọn, cổng hình món còn mở. Không chi/sinh/thay EDL; 237/500 còn 263 credit, dự phòng 110 đóng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC288 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [290](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/290_Khoai-nuance-B-locked.md): owner chọn **B: biết bị bắt tỏng, vẫn giữ thể diện**; brief v0.2 đã cập nhật. Một ảnh entry sửa món đã tạo bằng imagegen nhưng root không chọn vì redraw ngoài món/mất dấu nguồn/A đổi hình. Chưa upload/thay refs hoặc video; cần cơ chế bảo toàn cục bộ. Nguồn REC276 giữ phạm vi duyệt riêng, REC286 không chọn, cổng hình món còn mở. Không Flow chi/thay EDL; 237/500 còn 263 credit, dự phòng 110 đóng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC289 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

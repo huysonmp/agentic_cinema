@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC290 / 2026-10-13
+
+[290 — Chốt sắc thái B](episodes/ep01_pilot/290_Khoai-nuance-B-locked.md): Khoai biết bị bắt tỏng nhưng vẫn giữ thể diện; brief v0.2 bỏ gồng/dò phản ứng. Đã chuẩn một ảnh vào sửa món bằng imagegen, root không chọn vì redraw ngoài món/mất dấu nguồn/A đổi hình; chưa upload/thay refs hoặc video. Cần cơ chế sửa cục bộ bảo toàn, chưa prompt cuối/live/request mới. Không Flow chi/thay source/EDL; 237/500 còn 263, dự phòng 110 đóng. REC289 trở xuống giữ lịch sử.
+
 ## Trạng thái ưu tiên — REC289 / 2026-10-13
 
 [289 — Chuẩn kỹ thuật C06](episodes/ep01_pilot/289_C06-acting-technical-preparation.md): phương án kỹ thuật đã lập và phản biện PAPER, nhưng owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt chuẩn ảnh hoặc brief chi tiết. Giữ phương án là dự thảo; hash entry/native C05 đã xác minh, START REC283 không dùng làm entry. Chưa kiểm live/prompt cuối/quyền chạy mới. Quay lại chốt sắc thái; không sinh/chi/thay EDL, 237/500 còn 263, dự phòng 110 đóng. REC288 trở xuống giữ lịch sử.

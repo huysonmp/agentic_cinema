@@ -1,0 +1,22 @@
+{
+  "record": "REC290",
+  "date": "2026-10-13",
+  "owner_reply_verbatim": "b",
+  "selected_option": "B",
+  "option_text": "Biết bị bắt tỏng, vẫn giữ thể diện: bình thản chữa cháy, ánh mắt hé chút ngượng; chuyển đũa để biến cái cớ thành hành động thật.",
+  "preceding_recommendation": "Bớt gồng/ngượng trong brief cũ; giữ Khoai chín chắn, nét hài chỉ thoáng lộ qua ánh mắt và động tác.",
+  "approved_scope": "ACTING_NUANCE_B_AND_BRIEF_REFINEMENT",
+  "dialogue": "Anh gắp cho em mà.",
+  "voice_direction": "K20_Orus_UNCHANGED_NOT_NEW_TAKE_APPROVAL",
+  "revised_brief": "04_requests/C06_ACT_v0p2_nuance_B_290.md",
+  "image_preparation_scope": "IN_SCOPE_PREPARATION_CONTINUATION_AFTER_NUANCE_HOLD_RESOLVED_NOT_STILL_APPROVAL",
+  "image_permission_note": "Owner had required nuance revision first. The preceding message explicitly placed entry preparation after choosing nuance; B resolves that prerequisite. Root continued one image preparation step, not paid video or new source selection.",
+  "paid_generation_or_source_EDL_replacement": false,
+  "new_voice_tools_scripts": false,
+  "source276_approval": "RETAINED_SCOPED_HISTORICAL",
+  "target286_selected": false,
+  "credit_debit": 0,
+  "project_spent": 237,
+  "project_remaining": 263,
+  "reserve110": "CLOSED"
+}

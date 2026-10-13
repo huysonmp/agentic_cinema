@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC290 / 13-10-2026:** owner chọn B; brief v0.2 thay sắc thái v0.1. Một ảnh entry sửa món bằng imagegen đã tạo; root không chọn vì redraw vùng ngoài món/mất dấu nguồn/A đổi hình, chưa upload/thay refs. **NUANCE_B_APPROVED / ENTRY_CANDIDATE_NOT_SELECTED / NO_VIDEO**. Phản biện ảnh thực ghi tại registry; không performance/voice PASS. Flow chi 0; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-290.json` và `../290_Khoai-nuance-B-locked.md`. REC289 trở xuống giữ lịch sử.
+
 - **Hiện hành REC289 / 13-10-2026:** đề xuất chuẩn riêng C06 đã lập/phản biện PAPER; owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt chi tiết brief/bước ảnh. Phương án giữ dự thảo, chưa ảnh/prompt cuối/kiểm live/quyền trả phí. **ACTING_NUANCE_REVISION_REQUIRED / TECHNICAL_DRAFT / NO_GENERATION**. Chi 0; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-289.json` và `../289_C06-acting-technical-preparation.md`. REC288 trở xuống giữ lịch sử.
 
 - **Hiện hành REC288 / 13-10-2026:** owner duyệt hướng diễn hơi chững → bình thản trả lời → chuyển đũa để cụ thể hóa. Brief `04_requests/C06_ACT_v0p1_artistic_brief_288.md` chờ chốt chi tiết; không là prompt hoặc quyền chạy mới. Giữ lời/giọng định hướng, cut-on-motion chưa thả và nhịp nhận REC281; nguồn REC276 giữ phạm vi duyệt riêng. **DIRECTION_APPROVED / DETAIL_BRIEF_PENDING / NO_GENERATION**. Chi 0; sổ 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-288.json` và `../288_Khoai-acting-direction-approved-and-detailed-brief.md`. REC287 trở xuống giữ lịch sử.

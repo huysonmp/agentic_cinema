@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC294: sửa thiết kế control, chờ chốt ranh giới hành động
+## Hiện hành — REC295: nhịp cho–nhận đã duyệt, chuẩn bị ảnh đúng pha
+
+[295 — Quyết định và gói chuẩn bị](295_receiver-first-approved-preparation.md): owner duyệt C06 nói/giữ A → Đào đưa bát riêng/nói N07 → Khoai hạ A vào bát. Đã xem/kiểm hash ba ảnh và chuẩn sơ đồ toàn bàn cùng prompt C06 v0.3; START nhận cũ sai pha cho nhịp mới, END chỉ tham khảo. Scope ảnh tư thế mới đang hỏi; chưa sinh ảnh/video, kiểm live quote hoặc thay EDL. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing 30 giây và kiểm món toàn tập còn mở. REC294 trở xuống giữ lịch sử.
+
+## Lịch sử — REC294: sửa thiết kế control, chờ chốt ranh giới hành động
 
 [294 — Phương án và gates](294_C06-action-control-recovery-proposal.md) ghi lỗ hổng dùng reference+chữ cho hành động chưa có chứng cứ control; docs Google kiểm lại không hỗ trợ voice references ngoài Ingredients. Khuyến nghị C06 chỉ nói/giữ A, Đào đưa bát/nói N07 rồi Khoai hạ A vào bát quãng ngắn. Đổi ranh giới C06 cần owner duyệt; chưa chạy/chuẩn pose ảnh/EDL. Giữ B/voices/lời/C09; native293 vẫn không chọn. Chi0;244/500 còn256/retake19/reserve110 đóng. REC293 trở xuống giữ lịch sử.
 

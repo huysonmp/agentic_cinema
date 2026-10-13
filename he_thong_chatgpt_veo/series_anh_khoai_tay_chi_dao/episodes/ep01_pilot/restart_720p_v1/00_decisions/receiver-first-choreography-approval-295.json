@@ -1,0 +1,24 @@
+{
+  "record": "REC295",
+  "date": "2026-10-13",
+  "question_item_id": "[\"request_user_input_async\",\"call_e2dd4c3171b04c77af3fd270e9ec2a68\",0]",
+  "owner_answer_verbatim": "Duyệt đổi nhịp cho–nhận như đề xuất",
+  "approved_proposal": "../../294_C06-action-control-recovery-proposal.md",
+  "approval_scope": "CHOREOGRAPHY_A_AND_PAPER_PREPARATION_ONLY",
+  "sequence": [
+    "C06_KHOAI_N06_KEEP_SAME_A_ON_HIS_SIDE_NUANCE_B",
+    "DAO_PRESENTS_OWN_EMPTY_BOWL_NEAR_A_AND_SPEAKS_N07",
+    "KHOAI_SHORT_LOWER_SAME_A_INTO_DAO_BOWL_RELEASE_ONCE_RETRACT"
+  ],
+  "dialogue_unchanged": {"N06_Khoai_K20": "Anh gắp cho em mà.", "N07_Dao_D06": "Thế em quay lại đúng lúc rồi."},
+  "historic_276_source_approval": "RETAINED_IN_ITS_ORIGINAL_SCOPE_NOT_TRANSFERRED_TO_NEW_TAKE",
+  "new_pose_image_permission": "SEPARATE_SCOPE_QUESTION_PENDING",
+  "new_media_selected": false,
+  "new_paid_request_authorized": false,
+  "voice_preset_or_EDL_change_authorized": false,
+  "credit_debit": 0,
+  "project_spent": 244,
+  "project_remaining": 256,
+  "retake_remaining": 19,
+  "reserve110": "CLOSED"
+}

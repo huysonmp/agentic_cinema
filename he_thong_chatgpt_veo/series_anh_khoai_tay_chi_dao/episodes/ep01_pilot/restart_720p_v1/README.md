@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC295 / 13-10-2026:** owner duyệt C06 giữ A/nói N06 → Đào đưa bát riêng/nói N07 → Khoai hạ A vào bát. Sơ đồ toàn bàn và prompt C06 v0.3 đã chuẩn; root xem ba ảnh/kiểm hash, không dùng START cũ sai pha. Chờ scope ảnh tư thế mới; chưa media/paid/EDL hoặc live quote. **CHOREOGRAPHY_APPROVED / POSE_SCOPE_PENDING / NO_RUN**. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng; timing 30 giây và món toàn tập còn mở. Xem `06_qc/run-registry-295.json` và `../295_receiver-first-approved-preparation.md`. REC294 trở xuống giữ lịch sử.
+
 - **Hiện hành REC294 / 13-10-2026:** đã rà brief281/lesson278/primaryGooglecurrent; Frames+savedvoice không được hứa hỗ trợ. Phương án A đề nghị C06giữA/nóiB, Đào chủ độngđưabát/nóiN07 rồi Khoai hạA quãngngắn; đổi choreography pendingowner, khôngnewmedia/paid/EDL. **ACTION_CONTROL_PROPOSAL / OWNER_BOUNDARY_DECISION_PENDING**. Chi0;244/500 còn256/retake19/reserve110 đóng. Xem `06_qc/run-registry-294.json` và `../294_C06-action-control-recovery-proposal.md`. REC293 trở xuống giữ lịch sử.
 
 - **Hiện hành REC293 / 13-10-2026:** owner duyệt một7, đã submit1/tải native720×1280/24fps/96F/hash/decode; root xem toàn96boards +F0/F16/F48/F72/F95fullres. Fulltake không chọn: A về đĩa chung/thả, không bát Đào; entrygaze/tay phụ mở. **NATIVE_RECEIVED / FULL_TAKE_NOT_SELECTED / NO_RETRY_OR_EDL**. Chưa nghe/diễn/AV PASS, không chọn prefix tự động. Debit7,244/500 còn256/retake19/reserve110 đóng. Xem `06_qc/run-registry-293.json`, `04_requests/C06_ACT_B_T01_run_293.json` và `../293_C06-acting-B-native-check-and-action-stop.md`. REC292 trở xuống giữ lịch sử.

@@ -1,0 +1,30 @@
+{
+  "record": "REC295",
+  "date": "2026-10-13",
+  "status": "CHOREOGRAPHY_A_APPROVED_PAPER_PREPARED_POSE_SCOPE_PENDING_NO_RUN",
+  "root_report": "../295_receiver-first-approved-preparation.md",
+  "authority": "00_decisions/receiver-first-choreography-approval-295.json",
+  "state_map": "04_requests/receiver-first-state-map-and-reference-brief-295.md",
+  "C06_draft": "04_requests/C06_ACT_v0p3_keep_A_295.md",
+  "reference_inspection": "ROOT_VIEWED_ALL_THREE_FULL_IMAGES_AND_REHASHED_NOT_VIDEO_QC",
+  "reference_hashes_verified": {
+    "02_refs/C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png": "7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc",
+    "02_refs/RECEIVE_START_food_v1_CHATGPT_FOR_REVIEW_282.png": "491575988bbbea26e16fda3a7f02401b874f9abcc24eda7cdef340764ab232d8",
+    "02_refs/RECEIVE_END_v2_CHATGPT_FOR_REVIEW_282.png": "82057aba35ffd8182f4624696d209750767452b842413013bd9d94f87b1a596d"
+  },
+  "old_receive_START_used_for_new_C06_or_S1": false,
+  "old_receive_END_continuity_accepted_for_new_chain": false,
+  "new_pose_image_permission": "OWNER_SCOPE_QUESTION_PENDING",
+  "independent_review": "COMPLETED_PAPER_AND_THREE_FULL_STILLS_ROOT_FULL_REPORT_READBACK_NO_PAPER_MAJOR_NOT_MEDIA_PASS",
+  "independent_report": "06_qc/receiver_first_preparation_independent_295.md",
+  "timing": {"fps": 24, "frames_before_C06": 632, "C06_new_range_frames": null, "final30_ending_formula": "88-N", "final30_fit_proven": false},
+  "live_quote_checked_this_record": false,
+  "new_paid_request_authorized": false,
+  "new_media_or_voice_or_EDL": false,
+  "credit_debit": 0,
+  "project_spent": 244,
+  "project_remaining": 256,
+  "retake_remaining": 19,
+  "reserve110": "CLOSED",
+  "release_authorized": false
+}

@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [294](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/294_C06-action-control-recovery-proposal.md): đã rà control và primaryGooglecurrent, không hứa Frames+savedvoice. Đề xuất C06 nói/giữA, Đào đưa bát/nói rồi Khoai hạ A vào bát; đổi choreography pendingowner. Chưa chạy/ảnhpose/EDL hoặc cứu native293;244/500 còn256/retake19/reserve110 đóng. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC293 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [295](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/295_receiver-first-approved-preparation.md): owner duyệt nhịp C06 nói/giữ A → Đào đưa bát riêng/nói → Khoai hạ A vào bát. Đã chuẩn sơ đồ toàn bàn và prompt C06 mới, kiểm ba ảnh/hash; chờ scope ảnh tư thế mới, chưa media/paid/EDL hoặc live quote. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC294 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

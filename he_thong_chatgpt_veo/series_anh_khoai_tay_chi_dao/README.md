@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC282 / 2026-10-13
+
+[282 — hai ảnh ứng viên và rà mẫu phạm vi món](episodes/ep01_pilot/282_food-receive-stills-and-dependency-screening.md): START v1/END v2 được tạo bằng ảnh ChatGPT, root kiểm và chờ owner; END v1 bị bác vì món trong bát tăng. Chín mẫu thuộc các đoạn đang giữ cho thấy món lệch nhiều cảnh, cần phương án phụ thuộc, chưa tự sinh lại. Không Flow/upload/video, chi Flow 0; 217/500, còn 283, reserve đóng. Không review độc lập mới hoặc motion/voice/seam PASS. REC281 và các mục dưới là lịch sử.
+
 ## Trạng thái ưu tiên — REC281 / 2026-10-13
 
 [281 — đưa bát–bỏ nem, sửa món từ đầu vào](episodes/ep01_pilot/281_simple-receive-beat-and-food-reference-rework.md): chốt nhịp Đào đưa bát và nói, Khoai bỏ phần đang giữ vào bát cô, không cảnh chuẩn bị dài/đút ăn. Giữ N07/D06 theo lựa chọn trước; không tự bỏ C09. Hình món bị owner bác, đối chiếu ảnh thật cho thấy nguồn master/C06 cũng lệch; cần chuẩn lại và rà phạm vi ảnh hưởng. Chưa tạo media hoặc đổi route, chi mới 0; 217/500, còn 283, reserve đóng. T03 vẫn chưa chọn; gate độc lập actual REC280 còn HOLD. REC280 và các mục dưới giữ lịch sử.

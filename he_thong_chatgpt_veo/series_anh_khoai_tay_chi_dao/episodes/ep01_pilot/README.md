@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC282: START/END ứng viên, food gate toàn tập còn mở
+
+Đã chuẩn START v1 sửa món/portion và END v2 đã nhận–bỏ, bằng công cụ ảnh ChatGPT. END v1 tăng lượng món bị bác, không dùng. Hai ảnh chờ owner về ngoại hình món/tư thế; gần 9:16, có redraw, không native/motion/voice hoặc production GO. Rà chín mẫu trong các range đang giữ cho thấy đĩa/A lệch ở nhiều cảnh; chưa tự sinh lại toàn tập hoặc đổi route. Flow chi 0, sổ 217/500 còn 283, reserve đóng. Independent report mới chưa chạy. Xem [282 — ảnh và phạm vi ảnh hưởng](282_food-receive-stills-and-dependency-screening.md). REC281 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC281: chốt nhịp nhận món đơn giản, món cần sửa
 
 Owner chốt Đào đưa bát của mình ra và nói, Khoai bỏ phần nem đang giữ vào bát cô. Không cần cảnh chuẩn bị/giữ pose riêng kéo dài; số take/route mới chưa chốt. Hình món bị bác; root đã đối chiếu hai ảnh thật, master v5/C06 F56/T03 F0 và ghi FOOD_REFERENCE_REWORK từ đầu vào. Giữ N07/D06/C09 theo lựa chọn trước, không tự sinh lại toàn tập hoặc đổi route. Chi 0; 217/500, còn 283, dự phòng đóng. T03 vẫn chưa chọn, independent actual REC280 còn HOLD. Xem [281 — quyết định và brief](281_simple-receive-beat-and-food-reference-rework.md). REC280 trở xuống giữ lịch sử.

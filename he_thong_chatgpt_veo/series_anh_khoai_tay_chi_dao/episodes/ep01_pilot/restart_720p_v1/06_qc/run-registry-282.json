@@ -1,0 +1,30 @@
+{
+  "record":"REC282",
+  "date":"2026-10-13",
+  "owner_reply_verbatim":"ok nhé",
+  "authority_scope":"CONTINUE_REC281_FOOD_AND_RECEIVE_STILL_PREPARATION_NOT_MEDIA_APPROVAL_OR_PAID_GO",
+  "status":"START_V1_END_V2_OWNER_STILL_REVIEW_PENDING_FOOD_DEPENDENCY_OPEN",
+  "generator":"BUILT_IN_CHATGPT_IMAGE_GEN_NOT_CLI_OR_FLOW",
+  "image_calls":3,
+  "assets":[
+    {"file":"02_refs/RECEIVE_START_food_v1_CHATGPT_FOR_REVIEW_282.png","generator_original":"C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-234eb4f9-6976-444a-a527-12833561c9de.png","sha256":"491575988bbbea26e16fda3a7f02401b874f9abcc24eda7cdef340764ab232d8","bytes":1899987,"width":941,"height":1672,"status":"CANDIDATE_NOT_OWNER_APPROVED"},
+    {"file":"02_refs/RECEIVE_END_v1_PORTION_REWORK_282.png","generator_original":"C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-75876ae9-9364-412d-bec6-a1a9887327ea.png","sha256":"89e90f76c4bbe49336ae80ead4bfd619e90682f82e8dd1b6bdc7bafdc629cd9c","bytes":1927308,"status":"ROOT_REJECTED_ADDED_PORTION_DO_NOT_USE"},
+    {"file":"02_refs/RECEIVE_END_v2_CHATGPT_FOR_REVIEW_282.png","generator_original":"C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-a502e04c-0364-4cf0-a435-3d76f504822c.png","sha256":"82057aba35ffd8182f4624696d209750767452b842413013bd9d94f87b1a596d","bytes":1878801,"width":941,"height":1672,"status":"CANDIDATE_NOT_OWNER_APPROVED"}
+  ],
+  "root_still_report":"06_qc/receive_stills_root_review_282.md",
+  "food_screening":"06_qc/food_dependency_screening_282.md",
+  "earlier_samples_seen":9,
+  "earlier_sample_scope":"SELECTED_RANGE_STILLS_NOT_ALL_FRAMES_OR_AV",
+  "independent_new_reports":"NOT_RUN_NOT_PASS_PRIOR_REC280_USAGE_LIMIT_FAILURE_RETAINED",
+  "motion_voice_sync_seam":"NOT_TESTED",
+  "route_count_timing":"NOT_LOCKED",
+  "Flow_uploads":0,
+  "Flow_paid_submits":0,
+  "Flow_credit_debit":0,
+  "project_spent":217,
+  "project_remaining":283,
+  "reserve110":"CLOSED",
+  "owner_folder":"C:/Users/PC/Downloads/du_an_nem_bui/282_RECEIVE_REFS",
+  "old_natives_unchanged":true,
+  "release_authorized":false
+}

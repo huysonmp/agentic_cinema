@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [281](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/281_simple-receive-beat-and-food-reference-rework.md): owner chốt nhịp đơn giản Đào đưa bát–nói, Khoai bỏ nem vào bát; không cần cảnh chuẩn bị/giữ pose riêng kéo dài. Owner bác hình món hiện tại; root đối chiếu hai ảnh thật và thấy lệch đã có ở master/ảnh C06. **Đầu vào món cần sửa, T03 vẫn chưa chọn, chưa chạy thêm**. Không tự đổi giọng/lời/C09/route hoặc làm lại toàn tập. Sổ 217/500, còn 283, dự phòng 110 đóng; review độc lập actual REC280 còn HOLD. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC280 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [282](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/282_food-receive-stills-and-dependency-screening.md): đã tạo ảnh START v1 sửa món và END v2 sau nhận–bỏ bằng công cụ ảnh ChatGPT; END v1 bị bác vì lượng món tự tăng. **Hai ảnh chờ owner, chưa video hoặc production GO**. Rà chín mẫu của các đoạn đang giữ thấy món lệch ở nhiều cảnh và A trong C05/C06; chỉ sửa đoạn cuối chưa đủ đóng food gate. Chưa đổi route, giọng/lời hoặc sinh lại cảnh cũ. Flow chi mới 0, sổ 217/500, còn 283, reserve 110 đóng; chưa independent report mới. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC281 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

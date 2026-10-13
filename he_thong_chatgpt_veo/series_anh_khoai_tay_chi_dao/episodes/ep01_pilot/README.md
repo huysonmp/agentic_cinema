@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC279: gói đã kiểm, chờ duyệt một lượt T03
+
+Owner đã duyệt ảnh đôi chỉ làm nhận diện phụ. Đã gắn đúng hai ảnh + D06, điền prompt cuối đúng hash và kiểm UI: Ingredients/Omni 1.1 Flash, 720p/9:16/6 giây/x1, âm thanh bật, Agent tắt, giá 10 credit. Maker/reviewer đã hoàn tất, root đọc đầy đủ; không thấy điểm chặn mới trên hồ sơ, chưa có đầu ra để nghiệm thu. Chờ quyền riêng cho một T03 sau STOP; không tự T04. Chi mới 0; sổ 207/500, còn 293, dự phòng đóng. C07 chưa chọn, C08 giữ chờ. Xem [279 — gói đã kiểm và yêu cầu một lượt](279_C07-identity-approved-live-package-and-one-run-request.md). REC278 trở xuống là lịch sử.
+
 ## Hiện hành — REC278: A chuẩn bị neo hình, chưa chạy thêm
 
 Owner chọn A; đã kiểm Flow/Google: voice reference chỉ ở Ingredients, không ghép Frames Start/End + D06. Đã chuẩn bị chân dung đôi nền sạch và bản nháp v2; maker, reviewer và root đã kiểm ảnh và giấy. Chân dung chỉ là ứng viên có sai khác cần owner duyệt. Chưa upload ảnh mới, kiểm đủ hai ảnh + D06 hoặc sinh T03; C07 chưa chọn, C08 giữ chờ. Chi 0; giữ 207/500, còn 293, dự phòng đóng. Xem [278 — gói neo hình và tương thích giọng](278_C07-anchor-package-and-voice-compatibility.md). REC277 trở xuống là lịch sử.

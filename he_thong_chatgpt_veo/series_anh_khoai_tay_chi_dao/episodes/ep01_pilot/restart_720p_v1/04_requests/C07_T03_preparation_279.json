@@ -1,0 +1,21 @@
+{
+  "record":"REC279","date":"2026-10-13","status":"FULL_PACKAGE_REVIEWED_READY_TO_PRESENT_ONE_PAID_REQUEST_NOT_SUBMITTED",
+  "shot":"C07","take":"T03","portrait_approval":"00_decisions/C07-pair-identity-owner-approval-279.json",
+  "prompt":"04_requests/C07_T03_prompt_279.txt",
+  "prompt_sha256":"5f3f00fde211ba58118927c9cd3b6e5229938293b913c02b91766ee32a0cd9d3",
+  "prompt_byte_identical_to_reviewed_278_v2":true,"live_prompt_normalized_readback_exact":true,
+  "ingredients":[{"type":"saved_voice","name":"EP01_Dao_D06_Aoede_720p_v1","id":"6dadc0b1-00c3-493c-943d-f4a1e4a88feb","performance_read_before_add":true,"other_voice_attached":false},{"type":"image","role":"IDENTITY_ONLY","file":"02_refs/C07_PAIR_IDENTITY_v1_CHATGPT_FOR_REVIEW_278.png","sha256":"122b6bbbb129361e6fb494fe74935afc510280c1bebf529d8a136ddf95a92f8f","Flow_image_id":"ded2a157-f2d7-4be7-9185-31d5fc87f3ea","uploaded_once_this_record":true},{"type":"image","role":"SCENE_POSE_SCALE_EXPRESSION_LAYOUT","file":"02_refs/C07_START_from_C06_T03_selected_F56_276.png","sha256":"69fb0e62a3a6f138a0eae622603945b248ec8d2809c8cda513dcdfdc33d00863","Flow_image_id":"9d2280e2-bb03-437a-98f2-553a7d481144","restored_after_chip_click_removed_it":true}],
+  "live_package_ui":{"total_chips":3,"images":2,"voice":1,"no_unsupported_input_warning_observed":true,"create_button_enabled":true,"backend_generation_acceptance":"UNTESTED_NO_SUBMIT","model":"Omni 1.1 Flash","mode":"Ingredients","resolution":"720p","ratio":"9:16","seconds":6,"outputs":1,"Agent":false,"return_without_audio":false,"quote_credits":10},
+  "root_paper_reports_278_full_read":true,"root_current_reports_279_full_read":true,
+  "current_reports":["06_qc/C07_T03_maker_preflight_279.md","06_qc/C07_T03_independent_preflight_279.md"],
+  "integrated_preflight_result":"NO_NEW_PAPER_BLOCKER_CONDITIONAL_PRESENT_ONE_REQUEST_NOT_OUTPUT_PASS",
+  "account_balance_observed":1023,"Flow_credit_debit":0,"paid_submits":0,"voice_preview":false,"voice_preset_edit":false,
+  "project_spent":207,"project_remaining":293,"retake_remaining":56,"reserve110":"CLOSED",
+  "proposed_one_run_cost":10,"IF_debit_matches_remaining":283,"IF_debit_matches_spent":217,"IF_retake_remaining":46,
+  "paid_authority":"PENDING_SEPARATE_APPROVAL_AFTER_STOP277_NOT_APPROVED_BY_PORTRAIT",
+  "retry":"NONE_AUTOMATIC_ANY_MAJOR_STOP_AND_REPORT","C08":"HOLD_UNTIL_C07_SOURCE_RANGE_AUDIO_AV_AND_SEAM_GATES",
+  "through_C06_frames":689,"fps":24,"remaining_frames_to_rough35":151,"future_selected_timing":"UNKNOWN",
+  "actual_output_identity_motion_voice_sync_seam":"NOT_RUN_NOT_APPROVED",
+  "proof_folder":"C:/Users/PC/Downloads/du_an_nem_bui/279_C07_T03_PREFLIGHT",
+  "UI_lesson":"Do not click composer ingredient chip to preview; it removes attachment. Removed scene restored before prompt/config final check. Read DOM chip image IDs/count plus picker provenance and fresh screenshot. No paid submit while incomplete."
+}

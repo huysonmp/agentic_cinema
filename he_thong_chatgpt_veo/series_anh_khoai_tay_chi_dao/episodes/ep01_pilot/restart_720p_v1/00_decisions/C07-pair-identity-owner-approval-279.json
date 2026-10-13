@@ -1,0 +1,11 @@
+{
+  "record":"REC279","date":"2026-10-13","owner_reply_verbatim":"ok nhé",
+  "question_scope":"Approve new pair portrait as supplemental identity reference only; no T03",
+  "accepted_image":"02_refs/C07_PAIR_IDENTITY_v1_CHATGPT_FOR_REVIEW_278.png",
+  "accepted_sha256":"122b6bbbb129361e6fb494fe74935afc510280c1bebf529d8a136ddf95a92f8f",
+  "accepted_scope":"SUPPLEMENTAL_CHARACTER_IDENTITY_ONLY",
+  "differences_disclosed_before_approval":["Sharper texture and more distinct smile than scene reference","Not replacement master, scale or pose","Adding reference is not guarantee of video correction"],
+  "exclusions":["New master/canon/camera/scale/expression approval","Paid T03 or automatic retry","Frames+voice route","Selected C07 source or C08 continuation","Budget/reserve/timing expansion"],
+  "next":"Upload exact approved image, bind scene+pair+onlyD06, freeze/readback final prompt and live quote/config, present one paid request after STOP",
+  "paid_submits":0,"credit_debit":0,"spent":207,"remaining":293,"reserve110":"CLOSED"
+}

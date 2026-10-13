@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC284: một request sửa món thất bại, không video mới
+
+Owner duyệt một lượt cap12; root kiểm lại gói và submit đúng một lần. Flow báo lỗi chung không tạo được video; không retry/download nguồn cũ giả làm output. Số dư sau reload1.013→1.013, observed net0; sổ217/500 còn283, retake46, reserve110 đóng. Reviewer độc lập kiểm evidence và root đọc đủ: execution failure, nguyên nhân chưa biết, không actual food/voice/sync PASS hoặc FAIL. Quyền một lượt đã dùng; giữ job/source, food gate vẫn mở. Xem [284 — kết quả và bước tiếp](284_food-edit-one-request-failed-no-output.md). REC283 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC283: ảnh đã duyệt; gói sửa món đang chờ quyết định chạy
 
 START v1/END v2 được duyệt làm tham chiếu, không video/master PASS. Bản nối C05→C06 đúng hash đã tải lên Flow theo xác nhận quyền của owner; START gắn chỉ tham chiếu vật liệu món. Maker/reviewer độc lập đã chạy, root đọc đủ. Quote live **12 credit** khác giá công bố 40; editor chưa hiện khóa output720/x1/giữ tiếng, nên chưa submit. Đề nghị một lượt cap12, trừ retake, không retry và kiểm toàn output; cần owner chốt rủi ro cấu hình này. Chi mới0; 217/500 còn283, reserve110 đóng; food gate toàn tập vẫn mở. Xem [283 — preflight và đề nghị](283_still-approval-and-food-edit-live-preflight.md). REC282 trở xuống giữ lịch sử.

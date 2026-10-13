@@ -1,0 +1,18 @@
+{
+  "record": "REC284",
+  "date": "2026-10-13",
+  "owner_reply_verbatim": "làm đi",
+  "preceding_proposal": "REC283 option A: one food-only edit of exact C05-C06 join, cap12, no automatic retry; output resolution/count/audio-preservation not explicit in editor and require actual output checks",
+  "interpretation": "APPROVED_ONE_BOUNDED_CAPABILITY_REQUEST_NOT_QUALITY_WAIVER",
+  "source_sha256": "42d826e1356ce67acc6e1057b4ceefc9703f3e705ffa14ae6c09dea7934b5bdf",
+  "ingredient_sha256": "491575988bbbea26e16fda3a7f02401b874f9abcc24eda7cdef340764ab232d8",
+  "prompt_sha256": "332915713148401fe4aacc8ddda761d86c84e5e50cbb2471c2106e854e513faf",
+  "cap": 12,
+  "bucket": "retake",
+  "request_count_cap": 1,
+  "auto_retry": false,
+  "reserve110": "CLOSED",
+  "new_voices_tools_or_whole_film_approval": false,
+  "before_submit": "Recheck exact inputs/prompt/quote/account/balance; stop if quote above12 or bindings changed",
+  "after_output": "Native download/hash/decode/metadata/full-frame visual and actual audio/AV review; no approval transfer from source"
+}

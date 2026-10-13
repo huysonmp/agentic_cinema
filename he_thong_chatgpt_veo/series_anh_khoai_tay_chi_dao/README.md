@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC284 / 2026-10-13
+
+[284 — request sửa món không có output](episodes/ep01_pilot/284_food-edit-one-request-failed-no-output.md): owner duyệt một lượt cap12, đã submit đúng một lần; Flow lỗi chung không trả video. Giữ nguồn/job, không retry. Balance reload1.013→1.013, observed net0;217/500 còn283/reserve110 đóng. Reviewer độc lập kiểm evidence, root đọc đủ; nguyên nhân chưa xác định, không chấm chất lượng output không tồn tại. Food gate toàn tập còn mở, request mới cần chốt riêng. REC283 trở xuống là lịch sử.
+
 ## Trạng thái ưu tiên — REC283 / 2026-10-13
 
 [283 — ảnh duyệt và preflight sửa món](episodes/ep01_pilot/283_still-approval-and-food-edit-live-preflight.md): START v1/END v2 được duyệt làm tham chiếu. Đã upload đúng bản nối C05→C06, gắn một START material-only và nhập draft; quote live12 khác giá public40, cấu hình output720/x1/giữ tiếng chưa được xác nhận rõ. Maker/critic thực chạy local, root đọc đủ; chưa submit hoặc output PASS. Chờ owner chốt một phép sửa cap12 có giới hạn; chi mới0, 217/500 còn283, reserve đóng, food gate cả tập còn mở. REC282 trở xuống là lịch sử.

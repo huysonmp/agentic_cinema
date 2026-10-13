@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [283](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/283_still-approval-and-food-edit-live-preflight.md): ảnh START v1/END v2 được duyệt làm tham chiếu. Đã nạp đúng bản nối C05→C06 và START material-only, có draft/quote live12 và hai báo cáo local maker/critic được root đọc đủ. Editor chưa hiện khóa output720/x1/giữ tiếng; chờ quyết định riêng cho một lượt sửa có giới hạn, chưa submit/media PASS. Chi mới0; 217/500 còn283, reserve110 đóng; food gate cả tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC282 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [284](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/284_food-edit-one-request-failed-no-output.md): đã chạy một request sửa món đúng quyền cap12, Flow lỗi chung không có video mới. Không retry, giữ nguồn/job; balance reload không đổi, observed net0;217/500 còn283/reserve110 đóng. Reviewer độc lập đã kiểm evidence, root đọc đủ; nguyên nhân chưa biết, không quality PASS cho output không tồn tại. Food gate còn mở; request tiếp cần chốt riêng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC283 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

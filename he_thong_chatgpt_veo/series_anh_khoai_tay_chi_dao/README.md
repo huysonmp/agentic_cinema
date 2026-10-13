@@ -1,6 +1,10 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái ưu tiên — REC296 / 2026-10-13
+## Trạng thái ưu tiên — REC297 / 2026-10-13
+
+[297 — Hướng pose duyệt, C06 giữ A chờ một lượt](episodes/ep01_pilot/297_pose-approved-C06-keep-A-live-package.md): không dùng P1/P2 làm endpoint sản xuất. Entry v3 + saved K20 có ID/mẫu/performance read-back; prompt v0.3 live khớp hash, quote 7/balance 986, Ingredients/Omni 1.1 Flash/720p/dọc/4s/x1. Chưa paid, source/EDL hoặc actual PASS; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing và món toàn tập chưa đóng. REC296 trở xuống giữ lịch sử.
+
+## Lịch sử — REC296 / 2026-10-13
 
 [296 — Hai ảnh tư thế nhận–cho](episodes/ep01_pilot/296_receiver-pose-images-and-review.md): đã thực hiện phép chuẩn ảnh owner duyệt; P1 v2 bát Đào rỗng đón A, P2 A trong bát/tips trống. Built-in imagegen có redraw/framing, bát dịch nhẹ; đây chỉ ảnh dàn cảnh, chưa endpoint liên tục/720p hoặc actual video PASS. Chờ owner duyệt pose, chưa Flow paid/source/EDL/voice change. Flow chi 0; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing/món toàn tập còn mở. REC295 trở xuống giữ lịch sử.
 

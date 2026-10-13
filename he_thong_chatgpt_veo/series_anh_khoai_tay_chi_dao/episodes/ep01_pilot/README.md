@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC296: hai ảnh tư thế đã chuẩn, chờ duyệt đúng phạm vi
+## Hiện hành — REC297: tư thế duyệt, C06 giữ A chuẩn live và chờ quyền một lượt
+
+[297 — Gói C06 mới](297_pose-approved-C06-keep-A-live-package.md): owner duyệt hướng P1 v2/P2 v1, không endpoint/video hoặc paid. Đã chọn entry v3 + một saved K20, đọc ID/mẫu/performance live, đối soát hash prompt v0.3 và kiểm Ingredients/Omni 1.1 Flash/720p/9:16/4s/x1/Agent tắt, quote 7, balance 986. Chưa submit hoặc thay source/EDL; xin riêng một lượt 7, không retry. Sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Khoảng hở nhịp nhận, timing 30 giây/món toàn tập còn mở. REC296 trở xuống giữ lịch sử.
+
+## Lịch sử — REC296: hai ảnh tư thế đã chuẩn, chờ duyệt đúng phạm vi
 
 [296 — P1/P2 và kiểm ảnh](296_receiver-pose-images-and-review.md): owner duyệt chuẩn hai ảnh nháp. Built-in imagegen đã tạo P1, sửa riêng mắt Khoai, tạo P2 từ P1 v2; cả hai là ảnh tư thế nhận–cho, chưa endpoint nối C06. Bát/cốc đúng vai trong ảnh; có redraw/framing và dịch bát nhẹ, kích thước 941×1672 chưa exact 9:16/720p. Chờ owner chọn scope pose, không video/voice/điểm nối đạt hoặc paid. Flow chi 0; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing 30 giây/món toàn tập còn mở. REC295 trở xuống giữ lịch sử.
 

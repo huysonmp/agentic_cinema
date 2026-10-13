@@ -1,0 +1,21 @@
+{
+  "record": "REC297",
+  "date": "2026-10-13",
+  "question_item_id": "[\"request_user_input_async\",\"call_2069d3b4e805460398ee2f1d4274eaf5\",0]",
+  "owner_answer_verbatim": "Duyệt hướng tư thế P1 v2 / P2 v1",
+  "approval_scope": "POSE_DIRECTION_REFERENCE_ONLY_WITH_DISCLOSED_REDRAW_AND_BOWL_CLEARANCE_CAVEATS",
+  "targets": [
+    {"path": "02_refs/RECEIVER_P1_v2_FOR_REVIEW_296.png", "sha256": "1eff2b05e8fa423b7499ab48114800a0d1e667641497deb2a3b30a2cc2ec54f8"},
+    {"path": "02_refs/RECEIVER_P2_v1_FOR_REVIEW_296.png", "sha256": "fe60f3fabf1297810c4457d2adf4b24aa77b6d4c671e2a16cca62266ffe57474"}
+  ],
+  "official_inputs": "MUST_ESTABLISH_CLEARANCE_AND_MATCH_SELECTED_SOURCE_NOT_BIND_DRAFT_PAIR_AS_PRODUCTION_ENDPOINTS",
+  "next_step": "PREPARE_C06_KEEP_A_PACKAGE_FROM_APPROVED_ENTRY_V3_CHECK_LIVE_CONFIG_VOICE_AND_QUOTE",
+  "exact_pixel_continuity_or_video_voice_seam_acceptance": false,
+  "new_paid_request_authorized": false,
+  "source_EDL_or_voice_preset_change": false,
+  "Flow_credit_debit": 0,
+  "project_spent": 244,
+  "project_remaining": 256,
+  "retake_remaining": 19,
+  "reserve110": "CLOSED"
+}

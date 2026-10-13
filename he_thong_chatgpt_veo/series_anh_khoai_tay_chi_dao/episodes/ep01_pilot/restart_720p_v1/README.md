@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC297 / 13-10-2026:** owner duyệt hướng P1v2/P2v1, không endpoint/paid. Gói C06_KEEP_A_T01 live từ entry v3 + một K20, đọc ID/name/sample/performance, prompt v0.3 khớp hash; Ingredients/Omni1.1Flash/720p/9:16/4s/x1/Agent tắt, quote 7/balance 986. **LIVE_PACKAGE_PREPARED / PAID_PENDING / NO_RUN**. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng; timing/món toàn tập còn mở. Xem `06_qc/run-registry-297.json` và `../297_pose-approved-C06-keep-A-live-package.md`. REC296 trở xuống giữ lịch sử.
+
 - **Hiện hành REC296 / 13-10-2026:** owner duyệt chuẩn P1/P2. Built-in imagegen 3 lượt gồm một sửa mặt/mắt; P1 v2 bát rỗng dưới A, P2 A trong bát/tips trống. 941×1672, redraw và dịch bát nhẹ; chỉ pose drafts, chưa endpoint exact hoặc video/voice PASS. **POSE_DRAFTS_PREPARED / OWNER_STILL_REVIEW_PENDING / NO_FLOW_RUN**. Flow chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng. Xem `06_qc/run-registry-296.json` và `../296_receiver-pose-images-and-review.md`. REC295 trở xuống giữ lịch sử.
 
 - **Hiện hành REC295 / 13-10-2026:** owner duyệt C06 giữ A/nói N06 → Đào đưa bát riêng/nói N07 → Khoai hạ A vào bát. Sơ đồ toàn bàn và prompt C06 v0.3 đã chuẩn; root xem ba ảnh/kiểm hash, không dùng START cũ sai pha. Chờ scope ảnh tư thế mới; chưa media/paid/EDL hoặc live quote. **CHOREOGRAPHY_APPROVED / POSE_SCOPE_PENDING / NO_RUN**. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng; timing 30 giây và món toàn tập còn mở. Xem `06_qc/run-registry-295.json` và `../295_receiver-first-approved-preparation.md`. REC294 trở xuống giữ lịch sử.

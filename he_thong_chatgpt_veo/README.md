@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [296](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/296_receiver-pose-images-and-review.md): đã chuẩn hai ảnh nháp nhận–cho bằng built-in imagegen sau phép owner; P1 sửa mắt Khoai rồi tạo P2 cùng lineage. Cặp ảnh có redraw/framing và bát dịch nhẹ, chưa endpoint nối C06 hoặc actual video/voice PASS. Chờ owner chọn tư thế, không Flow paid hoặc thay source/EDL. Flow chi 0; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC295 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [297](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/297_pose-approved-C06-keep-A-live-package.md): owner duyệt hướng P1/P2, không endpoint/video hoặc paid. Đã chuẩn C06 giữ A từ entry v3 + saved K20; live kiểm ID/mẫu/performance, prompt v0.3 khớp hash và Ingredients/Omni 1.1 Flash/720p/9:16/4s/x1/quote 7/balance 986. Chưa submit/actual PASS/source/EDL; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Cổng hình món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC296 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

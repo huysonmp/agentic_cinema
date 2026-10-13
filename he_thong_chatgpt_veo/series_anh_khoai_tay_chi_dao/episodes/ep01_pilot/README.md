@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC280: T03 lỗi hành động, không chọn và không tự làm lại
+
+Đã thực hiện một C07 T03 owner duyệt, tải gốc 720p và đối soát debit 10. Root kiểm đủ 144 khung: nhân vật/hai bát còn nhưng reset đầu, đưa A tới miệng Đào, Khoai mở miệng, cốc hạ và bát kéo quá xa. **SOURCE_REWORK / C07 NOT_SELECTED / NO_T04 / C08 HOLD**. Hai agent actual gặp giới hạn sử dụng, chưa có báo cáo hoàn tất; tiếng/AV chưa chứng nhận. Sổ 217/500, còn 283, dự phòng đóng. Xem [280 — nguồn gốc, lỗi và hướng chuẩn bị](280_C07-T03-native-check-and-action-stop.md). REC279 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC279: gói đã kiểm, chờ duyệt một lượt T03
 
 Owner đã duyệt ảnh đôi chỉ làm nhận diện phụ. Đã gắn đúng hai ảnh + D06, điền prompt cuối đúng hash và kiểm UI: Ingredients/Omni 1.1 Flash, 720p/9:16/6 giây/x1, âm thanh bật, Agent tắt, giá 10 credit. Maker/reviewer đã hoàn tất, root đọc đầy đủ; không thấy điểm chặn mới trên hồ sơ, chưa có đầu ra để nghiệm thu. Chờ quyền riêng cho một T03 sau STOP; không tự T04. Chi mới 0; sổ 207/500, còn 293, dự phòng đóng. C07 chưa chọn, C08 giữ chờ. Xem [279 — gói đã kiểm và yêu cầu một lượt](279_C07-identity-approved-live-package-and-one-run-request.md). REC278 trở xuống là lịch sử.

@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [279](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/279_C07-identity-approved-live-package-and-one-run-request.md): owner đã duyệt chân dung đôi chỉ làm nhận diện phụ. Gói C07 T03 có đủ hai ảnh + D06, prompt cuối, 720p/9:16/6 giây/x1, âm thanh bật, Agent tắt và giá UI 10 credit. Hai agent đã kiểm, root đọc đầy đủ; chờ duyệt riêng một lượt trả phí. Chưa gửi T03, chưa chọn C07 hoặc mở C08; chi mới 0, sổ 207/500, còn 293, dự phòng 110 đóng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC278 trở xuống giữ lịch sử, không thắng approval hiện hành.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [280](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/280_C07-T03-native-check-and-action-stop.md): owner duyệt một T03, đã chạy/tải native và đối soát đúng 10 credit. Root kiểm đủ 144 khung: giữ nhân vật nhưng reset đầu, đưa nem tới miệng Đào, Khoai mở miệng, cốc hạ và bát kéo quá xa. **C07 chưa chọn / STOP / không T04 / C08 giữ chờ**. Hai agent actual gặp giới hạn sử dụng, chưa có báo cáo độc lập; tiếng/AV chưa chứng nhận. Sổ 217/500, còn 283, dự phòng 110 đóng. Chờ owner chọn cơ chế chuẩn bị mới, chưa xin chi thêm. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC279 trở xuống giữ lịch sử, không thắng kết quả hiện hành.
 
 ## Tài liệu đang dùng
 

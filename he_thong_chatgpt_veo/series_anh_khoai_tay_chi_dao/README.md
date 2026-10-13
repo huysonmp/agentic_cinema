@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC280 / 2026-10-13
+
+[280 — C07 T03 lỗi hành động, dừng sau một lượt](episodes/ep01_pilot/280_C07-T03-native-check-and-action-stop.md): đã tải gốc 720p, root kiểm đủ 144 khung; không hóa người nhưng reset đầu, cho ăn thay chuẩn bị bát, Khoai mở miệng, cốc hạ và bát kéo quá xa. C07 chưa chọn, C08 giữ chờ, không T04. Hai agent actual chưa hoàn tất do giới hạn sử dụng; không audio/AV PASS. Chi 10, sổ 217/500, còn 283, dự phòng đóng. Đang trình lựa chọn cơ chế chuẩn bị mới, chưa cấp quyền chi thêm. REC279 và các mục dưới giữ lịch sử.
+
 ## Trạng thái ưu tiên — REC279 / 2026-10-13
 
 [279 — nhận diện duyệt, gói live chờ một lượt trả phí](episodes/ep01_pilot/279_C07-identity-approved-live-package-and-one-run-request.md): đã gắn hai ảnh và D06, khóa prompt cuối; UI 720p/9:16/6 giây/x1, âm thanh bật, Agent tắt, giá 10 credit. Maker và reviewer hoàn tất, root đọc đầy đủ; chỉ đủ điều kiện trình một request, chưa chứng nhận đầu ra. Chờ owner duyệt riêng T03; chưa gửi, C07 chưa chọn, C08 giữ chờ. Chi mới 0; sổ 207/500, còn 293, dự phòng đóng. REC278 và các mục dưới là lịch sử.

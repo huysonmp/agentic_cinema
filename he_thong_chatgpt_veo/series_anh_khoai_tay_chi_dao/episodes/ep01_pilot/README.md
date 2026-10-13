@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC299: native tiếng/diễn duyệt, nối thử 4,75 giây chờ chốt
+## Hiện hành — REC300: range và đối thoại/sync đã duyệt
+
+[300 — Duyệt và chuẩn bước nhận](300_C06-range-approved-and-receive-preflight.md): owner chốt range C06 48F/2s và đối thoại/sync trên exact nối REC299. START ứng viên native F47 đã kiểm, preflight Đào nhận còn gate; không paid/EDL final. Food/A cut vẫn lỗi mở. Rough35 có quyền REC264, còn 160F; final30 còn 40F, chưa đóng kết. Sổ 251/500, còn 249, tạo lại 12, dự phòng 110 đóng.
+
+## Lịch sử — REC299: native tiếng/diễn duyệt, nối thử 4,75 giây chờ chốt
 
 [299 — Range và nối thử](299_C06-accepted-native-and-short-join-trial.md): owner duyệt tiếng/K20, đủ N06, nét diễn native REC298 và ngoại lệ ánh nhìn đầu để chuẩn nối. Đã dựng C05 [0,66) + C06 [0,48), tổng 114 khung/4,75 giây; giữ đầu câu, không thay giọng hoặc đổi tốc. Range, điểm nối đối thoại và sync còn chờ; món cũ chuyển sang món mới tại cut vẫn là lỗi mở. Chưa thay EDL chính hoặc nghiệm thu toàn phim. Chi mới 0; 251/500, còn 249, phần tạo lại 12, dự phòng 110 đóng. Nếu chọn 48 khung, kết 30 giây chỉ còn 40 khung; chưa chứng minh vừa. REC298 trở xuống giữ lịch sử.
 

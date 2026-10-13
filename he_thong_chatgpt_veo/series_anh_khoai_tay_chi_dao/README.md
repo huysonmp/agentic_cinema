@@ -1,6 +1,10 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái ưu tiên — REC299 / 2026-10-13
+## Trạng thái ưu tiên — REC300 / 2026-10-13
+
+[300 — Range duyệt, chuẩn nhịp nhận](episodes/ep01_pilot/300_C06-range-approved-and-receive-preflight.md): range C06 [0,48) và đối thoại/sync bản nối exact REC299 được owner chốt. START native F47 đã kiểm; nhịp nhận còn preflight, chưa trả phí. Food/A seam chưa đóng; qua C06 28,333333s, còn 6,666667s tới trần rough35 đã duyệt, không phải final35. Sổ 251/500, còn 249, tạo lại 12, dự phòng 110 đóng.
+
+## Lịch sử — REC299 / 2026-10-13
 
 [299 — Nối đối thoại mới](episodes/ep01_pilot/299_C06-accepted-native-and-short-join-trial.md): tiếng/K20, diễn và ngoại lệ ánh nhìn của native C06 được owner chốt. Bản nối thử C05→C06 mới dài 114 khung/4,75 giây; range C06 48 khung chưa duyệt trên bản encode. Không chuyển approval native thành nghiệm thu cut, sync hoặc món. Hình món đổi tại cut, thời lượng 30 giây và nhịp nhận còn mở. Không trả phí hoặc thay EDL chính; 251/500, còn 249, phần tạo lại 12, dự phòng 110 đóng. REC298 trở xuống giữ lịch sử.
 

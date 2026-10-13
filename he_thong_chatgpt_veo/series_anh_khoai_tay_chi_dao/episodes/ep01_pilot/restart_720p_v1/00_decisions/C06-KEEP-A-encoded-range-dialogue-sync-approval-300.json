@@ -1,0 +1,40 @@
+{
+  "record": "REC300",
+  "date": "2026-10-13",
+  "question_item_id": "[\"request_user_input_async\",\"call_5d1cbe1e35c1409db5f6eae83c064723\",0]",
+  "owner_answer_verbatim": "Đạt range 2 giây và đối thoại/sync bản nối",
+  "accepted_target": "07_edits/C05_C06_KEEP_A_4p75S_JOIN_QC_NOT_FINAL_299.mp4",
+  "encoded_sha256": "b4408c44d47de9b80c3e3b735a3ddc093008593d24189604b15142e3356cc469",
+  "accepted_scopes": [
+    "C06_RANGE_F0_F47_48_FRAMES_2_SECONDS_AND_ACTING_SUFFICIENT",
+    "COMPLETE_LINE_ENDS_DAO_D06_THEN_KHOAI_K20_ON_EXACT_JOIN",
+    "ENCODED_DIALOGUE_RHYTHM_AND_LIP_SYNC_ON_EXACT_JOIN"
+  ],
+  "C06_native": "05_native/EP01_720_C06_KEEP_A_T01_NATIVE_298.mp4",
+  "C06_native_sha256": "0174cf58e30699f59e74c1cef1157dd560999802afa751cead5ee41b462ec639",
+  "C06_range_half_open": [
+    0,
+    48
+  ],
+  "C06_exit_native_frame": 47,
+  "C05_range_half_open": [
+    0,
+    66
+  ],
+  "fps": 24,
+  "human_AV_evidence": true,
+  "root_or_agents_actual_listening": "NOT_PERFORMED",
+  "exclusions": [
+    "FOOD_OR_HELD_A_APPEARANCE_JUMP_WAIVER",
+    "ALL_PICTURE_OR_WHOLE_FILM_APPROVAL",
+    "NEW_TAKE_OR_NEW_PAID_REQUEST",
+    "GLOBAL_PRODUCTION_EDL_REPLACEMENT",
+    "FINAL_EXPORT_ACCEPTANCE",
+    "RESERVE_RELEASE"
+  ],
+  "status": "ENCODED_RANGE_DIALOGUE_SYNC_ACCEPTED_PICTURE_SEAM_STILL_BLOCKED",
+  "credit_debit": 0,
+  "project_remaining": 249,
+  "retake_remaining": 12,
+  "reserve110": "CLOSED"
+}

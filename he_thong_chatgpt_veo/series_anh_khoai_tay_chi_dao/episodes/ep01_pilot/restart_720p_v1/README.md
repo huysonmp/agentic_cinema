@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC278 / 13-10-2026:** owner chọn A để chuẩn bị neo hình, chưa cho phép T03. Theo Google, Frames Start/End không dùng được saved voice D06 trong cùng request; giữ Ingredients và chuẩn bị chân dung đôi chỉ nhận diện. Maker, reviewer và root đã xem ảnh, đọc bản nháp v2; có sai khác cần owner duyệt. Sau đó mới kiểm đủ hai ảnh + D06, quote live, prompt final và quyền trả phí. Chi 0; sổ 207/500, còn 293, dự phòng đóng; C07 chưa chọn, C08 giữ chờ. Xem `06_qc/run-registry-278.json` và `../278_C07-anchor-package-and-voice-compatibility.md`. Các mốc dưới giữ lịch sử.
+
 - **Hiện hành REC277 / 13-10-2026:** C05→C06 join được owner duyệt đúng scope. C07 T01 sai bát; targetedT02 tái dựng Đào thành người thật, mất bát Khoai và reset entry. Đã tải hai nguồn720p/kiểm144 khung mỗi nguồn. **STOP_FOR_DIAGNOSIS / C07 NOT_SELECTED / C08 HOLD / noT03**. Chi20, tổng207/500/còn293; retake56, reserve110 đóng. Xem `06_qc/run-registry-277.json` và `../277_C07-two-takes-and-reference-adherence-stop.md`. Các trạng thái bên dưới là lịch sử.
 
 - **Hiện hành REC276 / 12-10-2026:** C06 nativeT03 [0,57) được owner chọn với AV/ACT và cut-on-motion; full native vẫn bị bác vì thả sớm. Join C05→C06 encode mới5,125s đã kiểm ảnh, **humanAV pending**. C07 current-final qua maker/critic, root đọc đủ; chuẩn bị live đúngF56/chỉD06/720p/9:16/6s/x1/quote10/âm thanh bật/AgentOFF, **NOT_SUBMITTED**. Đóng checkpoint join rồi đọc lại live trước sinh. Chi0;187/500,còn313,reserve110 đóng,C08HOLD. Xem `06_qc/run-registry-276.json` và `../276_C06-approved-join-review-and-C07-ready.md`. REC275 trở xuống là lịch sử.

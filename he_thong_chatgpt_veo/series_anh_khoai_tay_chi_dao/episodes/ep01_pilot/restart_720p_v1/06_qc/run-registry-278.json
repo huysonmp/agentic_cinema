@@ -1,0 +1,18 @@
+{
+  "record":"REC278","date":"2026-10-13","status":"ANCHOR_PREPARATION_PORTRAIT_OWNER_GATE_NO_PAID_REQUEST",
+  "owner_approval":"00_decisions/C07-anchor-preparation-A-278.json",
+  "preparation":"04_requests/C07_anchor_preparation_278.json",
+  "live_feature_evidence":"06_qc/C07_live_feature_check_278.json",
+  "official_constraint":"Voice references only Ingredients; Frames first/last != compatible with saved D06 in one request",
+  "new_pair_sha256":"122b6bbbb129361e6fb494fe74935afc510280c1bebf529d8a136ddf95a92f8f",
+  "current_draft_sha256":"5f3f00fde211ba58118927c9cd3b6e5229938293b913c02b91766ee32a0cd9d3",
+  "portrait_owner_approved":false,"full_live_package_verified":false,
+  "root_current_paper_reports_full_read":true,"current_final_paid_GO":false,
+  "root_review_disposition":"Both reviewed currentv2 and exactpair image; owner candidate only. Scale impressions differ so no unmeasured exact ratio claim; scene governs scale/expression/material.",
+  "paid_submits":0,"Flow_credit_debit":0,"observed_account_balance":1023,
+  "spent":207,"remaining":293,"cap":500,
+  "buckets_remaining":{"first_pass":82,"retake":56,"post_rough":45,"reserve":110},
+  "reserve_status":"CLOSED","C07":"NOT_SELECTED","C08":"HOLD",
+  "next":"Owner identity-reference image gate then final/live exact package review and separate paid authorization after STOP",
+  "source_and_AV_PASS":false,"actual_listening":"NOT_PERFORMED","release_authorized":false
+}

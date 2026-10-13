@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC278 / 2026-10-13
+
+[278 — A chuẩn bị neo hình C07](episodes/ep01_pilot/278_C07-anchor-package-and-voice-compatibility.md): đã kiểm tương thích Frames/voice, giữ Ingredients/D06; có chân dung đôi ứng viên và bản nháp v2 qua maker–reviewer–root. Chờ owner duyệt ảnh nhận diện phụ có sai khác; chưa upload ảnh mới, trả phí T03 hoặc mở C08. Chi 0, giữ 207/500, còn 293, dự phòng đóng. REC277 và các mục dưới là lịch sử, không dùng làm quyền chạy mới.
+
 ## Trạng thái ưu tiên — 2026-10-13 / REC277
 
 [277 — C07 dừng tại tầng neo hình](episodes/ep01_pilot/277_C07-two-takes-and-reference-adherence-stop.md): điểm nối C05→C06 được owner duyệt. Hai C07 đã tải/kiểm nhưng chưa chọn: T01 sai bát; T02 mất danh tính Đào, mất bát Khoai và reset entry. Không T03 tự động/C08; chi20, sổ207/500, còn293/reserve đóng. Đang trình hướng chuẩn bị neo hình mạnh hơn, chưa duyệt route hoặc nguồn mới. Mốc232 và các mục dưới là lịch sử, không còn ưu tiên vận hành.

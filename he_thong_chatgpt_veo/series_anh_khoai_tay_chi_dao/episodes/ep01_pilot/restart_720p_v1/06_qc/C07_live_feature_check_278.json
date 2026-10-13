@@ -1,0 +1,15 @@
+{
+  "record":"REC278","date":"2026-10-13","scope":"LIVE_UI_PREPARATION_ONLY_NO_PAID_RUN",
+  "browser":"Codex In-app Browser 2","tab":"1","project_id":"bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "tab_recovery":"Old handle undefined, oldtab2 absent and browser2 tabs empty; reopened exact same project in browser2. No new account/project.",
+  "model_readback":"Omni 1.1 Flash",
+  "Frames":{"observed":true,"Start_End_slots":true,"start_picker":"Images and uploads only; exact C06F56 selected and added to START for preparation","voice_slot_observed":false,"submitted":false},
+  "Ingredients":{"observed":true,"restored_after_inspection":true,"resolution":"720p","aspect":"9:16","seconds":6,"outputs":1,"live_base_quote":10,"scene_chip":true,"new_pair_chip":false,"D06_chip":false},
+  "saved_voice_readonly":{"name":"EP01_Dao_D06_Aoede_720p_v1","id":"6dadc0b1-00c3-493c-943d-f4a1e4a88feb","performance_readback":"Adult warm feminine Northern Hanoi Vietnamese, no child/romantic/MC/mimic","preset_edit":false,"voice_preview":false},
+  "official_sources":[{"url":"https://support.google.com/flow/answer/16353334?hl=en","verified":"Voice references allowed only Ingredients; plain or segmented subject reference recommended; Frames controls opening/closing images"},{"url":"https://support.google.com/flow/answer/16352836?hl=en","verified":"Omni1.1Flash supports Frames first/last and Ingredients at4/6/8/10 seconds"}],
+  "recommendation":"Preserve D06 with Ingredients and separately role-bound scene + clean paired identity reference; does NOT lock F0/end",
+  "not_verified":["Acceptance of complete 2image+1voice new package","Live quote after complete exact package","Actual identity preservation","Seam continuity","N07/voice/sync/selected timing"],
+  "paid_submits":0,"credit_debit":0,"new_pair_upload":false,"account_balance_after":1023,"balance_matches_previous_receipt":true,
+  "final_prompt_live_filled":false,"C08":"HOLD","reserve110":"CLOSED",
+  "proof_folder":"C:/Users/PC/Downloads/du_an_nem_bui/278_C07_ANCHOR_PREP"
+}

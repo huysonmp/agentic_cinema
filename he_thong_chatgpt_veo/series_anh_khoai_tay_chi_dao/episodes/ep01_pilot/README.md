@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC278: A chuẩn bị neo hình, chưa chạy thêm
+
+Owner chọn A; đã kiểm Flow/Google: voice reference chỉ ở Ingredients, không ghép Frames Start/End + D06. Đã chuẩn bị chân dung đôi nền sạch và bản nháp v2; maker, reviewer và root đã kiểm ảnh và giấy. Chân dung chỉ là ứng viên có sai khác cần owner duyệt. Chưa upload ảnh mới, kiểm đủ hai ảnh + D06 hoặc sinh T03; C07 chưa chọn, C08 giữ chờ. Chi 0; giữ 207/500, còn 293, dự phòng đóng. Xem [278 — gói neo hình và tương thích giọng](278_C07-anchor-package-and-voice-compatibility.md). REC277 trở xuống là lịch sử.
+
 ## Hiện hành — REC277: điểm nối duyệt, C07 dừng chẩn đoán
 
 Owner đã duyệt đúng điểm nối C05→C06 5,125s. Hai C07 native đã tải/kiểm toàn khung: T01 dùng sai bát; T02 biến Đào thành người thật, mất bát Khoai và reset entry. **C07 NOT_SELECTED / STOP_FOR_DIAGNOSIS / C08 HOLD**, không T03 tự động. Chi20, tổng207/500/còn293/reserve110 đóng. Xem [277 — kết quả và hướng neo hình](277_C07-two-takes-and-reference-adherence-stop.md). REC276 trở xuống giữ lịch sử, không dùng trạng thái chuẩn bị cũ thay kết quả mới.

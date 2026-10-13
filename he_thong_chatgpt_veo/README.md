@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [277](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/277_C07-two-takes-and-reference-adherence-stop.md): C05→C06 được duyệt; hai C07 đã tải/kiểm nhưng lỗi bát/danh tính/entry, **STOP_FOR_DIAGNOSIS**, chưa chọn C07 hoặc mở C08. Sổ207/500, còn293/reserve110 đóng; không T03 tự động. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); các hồ sơ kế hoạch cũ không thắng approval hiện hành.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [278](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/278_C07-anchor-package-and-voice-compatibility.md): owner chọn A chuẩn bị neo hình C07; đã kiểm tương thích Frames/voice, giữ Ingredients/D06, chuẩn bị chân dung đôi ứng viên và bản nháp v2. Chờ duyệt ảnh nhận diện phụ rồi kiểm gói live; chưa trả phí T03, chưa chọn C07 hoặc mở C08. Sổ 207/500, còn 293, dự phòng 110 đóng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); hồ sơ cũ không thắng approval hiện hành.
 
 ## Tài liệu đang dùng
 

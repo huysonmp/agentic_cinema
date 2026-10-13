@@ -1,0 +1,30 @@
+{
+  "base_size": [720, 1280],
+  "base_sha256": "f091e35fc7c779591c918c47ba34752a8a2c3b30de507cd99dc0e76143e83196",
+  "donor_sha256": "40be91b97b873979f09f01d1e530cd9512674dd2b26b1fc339237b0f23f37077",
+  "output_name": "C06_ENTRY_LOCAL_v1_FOR_REVIEW_291.png",
+  "donor_coordinates": "Donor resized only as a sampling layer to base720x1280; base never resized",
+  "regions": [
+    {
+      "name": "plate_food",
+      "donor_box": [250, 918, 552, 1073],
+      "target_box": [250, 924, 552, 1073],
+      "polygon": [[379,927],[409,922],[439,932],[467,942],[493,948],[510,961],[530,979],[545,1002],[548,1023],[532,1042],[511,1056],[479,1065],[440,1066],[410,1072],[378,1068],[350,1067],[319,1062],[290,1054],[274,1047],[265,1035],[255,1015],[261,993],[274,977],[290,964],[309,952],[330,941],[355,934]],
+      "feather": 1.3,
+      "brightness": 0.91
+    },
+    {
+      "name": "held_A",
+      "donor_box": [212, 731, 269, 806],
+      "target_box": [207, 738, 265, 786],
+      "polygon": [[223,748],[250,738],[260,740],[264,748],[253,760],[231,775],[223,784],[214,783],[209,776],[216,764]],
+      "feather": 0.7,
+      "brightness": 0.95
+    }
+  ],
+  "protected_polygons": [
+    [[194,734],[230,746],[235,748],[234,752],[228,751],[193,738]],
+    [[195,751],[232,761],[239,765],[237,768],[230,765],[194,754]]
+  ],
+  "limits": "Manual food-footprint envelopes, not automatic semantic segmentation. Actual seam and leftover source food must be visually checked. Pixel equality applies to outside the final mask, not inferred to every semantic object."
+}

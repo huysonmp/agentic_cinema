@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC291: local composite, chưa video
+
+[291 — Entry v3 và bằng chứng](291_C06-local-food-composite-and-pixel-qc.md) thực hiện phương thức owner duyệt: chỉ nem trên đĩa/A, base không resize. V3 720×1280, ngoài mask 0 pixel đổi và tái lập cùng hash; phản biện độc lập tự kiểm số/xem ảnh, root đọc đủ. V3 đủ trình owner với caveat nhỏ mép A/nền vá khi phóng to; chưa duyệt ảnh hoặc nghiệm thu diễn B/voice/motion. Không upload/thay refs, source/EDL hoặc paid; 237/500 còn 263, dự phòng 110 đóng. Food C05/các cảnh trước và timing cuối còn mở. REC290 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC290: sắc thái B đã chốt
 
 Owner chọn **B: biết bị bắt tỏng, vẫn giữ thể diện**. [290 — Brief Khoai v0.2 và ảnh thử](290_Khoai-nuance-B-locked.md) giữ N06/K20, bớt gồng và không dò xem Đào tin chưa. Một ảnh sửa món đã chuẩn bị; root không chọn vì vùng ngoài món bị redraw/mất dấu nguồn/A đổi hình. Chưa upload/thay refs hoặc video, cần cơ chế bảo toàn cục bộ. Giữ nhịp nhận REC281 và phê duyệt nguồn REC276 riêng; REC286 không chọn. Không Flow chi/EDL mới; 237/500 còn 263, dự phòng 110 đóng. REC289 trở xuống giữ lịch sử.

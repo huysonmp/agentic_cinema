@@ -1,0 +1,17 @@
+{
+  "record": "REC291",
+  "date": "2026-10-13",
+  "owner_answer_verbatim": "Cho phép ghép ảnh cục bộ, giữ nguyên phần ngoài món",
+  "approved_scope": "LOCAL_IMAGE_COMPOSITE_PLATE_FOOD_AND_HELD_A_ONLY_PRESERVE_OUTSIDE_PIXELS",
+  "base": "02_refs/C06_START_from_C05_T02_selected_F65_269.png",
+  "donor": "02_refs/C06_ENTRY_food_v1_CHATGPT_FOR_REVIEW_290.png",
+  "donor_role": "FOOD_TEXTURE_DONOR_ONLY_NOT_FACE_BACKGROUND_OR_CANON",
+  "method": "LOCAL_MASKED_COMPOSITE_WITH_EXISTING_PILLOW_RUNTIME_NO_INSTALL",
+  "new_local_helper_scope": "BOUNDED_IMAGE_COMPOSITE_AND_PIXEL_QC_ONLY",
+  "paid_video_or_voice_or_EDL": false,
+  "output_approval": "PENDING_ACTUAL_STILL_REVIEW_NOT_INHERITED",
+  "credit_debit": 0,
+  "project_spent": 237,
+  "project_remaining": 263,
+  "reserve110": "CLOSED"
+}

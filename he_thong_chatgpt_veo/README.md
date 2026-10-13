@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [290](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/290_Khoai-nuance-B-locked.md): owner chọn **B: biết bị bắt tỏng, vẫn giữ thể diện**; brief v0.2 đã cập nhật. Một ảnh entry sửa món đã tạo bằng imagegen nhưng root không chọn vì redraw ngoài món/mất dấu nguồn/A đổi hình. Chưa upload/thay refs hoặc video; cần cơ chế bảo toàn cục bộ. Nguồn REC276 giữ phạm vi duyệt riêng, REC286 không chọn, cổng hình món còn mở. Không Flow chi/thay EDL; 237/500 còn 263 credit, dự phòng 110 đóng. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC289 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [291](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/291_C06-local-food-composite-and-pixel-qc.md): v3 local composite giữ base 720×1280, ngoài mask 0 pixel đổi và reproduce hash trùng; reviewer kiểm độc lập/root đọc đủ, đủ trình duyệt ảnh với caveat nhỏ mép A. Chưa owner duyệt ảnh/diễn B/voice/motion, upload/thay refs/EDL hoặc paid; 237/500 còn 263 credit, dự phòng 110 đóng. Cổng hình món toàn tập/timing/live còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC290 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

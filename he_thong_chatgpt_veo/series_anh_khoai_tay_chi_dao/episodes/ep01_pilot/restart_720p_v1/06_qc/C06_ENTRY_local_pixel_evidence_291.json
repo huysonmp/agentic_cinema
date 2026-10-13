@@ -1,0 +1,19 @@
+{
+  "record": "REC291",
+  "base": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\02_refs\\C06_START_from_C05_T02_selected_F65_269.png",
+  "base_sha256": "f091e35fc7c779591c918c47ba34752a8a2c3b30de507cd99dc0e76143e83196",
+  "donor": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\02_refs\\C06_ENTRY_food_v1_CHATGPT_FOR_REVIEW_290.png",
+  "donor_sha256": "40be91b97b873979f09f01d1e530cd9512674dd2b26b1fc339237b0f23f37077",
+  "config_sha256": "a64501e0543109d66386e4015023ab5bb85593349bf887444371229b9217b4a8",
+  "output": "C:\\Users\\PC\\Downloads\\du_an_nem_bui\\291_C06_LOCAL_COMPOSITE\\v3\\C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png",
+  "output_sha256": "7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc",
+  "size": [
+    720,
+    1280
+  ],
+  "mask_sha256": "286f34063e546bc1151a8d4a0ed376191c6bffbf491809c8bb1d843d403118fa",
+  "outside_mask_changed_pixels": 0,
+  "inside_changed_pixels": 36890,
+  "scope": "DECODED_RGB_PIXEL_INVARIANCE_NOT_VISUAL_OR_OWNER_APPROVAL",
+  "inputs_unchanged": true
+}

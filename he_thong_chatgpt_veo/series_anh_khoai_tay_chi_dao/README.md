@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC291 / 2026-10-13
+
+[291 — Ghép cục bộ C06 và pixel QC](episodes/ep01_pilot/291_C06-local-food-composite-and-pixel-qc.md): owner duyệt local food-only composite. V3 giữ base 720×1280, ngoài mask 0 pixel đổi, chạy lại cùng hash; reviewer tự kiểm số/xem ảnh và root đọc đủ. V1/v2 không chọn; v3 đủ trình owner với caveat nhỏ mép A, chưa duyệt ảnh/acting/voice/video. Chưa upload/thay refs hoạt động hoặc paid; 237/500 còn 263, dự phòng 110 đóng. Food toàn tập/timing/live gates còn mở. REC290 trở xuống giữ lịch sử.
+
 ## Trạng thái ưu tiên — REC290 / 2026-10-13
 
 [290 — Chốt sắc thái B](episodes/ep01_pilot/290_Khoai-nuance-B-locked.md): Khoai biết bị bắt tỏng nhưng vẫn giữ thể diện; brief v0.2 bỏ gồng/dò phản ứng. Đã chuẩn một ảnh vào sửa món bằng imagegen, root không chọn vì redraw ngoài món/mất dấu nguồn/A đổi hình; chưa upload/thay refs hoặc video. Cần cơ chế sửa cục bộ bảo toàn, chưa prompt cuối/live/request mới. Không Flow chi/thay source/EDL; 237/500 còn 263, dự phòng 110 đóng. REC289 trở xuống giữ lịch sử.

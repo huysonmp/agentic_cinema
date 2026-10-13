@@ -1,0 +1,32 @@
+{
+  "base_size": [720, 1280],
+  "base_sha256": "f091e35fc7c779591c918c47ba34752a8a2c3b30de507cd99dc0e76143e83196",
+  "donor_sha256": "40be91b97b873979f09f01d1e530cd9512674dd2b26b1fc339237b0f23f37077",
+  "output_name": "C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png",
+  "donor_coordinates": "Donor normalized to720x1280 for sampling only; base never resized",
+  "regions": [
+    {
+      "name": "plate_food",
+      "donor_box": [250, 918, 552, 1073],
+      "target_box": [250, 922, 552, 1084],
+      "polygon": [[379,926],[409,921],[439,931],[467,941],[493,947],[510,960],[530,978],[545,1001],[549,1023],[533,1043],[512,1057],[485,1070],[471,1080],[440,1083],[410,1078],[388,1078],[374,1082],[349,1080],[330,1073],[319,1064],[290,1056],[273,1049],[264,1037],[253,1015],[260,992],[273,976],[289,963],[308,951],[329,940],[354,933]],
+      "feather": 1.1,
+      "brightness": 0.91
+    },
+    {
+      "name": "held_A",
+      "donor_box": [212, 731, 262, 800],
+      "target_box": [210, 739, 260, 783],
+      "clear_box": [202, 733, 267, 797],
+      "polygon": [[221,745],[250,736],[260,739],[264,748],[258,761],[237,778],[221,794],[211,790],[203,780],[211,761]],
+      "background_box": [239, 792, 260, 805],
+      "feather": 0.6,
+      "brightness": 0.95
+    }
+  ],
+  "protected_polygons": [
+    [[194,734],[230,746],[235,748],[234,752],[228,751],[193,738]],
+    [[195,751],[232,761],[239,765],[237,768],[230,765],[194,754]]
+  ],
+  "limits": "Masks include food silhouette/shadow and tiny blend margins, not semantic segmentation. Revealed background within old held-food envelope is reconstructed from adjacent native shirt; outside masks all original pixels must remain."
+}

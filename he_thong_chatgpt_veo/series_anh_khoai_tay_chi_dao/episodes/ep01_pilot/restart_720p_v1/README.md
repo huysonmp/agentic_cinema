@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC291 / 13-10-2026:** owner duyệt local composite; v3 720×1280 giữ base, ngoài mask 0 pixel đổi, reproduce SHA trùng. Reviewer tự tính lại/xem toàn ảnh và root đọc báo cáo; đủ trình owner với caveat nhỏ mép A, chưa duyệt ảnh/video. **PIXEL_QC_PASS / STILL_REVIEWABLE_WITH_MINOR / OWNER_PENDING / NO_VIDEO**. Không imagegen/API/credit/upload/thay refs/EDL/voice; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-291.json`, `06_qc/C06_ENTRY_local_pixel_evidence_291.json` và `../291_C06-local-food-composite-and-pixel-qc.md`. REC290 trở xuống giữ lịch sử.
+
 - **Hiện hành REC290 / 13-10-2026:** owner chọn B; brief v0.2 thay sắc thái v0.1. Một ảnh entry sửa món bằng imagegen đã tạo; root không chọn vì redraw vùng ngoài món/mất dấu nguồn/A đổi hình, chưa upload/thay refs. **NUANCE_B_APPROVED / ENTRY_CANDIDATE_NOT_SELECTED / NO_VIDEO**. Phản biện ảnh thực ghi tại registry; không performance/voice PASS. Flow chi 0; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-290.json` và `../290_Khoai-nuance-B-locked.md`. REC289 trở xuống giữ lịch sử.
 
 - **Hiện hành REC289 / 13-10-2026:** đề xuất chuẩn riêng C06 đã lập/phản biện PAPER; owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt chi tiết brief/bước ảnh. Phương án giữ dự thảo, chưa ảnh/prompt cuối/kiểm live/quyền trả phí. **ACTING_NUANCE_REVISION_REQUIRED / TECHNICAL_DRAFT / NO_GENERATION**. Chi 0; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-289.json` và `../289_C06-acting-technical-preparation.md`. REC288 trở xuống giữ lịch sử.

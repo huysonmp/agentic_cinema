@@ -1,0 +1,15 @@
+{
+  "record":"REC283",
+  "date":"2026-10-13",
+  "owner_reply_verbatim":"ok rồi đấ",
+  "preceding_question_scope":"Approve REC282 new food appearance and STARTv1/ENDv2 receive-deposit stills as references, not video generation",
+  "approved_refs":[{"file":"02_refs/RECEIVE_START_food_v1_CHATGPT_FOR_REVIEW_282.png","sha256":"491575988bbbea26e16fda3a7f02401b874f9abcc24eda7cdef340764ab232d8","role":"CORRECTED_FOOD_AND_RECEIVE_ENTRY_REFERENCE"},{"file":"02_refs/RECEIVE_END_v2_CHATGPT_FOR_REVIEW_282.png","sha256":"82057aba35ffd8182f4624696d209750767452b842413013bd9d94f87b1a596d","role":"RECEIVE_DEPOSIT_ENDPOINT_REFERENCE"}],
+  "scope":"OWNER_ACCEPTED_STILL_FOOD_APPEARANCE_AND_RECEIVE_DEPOSIT_POSE_ONLY",
+  "END_v1":"REJECTED_UNCHANGED",
+  "excludes":["New video or repair paid request", "New master/canon or identity redesign", "Motion/lip-sync/voice/seam pass", "Whole film approval", "Automatic old footage regeneration", "New tools or voice", "Reserve/budget expansion"],
+  "next":"Verify food-only video editing and receive-deposit generation mechanisms/quotes; prepare bounded proposal before paid action",
+  "credit_debit":0,
+  "project_spent":217,
+  "project_remaining":283,
+  "reserve110":"CLOSED"
+}

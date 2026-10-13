@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC283: ảnh đã duyệt; gói sửa món đang chờ quyết định chạy
+
+START v1/END v2 được duyệt làm tham chiếu, không video/master PASS. Bản nối C05→C06 đúng hash đã tải lên Flow theo xác nhận quyền của owner; START gắn chỉ tham chiếu vật liệu món. Maker/reviewer độc lập đã chạy, root đọc đủ. Quote live **12 credit** khác giá công bố 40; editor chưa hiện khóa output720/x1/giữ tiếng, nên chưa submit. Đề nghị một lượt cap12, trừ retake, không retry và kiểm toàn output; cần owner chốt rủi ro cấu hình này. Chi mới0; 217/500 còn283, reserve110 đóng; food gate toàn tập vẫn mở. Xem [283 — preflight và đề nghị](283_still-approval-and-food-edit-live-preflight.md). REC282 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC282: START/END ứng viên, food gate toàn tập còn mở
 
 Đã chuẩn START v1 sửa món/portion và END v2 đã nhận–bỏ, bằng công cụ ảnh ChatGPT. END v1 tăng lượng món bị bác, không dùng. Hai ảnh chờ owner về ngoại hình món/tư thế; gần 9:16, có redraw, không native/motion/voice hoặc production GO. Rà chín mẫu trong các range đang giữ cho thấy đĩa/A lệch ở nhiều cảnh; chưa tự sinh lại toàn tập hoặc đổi route. Flow chi 0, sổ 217/500 còn 283, reserve đóng. Independent report mới chưa chạy. Xem [282 — ảnh và phạm vi ảnh hưởng](282_food-receive-stills-and-dependency-screening.md). REC281 trở xuống giữ lịch sử.

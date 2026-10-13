@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [282](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/282_food-receive-stills-and-dependency-screening.md): đã tạo ảnh START v1 sửa món và END v2 sau nhận–bỏ bằng công cụ ảnh ChatGPT; END v1 bị bác vì lượng món tự tăng. **Hai ảnh chờ owner, chưa video hoặc production GO**. Rà chín mẫu của các đoạn đang giữ thấy món lệch ở nhiều cảnh và A trong C05/C06; chỉ sửa đoạn cuối chưa đủ đóng food gate. Chưa đổi route, giọng/lời hoặc sinh lại cảnh cũ. Flow chi mới 0, sổ 217/500, còn 283, reserve 110 đóng; chưa independent report mới. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC281 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [283](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/283_still-approval-and-food-edit-live-preflight.md): ảnh START v1/END v2 được duyệt làm tham chiếu. Đã nạp đúng bản nối C05→C06 và START material-only, có draft/quote live12 và hai báo cáo local maker/critic được root đọc đủ. Editor chưa hiện khóa output720/x1/giữ tiếng; chờ quyết định riêng cho một lượt sửa có giới hạn, chưa submit/media PASS. Chi mới0; 217/500 còn283, reserve110 đóng; food gate cả tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC282 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

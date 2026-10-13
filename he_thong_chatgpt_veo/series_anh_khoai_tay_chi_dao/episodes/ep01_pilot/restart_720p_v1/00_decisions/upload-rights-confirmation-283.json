@@ -1,0 +1,13 @@
+{
+  "record": "REC283",
+  "date": "2026-10-13",
+  "owner_answer_verbatim": "Xác nhận — bấm Tôi đồng ý",
+  "question_scope": "Flow rights confirmation for uploading exact project-created C05-C06 joined clip; not paid repair",
+  "source": "C:/Users/PC/Downloads/du_an_nem_bui/276_C05_C06_JOIN/C05_C06_5p125S_JOIN_QC_NOT_FINAL.mp4",
+  "source_sha256": "42d826e1356ce67acc6e1057b4ceefc9703f3e705ffa14ae6c09dea7934b5bdf",
+  "action": "Clicked Tôi đồng ý once; did not select do-not-show-again",
+  "upload": "COMPLETED_SOURCE_OPENED_IN_EDITOR",
+  "flow_asset_id": "a9912c46-8593-41d0-8d0c-1fe4894169d6",
+  "paid_submit": false,
+  "credit_debit": 0
+}

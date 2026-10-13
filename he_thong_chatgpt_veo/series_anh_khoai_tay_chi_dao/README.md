@@ -1,5 +1,13 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC289 / 2026-10-13
+
+[289 — Chuẩn kỹ thuật C06](episodes/ep01_pilot/289_C06-acting-technical-preparation.md): phương án kỹ thuật đã lập và phản biện PAPER, nhưng owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt chuẩn ảnh hoặc brief chi tiết. Giữ phương án là dự thảo; hash entry/native C05 đã xác minh, START REC283 không dùng làm entry. Chưa kiểm live/prompt cuối/quyền chạy mới. Quay lại chốt sắc thái; không sinh/chi/thay EDL, 237/500 còn 263, dự phòng 110 đóng. REC288 trở xuống giữ lịch sử.
+
+## Trạng thái ưu tiên — REC288 / 2026-10-13
+
+[288 — Hướng diễn Khoai đã duyệt, brief chi tiết](episodes/ep01_pilot/288_Khoai-acting-direction-approved-and-detailed-brief.md): owner duyệt hướng hơi chững → bình thản trả lời → chuyển đũa để viết brief. C06_ACT v0.1 cụ thể hóa ý định, mặt–thân, lời và điểm nối; chưa là prompt chạy hoặc approval take mới. Chờ chốt chi tiết và gói kỹ thuật trước trả phí. Nguồn REC276 giữ phạm vi duyệt riêng, REC286 không chọn, cổng hình món còn mở. Không sinh/sửa/chi thêm; 237/500 còn 263, dự phòng 110 đóng. REC287 trở xuống giữ lịch sử.
+
 ## Trạng thái ưu tiên — REC287 / 2026-10-13
 
 [287 — Khoai: diễn mặt–thân](episodes/ep01_pilot/287_Khoai-face-body-performance-diagnostic.md): owner khoanh diễn mặt–thân; rà source vs286 thấy nhiều pattern có từsource, không tự phủ nhận approval276 hoặc kết luận lỗi chỉ do food edit. Mở ACT/PERF target286, có compare QA không tiếng; chưa continuous performance/AV PASS. Critic report được root đọc, maker chỉ partial trước capacity. Không chi/sinh/sửa thêm;237/500 còn263/reserve110 đóng; cần chốt brief diễn trước lựa chọn nguồn/sửa mới. REC286 trở xuống là lịch sử.

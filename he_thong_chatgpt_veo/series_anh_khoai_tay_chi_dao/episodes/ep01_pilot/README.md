@@ -1,5 +1,13 @@
 # EP01 — Pilot
 
+## Hiện hành — REC289: chuẩn kỹ thuật C06, chưa chạy
+
+[289 — Phạm vi, nguồn và trình tự](289_C06-acting-technical-preparation.md) đề xuất chuẩn C06 một speaker K20 từ đúng cuối C05; đã phản biện PAPER. Owner chọn **chỉnh sắc thái Khoai trước**, chưa duyệt brief chi tiết/bước ảnh. Giữ phương án là dự thảo, không chuẩn ảnh hoặc chạy. START REC283 là điểm ra; cấu hình/giọng/giá lịch sử không là preflight live. Chưa ảnh sửa/prompt cuối/lượt trả phí; không thay source/EDL. Chi 0; 237/500 còn 263, dự phòng 110 đóng. REC288 trở xuống giữ lịch sử.
+
+## Hiện hành — REC288: hướng diễn đã duyệt, brief chi tiết chờ chốt
+
+Owner duyệt hướng hơi chững → giữ bình thản trả lời → chuyển đũa để viết brief. [288 — Hướng và brief Khoai](288_Khoai-acting-direction-approved-and-detailed-brief.md) cụ thể hóa một ý định chữa cháy liên tục, không ép nhiều động tác hoặc diễn lại việc bị bắt. Giữ lời N06/K20, điểm ra đang chuyển A chưa thả và nhịp nhận REC281. Chưa gói kỹ thuật, video mới hoặc trả phí; không chuyển approval nguồn REC276 sang take mới. REC286 không chọn, cổng hình món còn mở. Chi 0; 237/500 còn 263, dự phòng 110 đóng. REC287 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC287: rà riêng diễn mặt–thân Khoai
 
 Owner xác nhận điểm chưa ổn là **diễn mặt–thân người**, không ưu tiên tay/đũa. Đối chiếu nguồn và286 thấy nhiều nhịp mắt/miệng đã có trong nguồn; chưa đủ quy hết lỗi cho food edit hoặc phủ nhận approval nguồn276. Review mở ACT/PERF cho target286 và coupling mắt–đầu–thân–ý định. Có silent compare QA trái nguồn/phải286; không phoneme-aligned/production/AV PASS. Reviewer có report đã được root đọc; maker lỗi capacity chưa có report hoàn tất. Không sinh/sửa/chi thêm;237/500 còn263/reserve110 đóng. Xem [287 — chẩn đoán và đề xuất diễn](287_Khoai-face-body-performance-diagnostic.md). REC286 trở xuống giữ lịch sử.

@@ -1,0 +1,17 @@
+{
+  "record": "REC289",
+  "date": "2026-10-13",
+  "question_scope": "Approve detailed Khoai acting brief and prepare food-corrected C06 entry from C05 exit; no paid video",
+  "owner_answer_verbatim": "Cần chỉnh sắc thái diễn Khoai trước",
+  "decision": "REVISE_ACTING_NUANCE_BEFORE_IMAGE_PREPARATION",
+  "brief288": "NOT_APPROVED_AS_FINAL_DETAIL_REQUIRES_REFINEMENT",
+  "direction288": "HISTORICAL_DIRECTION_APPROVAL_RETAINED_NO_ASSUMED_NEW_NUANCE",
+  "new_nuance": "TO_CLARIFY_WITH_OWNER_NOT_GUESSED",
+  "image_preparation_authorized": false,
+  "paid_video_authorized": false,
+  "technical289": "DRAFT_REVIEWED_NOT_EXECUTION_APPROVAL",
+  "credit_debit": 0,
+  "project_spent": 237,
+  "project_remaining": 263,
+  "reserve110": "CLOSED"
+}

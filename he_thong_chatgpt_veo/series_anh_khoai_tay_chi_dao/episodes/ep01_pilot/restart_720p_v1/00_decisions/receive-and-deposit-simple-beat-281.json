@@ -1,0 +1,20 @@
+{
+  "record":"REC281",
+  "date":"2026-10-13",
+  "owner_feedback_verbatim":"hình ảnh nem bùi fail quá, mà đoạn này có cần thiết không vậy",
+  "owner_direction_verbatim":"đoạn này chỉ nên là gắp bỏ vào bát cho thôi, đào đưa bát ra và nói là được",
+  "approved_artistic_direction":"DAO_PRESENTS_HER_BOWL_AND_SPEAKS_KHOAI_DEPOSITS_HELD_PORTION_INTO_IT_SIMPLE_RECEIVE_BEAT",
+  "not_required":"Separate extended preparation/hold scene just to bridge C07 to C08",
+  "supersedes_for_future_design":"Mandatory separate C07 ready-but-not-received endpoint before C08 release; no intermediate held pose needs its own storytelling shot",
+  "technical_shot_or_take_count":"NOT_LOCKED_BY_THIS_ARTISTIC_DIRECTION",
+  "retained_working_assumptions":{"Dao_line":"Thế em quay lại đúng lúc rồi.","Dao_voice":"D06_Aoede","Khoai_voice":"K20_Orus","characters":"Original adult potato and peach, friends","prior_C06":"Retain existing approval scopes, but food appearance needs current review","C09":"Not automatically removed or changed"},
+  "constraints":["Use Dao's own bowl", "Deposit current portion once into bowl, not mouth", "Dao face visible throughout her line, Khoai listener silent", "No repeated food pickup or redundant offer", "No added plate pulling or glass hand swap", "Maintain complete serving context, correct cold Nem Bui material"],
+  "food_status":"OWNER_REJECTION_CURRENT_APPEARANCE_SOURCE_REFERENCE_REWORK_REQUIRED",
+  "paid_authority":"NO_NEW_SUBMIT_OR_RETRY_FROM_THIS_DIRECTION",
+  "route_A_or_B_from_REC280":"NOT_CHOSEN_NOT_IMPLEMENTED",
+  "credit_debit":0,
+  "project_spent":217,
+  "project_remaining":283,
+  "reserve110":"CLOSED",
+  "next":"Prepare corrected food and simple receive/deposit image brief; inspect existing food visibility to determine dependent scope before proposing new generation"
+}

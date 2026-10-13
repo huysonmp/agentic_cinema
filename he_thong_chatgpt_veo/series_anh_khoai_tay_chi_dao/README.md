@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC281 / 2026-10-13
+
+[281 — đưa bát–bỏ nem, sửa món từ đầu vào](episodes/ep01_pilot/281_simple-receive-beat-and-food-reference-rework.md): chốt nhịp Đào đưa bát và nói, Khoai bỏ phần đang giữ vào bát cô, không cảnh chuẩn bị dài/đút ăn. Giữ N07/D06 theo lựa chọn trước; không tự bỏ C09. Hình món bị owner bác, đối chiếu ảnh thật cho thấy nguồn master/C06 cũng lệch; cần chuẩn lại và rà phạm vi ảnh hưởng. Chưa tạo media hoặc đổi route, chi mới 0; 217/500, còn 283, reserve đóng. T03 vẫn chưa chọn; gate độc lập actual REC280 còn HOLD. REC280 và các mục dưới giữ lịch sử.
+
 ## Trạng thái ưu tiên — REC280 / 2026-10-13
 
 [280 — C07 T03 lỗi hành động, dừng sau một lượt](episodes/ep01_pilot/280_C07-T03-native-check-and-action-stop.md): đã tải gốc 720p, root kiểm đủ 144 khung; không hóa người nhưng reset đầu, cho ăn thay chuẩn bị bát, Khoai mở miệng, cốc hạ và bát kéo quá xa. C07 chưa chọn, C08 giữ chờ, không T04. Hai agent actual chưa hoàn tất do giới hạn sử dụng; không audio/AV PASS. Chi 10, sổ 217/500, còn 283, dự phòng đóng. Đang trình lựa chọn cơ chế chuẩn bị mới, chưa cấp quyền chi thêm. REC279 và các mục dưới giữ lịch sử.

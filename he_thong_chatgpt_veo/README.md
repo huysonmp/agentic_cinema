@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [280](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/280_C07-T03-native-check-and-action-stop.md): owner duyệt một T03, đã chạy/tải native và đối soát đúng 10 credit. Root kiểm đủ 144 khung: giữ nhân vật nhưng reset đầu, đưa nem tới miệng Đào, Khoai mở miệng, cốc hạ và bát kéo quá xa. **C07 chưa chọn / STOP / không T04 / C08 giữ chờ**. Hai agent actual gặp giới hạn sử dụng, chưa có báo cáo độc lập; tiếng/AV chưa chứng nhận. Sổ 217/500, còn 283, dự phòng 110 đóng. Chờ owner chọn cơ chế chuẩn bị mới, chưa xin chi thêm. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC279 trở xuống giữ lịch sử, không thắng kết quả hiện hành.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [281](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/281_simple-receive-beat-and-food-reference-rework.md): owner chốt nhịp đơn giản Đào đưa bát–nói, Khoai bỏ nem vào bát; không cần cảnh chuẩn bị/giữ pose riêng kéo dài. Owner bác hình món hiện tại; root đối chiếu hai ảnh thật và thấy lệch đã có ở master/ảnh C06. **Đầu vào món cần sửa, T03 vẫn chưa chọn, chưa chạy thêm**. Không tự đổi giọng/lời/C09/route hoặc làm lại toàn tập. Sổ 217/500, còn 283, dự phòng 110 đóng; review độc lập actual REC280 còn HOLD. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC280 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

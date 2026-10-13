@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC281: chốt nhịp nhận món đơn giản, món cần sửa
+
+Owner chốt Đào đưa bát của mình ra và nói, Khoai bỏ phần nem đang giữ vào bát cô. Không cần cảnh chuẩn bị/giữ pose riêng kéo dài; số take/route mới chưa chốt. Hình món bị bác; root đã đối chiếu hai ảnh thật, master v5/C06 F56/T03 F0 và ghi FOOD_REFERENCE_REWORK từ đầu vào. Giữ N07/D06/C09 theo lựa chọn trước, không tự sinh lại toàn tập hoặc đổi route. Chi 0; 217/500, còn 283, dự phòng đóng. T03 vẫn chưa chọn, independent actual REC280 còn HOLD. Xem [281 — quyết định và brief](281_simple-receive-beat-and-food-reference-rework.md). REC280 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC280: T03 lỗi hành động, không chọn và không tự làm lại
 
 Đã thực hiện một C07 T03 owner duyệt, tải gốc 720p và đối soát debit 10. Root kiểm đủ 144 khung: nhân vật/hai bát còn nhưng reset đầu, đưa A tới miệng Đào, Khoai mở miệng, cốc hạ và bát kéo quá xa. **SOURCE_REWORK / C07 NOT_SELECTED / NO_T04 / C08 HOLD**. Hai agent actual gặp giới hạn sử dụng, chưa có báo cáo hoàn tất; tiếng/AV chưa chứng nhận. Sổ 217/500, còn 283, dự phòng đóng. Xem [280 — nguồn gốc, lỗi và hướng chuẩn bị](280_C07-T03-native-check-and-action-stop.md). REC279 trở xuống giữ lịch sử.

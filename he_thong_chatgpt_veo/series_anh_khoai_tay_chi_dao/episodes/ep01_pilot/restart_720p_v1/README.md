@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC292 / 13-10-2026:** exact still v3 được owner duyệt; Flow gắn ảnh+mộtK20, prompt B read-back, Omni1.1Flash/Ingredients/720p/9:16/4s/x1/AgentOFF/audioON/quote7/balance993. Chưa paid submit/chi/newoutput; ID live không lộ, không voice/acting PASS. **STILL_APPROVED / LIVE_PACKAGE / PAID_PENDING**.237/500 còn263/retake26/reserve110 đóng. Xem `06_qc/run-registry-292.json`, `04_requests/C06_ACT_B_T01_preparation_292.json` và `../292_C06-v3-approved-live-acting-package.md`. REC291 trở xuống giữ lịch sử.
+
 - **Hiện hành REC291 / 13-10-2026:** owner duyệt local composite; v3 720×1280 giữ base, ngoài mask 0 pixel đổi, reproduce SHA trùng. Reviewer tự tính lại/xem toàn ảnh và root đọc báo cáo; đủ trình owner với caveat nhỏ mép A, chưa duyệt ảnh/video. **PIXEL_QC_PASS / STILL_REVIEWABLE_WITH_MINOR / OWNER_PENDING / NO_VIDEO**. Không imagegen/API/credit/upload/thay refs/EDL/voice; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-291.json`, `06_qc/C06_ENTRY_local_pixel_evidence_291.json` và `../291_C06-local-food-composite-and-pixel-qc.md`. REC290 trở xuống giữ lịch sử.
 
 - **Hiện hành REC290 / 13-10-2026:** owner chọn B; brief v0.2 thay sắc thái v0.1. Một ảnh entry sửa món bằng imagegen đã tạo; root không chọn vì redraw vùng ngoài món/mất dấu nguồn/A đổi hình, chưa upload/thay refs. **NUANCE_B_APPROVED / ENTRY_CANDIDATE_NOT_SELECTED / NO_VIDEO**. Phản biện ảnh thực ghi tại registry; không performance/voice PASS. Flow chi 0; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-290.json` và `../290_Khoai-nuance-B-locked.md`. REC289 trở xuống giữ lịch sử.

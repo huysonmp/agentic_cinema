@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [291](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/291_C06-local-food-composite-and-pixel-qc.md): v3 local composite giữ base 720×1280, ngoài mask 0 pixel đổi và reproduce hash trùng; reviewer kiểm độc lập/root đọc đủ, đủ trình duyệt ảnh với caveat nhỏ mép A. Chưa owner duyệt ảnh/diễn B/voice/motion, upload/thay refs/EDL hoặc paid; 237/500 còn 263 credit, dự phòng 110 đóng. Cổng hình món toàn tập/timing/live còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC290 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [292](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/292_C06-v3-approved-live-acting-package.md): owner duyệt ảnh v3; đã gắn ảnh+một preset K20 và prompt diễn B lên Flow, cấu hình live 720p/9:16/4s/x1/Omni Ingredients, tiếng bật/Agent tắt, quote7. Chưa chạy video/chi hoặc acting/voice PASS; chờ quyền một lượt mới sau preflight.237/500 còn263/reserve110 đóng; món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC291 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

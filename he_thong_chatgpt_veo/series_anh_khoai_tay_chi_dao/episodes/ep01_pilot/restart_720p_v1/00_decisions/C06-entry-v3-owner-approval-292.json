@@ -1,0 +1,18 @@
+{
+  "record": "REC292",
+  "date": "2026-10-13",
+  "owner_messages": ["duyệt", "tiếp tục đi, duyệt"],
+  "approval_scope": "EXACT_V3_ENTRY_STILL_REFERENCE_FOOD_AND_COMPOSITE_SEAM_ACCEPTED_WITH_DISCLOSED_MINOR",
+  "target": "02_refs/C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png",
+  "target_sha256": "7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc",
+  "size": [720,1280],
+  "nuance": "B_PER_REC290",
+  "next_authority": "PREPARE_PROMPT_UPLOAD_APPROVED_STILL_CHECK_LIVE_VOICE_CONFIG_AND_QUOTE",
+  "paid_request": "NOT_GRANTED_BY_STILL_APPROVAL",
+  "acting_voice_AV_or_whole_film_approval": false,
+  "new_EDL_or_voice_preset": false,
+  "credit_debit": 0,
+  "project_spent": 237,
+  "project_remaining": 263,
+  "reserve110": "CLOSED"
+}

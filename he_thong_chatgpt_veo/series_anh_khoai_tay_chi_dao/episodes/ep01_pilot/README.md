@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC292: ảnh v3 đã duyệt, chuẩn bị lượt C06 diễn B
+
+[292 — Gói live và đề nghị7](292_C06-v3-approved-live-acting-package.md) ghi owner duyệt đúng still v3, không video/paid. Đã gắn ảnh + một preset K20, đọc tên/performance/sample, prompt B và cấu hình720p/9:16/4s/x1/Omni Ingredients/quote7. ID live không được xác minh; output tiếng/diễn chưa có. Chưa submit/chi, tab giữ cho tiếp tục/recheck;237/500 còn263/reserve110 đóng. Cổng món/timing toàn tập còn mở. REC291 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC291: local composite, chưa video
 
 [291 — Entry v3 và bằng chứng](291_C06-local-food-composite-and-pixel-qc.md) thực hiện phương thức owner duyệt: chỉ nem trên đĩa/A, base không resize. V3 720×1280, ngoài mask 0 pixel đổi và tái lập cùng hash; phản biện độc lập tự kiểm số/xem ảnh, root đọc đủ. V3 đủ trình owner với caveat nhỏ mép A/nền vá khi phóng to; chưa duyệt ảnh hoặc nghiệm thu diễn B/voice/motion. Không upload/thay refs, source/EDL hoặc paid; 237/500 còn 263, dự phòng 110 đóng. Food C05/các cảnh trước và timing cuối còn mở. REC290 trở xuống giữ lịch sử.

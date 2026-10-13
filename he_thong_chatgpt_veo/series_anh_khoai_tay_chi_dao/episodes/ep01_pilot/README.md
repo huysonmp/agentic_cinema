@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC294: sửa thiết kế control, chờ chốt ranh giới hành động
+
+[294 — Phương án và gates](294_C06-action-control-recovery-proposal.md) ghi lỗ hổng dùng reference+chữ cho hành động chưa có chứng cứ control; docs Google kiểm lại không hỗ trợ voice references ngoài Ingredients. Khuyến nghị C06 chỉ nói/giữ A, Đào đưa bát/nói N07 rồi Khoai hạ A vào bát quãng ngắn. Đổi ranh giới C06 cần owner duyệt; chưa chạy/chuẩn pose ảnh/EDL. Giữ B/voices/lời/C09; native293 vẫn không chọn. Chi0;244/500 còn256/retake19/reserve110 đóng. REC293 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC293: một lượt C06 ACT B đã kiểm, fulltake không chọn
 
 [293 — Kết quả và lỗi đích A](293_C06-acting-B-native-check-and-action-stop.md): đã chạy đúng một7 và tải native720p/96F/24fps, giải mã/kiểm toàn96 qua boards và criticalfullframes. Món/props giữ tốt hơn, nhưng cuối về đĩa chung rồi thả A, không bát Đào; fulltake NOT_SELECTED. Không retry/chọn range/EDL hoặc actual nghe/AV PASS. Sổ244/500 còn256/retake19/reserve110 đóng, food toàn tập/timing còn mở. REC292 trở xuống giữ lịch sử.

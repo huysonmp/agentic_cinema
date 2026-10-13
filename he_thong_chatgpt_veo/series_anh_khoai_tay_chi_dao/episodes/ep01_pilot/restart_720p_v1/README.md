@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC293 / 13-10-2026:** owner duyệt một7, đã submit1/tải native720×1280/24fps/96F/hash/decode; root xem toàn96boards +F0/F16/F48/F72/F95fullres. Fulltake không chọn: A về đĩa chung/thả, không bát Đào; entrygaze/tay phụ mở. **NATIVE_RECEIVED / FULL_TAKE_NOT_SELECTED / NO_RETRY_OR_EDL**. Chưa nghe/diễn/AV PASS, không chọn prefix tự động. Debit7,244/500 còn256/retake19/reserve110 đóng. Xem `06_qc/run-registry-293.json`, `04_requests/C06_ACT_B_T01_run_293.json` và `../293_C06-acting-B-native-check-and-action-stop.md`. REC292 trở xuống giữ lịch sử.
+
 - **Hiện hành REC292 / 13-10-2026:** exact still v3 được owner duyệt; Flow gắn ảnh+mộtK20, prompt B read-back, Omni1.1Flash/Ingredients/720p/9:16/4s/x1/AgentOFF/audioON/quote7/balance993. Chưa paid submit/chi/newoutput; ID live không lộ, không voice/acting PASS. **STILL_APPROVED / LIVE_PACKAGE / PAID_PENDING**.237/500 còn263/retake26/reserve110 đóng. Xem `06_qc/run-registry-292.json`, `04_requests/C06_ACT_B_T01_preparation_292.json` và `../292_C06-v3-approved-live-acting-package.md`. REC291 trở xuống giữ lịch sử.
 
 - **Hiện hành REC291 / 13-10-2026:** owner duyệt local composite; v3 720×1280 giữ base, ngoài mask 0 pixel đổi, reproduce SHA trùng. Reviewer tự tính lại/xem toàn ảnh và root đọc báo cáo; đủ trình owner với caveat nhỏ mép A, chưa duyệt ảnh/video. **PIXEL_QC_PASS / STILL_REVIEWABLE_WITH_MINOR / OWNER_PENDING / NO_VIDEO**. Không imagegen/API/credit/upload/thay refs/EDL/voice; 237/500 còn 263, phần tạo lại 26, dự phòng 110 đóng. Xem `06_qc/run-registry-291.json`, `06_qc/C06_ENTRY_local_pixel_evidence_291.json` và `../291_C06-local-food-composite-and-pixel-qc.md`. REC290 trở xuống giữ lịch sử.

@@ -9,7 +9,7 @@
 
 ## Trạng thái
 
-`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [292](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/292_C06-v3-approved-live-acting-package.md): owner duyệt ảnh v3; đã gắn ảnh+một preset K20 và prompt diễn B lên Flow, cấu hình live 720p/9:16/4s/x1/Omni Ingredients, tiếng bật/Agent tắt, quote7. Chưa chạy video/chi hoặc acting/voice PASS; chờ quyền một lượt mới sau preflight.237/500 còn263/reserve110 đóng; món/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC291 trở xuống giữ lịch sử.
+`pilot — P7 sản xuất lại 720p, chưa bàn giao` — trạng thái mới nhất tại [293](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/293_C06-acting-B-native-check-and-action-stop.md): một lượt7 đã duyệt/thực hiện, tải gốc720p/96F/hash/decode/kiểm96boards. Fulltake không chọn vì cuối chuyển/thả A về đĩa chung thay bát Đào; chưa actual nghe/diễn/AV PASS. Không tự prefix/retry/EDL.244/500 còn256/retake19/reserve110 đóng, food/timing toàn tập còn mở. Source of truth là [folder series](series_anh_khoai_tay_chi_dao/README.md) và [EP01](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/README.md); REC292 trở xuống giữ lịch sử.
 
 ## Tài liệu đang dùng
 

@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Trạng thái ưu tiên — REC293 / 2026-10-13
+
+[293 — Native C06 ACT B và dừng hành động](episodes/ep01_pilot/293_C06-acting-B-native-check-and-action-stop.md): owner duyệt một7, đã chạy/tải gốc720×1280/96F/24fps/hash/decode; root xem toàn96 và criticalfullframes. Fulltake không chọn vì cuối chuyển/thả A về đĩa chung thay bát Đào; entry gaze/tay phụ còn vấn đề. Chưa actual nghe/AV/diễn PASS, không tự chọn prefix/retry/EDL. Debit7,244/500 còn256/retake19/reserve110 đóng. REC292 trở xuống giữ lịch sử.
+
 ## Trạng thái ưu tiên — REC292 / 2026-10-13
 
 [292 — Ảnh v3 duyệt, gói C06 ACT B live](episodes/ep01_pilot/292_C06-v3-approved-live-acting-package.md): owner duyệt exact still v3; đã upload/gắn đúng ảnh + một K20, prompt B read-back, Ingredients/Omni1.1Flash/720p/9:16/4s/x1, tiếng bật/Agent tắt, quote7/balance993. Chưa submit/chi hoặc actual acting/voice PASS; ID live không lộ, không giả xác minh. Chờ quyền riêng một lượt7 sau preflight;237/500 còn263/reserve110 đóng. REC291 trở xuống giữ lịch sử.

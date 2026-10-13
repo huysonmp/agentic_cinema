@@ -1,0 +1,18 @@
+{
+  "record": "REC293",
+  "date": "2026-10-13",
+  "owner_reply_verbatim": "duyệt, làm đi",
+  "request": "04_requests/C06_ACT_B_T01_preparation_292.json",
+  "approved_scope": "ONE_C06_ACT_B_OUTPUT_CAP7_RETAKE_NO_AUTOMATIC_RETRY",
+  "max_credit_debit": 7,
+  "outputs": 1,
+  "resolution": "720p",
+  "seconds": 4,
+  "aspect": "9:16",
+  "model_route": "Omni1.1Flash_VideoIngredients",
+  "voice": "EP01_Khoai_K20_Orus_720p_v1",
+  "still_sha256": "7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc",
+  "prompt_sha256": "c16d79f396529a043973dba90b24cd0823279ac7c32766bac405fb7488c434da",
+  "reserve110": "CLOSED",
+  "media_quality_or_EDL_approval": false
+}

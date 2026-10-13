@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Hiện hành — REC293: một lượt C06 ACT B đã kiểm, fulltake không chọn
+
+[293 — Kết quả và lỗi đích A](293_C06-acting-B-native-check-and-action-stop.md): đã chạy đúng một7 và tải native720p/96F/24fps, giải mã/kiểm toàn96 qua boards và criticalfullframes. Món/props giữ tốt hơn, nhưng cuối về đĩa chung rồi thả A, không bát Đào; fulltake NOT_SELECTED. Không retry/chọn range/EDL hoặc actual nghe/AV PASS. Sổ244/500 còn256/retake19/reserve110 đóng, food toàn tập/timing còn mở. REC292 trở xuống giữ lịch sử.
+
 ## Hiện hành — REC292: ảnh v3 đã duyệt, chuẩn bị lượt C06 diễn B
 
 [292 — Gói live và đề nghị7](292_C06-v3-approved-live-acting-package.md) ghi owner duyệt đúng still v3, không video/paid. Đã gắn ảnh + một preset K20, đọc tên/performance/sample, prompt B và cấu hình720p/9:16/4s/x1/Omni Ingredients/quote7. ID live không được xác minh; output tiếng/diễn chưa có. Chưa submit/chi, tab giữ cho tiếp tục/recheck;237/500 còn263/reserve110 đóng. Cổng món/timing toàn tập còn mở. REC291 trở xuống giữ lịch sử.

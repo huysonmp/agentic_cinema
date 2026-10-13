@@ -1,0 +1,44 @@
+{
+  "record": "REC296",
+  "date": "2026-10-13",
+  "method": "BUILT_IN_IMAGEGEN_3_CALLS_2_REQUESTED_POSES_WITH_1_TARGETED_FACE_GAZE_REVISION",
+  "authority": "00_decisions/receiver-pose-images-preparation-approval-296.json",
+  "prompt_set": "04_requests/receiver-pose-imagegen-prompts-296.md",
+  "base": {"path": "02_refs/C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png", "sha256": "7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc", "size": [720,1280]},
+  "assets": [
+    {
+      "path": "02_refs/RECEIVER_P1_v1_NOT_SELECTED_296.png",
+      "original_tool_output": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-8c19038e-d1de-4856-a4f3-7c03f140b2c0.png",
+      "sha256": "3c2a6146d2af7a0f0aaaa1de3e3da13274b258be596ec01a0f1d4c9fa786483c",
+      "size": [941,1672], "bytes": 1846555,
+      "role": "HISTORICAL_BEFORE_RELEASE_CANDIDATE",
+      "disposition": "NOT_SELECTED_GAZE_NOT_TOWARD_DAO",
+      "inputs": ["BASE_291"]
+    },
+    {
+      "path": "02_refs/RECEIVER_P1_v2_FOR_REVIEW_296.png",
+      "original_tool_output": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-4dea4dd5-f61b-4a9e-a10d-654cbc967e58.png",
+      "sha256": "1eff2b05e8fa423b7499ab48114800a0d1e667641497deb2a3b30a2cc2ec54f8",
+      "size": [941,1672], "bytes": 1812131,
+      "role": "P1_EMPTY_DAO_BOWL_NEAR_SAME_HELD_PINCH",
+      "disposition": "DRAFT_OWNER_REVIEW_PENDING_NOT_EXACT_CONTINUITY_ENDPOINT",
+      "inputs": ["P1_V1_EDIT_TARGET", "BASE_291_FACIAL_IDENTITY_REFERENCE"]
+    },
+    {
+      "path": "02_refs/RECEIVER_P2_v1_FOR_REVIEW_296.png",
+      "original_tool_output": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-c52e7550-8c4b-4c3f-a8e5-7c6fe16b5dc7.png",
+      "sha256": "fe60f3fabf1297810c4457d2adf4b24aa77b6d4c671e2a16cca62266ffe57474",
+      "size": [941,1672], "bytes": 1806301,
+      "role": "P2_SMALL_PINCH_IN_DAO_BOWL_EMPTY_WITHDRAWN_TIPS",
+      "disposition": "DRAFT_OWNER_REVIEW_PENDING_NOT_EXACT_CONTINUITY_ENDPOINT",
+      "inputs": ["P1_V2_EDIT_TARGET"]
+    }
+  ],
+  "technical_checks": "FILES_OPENED_DIMENSIONS_BYTES_AND_SHA256_READ_WITH_SYSTEM_DRAWING_AND_GET_FILEHASH_NO_RESIZE",
+  "exact_9_16": false,
+  "pixel_preservation_proven": false,
+  "video_trajectory_release_or_voice_AV_proven": false,
+  "new_source_EDL_or_Flow_submit": false,
+  "Flow_credit_debit": 0,
+  "imagegen_account_usage_or_cost": "NOT_EXPOSED_BY_TOOL_NOT_CLAIMED_ZERO"
+}

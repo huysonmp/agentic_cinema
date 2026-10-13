@@ -1,6 +1,10 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Trạng thái ưu tiên — REC295 / 2026-10-13
+## Trạng thái ưu tiên — REC296 / 2026-10-13
+
+[296 — Hai ảnh tư thế nhận–cho](episodes/ep01_pilot/296_receiver-pose-images-and-review.md): đã thực hiện phép chuẩn ảnh owner duyệt; P1 v2 bát Đào rỗng đón A, P2 A trong bát/tips trống. Built-in imagegen có redraw/framing, bát dịch nhẹ; đây chỉ ảnh dàn cảnh, chưa endpoint liên tục/720p hoặc actual video PASS. Chờ owner duyệt pose, chưa Flow paid/source/EDL/voice change. Flow chi 0; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing/món toàn tập còn mở. REC295 trở xuống giữ lịch sử.
+
+## Lịch sử — REC295 / 2026-10-13
 
 [295 — Nhịp nhận trước, cho sau đã duyệt](episodes/ep01_pilot/295_receiver-first-approved-preparation.md): đã ghi approval choreography, sơ đồ tay–A–bát–cốc và prompt C06 giữ A. Root xem trực tiếp ba ảnh/hash; START nhận cũ không dùng cho pha mới, END chỉ tham khảo. Chờ scope ảnh tư thế; chưa chạy/sinh ảnh hoặc đổi nguồn/EDL. Giữ B/lời/voices/C09; timing và món toàn tập chưa đóng. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng. REC294 trở xuống giữ lịch sử.
 

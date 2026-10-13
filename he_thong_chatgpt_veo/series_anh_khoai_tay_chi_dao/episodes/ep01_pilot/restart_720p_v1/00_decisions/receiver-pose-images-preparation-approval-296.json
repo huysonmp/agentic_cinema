@@ -1,0 +1,20 @@
+{
+  "record": "REC296",
+  "date": "2026-10-13",
+  "question_item_id": "[\"request_user_input_async\",\"call_rg9hDj0cMMSrFQag3wKzDpeo\",0]",
+  "owner_answer_verbatim": "Duyệt chuẩn bị hai ảnh tham chiếu mới",
+  "scope": "PREPARE_TWO_DRAFT_POSE_REFERENCE_IMAGES_P1_EMPTY_DAO_BOWL_NEAR_HELD_A_P2_A_IN_DAO_BOWL_CHOPSTICKS_WITHDRAWN",
+  "base": "02_refs/C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png",
+  "base_sha256": "7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc",
+  "method": "BUILT_IN_IMAGEGEN_NONDESTRUCTIVE_VERSIONED_CANDIDATES",
+  "constraints": ["PRESERVE_IDENTITIES_CLOTHES_TABLE_GLASS_AND_CAMERA", "WHOLE_SCENE_QC_BEFORE_OWNER_REVIEW", "DISCLOSE_GENERATIVE_REDRAW_NOT_PIXEL_LOCK"],
+  "owner_acceptance_of_outputs": false,
+  "Flow_video_request_authorized": false,
+  "source_or_EDL_replacement_authorized": false,
+  "voice_preset_change_authorized": false,
+  "Flow_credit_debit": 0,
+  "project_spent": 244,
+  "project_remaining": 256,
+  "retake_remaining": 19,
+  "reserve110": "CLOSED"
+}

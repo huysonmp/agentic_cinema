@@ -4,6 +4,8 @@ Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, 
 
 ## Hiện trạng
 
+- **Hiện hành REC296 / 13-10-2026:** owner duyệt chuẩn P1/P2. Built-in imagegen 3 lượt gồm một sửa mặt/mắt; P1 v2 bát rỗng dưới A, P2 A trong bát/tips trống. 941×1672, redraw và dịch bát nhẹ; chỉ pose drafts, chưa endpoint exact hoặc video/voice PASS. **POSE_DRAFTS_PREPARED / OWNER_STILL_REVIEW_PENDING / NO_FLOW_RUN**. Flow chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng. Xem `06_qc/run-registry-296.json` và `../296_receiver-pose-images-and-review.md`. REC295 trở xuống giữ lịch sử.
+
 - **Hiện hành REC295 / 13-10-2026:** owner duyệt C06 giữ A/nói N06 → Đào đưa bát riêng/nói N07 → Khoai hạ A vào bát. Sơ đồ toàn bàn và prompt C06 v0.3 đã chuẩn; root xem ba ảnh/kiểm hash, không dùng START cũ sai pha. Chờ scope ảnh tư thế mới; chưa media/paid/EDL hoặc live quote. **CHOREOGRAPHY_APPROVED / POSE_SCOPE_PENDING / NO_RUN**. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng; timing 30 giây và món toàn tập còn mở. Xem `06_qc/run-registry-295.json` và `../295_receiver-first-approved-preparation.md`. REC294 trở xuống giữ lịch sử.
 
 - **Hiện hành REC294 / 13-10-2026:** đã rà brief281/lesson278/primaryGooglecurrent; Frames+savedvoice không được hứa hỗ trợ. Phương án A đề nghị C06giữA/nóiB, Đào chủ độngđưabát/nóiN07 rồi Khoai hạA quãngngắn; đổi choreography pendingowner, khôngnewmedia/paid/EDL. **ACTION_CONTROL_PROPOSAL / OWNER_BOUNDARY_DECISION_PENDING**. Chi0;244/500 còn256/retake19/reserve110 đóng. Xem `06_qc/run-registry-294.json` và `../294_C06-action-control-recovery-proposal.md`. REC293 trở xuống giữ lịch sử.

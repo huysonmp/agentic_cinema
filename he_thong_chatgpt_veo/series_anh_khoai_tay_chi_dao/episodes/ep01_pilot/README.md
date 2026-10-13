@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Hiện hành — REC295: nhịp cho–nhận đã duyệt, chuẩn bị ảnh đúng pha
+## Hiện hành — REC296: hai ảnh tư thế đã chuẩn, chờ duyệt đúng phạm vi
+
+[296 — P1/P2 và kiểm ảnh](296_receiver-pose-images-and-review.md): owner duyệt chuẩn hai ảnh nháp. Built-in imagegen đã tạo P1, sửa riêng mắt Khoai, tạo P2 từ P1 v2; cả hai là ảnh tư thế nhận–cho, chưa endpoint nối C06. Bát/cốc đúng vai trong ảnh; có redraw/framing và dịch bát nhẹ, kích thước 941×1672 chưa exact 9:16/720p. Chờ owner chọn scope pose, không video/voice/điểm nối đạt hoặc paid. Flow chi 0; sổ 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing 30 giây/món toàn tập còn mở. REC295 trở xuống giữ lịch sử.
+
+## Lịch sử — REC295: nhịp cho–nhận đã duyệt, chuẩn bị ảnh đúng pha
 
 [295 — Quyết định và gói chuẩn bị](295_receiver-first-approved-preparation.md): owner duyệt C06 nói/giữ A → Đào đưa bát riêng/nói N07 → Khoai hạ A vào bát. Đã xem/kiểm hash ba ảnh và chuẩn sơ đồ toàn bàn cùng prompt C06 v0.3; START nhận cũ sai pha cho nhịp mới, END chỉ tham khảo. Scope ảnh tư thế mới đang hỏi; chưa sinh ảnh/video, kiểm live quote hoặc thay EDL. Chi 0; 244/500, còn 256, retake 19, dự phòng 110 đóng. Timing 30 giây và kiểm món toàn tập còn mở. REC294 trở xuống giữ lịch sử.
 

@@ -1,0 +1,32 @@
+{
+  "record": "REC304",
+  "date": "2026-10-13",
+  "owner_reply_verbatim": "ok",
+  "question_context": "Owner was asked to accept identity anchor v1 alongside unchanged F47 for the C07 input package, image only, not paid video.",
+  "accepted_scope": "USE_PAIR_V1_AS_SECONDARY_IDENTITY_REFERENCE_WITH_F47_SCENE_WITH_DISCLOSED_REDRAW_CAVEATS",
+  "targets": [
+    {
+      "path": "02_refs/C07_IDENTITY_PAIR_v1_CHATGPT_FOR_REVIEW_303.png",
+      "sha256": "796a7a9c70cdc3354755f18c95ea1ad9dcb9037912270de3f9bc96703281583d",
+      "role": "SECONDARY_IDENTITY_ONLY"
+    },
+    {
+      "path": "02_refs/C07_START_NATIVE_C06_KEEP_A_F47_CANDIDATE_300.png",
+      "sha256": "34f51b2a30650ed9ffdae1e30f177bbfd28c2e5c53bd47fa57063488ded9a4f2",
+      "role": "SCENE_STATE_CAMERA_EXPRESSION_CLOTHES_LIGHT_PROPS_AUTHORITY"
+    }
+  ],
+  "exclusions": [
+    "New paid Flow request or retry",
+    "Budget reallocation or reserve release",
+    "Exact pixel identity guarantee or action endpoint acceptance",
+    "Voice or AV or full film approval",
+    "Production EDL replacement"
+  ],
+  "next": "Prepare live two-image one-D06 package, verify quote and budget, do not submit without new one-run authority.",
+  "Flow_credit_debit": 0,
+  "project_spent": 258,
+  "project_remaining": 242,
+  "retake_remaining": 5,
+  "reserve110": "CLOSED"
+}

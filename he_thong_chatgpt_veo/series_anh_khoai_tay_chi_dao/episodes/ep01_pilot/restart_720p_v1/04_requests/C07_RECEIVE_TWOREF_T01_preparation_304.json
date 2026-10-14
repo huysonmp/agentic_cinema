@@ -1,0 +1,118 @@
+{
+  "record": "REC304",
+  "date": "2026-10-14",
+  "request": "C07_RECEIVE_TWOREF_T01",
+  "status": "LIVE_PREPARED_BUDGET_TRANSFER_AND_ONE_RUN_OWNER_DECISION_PENDING_NOT_SUBMITTED",
+  "image_acceptance_authority": "00_decisions/C07-identity-pair-v1-owner-acceptance-304.json",
+  "retained_regression_pack": "06_qc/C07_failure_regression_pack_303.md",
+  "browser_recovery": {
+    "old_flow298_binding": "LOST_AFTER_RUNTIME_RESET",
+    "inventory": "CURRENT_IAB_2_EMPTY_NO_CHROME_FALLBACK",
+    "current_browser_id": "2",
+    "current_tab_id": "1",
+    "project_id": "bcb1f53c-13b6-4719-b866-01348dfcddd6",
+    "account_verified": "cutebabyshop2026@gmail.com",
+    "entry_config": "OMNI_INGREDIENTS_720p9x16_x1_BUT_NATIVE8S_QUOTE12",
+    "restored_config": "NATIVE4S_QUOTE7_RECHECKED_WITH_COMPLETE_PACKAGE",
+    "prior_selection_timeout": "AFTER_F47_OPTION_BEFORE_SEPARATE_ADD_CONTROL_NO_PAID_CLICK_OR_OUTPUT_CLAIM"
+  },
+  "inputs": [
+    {
+      "kind": "image",
+      "role": "SCENE_STATE_PRIMARY",
+      "path": "02_refs/C07_START_NATIVE_C06_KEEP_A_F47_CANDIDATE_300.png",
+      "sha256": "34f51b2a30650ed9ffdae1e30f177bbfd28c2e5c53bd47fa57063488ded9a4f2",
+      "observed_image_id": "e40803c5-9a46-44af-84d6-a588ef762895",
+      "selection": "REUSED_EXISTING_EXACT_FILENAME_NOT_REUPLOADED"
+    },
+    {
+      "kind": "image",
+      "role": "SECONDARY_IDENTITY_ONLY",
+      "path": "02_refs/C07_IDENTITY_PAIR_v1_CHATGPT_FOR_REVIEW_303.png",
+      "sha256": "796a7a9c70cdc3354755f18c95ea1ad9dcb9037912270de3f9bc96703281583d",
+      "observed_image_id": "4612c33b-de15-456c-8fbf-1e441f1791a3",
+      "selection": "ONE_UPLOAD_SUCCESS_PREVIEW_CORRECT_FILENAME_ADD_TO_PROMPT"
+    },
+    {
+      "kind": "saved_voice",
+      "UI_selected_name": "EP01_Dao_D06_Aoede_720p_v1",
+      "UI_description": "FEMALE_ADULT_NATURAL_HANOI_NORTHERN_VIETNAMESE_CUSTOM_DAO",
+      "opaque_id_live_observed": false,
+      "expected_prior_id": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb",
+      "new_preset_or_preview": false
+    }
+  ],
+  "chip_counts": {
+    "image": 2,
+    "voice": 1
+  },
+  "no_K20_or_base_Aoede": true,
+  "prompt": "04_requests/C07_RECEIVE_TWOREF_T01_prompt_FINAL_304.txt",
+  "prompt_sha256": "e07e76d6b798e59d4443bcad016655b9ab72e204e67dfc52a3c84631dde9e435",
+  "same_bytes_as_draft303": true,
+  "prompt_exact_visible_readback": true,
+  "config": {
+    "route": "Ingredients",
+    "model": "Omni 1.1 Flash",
+    "resolution": "720p",
+    "aspect": "9:16",
+    "native_seconds": 4,
+    "outputs": 1,
+    "quote_credits": 7,
+    "agent_aria_pressed": false,
+    "return_video_without_audio_aria_checked": false
+  },
+  "account_balance_live_before": 1022,
+  "account_balance_last_recorded302": 1022,
+  "account_balance_change_before_run": 0,
+  "project_cap": 500,
+  "project_spent": 258,
+  "project_remaining": 242,
+  "buckets_current": {
+    "first_pass": 82,
+    "retake": 5,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "proposal_only": {
+    "transfer": {
+      "amount": 2,
+      "from": "first_pass",
+      "to": "retake",
+      "project_cap_changed": false
+    },
+    "after_transfer_before_run": {
+      "first_pass": 80,
+      "retake": 7,
+      "post_rough": 45,
+      "reserve": 110
+    },
+    "one_run": {
+      "max_submits": 1,
+      "max_quote_credits": 7,
+      "auto_retry": false
+    },
+    "if_debit7": {
+      "project_spent": 265,
+      "project_remaining": 235,
+      "buckets_remaining": {
+        "first_pass": 80,
+        "retake": 0,
+        "post_rough": 45,
+        "reserve": 110
+      }
+    },
+    "owner_decision": "PENDING_NOT_APPLIED",
+    "if_package_or_quote_changes": "STOP_RECONFIRM"
+  },
+  "successful_submits": 0,
+  "Flow_image_uploads_this_record": 1,
+  "Flow_credit_debit": 0,
+  "independent_review": "COMPLETED_REPORT_ROOT_FULL_READ_CONDITIONAL_READY_PREPARATION_JSON_ROOT_PARSED_NOT_REVIEWER_READ",
+  "independent_report": "06_qc/C07_TWOREF_live_independent_304.md",
+  "proof_directory": "06_qc/C07_TWOREF_preflight_304",
+  "movement_or_voice_or_AV_pass": false,
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

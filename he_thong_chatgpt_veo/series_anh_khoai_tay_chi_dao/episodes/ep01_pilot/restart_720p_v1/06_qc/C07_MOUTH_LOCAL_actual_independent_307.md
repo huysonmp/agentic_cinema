@@ -41,3 +41,9 @@
 - Reviewer không actual listening/continuous AV; owner306 chỉ đã duyệt exact3s tiếng D06/N07/âm cuối/nhịp. Bản307 còn cần xem AV để đánh giá độ mượt vá và lip-sync; không mở rộng approval306 thành full-media PASS.
 - C06→C07 seam, clearance sau bát, exit/blinkF71, C08 endpoint và timing final30/rough35 giữ OPEN. Không có join mới được kiểm ở report này, không thay production EDL hoặc chọn range.
 - Giữ native305/clip306 và evidence; không paid/retry/budget transfer. Review local không làm thay ledger265/500,remaining235,first80/retake0/post45/reserve110 CLOSED.
+
+## Bổ sung sau báo cáo ban đầu — kiểm packet độc lập trong lượt REC308
+
+- Dùng FFprobe hiện có do root cung cấp path, reviewer tự trích audio packets từ exact approved3s306 và localmouthv1; mỗi nguồn142packet.
+- So toàn bộ danh sách có thứ tự `data_hash` SHA-256 và `pts_time/dts_time/duration_time`: **bằng nhau**. Không chỉ lấy boolean từ manifest root.
+- Đây là read-only xác minh giữ AAC/timing, không actual listening/PCM/continuousAV của reviewer; không hồi tố phạm vi kiểm ban đầu hoặc mở approval media/production.

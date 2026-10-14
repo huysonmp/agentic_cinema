@@ -1,0 +1,29 @@
+{
+  "record": "REC308",
+  "date": "2026-10-14",
+  "owner_reply_verbatim": "ok nhé",
+  "context": "Owner response to bundled5s C06->C07 repaired review asking acceptance of visual/rhythm/cut, not reselecting voices",
+  "target": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/307_C07_LOCAL_REPAIR_REVIEW/C06_C07_LOCAL_MOUTH_JOIN_5s_REVIEW_ONLY_307.mp4",
+    "sha256": "e97dd894d5225d64953145008494854fa154c691373b243e16490fdf41269fef",
+    "hash_reverified": true,
+    "range": "[0,120)",
+    "fps": 24,
+    "seconds": 5
+  },
+  "approved_scope": [
+    "BUNDLED_VISUAL_LOCAL_MOUTH_REPAIR",
+    "PERCEIVED_RHYTHM_AND_C06_C07_CUT",
+    "ENCODED_C06_RANGE0_48_AND_C07_RANGE48_120_OF_EXACT_JOIN"
+  ],
+  "not_approved": [
+    "FULL_FILM_RELEASE_OR_FINAL35",
+    "C05_C06_FOOD_SEAM",
+    "HIDDEN_CONTACT_PHYSICS_CERTIFICATION",
+    "UNSEEN_C08_C09_OUTPUT",
+    "BUDGET_TRANSFER_RESERVE_OR_RETAKE"
+  ],
+  "owner_review_is_not_root_listening": true,
+  "C08_preparation_basis": "EXACT_APPROVED_JOIN_LAST_FRAME_J119_NOT_REJECTED_NATIVE_TAIL",
+  "Flow_credit_debit": 0
+}

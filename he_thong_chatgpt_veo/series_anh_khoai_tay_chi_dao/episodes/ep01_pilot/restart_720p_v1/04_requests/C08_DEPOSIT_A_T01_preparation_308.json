@@ -1,0 +1,63 @@
+{
+  "record": "REC308",
+  "request": "C08_DEPOSIT_A_T01",
+  "status": "DRAFT_ROOT_CHECKED_INDEPENDENT_AND_LIVE_GATES_PENDING_NOT_SUBMITTED",
+  "source_authority": "00_decisions/C06-C07-local-bundled-acceptance-308.json",
+  "production_authority": "00_decisions/scoped-autonomy-238.json",
+  "production_authority_scope": "FIRST_PASS720P_X1_QUOTE_LE15_WITHIN_FIRST_PASS80_NO_RESERVE_OR_RETRY",
+  "image": {
+    "path": "02_refs/C08_START_APPROVED_JOIN_J119_UNEDITED_308.png",
+    "sha256": "f68ded8001d4a93b3076921e87785d25b803c0b450a8f0fa4c3b0709a6fdc6ee",
+    "source_join_sha256": "e97dd894d5225d64953145008494854fa154c691373b243e16490fdf41269fef",
+    "source_frame_zero_based": 119,
+    "time_seconds": 4.958333333333333,
+    "scene_role": "UNEDITED_ACTUAL_EXIT_FROM_OWNER_ACCEPTED_ENCODED_BLOCK",
+    "root_full_still_viewed": true,
+    "not_a_redraw": true
+  },
+  "desired_config": {
+    "route": "Frames start-only proposed, optional end not invented",
+    "model": "Omni1.1Flash",
+    "resolution": "720p",
+    "aspect": "9:16",
+    "native_seconds": 4,
+    "outputs": 1,
+    "agent": false,
+    "saved_voices": 0,
+    "audio": "NO_NEW_DIALOGUE; verify existing no-audio option and plan compatibility live"
+  },
+  "quote_live": null,
+  "entry_observation": "DAO_OWN_EMPTY_BOWL_UNDER_A_INNER_HAND_OUTER_GLASS_RAISED_TWO_BOWLS_A_STILL_HELD_DAO_BLINK",
+  "target": "SAME_A_RELEASE_ONCE_INTO_DAO_HELD_BOWL_EMPTY_TIPS_RETRACT_SILENT",
+  "risks": [
+    "BOWL_HAND_OCCLUSION_CLEARANCE_NOT_CERTIFIED",
+    "ENTRY_BLINK_MUST_CONTINUE_NOT_RESET",
+    "A_DUPLICATION_STUCK_TIPS_OR_WRONG_SHARED_PLATE_DESTINATION",
+    "FRAMES_START_ONLY_SUPPORT_NOT_LIVE_VERIFIED",
+    "ACTUAL_DURATION_UNKNOWN"
+  ],
+  "timing": {
+    "through_C07_frames": 752,
+    "rough35_frames": 840,
+    "frames_left_C08_C09": 88,
+    "seconds_left_C08_C09": 3.6666666666666665,
+    "final30_already_over_by_frames": 32,
+    "C08_selected_duration_not_yet_known": true,
+    "C09_B_retained": true
+  },
+  "project_spent": 265,
+  "project_remaining": 235,
+  "buckets_remaining": {
+    "first_pass": 80,
+    "retake": 0,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve": "CLOSED",
+  "Flow_submits": 0,
+  "Flow_credit_debit": 0,
+  "if_quote_exceeds15_or_scope_changes": "STOP_REPORT",
+  "auto_retry": false,
+  "output_approved": false,
+  "release_authorized": false
+}

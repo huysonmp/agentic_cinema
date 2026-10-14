@@ -1,0 +1,31 @@
+{
+  "record": "REC308",
+  "status": "EXACT_ENCODED_BLOCK_OWNER_ACCEPTED_NOT_FULL_EPISODE_EDL",
+  "owner_authority": "00_decisions/C06-C07-local-bundled-acceptance-308.json",
+  "source": "07_edits/C06_C07_LOCAL_MOUTH_JOIN_5s_REVIEW_ONLY_307.mp4",
+  "sha256": "e97dd894d5225d64953145008494854fa154c691373b243e16490fdf41269fef",
+  "range_half_open": [
+    0,
+    120
+  ],
+  "fps": 24,
+  "seconds": 5,
+  "local_cut_frame": 48,
+  "global_timeline_if_after_C05_half_open": [
+    632,
+    752
+  ],
+  "C06_global_half_open": [
+    632,
+    680
+  ],
+  "C07_global_half_open": [
+    680,
+    752
+  ],
+  "exit_frame_J": 119,
+  "standalone_derivatives_not_separately_approved": true,
+  "global_EDL_not_rewritten": true,
+  "source_filename_review_label_retained_for_provenance": true,
+  "full_film_release": false
+}

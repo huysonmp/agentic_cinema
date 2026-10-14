@@ -1,5 +1,9 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
+## Mới nhất — REC313 / 14-10-2026
+
+[313 — Tái thiết kế điểm nhìn, khung hình và nhịp cắt](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/313_EP01-visual-coverage-redesign-v1.md): owner không chấp nhận chất lượng quay/dựng rough312; đã cho chuẩn gói đề xuất. Có bảng chín nhịp đối chiếu ảnh gốc với sơ đồ bố cục, phân loại nguồn giữ/dựng lại/thiếu hình mới. Đây là PAPER_PROPOSAL, chờ chọn hướng quay; chưa ảnh tham chiếu mới, chưa video mới, chưa duyệt toàn phim. Không chi Flow, không mở dự phòng; sổ gần nhất còn221/500, không refresh tài khoản ở vòng313. Final30, món tại cut24s, đồng bộ hình–tiếng và review tổng thể vẫn mở. Các mục bên dưới là lịch sử, không phải trạng thái sẵn sàng hiện tại.
+
 ## Mới nhất — REC312 / 14-10-2026
 
 [312 — Bản dựng thô 35 giây để xem tổng thể](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/312_EP01-rough35-owner-review-package.md): C09 tạo một lượt tại311, chi7; owner chấp nhận đặt cốc/đỡ bát hai tay chỉ để dựng thử. Đã xuất rough720p/840khung/35s, nguồn tiếng giữ, hình–tiếng cắt đồng thời; root kiểm hình và đo nguồn PCM. Kiểm độc lập exact rough chưa có report cuối, không báo PASS. Food seam khoảng24s và nhịp kết ngắn còn mở; chưa final30 hoặc finishing/hiển thị AI. Dựng chi0, dự án279/500/còn221, dự phòng110đóng. Chờ owner xem nhịp tổng thể; các mục dưới giữ lịch sử.

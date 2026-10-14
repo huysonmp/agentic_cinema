@@ -1,0 +1,100 @@
+{
+  "record": "REC313",
+  "date": "2026-10-14",
+  "source_video": "07_edits/EP01_ROUGH35_TRIAL_v1_NOT_FINAL_312.mp4",
+  "source_video_sha256": "44bd2c591a00f085b8d4c4e4e69c5a25fb9d4f4357e7dbc76263ca068fec1e66",
+  "fps": 24,
+  "source_frames": 840,
+  "source_duration_seconds": 35,
+  "all_png_dimensions": [
+    720,
+    1280
+  ],
+  "source_copy_method": "Copy-Item from existing decoded PNG; no pixel edit",
+  "comparison_board_frames": 9,
+  "extra_dialogue_answer_frame": 360,
+  "schematics": "Repo-native SVG composition proposals; not generated footage or production reference",
+  "frames": [
+    {
+      "frame_zero_based": 0,
+      "time_seconds": 0,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00001.png",
+      "copy_png": "F000_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "61ba4c460e1d93cd4cbca1456118493e8f91e2793f086d7d27ca4f0c6493766b"
+    },
+    {
+      "frame_zero_based": 240,
+      "time_seconds": 10,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00241.png",
+      "copy_png": "F240_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "6e3e7671de6aeb37d128d183dab0a072a9e0bdd2ed468a0411c0ad1196fd6dbc"
+    },
+    {
+      "frame_zero_based": 336,
+      "time_seconds": 14,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00337.png",
+      "copy_png": "F336_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "cf1d83fc8f621924304bd1a275d2f005797d4da2a59b080afa6dd8c1aab07b74"
+    },
+    {
+      "frame_zero_based": 360,
+      "time_seconds": 15,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00361.png",
+      "copy_png": "F360_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "6baf7051cc6ae03016e2e531bc8712837824d3fb2fdf0fdad362d90cad7c7c09"
+    },
+    {
+      "frame_zero_based": 480,
+      "time_seconds": 20,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00481.png",
+      "copy_png": "F480_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "8c183e5cf7fc056d5b969816e6e05c61849ad1aafb13d552b9203469bb4a413d"
+    },
+    {
+      "frame_zero_based": 528,
+      "time_seconds": 22,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00529.png",
+      "copy_png": "F528_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "acd664b615e4569c2cf9b6ab8a5368f9e58602397f9eb17e67fce99514ed5e0e"
+    },
+    {
+      "frame_zero_based": 600,
+      "time_seconds": 25,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00601.png",
+      "copy_png": "F600_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "577790cd7e7840b7b9ef2fa5ada3c2c57e60d5280fe6d9973db5ed1503e22d4b"
+    },
+    {
+      "frame_zero_based": 672,
+      "time_seconds": 28,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00673.png",
+      "copy_png": "F672_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "a02a4618cf23c75c590aa7db3ffd9bd5c7706f38c568de21c0b91ed4f07fccca"
+    },
+    {
+      "frame_zero_based": 736,
+      "time_seconds": 30.666666666666668,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00737.png",
+      "copy_png": "F736_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "00907a5fa8edae61695c6335814137cf155def0d307603b7f11181c624bb44cf"
+    },
+    {
+      "frame_zero_based": 836,
+      "time_seconds": 34.833333333333336,
+      "source_png": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00837.png",
+      "copy_png": "F836_rough312_UNEDITED.png",
+      "byte_equal": true,
+      "sha256": "9f3284767bfc5bc2e209942a610ab34a4394ebfd2552115f425d5ea668e66435"
+    }
+  ],
+  "scope": "Source provenance and display verification only; no motion, hearing, voice identity or creative approval implied"
+}

@@ -1,0 +1,47 @@
+{
+  "record": "REC313",
+  "date": "2026-10-14",
+  "status": "PAPER_PROPOSAL_WAITING_CAMERA_DIRECTION",
+  "owner_approved_preparation": true,
+  "owner_camera_direction_approval": null,
+  "paper_proposal": "../313_EP01-visual-coverage-redesign-v1.md",
+  "board": "02_refs/coverage_redesign_313/coverage-board.html",
+  "source_provenance_verified": true,
+  "display_checked_widths": [
+    1280,
+    360
+  ],
+  "Flow_credit_cost": 0,
+  "new_images_generated": 0,
+  "new_videos_generated": 0,
+  "source_media_modified": false,
+  "script_changed": false,
+  "voice_changed": false,
+  "independent_agent_review_report": null,
+  "creative_quality_pass": false,
+  "full_film_approved": false,
+  "final30_ready": false,
+  "release_authorized": false,
+  "budget": {
+    "basis": "Last verified REC312, not live refreshed at REC313",
+    "project_spent": 279,
+    "project_limit": 500,
+    "remaining": 221,
+    "buckets": {
+      "first_pass": 66,
+      "retake": 0,
+      "post": 45,
+      "reserve_closed": 110
+    },
+    "bucket_transfer": 0,
+    "reserve_opened": false
+  },
+  "open": [
+    "CAMERA_DIRECTION_OWNER_DECISION",
+    "NEW_REFERENCE_PAIRS_AND_IDENTITY",
+    "AUDIO_LIPSYNC_FOR_NEW_CAMERA_FOOTAGE",
+    "FOOD_CONTINUITY_C05_C06",
+    "REAL_TIMING_FINAL30",
+    "EXACT_EXPORT_CREATIVE_AND_AV_REVIEW"
+  ]
+}

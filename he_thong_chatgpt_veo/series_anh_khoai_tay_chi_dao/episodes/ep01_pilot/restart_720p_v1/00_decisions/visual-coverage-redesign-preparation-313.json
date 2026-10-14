@@ -1,0 +1,18 @@
+{
+  "record": "REC313",
+  "date": "2026-10-14",
+  "owner_reply_verbatim": "ok",
+  "context": "Owner agreed to prepare a visual coverage redesign with side-by-side frames and an inventory of reusable, editable and missing footage after rejecting monotonous framing, weak focus and camera choices.",
+  "authorized": ["LOCAL_PAPER_COVERAGE_REDESIGN", "UNCHANGED_ACTUAL_FRAME_COMPARISONS", "SCHEMATIC_CAMERA_COMPOSITION_PROPOSALS", "FOOTAGE_REUSE_AND_GAP_CLASSIFICATION"],
+  "camera_design_approved": false,
+  "new_image_generation_performed": false,
+  "video_generation_authorized_by_this_reply": false,
+  "new_voice_or_script_change_authorized": false,
+  "credit_transfer_or_reserve_release": false,
+  "old_source_or_approval_replaced": false,
+  "rough312_approved": false,
+  "release_authorized": false,
+  "Flow_credit_cost": 0,
+  "project_remaining_last_verified": 221,
+  "budget_live_refreshed_this_record": false
+}

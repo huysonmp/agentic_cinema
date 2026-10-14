@@ -1,0 +1,73 @@
+{
+  "record": "REC315",
+  "method": "Pillow/NumPy read-only RGB comparison, no media edits",
+  "comparison": [
+    "T_CONFIRM_A_v1_FOR_REVIEW.png",
+    "T_CAUGHT_END_v1_FOR_REVIEW.png"
+  ],
+  "dimensions": [
+    941,
+    1672
+  ],
+  "comparison_sha256": [
+    "837e0ca1e59cfb530b29aff8d4eaee05b4198a77a9667de682cca618f72dcd86",
+    "191bc25bc81a827706a48eda3270c7a17063588e8552003aa90dd4cf3adead30"
+  ],
+  "roi_coordinates_xyxy_exclusive": {
+    "table": [
+      0,
+      1100,
+      941,
+      1672
+    ],
+    "held_A": [
+      250,
+      830,
+      380,
+      955
+    ],
+    "glass": [
+      725,
+      730,
+      860,
+      930
+    ],
+    "rest_hands": [
+      340,
+      960,
+      640,
+      1110
+    ]
+  },
+  "results": {
+    "table": {
+      "mean_abs_rgb": 2.6603270091580398,
+      "changed_pixels": 531724,
+      "pixels": 538252
+    },
+    "held_A": {
+      "mean_abs_rgb": 3.6773333333333333,
+      "changed_pixels": 16159,
+      "pixels": 16250
+    },
+    "glass": {
+      "mean_abs_rgb": 5.1851975308641975,
+      "changed_pixels": 26890,
+      "pixels": 27000
+    },
+    "rest_hands": {
+      "mean_abs_rgb": 3.0171555555555556,
+      "changed_pixels": 44543,
+      "pixels": 45000
+    }
+  },
+  "pixel_lock": false,
+  "does_not_certify": [
+    "Semantic object segmentation",
+    "Same exact portion shape",
+    "Geometric registration",
+    "Physical clearance",
+    "Motion or native continuity",
+    "Creative quality"
+  ]
+}

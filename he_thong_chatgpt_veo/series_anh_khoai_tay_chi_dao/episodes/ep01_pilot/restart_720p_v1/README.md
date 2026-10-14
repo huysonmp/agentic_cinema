@@ -1,5 +1,9 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
+## Mới nhất — REC315 / 14-10-2026
+
+[315 — Cận đầu đã duyệt, cụm bắt gặp/chữa cháy chờ duyệt](../315_closeups-approved-and-caught-excuse-reference-package.md): owner chấp nhận đúng ba ảnh REC314 về nhận diện/thần thái/hướng bố cục. Cụm mới có ba ứng viên: Đào liếc vùng A, hai người nhìn nhau, cận Khoai vẫn thấy tay/đũa/A. Đã tạo năm ảnh, giữ một bản lỗi và một bản trung gian làm evidence. Root kiểm still/hash/RGB; không có review độc lập mới hoặc native AV. F143 làm mốc tư thế khác exit F123 của rough312, cần đối soát trước dựng. Chưa duyệt ảnh cụm mới, chưa cụm nhận/kết, chưa paid video hoặc final30. Flow chi 0; sổ gần nhất còn 221/500, dự phòng 110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC314 / 14-10-2026
 
 [314 — Hướng A đã chốt, ba ảnh cận đầu tiên để duyệt](../314_option-A-first-reference-pairs.md): owner chọn đổi điểm nhìn có chọn lọc. Đã tạo bảy ảnh bằng built-in image_gen, giữ ba ứng viên (Khoai entry nhìn xuống, Khoai ký ức, Đào hỏi), bốn bản không chọn có nhật ký nguyên nhân; không chọn master chung bàn mới. Đây là gói đầu, chưa đủ các cụm bắt gặp/chữa cháy và cho–nhận/kết. Kiểm do root trên ảnh tĩnh, chưa review độc lập hoặc native AV. Owner chưa duyệt ảnh cụ thể, chưa mở video trả phí. Flow chi 0; budget gần nhất còn 221/500, dự phòng 110 đóng, không refresh tài khoản. Các mục dưới là lịch sử.

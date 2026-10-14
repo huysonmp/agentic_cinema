@@ -1,0 +1,101 @@
+{
+  "record": "REC315",
+  "date": "2026-10-14",
+  "tool": "Built-in image_gen",
+  "generated_count": 5,
+  "Flow_credit_cost": 0,
+  "native_dimensions": [
+    941,
+    1672
+  ],
+  "exact_9_16": false,
+  "output_pixels_unmodified_after_generation": true,
+  "scoped_owner_approval": "00_decisions/first-closeup-reference-approval-315.json approves prior three REC314 images only",
+  "new_images_owner_approved": false,
+  "images": [
+    {
+      "file": "T_CAUGHT_ENTRY_v1_NOT_SELECTED.png",
+      "sha256": "cc2aabc8dc5ae354b9d389980cb268acb7ec73b25c25dd4f15d0b3e9a8d19780",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-6b9dbb85-baf3-42ed-8339-7d45010cee2d.png",
+      "prompt_file": "T_CAUGHT_ENTRY_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/C05_START_from_C04_T02_selected_F143_263.png",
+        "02_refs/C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png",
+        "02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png",
+        "02_refs/coverage_A_314/D_question_v2_FOR_REVIEW.png",
+        "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg"
+      ],
+      "status": "NOT_SELECTED",
+      "note": "Dao leaf clipped"
+    },
+    {
+      "file": "T_CAUGHT_ENTRY_v2_FOR_REVIEW.png",
+      "sha256": "8a3a6ff8da60c285478a00c7bd5f81870502a19a5a696762d6db36d128714917",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-1646f2d7-86d3-4721-bebb-2b5975f86a15.png",
+      "prompt_file": "T_CAUGHT_ENTRY_v2_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_ENTRY_v1_NOT_SELECTED.png"
+      ],
+      "status": "INTERMEDIATE_NOT_PRESENTED_AS_FINAL_CANDIDATE",
+      "note": "Framing repaired, Dao down-gaze not clear; common parent of two reaction states"
+    },
+    {
+      "file": "T_CAUGHT_END_v1_FOR_REVIEW.png",
+      "sha256": "191bc25bc81a827706a48eda3270c7a17063588e8552003aa90dd4cf3adead30",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-26a18ce1-6da6-4e60-8e93-a9d3e332476f.png",
+      "prompt_file": "T_CAUGHT_END_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_ENTRY_v2_FOR_REVIEW.png"
+      ],
+      "status": "ROOT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "Mutual gaze, A held, bowls empty, cup in Dao outer hand"
+    },
+    {
+      "file": "K_EXCUSE_HAND_v1_FOR_REVIEW.png",
+      "sha256": "1e0426274a5690b5ea40dfcda471ce4dd1393aa2132001ab687a3b16e2a8e09e",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-7c593b3f-44e2-45d2-b2c2-8eff7b076b46.png",
+      "prompt_file": "K_EXCUSE_HAND_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png",
+        "02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png"
+      ],
+      "status": "ROOT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "Khoai face/holding hand/A clear; new perspective is not pixel lock or continuity proof"
+    },
+    {
+      "file": "T_CONFIRM_A_v1_FOR_REVIEW.png",
+      "sha256": "837e0ca1e59cfb530b29aff8d4eaee05b4198a77a9667de682cca618f72dcd86",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-f43ceabd-e5b8-4ade-8360-3d4ec7e2f875.png",
+      "prompt_file": "T_CONFIRM_A_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_ENTRY_v2_FOR_REVIEW.png"
+      ],
+      "status": "ROOT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "Dao gaze down toward held-A region; created after END as sibling of common parent, not native sequence"
+    }
+  ],
+  "selected_candidate_story_order": [
+    "T_CONFIRM_A_v1_FOR_REVIEW.png",
+    "T_CAUGHT_END_v1_FOR_REVIEW.png",
+    "K_EXCUSE_HAND_v1_FOR_REVIEW.png"
+  ],
+  "source_pose_anchor": {
+    "source": "02_refs/C05_START_from_C04_T02_selected_F143_263.png",
+    "role": "Approved full C04 endpoint STATE INTENT ONLY",
+    "frame": 143,
+    "not_current_rough312_exit": true,
+    "current_rough312_C04_range_exclusive": [
+      12,
+      124
+    ],
+    "current_rough312_exit_frame": 123
+  },
+  "frozen_source_hashes": [
+    {"file":"02_refs/C05_START_from_C04_T02_selected_F143_263.png","sha256":"2e4f4a5fbf0d5f310010762d26d0c74f08bfb2da3eab792f69a3be568b94c2db","role":"Approved full-C04 state intent, not current rough exit"},
+    {"file":"02_refs/C06_ENTRY_LOCAL_v3_FOR_REVIEW_291.png","sha256":"7c8023cbe655745b941e1a47dd1df3614ba66fcef512a41c5c4c4048bb33f8cc","role":"Food appearance reference only for this new camera package"},
+    {"file":"02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png","sha256":"ea94410768a7772b1de8117f5d141e8938aca1e3db70283c56f8bb44764119fd","role":"Owner-approved Khoai identity/style direction"},
+    {"file":"02_refs/coverage_A_314/D_question_v2_FOR_REVIEW.png","sha256":"a6aa91d8c3a356b8a6eeeff0e7d92b135530c036dd2d0c725232188cea1c044b","role":"Owner-approved Dao identity/style direction"},
+    {"file":"02_refs/caught_excuse_315/sources/food_nembui_UNEDITED.jpg","sha256":"a51303f7100edd0944dc00daa19402fecfe24bb0e15a4143da8f8eae7b9e3a2d","original":"C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg","role":"Byte-identical archive of owner-permitted real food photo; material only"}
+  ],
+  "scope": "Static reference development; not approved native footage, exact camera geometry, motion, voice/lipsync, selected edit range or whole film"
+}

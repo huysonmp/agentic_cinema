@@ -1,0 +1,31 @@
+{
+  "record": "REC315",
+  "date": "2026-10-14",
+  "owner_reply_verbatim": "ok nhé",
+  "reply_to": "REC314 three-image package approval request for identity performance and composition direction",
+  "approved_images": [
+    {
+      "file": "02_refs/coverage_A_314/K_memory_ENTRY_v1_FOR_REVIEW.png",
+      "sha256": "5b0a5755769556092ae3c78f8ed75e3331f554345dc96b2b87121e83c7069975"
+    },
+    {
+      "file": "02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png",
+      "sha256": "ea94410768a7772b1de8117f5d141e8938aca1e3db70283c56f8bb44764119fd"
+    },
+    {
+      "file": "02_refs/coverage_A_314/D_question_v2_FOR_REVIEW.png",
+      "sha256": "a6aa91d8c3a356b8a6eeeff0e7d92b135530c036dd2d0c725232188cea1c044b"
+    }
+  ],
+  "scope": "Likeness, performance tone and composition direction of exact three draft images; allows development of next reference cluster",
+  "does_not_approve": [
+    "Paid video",
+    "Voice replacement",
+    "Final cropping or 720p format",
+    "All scene/world geometry",
+    "Action-cluster output not yet generated",
+    "Whole storyboard or whole film",
+    "Budget transfer or reserve"
+  ],
+  "Flow_credit_cost": 0
+}

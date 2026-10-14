@@ -2,6 +2,8 @@
 
 Ngày 14/10/2026. **Hướng A đã được owner duyệt bằng “a nhé”. Ảnh cụ thể dưới đây chưa được duyệt; chưa mở video trả phí.**
 
+Cập nhật REC315: owner đã duyệt đúng ba ảnh dưới đây về nhận diện, thần thái và hướng bố cục bằng “ok nhé”. Nội dung dưới giữ lịch sử lúc trình; phạm vi approval và cụm mới ở [REC315](315_closeups-approved-and-caught-excuse-reference-package.md). Chưa duyệt paid video hoặc biên dựng.
+
 ## 1. Ba ảnh cần xem — không phải cả bảy bản thử
 
 | Ảnh ứng viên | Nhiệm vụ và trạng thái | Mở ảnh nguyên bản |

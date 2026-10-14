@@ -1,0 +1,59 @@
+{
+  "record": "REC315",
+  "date": "2026-10-14",
+  "status": "PREVIOUS_CLOSEUPS_APPROVED_CAUGHT_EXCUSE_IMAGES_OWNER_PENDING",
+  "owner_reply": "ok nhé",
+  "previous_scoped_approval": "00_decisions/first-closeup-reference-approval-315.json",
+  "previous_exact_three_images_approved_for_direction": true,
+  "new_images_owner_approved": false,
+  "candidate_images": [
+    "02_refs/caught_excuse_315/T_CONFIRM_A_v1_FOR_REVIEW.png",
+    "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png",
+    "02_refs/caught_excuse_315/K_EXCUSE_HAND_v1_FOR_REVIEW.png"
+  ],
+  "generated_images": 5,
+  "excluded_or_intermediate": 2,
+  "tool": "Built-in image_gen",
+  "Flow_credit_cost": 0,
+  "new_video_generated": false,
+  "new_voice_generated": false,
+  "EDL_changed": false,
+  "root_review_scope": "Full static images, native dimensions/hashes, same-angle ROI RGB comparison; not independent review, motion, measured eyeline or AV certification",
+  "independent_new_report": null,
+  "pixel_lock": false,
+  "C04": {
+    "state_anchor_frame": 143,
+    "current_rough312_exclusive_range": [
+      12,
+      124
+    ],
+    "current_rough312_exit": 123,
+    "range_reapproval_or_rebuild_needed": true
+  },
+  "pending": [
+    "New specific reference approval",
+    "R04 actual endpoint/food reconciliation",
+    "Receive/transfer/ending image cluster",
+    "Same-world camera geometry and object clearance",
+    "New-camera voice/lipsync route",
+    "Paid request quote/bucket authority",
+    "Exact assembled creative/motion/AV audit",
+    "Final30 and finishing"
+  ],
+  "budget": {
+    "basis": "Last verified REC312, not live refreshed",
+    "spent": 279,
+    "limit": 500,
+    "remaining": 221,
+    "buckets": {
+      "first_pass": 66,
+      "retake": 0,
+      "post": 45,
+      "reserve_closed": 110
+    },
+    "reserve_opened": false,
+    "bucket_transfer": 0
+  },
+  "whole_film_accepted": false,
+  "paid_generation_authorized_by_this_turn": false
+}

@@ -1,5 +1,9 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
+## Mới nhất — REC305 / 14-10-2026
+
+[305 — C07 native và cổng range](../305_C07-two-reference-native-check-and-range-hold.md): owner duyệt chuyển2 và một lượt7, đã chạy/tải gốc720p/96F/hash/decode, debit đúng7. Identity và tay/cốc cải thiện, nhưng Khoai mở miệng đầu và bát thứ ba xuất hiện từF77; root và reviewer chưa chọn toàn nguồn. Bản3s chỉ để kiểm tiếng, vẫn giữ lỗi miệng; owner tiếng đang chờ, C08/EDL HOLD. Sổ265/500, còn235; tạo mới80/tạo lại0/hậu kỳ45/dự phòng110 đóng. REC304 là gói live đã kiểm trước chạy; các mục bên dưới giữ snapshot lịch sử.
+
 Kế hoạch236 đã được owner duyệt tại237. Đây là hồ sơ mới, không nhập footage cũ hoặc coi các approval media cũ là approval clip mới.
 
 ## Hiện trạng

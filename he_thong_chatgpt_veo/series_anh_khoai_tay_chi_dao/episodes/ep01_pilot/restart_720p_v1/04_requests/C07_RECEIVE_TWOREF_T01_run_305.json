@@ -1,0 +1,60 @@
+{
+  "record": "REC305",
+  "date": "2026-10-14",
+  "request": "C07_RECEIVE_TWOREF_T01",
+  "status": "FULL_SOURCE_NOT_SELECTED_REVIEW_ONLY_3S_AUDIO_OWNER_CHECK_PENDING_C08_HOLD",
+  "authority": "00_decisions/C07-two-reference-one-run-budget-approval-305.json",
+  "preparation": "04_requests/C07_RECEIVE_TWOREF_T01_preparation_304.json",
+  "prompt": "04_requests/C07_RECEIVE_TWOREF_T01_prompt_FINAL_304.txt",
+  "prompt_sha256": "e07e76d6b798e59d4443bcad016655b9ab72e204e67dfc52a3c84631dde9e435",
+  "final_refresh": {
+    "prompt_exact": true,
+    "image_ids": [
+      "e40803c5-9a46-44af-84d6-a588ef762895",
+      "4612c33b-de15-456c-8fbf-1e441f1791a3"
+    ],
+    "image_chips": 2,
+    "voice_chips": 1,
+    "saved_voice": "EP01_Dao_D06_Aoede_720p_v1",
+    "voice_opaque_id_live_observed": false,
+    "agent": false,
+    "return_video_without_audio": false,
+    "config": "Ingredients/Omni1.1Flash/720p/9:16/4s/x1",
+    "quote": 7,
+    "account_balance_before": 1022
+  },
+  "generate_clicks": 1,
+  "Flow_asset_id": "87a190b8-07a4-4285-b7c7-8f9f1479def3",
+  "auto_retry": false,
+  "actual_debit": 7,
+  "account_balance_after": 1015,
+  "project_spent": 265,
+  "project_remaining": 235,
+  "buckets_remaining": {
+    "first_pass": 80,
+    "retake": 0,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve_status": "CLOSED",
+  "native": {
+    "path": "05_native/EP01_720_C07_RECEIVE_TWOREF_T01_NATIVE_305.mp4",
+    "sha256": "12a0baa2d7ccedfaa16631b7cddd2c4331480e4fa8784880403eb425a8fb397b",
+    "bytes": 1806037,
+    "owner_copy": "C:/Users/PC/Downloads/du_an_nem_bui/305_C07_RECEIVE_TWOREF_T01/C07_RECEIVE_TWOREF_T01_NATIVE_720p_305.mp4",
+    "three_copy_hashes_match": true,
+    "video": "720x1280/24fps/96F/4s",
+    "full_decode_success": true,
+    "audio": "AAC/48000/stereo",
+    "technical_evidence": "06_qc/C07_RECEIVE_TWOREF_native_305/native_evidence.json"
+  },
+  "root_still_review": "ALL96_DENSE_BOARDS_PLUS_FULL_CRITICAL_STILLS_IDENTITY_GLASS_AND_LIFT_IMPROVED_KHOAI_MOUTH_EARLY_AND_GHOST_BOWL_TAIL_OPEN",
+  "offline_ASR": "UNPROMPTED_N07_0_TO_2p12_NOT_VOICE_OR_AV_PASS",
+  "actual_listening_performed": false,
+  "independent_review": "COMPLETED_ALL96_STILLS_CRITICALFULL_HASH_ROOT_FULL_READ",
+  "independent_report": "06_qc/C07_TWOREF_actual_independent_305.md",
+  "review_candidate": {"owner_path":"C:/Users/PC/Downloads/du_an_nem_bui/305_C07_RECEIVE_TWOREF_T01/C07_TWOREF_0_3s_REVIEW_ONLY_305.mp4","range":"[0,72)","seconds":3,"sha256":"7a7d2bc4d4fdd7a4ec220daa67477e3063583d1b2f9366a089318b9ab1104e18","full_decode_success":true,"encoded_video_frames":72,"encoded_video_audio_duration":3,"production_selected":false,"known_remaining_visual_issue":"KHOAI_MOUTH_F5_TO_F14","owner_audio_reply":"PENDING"},
+  "output_approved": false,
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

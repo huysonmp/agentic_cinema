@@ -1,5 +1,9 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
+## Mới nhất — REC305 / 14-10-2026
+
+[305 — C07 native và cổng range](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/305_C07-two-reference-native-check-and-range-hold.md): owner duyệt chuyển2 và một lượt7, đã chạy/tải gốc720p/96F/hash/decode, debit đúng7. Identity và tay/cốc cải thiện, nhưng Khoai mở miệng đầu và bát thứ ba xuất hiện từF77; root và reviewer chưa chọn toàn nguồn. Bản3s chỉ để kiểm tiếng, vẫn giữ lỗi miệng; owner tiếng đang chờ, C08/EDL HOLD. Sổ265/500, còn235; tạo mới80/tạo lại0/hậu kỳ45/dự phòng110 đóng. REC304 là gói live đã kiểm trước chạy; các mục bên dưới giữ snapshot lịch sử.
+
 Đây là vùng thử nghiệm nhỏ bên trong repository `agentic_cinema`, dùng để khám phá một quy trình tạo video trong đó:
 
 - Codex/ChatGPT hỗ trợ biến brief thành các tài liệu và gói đầu vào có cấu trúc;

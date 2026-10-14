@@ -1,0 +1,36 @@
+{
+  "record": "REC305",
+  "date": "2026-10-14",
+  "status": "FULL_SOURCE_NOT_SELECTED_REVIEW_ONLY_3S_AUDIO_OWNER_CHECK_PENDING_C08_HOLD",
+  "root_report": "../305_C07-two-reference-native-check-and-range-hold.md",
+  "authority": "00_decisions/C07-two-reference-one-run-budget-approval-305.json",
+  "run": "04_requests/C07_RECEIVE_TWOREF_T01_run_305.json",
+  "independent_report": "06_qc/C07_TWOREF_actual_independent_305.md",
+  "independent_root_full_read": true,
+  "paid_submits": 1,
+  "Flow_credit_debit": 7,
+  "project_spent": 265,
+  "project_remaining": 235,
+  "buckets_remaining": {
+    "first_pass": 80,
+    "retake": 0,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "native_sha256": "12a0baa2d7ccedfaa16631b7cddd2c4331480e4fa8784880403eb425a8fb397b",
+  "review_only_3s": {
+    "owner_path": "C:/Users/PC/Downloads/du_an_nem_bui/305_C07_RECEIVE_TWOREF_T01/C07_TWOREF_0_3s_REVIEW_ONLY_305.mp4",
+    "range": "[0,72)",
+    "seconds": 3,
+    "sha256": "7a7d2bc4d4fdd7a4ec220daa67477e3063583d1b2f9366a089318b9ab1104e18",
+    "full_decode_success": true,
+    "encoded_video_frames": 72,
+    "encoded_video_audio_duration": 3,
+    "production_selected": false,
+    "known_remaining_visual_issue": "KHOAI_MOUTH_F5_TO_F14",
+    "owner_audio_reply": "PENDING"
+  },
+  "production_EDL_changed": false,
+  "release_authorized": false
+}

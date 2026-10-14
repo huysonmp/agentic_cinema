@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — REC305 / 14-10-2026
+
+[305 — C07 native và cổng range](305_C07-two-reference-native-check-and-range-hold.md): owner duyệt chuyển2 và một lượt7, đã chạy/tải gốc720p/96F/hash/decode, debit đúng7. Identity và tay/cốc cải thiện, nhưng Khoai mở miệng đầu và bát thứ ba xuất hiện từF77; root và reviewer chưa chọn toàn nguồn. Bản3s chỉ để kiểm tiếng, vẫn giữ lỗi miệng; owner tiếng đang chờ, C08/EDL HOLD. Sổ265/500, còn235; tạo mới80/tạo lại0/hậu kỳ45/dự phòng110 đóng. REC304 là gói live đã kiểm trước chạy; các mục bên dưới giữ snapshot lịch sử.
+
 ## Hiện hành — REC303: chuẩn hai ảnh, neo nhận diện chờ duyệt
 
 [303 — Gói hai ảnh và hồi quy](303_C07-two-reference-input-preparation.md): F47 giữ nguyên; portrait mới chỉ định danh Khoai củ khoai/Đào quả đào, không thay state. Reviewer đọc actualhistory và xem hai ảnh; đủ trình neo phụ nhưng có redraw mặt/texture/lá. Chưa duyệt ảnh/video, upload Flow hoặc chi mới. Sổ258/500/còn242, tạo lại5/dự phòng110 đóng. Cut món và thời lượng cuối vẫn mở.

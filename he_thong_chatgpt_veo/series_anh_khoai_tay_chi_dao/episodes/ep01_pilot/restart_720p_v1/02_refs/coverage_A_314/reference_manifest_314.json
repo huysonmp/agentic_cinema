@@ -1,0 +1,117 @@
+{
+  "record": "REC314",
+  "date": "2026-10-14",
+  "tool": "Built-in image_gen",
+  "image_generation_count": 7,
+  "Flow_credit_cost": 0,
+  "output_pixels_unmodified": true,
+  "owner_specific_image_approval": false,
+  "native_generated_dimensions": [
+    941,
+    1672
+  ],
+  "exact_9_16": false,
+  "aspect_difference_percent": 0.053163211058,
+  "eventual_video_format": "720x1280, remains separate output gate",
+  "generated": [
+    {
+      "file": "A0_shared_table_v1_NOT_SELECTED.png",
+      "sha256": "8935fc51155b6eba5dc5ef85130262bfa986ffcf3b4b758a3fa67e424662dbbf",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-20337eac-de33-4b39-aaeb-ebaae58dda18.png",
+      "prompt_file": "A0_shared_table_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/MASTER01_v5_CHATGPT_NATIVE.png",
+        "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg"
+      ],
+      "status": "NOT_SELECTED",
+      "note": "Herb plate and glass clipped; not a new master"
+    },
+    {
+      "file": "A0_shared_table_v2_NOT_SELECTED.png",
+      "sha256": "8703d3ee67c238fcfdd4ab3ea54e4af64ba87998e32576490c975ec729dcfed4",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-3b4dbb30-83d3-4e8d-86cc-0f5f55c3db6e.png",
+      "prompt_file": "A0_shared_table_v2_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/coverage_A_314/A0_shared_table_v1_NOT_SELECTED.png"
+      ],
+      "status": "NOT_SELECTED",
+      "note": "Herb plate remains clipped; same major twice, stopped this repair branch"
+    },
+    {
+      "file": "K_memory_v1_NOT_SELECTED.png",
+      "sha256": "2769233492dfb17e905d75faedcff68e6feff641b6e662d18f03a55ba7d70083",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-8eaa49b2-a51d-4510-b3f2-09620d74f0e5.png",
+      "prompt_file": "K_memory_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/MASTER01_v5_CHATGPT_NATIVE.png"
+      ],
+      "status": "NOT_SELECTED",
+      "note": "Incorrect old food visible at lower edge; shot framing revised"
+    },
+    {
+      "file": "K_memory_v2_FOR_REVIEW.png",
+      "sha256": "ea94410768a7772b1de8117f5d141e8938aca1e3db70283c56f8bb44764119fd",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-01a9ae61-49f0-4a0d-bdea-0a680d9c113a.png",
+      "prompt_file": "K_memory_v2_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/coverage_A_314/K_memory_v1_NOT_SELECTED.png"
+      ],
+      "status": "ROOT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "Reflective close-up looking right to Dao; not entry state"
+    },
+    {
+      "file": "D_question_v1_NOT_SELECTED.png",
+      "sha256": "0cd086686e213226fc32ff254b0734e98ec9d208f022f2e4304fb9be645b4751",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-dde35165-f44a-419a-8df7-b5ddddb0798f.png",
+      "prompt_file": "D_question_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/MASTER01_v5_CHATGPT_NATIVE.png",
+        "02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png"
+      ],
+      "status": "NOT_SELECTED",
+      "note": "Leaf clipped and Khoai foreground too dominant"
+    },
+    {
+      "file": "D_question_v2_FOR_REVIEW.png",
+      "sha256": "a6aa91d8c3a356b8a6eeeff0e7d92b135530c036dd2d0c725232188cea1c044b",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-e23e8ffa-5626-4114-84e3-9f9320f5415d.png",
+      "prompt_file": "D_question_v2_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/coverage_A_314/D_question_v1_NOT_SELECTED.png"
+      ],
+      "status": "ROOT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "Full leaf, looks left to Khoai; upper empty space and foreground scale remain review limits"
+    },
+    {
+      "file": "K_memory_ENTRY_v1_FOR_REVIEW.png",
+      "sha256": "5b0a5755769556092ae3c78f8ed75e3331f554345dc96b2b87121e83c7069975",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-482ca048-a94c-4117-89f9-ea7d69339177.png",
+      "prompt_file": "K_memory_ENTRY_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png"
+      ],
+      "status": "ROOT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "Down-gaze entry to compare with R01 F148; no measured motion sync"
+    }
+  ],
+  "unchanged_copies": [
+    {
+      "file": "MASTER01_v5_IDENTITY_ONLY_UNEDITED.png",
+      "source": "02_refs/MASTER01_v5_CHATGPT_NATIVE.png",
+      "sha256": "ab31c41ec168aea7fff2206d1536c9ff61c763c3da175defe7cc4bd14649bf96",
+      "role": "Historic approved identity reference, not approved new-food master"
+    },
+    {
+      "file": "R01_EXIT_F148_UNEDITED_NOT_NEW_MASTER.png",
+      "source": "06_qc/EP01_ROUGH35_encoded_312/all_native_frames/00149.png",
+      "frame_zero_based": 148,
+      "time_seconds": 6.166666666666667,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "sha256": "505c1d45f8fd052b15c80aab59d295e3e4d1a930fc0c19f7f902fba63fed0a96",
+      "role": "Exact old edit exit for static comparison, not promoted production reference"
+    }
+  ]
+}

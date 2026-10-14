@@ -1,0 +1,24 @@
+{
+  "record": "REC314",
+  "date": "2026-10-14",
+  "owner_reply_verbatim": "a nhé",
+  "proposal": "313_EP01-visual-coverage-redesign-v1.md section 8 Option A",
+  "approved_direction": "SELECTIVE_VIEWPOINT_A",
+  "scope": [
+    "A/T causal shared-action coverage",
+    "K/D selective private-memory and reaction coverage",
+    "I only if needed for clear single transfer",
+    "Prepare draft reference pairs and static review"
+  ],
+  "not_approved": [
+    "Specific generated images as production refs",
+    "New paid video generation",
+    "Replacement of accepted exact voices",
+    "Script changes",
+    "Budget bucket transfer or reserve release",
+    "Whole-film acceptance"
+  ],
+  "Flow_credit_cost": 0,
+  "project_remaining_last_verified": 221,
+  "budget_live_refreshed": false
+}

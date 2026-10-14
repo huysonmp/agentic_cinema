@@ -2,6 +2,8 @@
 
 Ngày 14/10/2026. **PAPER_PROPOSAL — chuẩn bị để owner duyệt hướng quay; chưa duyệt ảnh mới, góc máy mới hoặc lượt sinh video.**
 
+Cập nhật REC314: owner đã chọn **hướng A** bằng “a nhé”. Phần dưới giữ nguyên đề xuất lịch sử; trạng thái mới và ảnh cần xem ở [REC314](314_option-A-first-reference-pairs.md). Chưa duyệt ảnh cụ thể hoặc paid video.
+
 Owner đã chỉ ra ba vấn đề ở rough312: khung gần như không thay đổi, chuyển cảnh kém và trọng tâm/góc quay chưa hấp dẫn. Sau đề xuất kiểm lại coverage bằng ảnh và phân loại footage, owner trả lời “ok”. Ghi nhận quyền chuẩn bị tại `restart_720p_v1/00_decisions/visual-coverage-redesign-preparation-313.json`; không coi đó là approval bản quay v1 dưới đây.
 
 ## 1. Xem gói đối chiếu trước

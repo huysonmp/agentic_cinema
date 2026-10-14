@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — REC314 / 14-10-2026
+
+[314 — Hướng A đã chốt, ba ảnh cận đầu tiên để duyệt](314_option-A-first-reference-pairs.md): owner chọn đổi điểm nhìn có chọn lọc. Đã tạo bảy ảnh bằng built-in image_gen, giữ ba ứng viên (Khoai entry nhìn xuống, Khoai ký ức, Đào hỏi), bốn bản không chọn có nhật ký nguyên nhân; không chọn master chung bàn mới. Đây là gói đầu, chưa đủ các cụm bắt gặp/chữa cháy và cho–nhận/kết. Kiểm do root trên ảnh tĩnh, chưa review độc lập hoặc native AV. Owner chưa duyệt ảnh cụ thể, chưa mở video trả phí. Flow chi 0; budget gần nhất còn 221/500, dự phòng 110 đóng, không refresh tài khoản. Các mục dưới là lịch sử.
+
 ## Mới nhất — REC313 / 14-10-2026
 
 [313 — Tái thiết kế điểm nhìn, khung hình và nhịp cắt](313_EP01-visual-coverage-redesign-v1.md): owner không chấp nhận chất lượng quay/dựng rough312; đã cho chuẩn gói đề xuất. Có bảng chín nhịp đối chiếu ảnh gốc với sơ đồ bố cục, phân loại nguồn giữ/dựng lại/thiếu hình mới. Đây là PAPER_PROPOSAL, chờ chọn hướng quay; chưa ảnh tham chiếu mới, chưa video mới, chưa duyệt toàn phim. Không chi Flow, không mở dự phòng; sổ gần nhất còn221/500, không refresh tài khoản ở vòng313. Final30, món tại cut24s, đồng bộ hình–tiếng và review tổng thể vẫn mở. Các mục bên dưới là lịch sử, không phải trạng thái sẵn sàng hiện tại.

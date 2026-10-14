@@ -1,0 +1,54 @@
+{
+  "record": "REC314",
+  "date": "2026-10-14",
+  "status": "OPTION_A_APPROVED_FIRST_REFERENCE_PACKAGE_OWNER_PENDING",
+  "owner_direction": "A — selective viewpoints",
+  "owner_reply_verbatim": "a nhé",
+  "owner_specific_image_approval": false,
+  "new_paid_video_authorized": false,
+  "Flow_credit_cost": 0,
+  "image_generation_count": 7,
+  "static_candidates": [
+    "02_refs/coverage_A_314/K_memory_ENTRY_v1_FOR_REVIEW.png",
+    "02_refs/coverage_A_314/K_memory_v2_FOR_REVIEW.png",
+    "02_refs/coverage_A_314/D_question_v2_FOR_REVIEW.png"
+  ],
+  "discarded_generated": 4,
+  "completed_scope": "First memory entry/state and question close-up image package only; not all three continuity clusters",
+  "pending_clusters": [
+    "R04->R05->R06 caught/excuse",
+    "R07->R08->R09 receive/transfer/ending"
+  ],
+  "new_shared_table_master_selected": false,
+  "old_voice_changed": false,
+  "old_EDL_changed": false,
+  "new_video_generated": false,
+  "reviewer": "root static only",
+  "independent_review_report": null,
+  "source_state_comparison": "R01 rough312 F148 down-gaze -> K-entry down-gaze -> K-memory towards Dao; no measured native cut/motion validation",
+  "full_film_approved": false,
+  "final30_ready": false,
+  "budget": {
+    "basis": "REC312 last verified, not refreshed in REC314",
+    "spent": 279,
+    "limit": 500,
+    "remaining": 221,
+    "buckets": {
+      "first_pass": 66,
+      "retake": 0,
+      "post": 45,
+      "reserve_closed": 110
+    },
+    "reserve_opened": false,
+    "bucket_transfer": 0
+  },
+  "open_gates": [
+    "Owner review of draft likeness/shot scale/performance",
+    "Shared-table food source and geometry",
+    "Action reference clusters",
+    "New visual audio/AV route",
+    "Paid request quote/bucket authority",
+    "Exact assembled motion/cut/creative/AV audit",
+    "Final30 and finishing"
+  ]
+}

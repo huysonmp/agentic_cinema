@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Mới nhất — REC309 / 14-10-2026
+
+[309 — C08 đã tạo và kiểm đoạn cho món](episodes/ep01_pilot/309_C08-first-pass-native-and-silent-range-check.md): gói C06→C07 được owner duyệt tại308. C08 tạo đúng một lượt theo quyền238, chi7; còn228/500, tạo mới73, dự phòng110 đóng. Native được giữ nguyên; đoạn im tiếng 64 khung được root và reviewer kiểm độc lập, đủ dùng có điều kiện làm nguồn C09, chưa phải nghiệm thu toàn phim. Đuôi native hạ bát không chọn. Qua đoạn này dài34s; audit đã chỉ ra vùng đệm cần kiểm trước cắt. C09, food seam C05→C06, bản dựng thô và final30 còn mở. Các mục bên dưới là lịch sử.
+
 ## Mới nhất — REC307 / 14-10-2026
 
 [307 — Sửa local và gói nối đã kiểm](episodes/ep01_pilot/307_C07-local-mouth-repair-and-bundled-review.md): đã sửa đúng vùng miệng Khoai F5–14, giữ nguyên AAC/PCM của tiếng3s đã duyệt; 5 test scope đạt, decode72F. QA và EDIT đã lưu actual report, root đọc đủ: đủ trình một gói nối5s/120F, chưa production/AV PASS. Các lượt agent bị giới hạn sau khi ghi report; kiểm packet bổ sung do root tự đo, không gán cho reviewer. Chi Flow0;265/500/còn235, dự phòng110 đóng. Clearance/endpoint C08, food seam và final30 vẫn mở; EDL không đổi. Các mục bên dưới là snapshot lịch sử.

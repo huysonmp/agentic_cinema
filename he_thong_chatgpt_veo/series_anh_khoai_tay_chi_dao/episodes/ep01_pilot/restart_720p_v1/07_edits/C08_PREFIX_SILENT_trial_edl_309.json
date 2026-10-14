@@ -1,0 +1,26 @@
+{
+  "record": "REC309",
+  "status": "TECHNICAL_CANDIDATE_NOT_PRODUCTION_SELECTED",
+  "source": "05_native/EP01_720_C08_DEPOSIT_A_T01_NATIVE_309.mp4",
+  "source_sha256": "32542320b20b2c6dc2dd9673c0a6bec46c904e3e23917e0620d0baecf61efc0e",
+  "range_half_open": [
+    0,
+    64
+  ],
+  "fps": 24,
+  "seconds": 2.6666666666666665,
+  "output": "07_edits/C08_DEPOSIT_F0_F63_SILENT_REVIEW_309.mp4",
+  "output_sha256": "a152f5bf1b4070df58aede9c55d45226d8b5cd1ef91833e0807bd7a3d2f9a724",
+  "video_processing": "FRAME_TRIM_64_SAME_TIMING_REENCODE_LIBX264_CRF12",
+  "audio_processing": "REMOVE_ONLY_UNAPPROVED_C08_GENERATED_AUDIO_TO_MATCH_NO_DIALOGUE_QUIET_ACTION_TASK_NATIVE_PRESERVED",
+  "audio_source_approval_exists": false,
+  "approved_K20_D06_tracks_changed": false,
+  "silence_generated": false,
+  "output_audio_streams": 0,
+  "root_encoded64_stills_reviewed": true,
+  "root_full_encoded_exit_F63_viewed": true,
+  "selected_duration_pending_independent": true,
+  "global_EDL_changed": false,
+  "Flow_credit_debit_for_local": 0,
+  "release_authorized": false
+}

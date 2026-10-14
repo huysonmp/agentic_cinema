@@ -1,0 +1,33 @@
+{
+  "record": "REC309",
+  "date": "2026-10-14",
+  "status": "C08_NATIVE_TAIL_NOT_SELECTED_SILENT_PREFIX_CONDITIONAL_C09_SOURCE_ACTUAL_REVIEW_COMPLETE",
+  "root_report": "../309_C08-first-pass-native-and-silent-range-check.md",
+  "run": "04_requests/C08_DEPOSIT_A_T01_run_309.json",
+  "authority": "00_decisions/scoped-autonomy-238.json",
+  "independent_actual": "06_qc/C08_actual_fresh_independent_309.md",
+  "root_full_report_read": true,
+  "root_stills": "ALL96_NATIVE_ALL64_PREFIX_PLUS_FULLCRITICAL",
+  "native_sha256": "32542320b20b2c6dc2dd9673c0a6bec46c904e3e23917e0620d0baecf61efc0e",
+  "silent_prefix_sha256": "a152f5bf1b4070df58aede9c55d45226d8b5cd1ef91833e0807bd7a3d2f9a724",
+  "source_range_half_open": [
+    0,
+    64
+  ],
+  "owner_C08_approval": false,
+  "root_listening": false,
+  "continuous_AV_certified": false,
+  "Flow_submits": 1,
+  "Flow_credit_debit": 7,
+  "project_spent": 272,
+  "project_remaining": 228,
+  "buckets_remaining": {
+    "first_pass": 73,
+    "retake": 0,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "global_EDL_changed": false,
+  "release_authorized": false
+}

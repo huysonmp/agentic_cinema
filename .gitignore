@@ -43,3 +43,8 @@ uploads/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Ảnh sinh/QC theo tập (đã chốt ignore ngày 14/10/2026).
+he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/episodes/**/*.png
+he_thong_chatgpt_veo/series_anh_khoai_tay_chi_dao/episodes/**/*.jpg
+nhanh_claude/ep02/qc/

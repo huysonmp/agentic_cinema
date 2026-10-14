@@ -1,0 +1,19 @@
+{
+  "record": "REC312",
+  "date": "2026-10-14",
+  "owner_reply_verbatim": "A — Chấp nhận động tác mới, tiếp tục dựng thử (khuyến nghị)",
+  "question_scope": "ACCEPT_DAO_PUTTING_GLASS_ON_TABLE_AND_SUPPORTING_OWN_BOWL_WITH_BOTH_HANDS_IN_C09_FOR_ROUGH_TRIAL_NOT_FULL_FILM_APPROVAL",
+  "source": "05_native/EP01_720_C09_PICK_B_T01_NATIVE_311.mp4",
+  "source_sha256": "d06160b0efbb2ee5e7188d4748ffe3ae915abb0036b31ec12ae52788affd72e3",
+  "review_video_sha256": "68589b58fcc342fc1d72c111828c9bf430d4713a2ba9ee78ed60f57bc09f5958",
+  "exception": "DAO_GLASS_SET_DOWN_OUTER_HAND_JOINS_BOWL_SUPPORT_ALLOWED_FOR_ROUGH_TRIAL",
+  "A_stays_Dao_bowl_and_B_new_from_plate_required": true,
+  "C09_conforming_to_original_prompt": false,
+  "C09_range_approved": false,
+  "whole_episode_approved": false,
+  "new_generation_authorized": false,
+  "credit_spent": 0,
+  "next": "BUILD_ONE_LOCAL_ROUGH35_CANDIDATE_WITH_EXPLICIT_TRIAL_RANGES_AND_ACTUAL_ENCODED_CHECKS",
+  "owner_full_rough_and_final_checkpoints_retained": true,
+  "release_authorized": false
+}

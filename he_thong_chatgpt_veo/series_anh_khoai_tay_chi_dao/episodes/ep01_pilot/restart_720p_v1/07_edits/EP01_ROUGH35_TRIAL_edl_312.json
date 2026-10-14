@@ -1,0 +1,229 @@
+{
+  "record": "REC312",
+  "status": "ONE_LOCAL_ROUGH35_TRIAL_RENDERED_840F_NOT_SELECTED_ACTUAL_AV_PENDING",
+  "authority": [
+    "00_decisions/scoped-autonomy-238.json",
+    "00_decisions/rough-cut-35s-approval-264.json",
+    "00_decisions/C09-hand-role-exception-for-rough-312.json"
+  ],
+  "sources": [
+    {
+      "input": 0,
+      "path": "07_edits/OPENING_C03A_15p5S_QC_NOT_FINAL.mp4",
+      "sha256": "47b779559c643770a4cd63eb7ca5c65836df408d148a9eddd8789e51a8fb343d"
+    },
+    {
+      "input": 1,
+      "path": "07_edits/C03B_T01_F0_49_2p083S_FOR_REVIEW.mp4",
+      "sha256": "87a5d8639ce89ae6bfc4c99cc0f2e67ed7dd65737e57f5b2437634f5c091481c"
+    },
+    {
+      "input": 2,
+      "path": "05_native/EP01_720_C04_T02_NATIVE.mp4",
+      "sha256": "8ad98f21c0c904b01055d6f579900cd60c107a152a9166a8cfa563165a47a209"
+    },
+    {
+      "input": 3,
+      "path": "05_native/EP01_720_C05_T02_NATIVE.mp4",
+      "sha256": "3df61217ddf6d09792fe1e5991c3668d115ce5648c00802f196d87abe57d23df"
+    },
+    {
+      "input": 4,
+      "path": "07_edits/C06_C07_LOCAL_MOUTH_JOIN_5s_REVIEW_ONLY_307.mp4",
+      "sha256": "e97dd894d5225d64953145008494854fa154c691373b243e16490fdf41269fef"
+    },
+    {
+      "input": 5,
+      "path": "07_edits/C08_DEPOSIT_F0_F63_SILENT_REVIEW_309.mp4",
+      "sha256": "a152f5bf1b4070df58aede9c55d45226d8b5cd1ef91833e0807bd7a3d2f9a724"
+    },
+    {
+      "input": 6,
+      "path": "07_edits/C09_PICK_B_FULL_SILENT_REVIEW_ONLY_311.mp4",
+      "sha256": "68589b58fcc342fc1d72c111828c9bf430d4713a2ba9ee78ed60f57bc09f5958"
+    }
+  ],
+  "segments": [
+    {
+      "shot": "C01A_BM_BR",
+      "input": 0,
+      "range": [
+        0,
+        149
+      ],
+      "timeline": [
+        0,
+        149
+      ],
+      "audio_samples": [
+        0,
+        298000
+      ]
+    },
+    {
+      "shot": "C02",
+      "input": 0,
+      "range": [
+        165,
+        322
+      ],
+      "C02_source_range": [
+        16,
+        173
+      ],
+      "timeline": [
+        149,
+        306
+      ],
+      "audio_samples": [
+        330000,
+        644000
+      ],
+      "range_status": "NEW_TRIAL"
+    },
+    {
+      "shot": "C03A",
+      "input": 0,
+      "range": [
+        330,
+        372
+      ],
+      "timeline": [
+        306,
+        348
+      ],
+      "audio_samples": [
+        660000,
+        744000
+      ]
+    },
+    {
+      "shot": "C03B",
+      "input": 1,
+      "range": [
+        0,
+        50
+      ],
+      "timeline": [
+        348,
+        398
+      ],
+      "audio_samples": [
+        0,
+        100000
+      ]
+    },
+    {
+      "shot": "C04",
+      "input": 2,
+      "range": [
+        12,
+        124
+      ],
+      "timeline": [
+        398,
+        510
+      ],
+      "audio": "STEREO_SILENCE_224000_SAMPLES_MATCH_QC_TREATMENT_NOT_FINAL_MIX",
+      "range_status": "NEW_TRIAL"
+    },
+    {
+      "shot": "C05",
+      "input": 3,
+      "range": [
+        0,
+        66
+      ],
+      "timeline": [
+        510,
+        576
+      ],
+      "audio_samples": [
+        0,
+        132000
+      ]
+    },
+    {
+      "shot": "C06_C07_EXACT_ACCEPTED_BLOCK308",
+      "input": 4,
+      "range": [
+        0,
+        120
+      ],
+      "timeline": [
+        576,
+        696
+      ],
+      "internal_cut_frame": 624,
+      "audio_samples": [
+        0,
+        240000
+      ],
+      "range_unchanged": true
+    },
+    {
+      "shot": "C08",
+      "input": 5,
+      "range": [
+        0,
+        64
+      ],
+      "timeline": [
+        696,
+        760
+      ],
+      "audio": "STEREO_SILENCE_128000_NO_DIALOGUE",
+      "source_status": "CONDITIONAL_ACTUAL_STILL_SOURCE"
+    },
+    {
+      "shot": "C09",
+      "input": 6,
+      "range": [
+        8,
+        88
+      ],
+      "timeline": [
+        760,
+        840
+      ],
+      "audio": "STEREO_SILENCE_160000_NO_DIALOGUE",
+      "range_status": "NEW_TRIAL",
+      "hand_role_exception": "REC312",
+      "ending_open_eye_frames": 8
+    }
+  ],
+  "expected_video_frames": 840,
+  "fps": 24,
+  "expected_seconds": 35,
+  "expected_audio_samples_per_channel": 1680000,
+  "cuts_zero_based": [
+    81,
+    99,
+    149,
+    306,
+    348,
+    398,
+    510,
+    576,
+    624,
+    696,
+    760
+  ],
+  "target": "07_edits/EP01_ROUGH35_TRIAL_v1_NOT_FINAL_312.mp4",
+  "target_sha256": "44bd2c591a00f085b8d4c4e4e69c5a25fb9d4f4357e7dbc76263ca068fec1e66",
+  "filter_artifact": "07_edits/EP01_ROUGH35_TRIAL_filter_312.txt",
+  "audio": "SOURCE_SYNCHRONOUS_FRAME_AND_SAMPLE_TRIMS_REENCODE_AAC192K_NO_NEW_VOICE_GAIN_PITCH_SPEED_OR_DIALOGUE",
+  "audio_reencoded_not_bit_exact": true,
+  "video": "LIBX264_CRF16_720p24fps_YUV420P_NO_CROP_OR_SPEED",
+  "no_source_overwrite": true,
+  "Flow_credit_cost": 0,
+  "credits_spent_project": 279,
+  "project_remaining": 221,
+  "owner_rough_approval": false,
+  "source_C09_original_contract_pass": false,
+  "final30_pass": false,
+  "food_C05_C06_seam": "OPEN",
+  "continuous_AV_certified": false,
+  "global_approved_EDL_replaced": false,
+  "release_authorized": false
+}

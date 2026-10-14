@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — REC312 / 14-10-2026
+
+[312 — Bản dựng thô 35 giây để xem tổng thể](312_EP01-rough35-owner-review-package.md): C09 tạo một lượt tại311, chi7; owner chấp nhận đặt cốc/đỡ bát hai tay chỉ để dựng thử. Đã xuất rough720p/840khung/35s, nguồn tiếng giữ, hình–tiếng cắt đồng thời; root kiểm hình và đo nguồn PCM. Kiểm độc lập exact rough chưa có report cuối, không báo PASS. Food seam khoảng24s và nhịp kết ngắn còn mở; chưa final30 hoặc finishing/hiển thị AI. Dựng chi0, dự án279/500/còn221, dự phòng110đóng. Chờ owner xem nhịp tổng thể; các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC309 / 14-10-2026
 
 [309 — C08 đã tạo và kiểm đoạn cho món](309_C08-first-pass-native-and-silent-range-check.md): gói C06→C07 được owner duyệt tại308. C08 tạo đúng một lượt theo quyền238, chi7; còn228/500, tạo mới73, dự phòng110 đóng. Native được giữ nguyên; đoạn im tiếng 64 khung được root và reviewer kiểm độc lập, đủ dùng có điều kiện làm nguồn C09, chưa phải nghiệm thu toàn phim. Đuôi native hạ bát không chọn. Qua đoạn này dài34s; audit đã chỉ ra vùng đệm cần kiểm trước cắt. C09, food seam C05→C06, bản dựng thô và final30 còn mở. Các mục bên dưới là lịch sử.

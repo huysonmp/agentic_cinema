@@ -1,0 +1,23 @@
+{
+  "record": "REC311",
+  "status": "REVIEW_ONLY_NOT_SELECTED_OWNER_EXCEPTION_REQUIRED_FOR_HAND_ROLE_CHANGE",
+  "source": "05_native/EP01_720_C09_PICK_B_T01_NATIVE_311.mp4",
+  "source_sha256": "d06160b0efbb2ee5e7188d4748ffe3ae915abb0036b31ec12ae52788affd72e3",
+  "source_range_half_open": [0, 96],
+  "output": "07_edits/C09_PICK_B_FULL_SILENT_REVIEW_ONLY_311.mp4",
+  "output_sha256": "68589b58fcc342fc1d72c111828c9bf430d4713a2ba9ee78ed60f57bc09f5958",
+  "video_processing": "COPY_UNCHANGED_VIDEO_BITSTREAM_NO_REENCODE",
+  "decoded_native_and_silent_framemd5_equal": true,
+  "frames": 96,
+  "fps": 24,
+  "seconds": 4,
+  "audio_processing": "DROP_UNAPPROVED_GENERATED_C09_AUDIO_FROM_SEPARATE_QUIET_REVIEW_ONLY_NATIVE_PRESERVED",
+  "output_audio_streams": 0,
+  "approved_K20_D06_tracks_changed": false,
+  "native_decode_and_derivative_decode_clean": true,
+  "root_actual_hearing": false,
+  "continuous_AV_certified": false,
+  "global_EDL_changed": false,
+  "credit_cost_for_local_derivative": 0,
+  "release_authorized": false
+}

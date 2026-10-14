@@ -1,0 +1,28 @@
+{
+  "record": "REC306",
+  "date": "2026-10-14",
+  "status": "EXACT_3S_AUDIO_OWNER_APPROVED_VISUAL_REPAIR_DECISION_PENDING_C08_HOLD",
+  "root_report": "../306_C07-audio-approved-visual-repair-decision.md",
+  "authority": "00_decisions/C07-two-ref-3s-audio-owner-acceptance-306.json",
+  "previous_run": "04_requests/C07_RECEIVE_TWOREF_T01_run_305.json",
+  "previous_actual_review": "06_qc/C07_TWOREF_actual_independent_305.md",
+  "owner_approved_audio_clip_sha256": "7a7d2bc4d4fdd7a4ec220daa67477e3063583d1b2f9366a089318b9ab1104e18",
+  "owner_approved_N07": true,
+  "visual_mouth_exception_approved": false,
+  "local_visual_repair_authorized": false,
+  "local_media_edits": 0,
+  "paid_submits": 0,
+  "Flow_credit_debit": 0,
+  "project_spent": 265,
+  "project_remaining": 235,
+  "buckets_remaining": {
+    "first_pass": 80,
+    "retake": 0,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve110": "CLOSED",
+  "production_EDL_changed": false,
+  "C08_authorized": false,
+  "release_authorized": false
+}

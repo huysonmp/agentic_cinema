@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Mới nhất — REC306 / 14-10-2026
+
+[306 — Chốt tiếng, quyết định sửa hình](episodes/ep01_pilot/306_C07-audio-approved-visual-repair-decision.md): owner duyệt riêng tiếng Đào/D06, đủ N07 và nhịp của đúng bản xem 3 giây REC305; hash đã kiểm lại. Khẩu hình Khoai vẫn chưa đạt, range hình/AV và C08 chưa duyệt. Đề xuất thử sửa cục bộ vùng miệng bằng local, giữ nguyên tiếng, không tốn credit Flow; đang chờ quyết định, chưa sửa media hoặc chạy mới. Sổ 265/500, còn 235; tạo mới 80 / tạo lại 0 / hậu kỳ 45 / dự phòng 110 đóng. Các mục bên dưới giữ snapshot lịch sử.
+
 ## Mới nhất — REC305 / 14-10-2026
 
 [305 — C07 native và cổng range](episodes/ep01_pilot/305_C07-two-reference-native-check-and-range-hold.md): owner duyệt chuyển2 và một lượt7, đã chạy/tải gốc720p/96F/hash/decode, debit đúng7. Identity và tay/cốc cải thiện, nhưng Khoai mở miệng đầu và bát thứ ba xuất hiện từF77; root và reviewer chưa chọn toàn nguồn. Bản3s chỉ để kiểm tiếng, vẫn giữ lỗi miệng; owner tiếng đang chờ, C08/EDL HOLD. Sổ265/500, còn235; tạo mới80/tạo lại0/hậu kỳ45/dự phòng110 đóng. REC304 là gói live đã kiểm trước chạy; các mục bên dưới giữ snapshot lịch sử.

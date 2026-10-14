@@ -1,0 +1,39 @@
+{
+  "record": "REC306",
+  "date": "2026-10-14",
+  "owner_reply_verbatim": "Đúng D06 xuyên suốt, đủ lời và nhịp chấp nhận được",
+  "question_verbatim": "Anh nghe bản C07 3 giây vừa gửi: có đúng một giọng Đào/D06 xuyên suốt, đủ câu “Thế em quay lại đúng lúc rồi.” và âm cuối rõ không? Đây chỉ kiểm tiếng; Khoai mở miệng đầu cảnh vẫn là lỗi hình chưa được duyệt, không chốt range hoặc toàn phim.",
+  "target": {
+    "path": "C:/Users/PC/Downloads/du_an_nem_bui/305_C07_RECEIVE_TWOREF_T01/C07_TWOREF_0_3s_REVIEW_ONLY_305.mp4",
+    "sha256": "7a7d2bc4d4fdd7a4ec220daa67477e3063583d1b2f9366a089318b9ab1104e18",
+    "hash_reverified_this_record": true,
+    "source_native_sha256": "12a0baa2d7ccedfaa16631b7cddd2c4331480e4fa8784880403eb425a8fb397b",
+    "range": "[0,72)",
+    "seconds": 3
+  },
+  "approved": [
+    "ONE_DAO_D06_VOICE_THROUGHOUT_EXACT_REVIEW_CLIP",
+    "COMPLETE_N07_INCLUDING_ENDING_SOUND",
+    "ACCEPTABLE_SPEECH_PACING"
+  ],
+  "not_approved": [
+    "KHOAI_VISUAL_MOUTH_MOVEMENTS_F5_F14",
+    "LIP_SYNC_OR_FULL_AV",
+    "PRODUCTION_RANGE_OR_ENTRY_EXIT_SEAM",
+    "FULL_4S_NATIVE_OR_NEW_MEDIA",
+    "C08_INPUT",
+    "FULL_FILM_EDL_OR_RELEASE",
+    "NEW_PAID_GENERATION_RETRY_BUDGET_TRANSFER_RESERVE"
+  ],
+  "listening_authority": "OWNER_EXACT_REVIEW_CLIP_NOT_ROOT_OR_REVIEWER_LISTENING",
+  "Flow_credit_debit": 0,
+  "project_spent": 265,
+  "project_remaining": 235,
+  "buckets_remaining": {
+    "first_pass": 80,
+    "retake": 0,
+    "post_rough": 45,
+    "reserve": 110
+  },
+  "reserve_status": "CLOSED"
+}

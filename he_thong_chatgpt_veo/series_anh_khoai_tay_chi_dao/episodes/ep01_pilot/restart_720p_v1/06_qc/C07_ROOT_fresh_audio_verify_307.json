@@ -1,0 +1,11 @@
+{
+  "record": "REC307",
+  "check": "ROOT_FRESH_AUDIO_VERIFY_AFTER_REVIEW",
+  "approved_audio_packets": 142,
+  "output_audio_packets": 142,
+  "packet_payload_hashes_and_pts_dts_duration_equal": true,
+  "decoded_s16le_pcm_exact_equal": true,
+  "decoded_pcm_bytes": 576000,
+  "decoded_pcm_sha256": "ae70a7bc1b0b1f3cb40f57065a2a0e6835c0485b585ad48dd37bed0176d45fcf",
+  "root_actual_listening": false
+}

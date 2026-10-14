@@ -1,5 +1,9 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
+## Mới nhất — REC307 / 14-10-2026
+
+[307 — Sửa local và gói nối đã kiểm](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/307_C07-local-mouth-repair-and-bundled-review.md): đã sửa đúng vùng miệng Khoai F5–14, giữ nguyên AAC/PCM của tiếng3s đã duyệt; 5 test scope đạt, decode72F. QA và EDIT đã lưu actual report, root đọc đủ: đủ trình một gói nối5s/120F, chưa production/AV PASS. Các lượt agent bị giới hạn sau khi ghi report; kiểm packet bổ sung do root tự đo, không gán cho reviewer. Chi Flow0;265/500/còn235, dự phòng110 đóng. Clearance/endpoint C08, food seam và final30 vẫn mở; EDL không đổi. Các mục bên dưới là snapshot lịch sử.
+
 ## Mới nhất — REC306 / 14-10-2026
 
 [306 — Chốt tiếng, quyết định sửa hình](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/306_C07-audio-approved-visual-repair-decision.md): owner duyệt riêng tiếng Đào/D06, đủ N07 và nhịp của đúng bản xem 3 giây REC305; hash đã kiểm lại. Khẩu hình Khoai vẫn chưa đạt, range hình/AV và C08 chưa duyệt. Đề xuất thử sửa cục bộ vùng miệng bằng local, giữ nguyên tiếng, không tốn credit Flow; đang chờ quyết định, chưa sửa media hoặc chạy mới. Sổ 265/500, còn 235; tạo mới 80 / tạo lại 0 / hậu kỳ 45 / dự phòng 110 đóng. Các mục bên dưới giữ snapshot lịch sử.

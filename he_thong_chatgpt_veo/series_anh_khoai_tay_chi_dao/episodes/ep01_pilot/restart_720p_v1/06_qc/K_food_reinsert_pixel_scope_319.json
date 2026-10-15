@@ -1,0 +1,24 @@
+{
+  "record": "REC319",
+  "pair": [
+    "K_FOOD_CLEAR_v1_EDIT_ONLY.png",
+    "K_EXCUSE_HAND_v3_CANDIDATE.png"
+  ],
+  "shape": [
+    1673,
+    940,
+    3
+  ],
+  "food_ROI_xyxy": [
+    315,
+    1000,
+    485,
+    1180
+  ],
+  "ROI_is_approximate_screen_region_not_segmentation": true,
+  "outside_ROI_exact_RGB_changed_pixel_fraction": 0.9883185691495571,
+  "outside_ROI_mean_abs_channel_delta_0_255": 2.1506191013519063,
+  "pixel_lock": false,
+  "semantic_identity_or_continuity_pass_inferred": false,
+  "image_edits_performed": false
+}

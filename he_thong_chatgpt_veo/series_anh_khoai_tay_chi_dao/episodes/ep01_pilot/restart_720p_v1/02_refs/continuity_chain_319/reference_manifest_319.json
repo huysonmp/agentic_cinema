@@ -1,0 +1,152 @@
+{
+  "record": "REC319",
+  "date": "2026-10-15",
+  "tool": "Built-in image_gen",
+  "generated_outputs_received": 9,
+  "Flow_credit_cost": 0,
+  "pixel_edits_after_generation": false,
+  "images": [
+    {
+      "file": "K_EXCUSE_HAND_v1_CANDIDATE.png",
+      "sha256": "8cc3ab6d9b37dfd915bab9db5c68ad599cd74b3382ca1670d034f22c648da81a",
+      "width": 940,
+      "height": 1672,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-16c2f613-a61a-41f3-9e26-1da5c4c5fd78.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/T_CAUGHT_END_v1_CANDIDATE.png",
+        "02_refs/caught_excuse_315/K_EXCUSE_HAND_v1_FOR_REVIEW.png"
+      ],
+      "prompt_file": "K_EXCUSE_HAND_v1_prompt.txt",
+      "status": "NOT_SELECTED_FOOD_APPEARANCE_HELD_A"
+    },
+    {
+      "file": "K_EXCUSE_HAND_v2_CANDIDATE.png",
+      "sha256": "38aa734c5098af1881f62c3568804eaf6f93d0dda1ea178dff0ddb0ae5cb93fa",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-191ea073-2177-4ab9-a599-c062591b1aef.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/K_EXCUSE_HAND_v1_CANDIDATE.png",
+        "02_refs/continuity_chain_319/T_CAUGHT_END_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "K_EXCUSE_HAND_v2_prompt.txt",
+      "status": "NOT_SELECTED_SAME_FOOD_APPEARANCE_ISSUE"
+    },
+    {
+      "file": "K_EXCUSE_HAND_v3_CANDIDATE.png",
+      "sha256": "3ea846ce6d734cf39deafdd36a02f18a1aa764878cf9b00a0fb88cb991c78444",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-b26d60bf-4798-40ff-8ab3-17062eb7d853.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/K_FOOD_CLEAR_v1_EDIT_ONLY.png",
+        "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg",
+        "02_refs/continuity_chain_319/T_CAUGHT_END_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "K_EXCUSE_HAND_v3_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE_FOOD_CONTINUITY_STILL_OPEN"
+    },
+    {
+      "file": "K_FOOD_CLEAR_v1_EDIT_ONLY.png",
+      "sha256": "a069639ac7b9954839e31030af757fe46a2622e21e3788daa5f906b761dd1d73",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-6e7e95a6-1826-4c92-9320-831701d2a2b2.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/K_EXCUSE_HAND_v2_CANDIDATE.png"
+      ],
+      "prompt_file": "K_FOOD_CLEAR_intermediate_prompt.txt",
+      "status": "EDIT_INTERMEDIATE_FORBIDDEN_AS_STORY_STATE"
+    },
+    {
+      "file": "S1_RECEIVER_READY_v1_CANDIDATE.png",
+      "sha256": "1030fdfbab2b5c9397e7ee418f06a2755b1196e4a94bcc5043e335b29dd3cafd",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-83c7ac61-5597-406c-b677-755d72d8b4c7.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/T_CAUGHT_END_v1_CANDIDATE.png",
+        "02_refs/receive_ending_316/S1_READY_HANDSHIFT_VARIANT_FOR_REVIEW.png"
+      ],
+      "prompt_file": "S1_RECEIVER_READY_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE"
+    },
+    {
+      "file": "S2_AFTER_DEPOSIT_v1_CANDIDATE.png",
+      "sha256": "5264d09928c136b56b183295aadf67f1422f52c7361feed358376f759e1244ac",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-a30fa1cb-eeb0-4639-9e42-9f9570fa1965.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/S1_RECEIVER_READY_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "S2_AFTER_DEPOSIT_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE"
+    },
+    {
+      "file": "S3_NEW_B_ENDING_v1_CANDIDATE.png",
+      "sha256": "741083495320bb6a69abeb8990fd1f090e78327328c667d4ebeb198c7e2947c7",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-b87f1312-7baa-4be4-a608-0f28f512dd05.png",
+      "input_images_ordered": [
+        "02_refs/continuity_chain_319/S2_AFTER_DEPOSIT_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "S3_NEW_B_ENDING_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE"
+    },
+    {
+      "file": "T_CAUGHT_END_v1_CANDIDATE.png",
+      "sha256": "9860e554ccf82765e5618c64003815012dbee837f6e65c95efb8cc393ffa5d1a",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-e8042e26-29a5-4024-b754-a891792fa96c.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R04_EXIT_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "T_CAUGHT_END_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE"
+    },
+    {
+      "file": "T_CONFIRM_A_v1_CANDIDATE.png",
+      "sha256": "9e0cf2524674d6494c1b1261a6a1ef9938b7f98881b71a90d7b5cb1d515f5b02",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-68056c25-01b5-4612-9564-d1141496073c.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R04_EXIT_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "T_CONFIRM_A_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE"
+    }
+  ],
+  "selected_story_order": [
+    "T_CONFIRM_A_v1_CANDIDATE.png",
+    "T_CAUGHT_END_v1_CANDIDATE.png",
+    "K_EXCUSE_HAND_v3_CANDIDATE.png",
+    "S1_RECEIVER_READY_v1_CANDIDATE.png",
+    "S2_AFTER_DEPOSIT_v1_CANDIDATE.png",
+    "S3_NEW_B_ENDING_v1_CANDIDATE.png"
+  ],
+  "common_shared_camera_parent": "02_refs/coverage_completion_318/R04_EXIT_v1_CANDIDATE.png",
+  "prior_approvals_scope": "315/316 identity, acting and pose intentions; 317 accepted post-N06 handshift only. Approval does not propagate to new bytes.",
+  "owner_specific_new_images_approved": false,
+  "old_images_or_EDL_replaced": false,
+  "new_video_or_voice": false,
+  "paid_generation_authorized": false,
+  "physical_geometry_or_motion_verified": false,
+  "food_exact_match_or_conservation_verified": false,
+  "new_camera_native_lipsync_verified": false,
+  "final30_ready": false,
+  "editor_only_empty_tips_forbidden_as_R06_source": true,
+  "scope": "Root static candidates only; no whole-film, format, native cut, voice or AV PASS"
+}

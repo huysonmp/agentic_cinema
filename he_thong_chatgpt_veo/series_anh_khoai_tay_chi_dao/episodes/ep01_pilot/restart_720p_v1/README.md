@@ -1,6 +1,10 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
-## Mới nhất — REC318 / 15-10-2026
+## Mới nhất — REC320 / 15-10-2026
+
+[320 — C02 cận ký ức native](../320_C02-memory-closeup-native-and-owner-checkpoint.md): `04_requests/C02_COVERAGE_K20_T01_320_request.json` lưu input/preset/prompt và đối soát một debit 12; `06_qc/run-registry-320.json` ghi native hash/format/full decode/ASR và giới hạn kiểm ảnh mẫu. Chờ owner C02 AV checkpoint, không tự chạy lại, chưa đổi EDL. Sổ 291/500 đã chi, còn 209 = tạo mới 66 + tạo lại 0 + coverage 33 + dự phòng 110 đóng. [319](../319_EP01-continuity-reference-chain.md) có sáu ảnh ứng viên từ chín output, giữ hai bản món lỗi và intermediate riêng; món/geometry/motion/AV/final30 còn mở.
+
+## Lịch sử — REC318 / 15-10-2026
 
 [318 — Bù ảnh mở đầu/tranh thủ, xác minh voiceFlow](../318_EP01-opening-and-opportunity-reference-package.md): `02_refs/coverage_completion_318/reference_manifest_318.json` ghi8output/8prompt/nguồn/hash, bốn rootcandidate. `06_qc/flow_live_318/observations_318.json` phân biệt savedvoice đã thấy và routeWAV/miệng chưa biết; AXvoice lưu là diff, có ảnhUI thực. `09_lessons/REC318_framing_repair_and_interrupt_safe_logging.md` ghi nguyên nhân giả thuyết/cách sửa và lưu prompt trước call dài. Không paid/video/voice/EDL mới, Flow0; chưa owner/production approval cho bộ mới, chưa close seam/format/motion/AV/final30. Các mục dưới giữ lịch sử.
 

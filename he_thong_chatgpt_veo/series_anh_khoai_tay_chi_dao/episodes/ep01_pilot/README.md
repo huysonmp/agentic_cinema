@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Mới nhất — REC318 / 15-10-2026
+## Mới nhất — REC320 / 15-10-2026
+
+[320 — C02 cận ký ức native](320_C02-memory-closeup-native-and-owner-checkpoint.md): đã chạy một lượt theo quyền coverage REC238, tải native 720×1280/24fps/8s, full decode sạch, ASR khớp hai câu. Root mới kiểm ảnh mẫu; chưa duyệt K20/diễn/khẩu hình hoặc điểm nối. Chi 12; sổ còn 209/500, coverage 33, dự phòng 110 đóng. [319 — Chuỗi tham chiếu](319_EP01-continuity-reference-chain.md) gồm sáu still candidates; không phải nguồn video320, chưa native continuity PASS. Nguồn/EDL cũ giữ nguyên.
+
+## Lịch sử — REC318 / 15-10-2026
 
 [318 — Bộ ảnh mở đầu/tranh thủ và kiểm saved voice live](318_EP01-opening-and-opportunity-reference-package.md): có bốn ứng viên R01-start và ba stateR04 từ tám output đã lưu nguyên byte. Đã sửa khoảng hở cốc/rau, log từng prompt/nguồn và nhánh không chọn. Hai presetK20/D06 còn trên đúng projectFlow; chưa route exactWAV/lipsync mới. Root kiểm still, chưa agent độc lập/production PASS; seam khung/món với315/316, format940×1673 và timing30 còn mở. Flow0, không video/voice/EDL mới. Các mục dưới giữ lịch sử.
 

@@ -1,0 +1,20 @@
+{
+  "record":"REC319",
+  "date":"2026-10-15",
+  "status":"SIX_STATIC_CHAIN_CANDIDATES_NATIVE_CONTINUITY_AND_FOOD_MATCH_OPEN",
+  "reference_manifest":"02_refs/continuity_chain_319/reference_manifest_319.json",
+  "pixel_scope_check":"06_qc/K_food_reinsert_pixel_scope_319.json",
+  "imagegen_outputs_received":9,
+  "root_selected_static_candidates":6,
+  "not_selected_K_food_variants":2,
+  "edit_only_empty_tips_intermediate":1,
+  "intermediate_allowed_as_story_state":false,
+  "root_static_review":true,
+  "independent_agent_review":false,
+  "owner_specific_new_images_approved":false,
+  "physical_geometry_motion_food_conservation_or_AV_pass":false,
+  "old_images_or_EDL_replaced":false,
+  "Flow_cost_for_reference_work":0,
+  "related_paid_work_must_be_accounted_separately":"REC320",
+  "owner_handoff_directory":"C:/Users/PC/Downloads/du_an_nem_bui/319_CONTINUITY_CHAIN_REFS"
+}

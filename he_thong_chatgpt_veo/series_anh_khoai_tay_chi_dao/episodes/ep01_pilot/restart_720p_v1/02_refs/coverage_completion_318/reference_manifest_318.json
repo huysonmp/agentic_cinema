@@ -1,0 +1,141 @@
+{
+  "record": "REC318",
+  "date": "2026-10-15",
+  "tool": "Built-in image_gen",
+  "generated_outputs_received": 8,
+  "interrupted_call": {
+    "target": "R01_START_v5",
+    "output_returned": false,
+    "recovery": "No new output file found before one reissued call; only the successful returned result is counted",
+    "not_same_as_Flow_generation": true
+  },
+  "Flow_credit_cost": 0,
+  "pixel_edits_after_generation": false,
+  "new_video_or_voice": false,
+  "paid_generation_authorized": false,
+  "owner_specific_new_images_approved": false,
+  "images": [
+    {
+      "file": "R01_START_v1_NOT_SELECTED.png",
+      "sha256": "0d152ca29ae67d45fb47ae55354b9cdace82dcaafffe90fbf6eaf7e386b4df68",
+      "width": 941,
+      "height": 1672,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-00c37556-c9c2-4e38-b281-d3b202c49748.png",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png",
+        "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg",
+        "02_refs/coverage_A_314/R01_EXIT_F148_UNEDITED_NOT_NEW_MASTER.png"
+      ],
+      "prompt_file": "R01_START_v1_prompt.txt",
+      "status": "NOT_SELECTED_CROPPED_GLASS_AND_HERBS"
+    },
+    {
+      "file": "R01_START_v2_NOT_SELECTED.png",
+      "sha256": "2c22db04e16bb230ceb99645983c90a4e837a1ecb5479f81fdad66a558f173f4",
+      "width": 941,
+      "height": 1672,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-9452546e-972a-40cc-b259-4ec7f002650b.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R01_START_v1_NOT_SELECTED.png"
+      ],
+      "prompt_file": "R01_START_v2_prompt.txt",
+      "status": "NOT_SELECTED_EDGE_CLEARANCE_STILL_FAILS"
+    },
+    {
+      "file": "R01_START_v3_NOT_SELECTED.png",
+      "sha256": "23dfd979575b34e119917c9ae62335fe165b64aa1de42adf593486837698c379",
+      "width": 941,
+      "height": 1672,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-ccc9e00a-e342-4b37-a92c-331e784c37e4.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R01_START_v1_NOT_SELECTED.png"
+      ],
+      "prompt_file": "R01_START_v3_prompt.txt",
+      "status": "NOT_SELECTED_HERB_PLATE_LEFT_EDGE_STILL_CLIPPED"
+    },
+    {
+      "file": "R01_START_v4_INTERMEDIATE.png",
+      "sha256": "3fbdaa6b682681bbe035bfc719de5047688d1fbc21735568c745518a03bbe382",
+      "width": 940,
+      "height": 1672,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-44b4571f-7f3a-443f-ace6-21aca687f745.png",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png",
+        "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg",
+        "02_refs/coverage_completion_318/R01_START_v3_NOT_SELECTED.png"
+      ],
+      "prompt_file": "R01_START_v4_prompt.txt",
+      "status": "INTERMEDIATE_WIDER_ESTABLISHING_GLASS_STILL_CLIPPED"
+    },
+    {
+      "file": "R01_START_v5_CANDIDATE.png",
+      "sha256": "aa37494174d5380557d36b4e843843dd233f2c82772ef2bae4a2ab030d673341",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-71c0f6e6-c6d5-4686-b740-14dcc38a1cbf.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R01_START_v4_INTERMEDIATE.png"
+      ],
+      "prompt_file": "R01_START_v5_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE_NOT_OWNER_OR_PRODUCTION_APPROVAL"
+    },
+    {
+      "file": "R04_ENTRY_v1_CANDIDATE.png",
+      "sha256": "9a3bdb9ecd1eaf085519e2c0bdfd5591d589ec21957eb250bbbd699bdec85f47",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-82fc450b-cde5-44db-a303-3b63829c3670.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R01_START_v5_CANDIDATE.png"
+      ],
+      "prompt_file": "R04_ENTRY_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE_NOT_NATIVE_ENTRY"
+    },
+    {
+      "file": "R04_EXIT_v1_CANDIDATE.png",
+      "sha256": "db81a22c288f1f5d095990d67e92f801bc8df1b4e99241fe3bc90c19bcdc92a5",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-4b50071b-986d-4d3e-ab35-a5c14c7458b3.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R04_ENTRY_v1_CANDIDATE.png",
+        "02_refs/C05_START_from_C04_T02_selected_F143_263.png"
+      ],
+      "prompt_file": "R04_EXIT_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE_NOT_NATIVE_EXIT"
+    },
+    {
+      "file": "R04_MID_OPPORTUNITY_v1_CANDIDATE.png",
+      "sha256": "7ed51aeb3beebc5bfc3ca8a2ae8221488cc55cfa8d1b5d149c349e701a960a9a",
+      "width": 940,
+      "height": 1673,
+      "exact_9_16": false,
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-4d0999dd-d0d7-4643-bd1b-ae6ddfc28932.png",
+      "input_images_ordered": [
+        "02_refs/coverage_completion_318/R04_EXIT_v1_CANDIDATE.png"
+      ],
+      "prompt_file": "R04_MID_OPPORTUNITY_v1_prompt.txt",
+      "status": "ROOT_STATIC_CANDIDATE_NOT_PROOF_OF_CAUSAL_MOTION"
+    }
+  ],
+  "story_order": [
+    "R01_START_v5_CANDIDATE.png",
+    "R04_ENTRY_v1_CANDIDATE.png",
+    "R04_MID_OPPORTUNITY_v1_CANDIDATE.png",
+    "R04_EXIT_v1_CANDIDATE.png"
+  ],
+  "generation_order_note": "R04_MID generated after R04_EXIT; generation order is not story/edit order",
+  "food_exact_match": false,
+  "camera_geometry_verified": false,
+  "native_motion_verified": false,
+  "format720p_verified": false,
+  "final30_verified": false,
+  "scope": "Static pose/composition candidates; continuity with prior close/caught/receive shots remains open. No owner approval propagation."
+}

@@ -1,5 +1,9 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
+## Mới nhất — REC318 / 15-10-2026
+
+[318 — Bù ảnh mở đầu/tranh thủ, xác minh voiceFlow](../318_EP01-opening-and-opportunity-reference-package.md): `02_refs/coverage_completion_318/reference_manifest_318.json` ghi8output/8prompt/nguồn/hash, bốn rootcandidate. `06_qc/flow_live_318/observations_318.json` phân biệt savedvoice đã thấy và routeWAV/miệng chưa biết; AXvoice lưu là diff, có ảnhUI thực. `09_lessons/REC318_framing_repair_and_interrupt_safe_logging.md` ghi nguyên nhân giả thuyết/cách sửa và lưu prompt trước call dài. Không paid/video/voice/EDL mới, Flow0; chưa owner/production approval cho bộ mới, chưa close seam/format/motion/AV/final30. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC317 / 15-10-2026
 
 [317 — Chốt A và audit storyboard toàn tập](../317_whole-episode-storyboard-and-production-gap-audit.md): S1–S3/dịch tay nhẹ sau N06 đã duyệt hướng, không paid video. `00_decisions/receive-ending-handshift-approval-317.json` khóa exact hash/scope. `06_qc/storyboard_provenance_timing_audit_317.json` kiểm9ảnh/7nguồn/C02/rough và range; `02_refs/coverage_completion_317/production-input-brief.md` bù brief R01/R04 và cổng audio, hai ảnh món thật đã xem/hash. Rough35s không là final30; món/C04/camera/motion/AV vẫn HOLD. Không native/voice/EDL mới; 8 test công cụ không là AV PASS. Flow0; gần nhất221/500/reserve110đóng, chưa refresh live. Các mục dưới giữ lịch sử.

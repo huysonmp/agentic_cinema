@@ -1,0 +1,33 @@
+{
+  "record": "REC318",
+  "date": "2026-10-15",
+  "source": "Root transcription of actual cua_repl accessibility output and saved screenshot, not an API export or hidden state",
+  "project_url": "https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6",
+  "project_title": "EP01 Nem Bùi — Khoai & Đào — 720p v1",
+  "account_seen": "cutebabyshop2026@gmail.com",
+  "tier_seen": "PRO",
+  "saved_voices_seen": [
+    {"name": "EP01_Dao_D06_Aoede_720p_v1", "field_id_seen": "6dadc0b1-00c3-493c-943d-f4a1e4a88feb-sample-dialogue", "sample_seen": "Em chỉ định quay sang nhìn phố một chút, thế mà anh đã gắp mất miếng nem ngon nhất rồi. Ơ kìa! Cho em thật à?", "direction_seen": "Adult female, natural Hanoi Northern Vietnamese, open curious approachable playful, not child/MC/advertising/celebrity imitation, feminine mid register, expressive longer/shorter lines"},
+    {"name": "EP01_Khoai_K20_Orus_720p_v1", "field_id_seen": null, "direction_seen": "Adult male around33, natural Hanoi Northern Vietnamese, warm rounded lower-mid register, intimate conversational pacing, soft at mẹ rang gạo, self-deprecating smile, restrained embarrassment on Anh gắp cho em mà"}
+  ],
+  "voice_added_to_prompt": false,
+  "voice_name_or_description_edited": false,
+  "voice_preview_clicked": false,
+  "new_audio_created": false,
+  "saved_AX_file_caveat": "saved_voices_AX_318.txt contains only a later AX diff for preview readiness, not the full voice panel. Do not treat that file alone as the preset text evidence; observations above are transcribed from the earlier tool output. Screenshot preserves actual panel context.",
+  "screenshot": "saved_voices_UI_318.png",
+  "model_group_menu_seen": ["Omni 1.1 Flash", "Veo 3.1 - Lite", "Veo 3.1 - Fast", "Veo 3.1 - Quality"],
+  "selected_model_not_inferred_from_menu_order": true,
+  "temporary_UI_change": "Frames to Ingredients to inspect saved voices; Frames restored",
+  "original_non_route_settings": {"mode": "Video", "orientation": "9:16", "resolution": "720p", "duration_seconds": 8, "outputs": 1, "Agent": false},
+  "empty_input_quote_seen": 12,
+  "quote_not_validated_for_new_production_request": true,
+  "uploads_or_new_inputs_attached": false,
+  "submit_clicked": false,
+  "Flow_credit_debit_by_agent": 0,
+  "account_balance_refreshed": false,
+  "exact_WAV_driven_lipsync_capability": "UNKNOWN_FROM_INSPECTED_UI",
+  "native_saved_voice_quality_or_lipsync_new_take_pass": false,
+  "tools_catalog_seen": {"Stringout Creator": "Stitch multiple video clips together"},
+  "tools_not_run": true
+}

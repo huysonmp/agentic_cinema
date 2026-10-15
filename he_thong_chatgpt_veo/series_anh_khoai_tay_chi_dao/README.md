@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Mới nhất — REC318 / 15-10-2026
+
+[318 — Ảnh mở đầu và chuỗi tranh thủ](episodes/ep01_pilot/318_EP01-opening-and-opportunity-reference-package.md): đã tạo/lưu tám ảnh, bốn ứng viên gồm R01-start/R04-entry/mid/exit, đúng vai bát/cốc/đũa/A theo kiểm tĩnh. SavedK20/D06 được thấy trực tiếp trên Flow; không sửa hoặc tạo voice. Chưa native/gate định dạng/AV, chưa owner duyệt ảnh mới, chưa xử lý xong seam qua bộ315/316. Chi Flow0, không paid request hoặc đổi ngân sách. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC317 / 15-10-2026
 
 [317 — Chốt A, storyboard toàn tập và khoảng thiếu sản xuất](episodes/ep01_pilot/317_whole-episode-storyboard-and-production-gap-audit.md): đã duyệt hướng S1–S3 và dịch tay nhẹ sau N06; không paid video. Storyboard chín nhịp có bản đồ thoại/nguồn/range và sổ điểm nối; hash/đếm khung đã kiểm, rough35s chưa là final30. Có brief nguồn món/master R01/cặp R04; hai ảnh món thật đã xem/hash. Camera cùng bàn, món, motion, route voice/miệng và timing còn mở; 8 test công cụ không là AV hoặc nghiệm thu phim. Flow0, chưa thay EDL/voice hoặc mở dự phòng. Các mục dưới là lịch sử.

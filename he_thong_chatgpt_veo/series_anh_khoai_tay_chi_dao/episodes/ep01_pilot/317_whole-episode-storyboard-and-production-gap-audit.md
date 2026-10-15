@@ -2,6 +2,8 @@
 
 Ngày 15/10/2026. **Đã chốt hướng dàn cảnh; chưa đủ đầu vào để chạy loạt video mới.** Đây là bản tích hợp để làm việc, không phải EDL mới hoặc phim đã duyệt. Không yêu cầu owner duyệt lại chín ảnh đã chốt.
 
+Cập nhật [REC318](318_EP01-opening-and-opportunity-reference-package.md): đã có ứng viên ảnh R01-start và R04-entry/mid/exit, cùng kiểm savedK20/D06 trên Flow thực. Đây là tiến triển chuẩn bị G1/G4, không đóng production gap hoặc tự duyệt ảnh mới. Bộ318 phải đối soát seam với315/316; exactWAV/lipsync và final30 vẫn mở. Các mục dưới giữ bản audit317.
+
 ## 1. Kết luận và phạm vi quyết định
 
 Owner trả lời “ok”, sau đó xác nhận “a”: chọn phương án A của REC316. Khoai được dịch/nâng tay kẹp nhẹ **sau câu “Anh gắp cho em mà.”**, khi Đào đưa bát riêng lên. A vẫn kẹp, chưa vào miệng, chưa thả, không quay về đĩa chung. S1/S2/S3 được chấp nhận về hướng tư thế và reference, không phải nghiệm thu chất liệu món, chuyển động hoặc video.

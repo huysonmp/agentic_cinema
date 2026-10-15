@@ -1,0 +1,13 @@
+Browser tab: 1, Title: "Google Flow – EP01 Nem Bùi — Khoai & Đào — 720p v1", URL: "https://flow.google.com/project/bcb1f53c-13b6-4719-b866-01348dfcddd6".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 178-179
+~		2 link Description: Skip to main content, Value: flow.google.com/#main-content
++						214 button Bắt đầu
++						215 button Hoán đổi khung hình đầu tiên và cuối cùng
++						216 button Kết thúc
++						217 text entry area (settable) Description: Bạn muốn tạo những gì?, Value:
+
+~				191 radio button Khung hình, Value: 1, ID: mat-button-toggle-31-button
+~				192 radio button Thành phần, Value: 0, ID: mat-button-toggle-32-button
+~			213 link Description: 12 tín dụng, Value: support.google.com/googleone?p=g1_ai_credit_menu
+The focused UI element is 191 radio button Khung hình, Value: 1, ID: mat-button-toggle-31-button

@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — REC318 / 15-10-2026
+
+[318 — Bộ ảnh mở đầu/tranh thủ và kiểm saved voice live](318_EP01-opening-and-opportunity-reference-package.md): có bốn ứng viên R01-start và ba stateR04 từ tám output đã lưu nguyên byte. Đã sửa khoảng hở cốc/rau, log từng prompt/nguồn và nhánh không chọn. Hai presetK20/D06 còn trên đúng projectFlow; chưa route exactWAV/lipsync mới. Root kiểm still, chưa agent độc lập/production PASS; seam khung/món với315/316, format940×1673 và timing30 còn mở. Flow0, không video/voice/EDL mới. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC317 / 15-10-2026
 
 [317 — Storyboard tích hợp và audit trước sản xuất](317_whole-episode-storyboard-and-production-gap-audit.md): đã ghi owner chọn A cho bộS1/S2/S3/dịch tay sau N06. Chín nhịp có mục đích quay/diễn, đúng vai K20/D06, nguồn/range thật và gate điểm nối. Hash9ảnh/7nguồnEDL/C02/rough khớp; rough840F/35s, cần giảm120F nhưng chưa speech-minimum/EDL30. Có brief R01/R04, hai ảnh món thật đã xem/hash. Chưa đủ nguồn/route AV/motion/final30 để chạy loạt; không paid video, không review độc lập mới. Flow0; sổ gần nhất221/500, dự phòng110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.

@@ -1,5 +1,9 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
+## Mới nhất — REC318 / 15-10-2026
+
+[318 — Khung đầu tập và bộ tranh thủ có ảnh thực](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/318_EP01-opening-and-opportunity-reference-package.md): tám output imagegen đã lưu, root chọn bốn ứng viên R01-start và R04-entry/mid/exit. Đã sửa bố cục cốc/rau theo các nhánh có log, giữ ảnh lỗi/intermediate, không tự chuyển thành owner/production approval. Flow mở đúng project, hai savedK20/D06 còn nguyên; chưa chứng minh WAV cũ điều khiển miệng mới. Không video/voice/EDL mới, Flow0; seam318→315/316, món, format, motion/AV và final30 còn mở. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC317 / 15-10-2026
 
 [317 — Chốt A, storyboard toàn tập và khoảng thiếu sản xuất](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/317_whole-episode-storyboard-and-production-gap-audit.md): owner “ok” rồi “a” duyệt hướng S1–S3/dịch tay nhẹ sau N06, không paid video. Đã tích hợp chín nhịp, khóa vai/thoại/voice, bản đồ range thật và sổ điểm nối. Kiểm hash chín ảnh/bảy nguồnEDL/C02/rough; rough840F/35s, chưa EDL30. Có brief R01/R04 và hai nguồn món thật đã xem/hash; nguồn món, camera, audio/lipsync, motion và final30 vẫn HOLD. 8 test kiểm số học đạt, không AV/agent độc lập PASS. Chi Flow0, sổ gần nhất còn221/500/dự phòng110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.

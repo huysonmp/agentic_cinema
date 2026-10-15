@@ -1,0 +1,31 @@
+{
+  "record": "REC316",
+  "date": "2026-10-15",
+  "owner_reply_verbatim": "a",
+  "interpretation": "Affirmative to the immediately preceding request to approve the three REC315 references for blocking, composition and performance tone",
+  "approved_images": [
+    {
+      "file": "02_refs/caught_excuse_315/T_CONFIRM_A_v1_FOR_REVIEW.png",
+      "sha256": "837e0ca1e59cfb530b29aff8d4eaee05b4198a77a9667de682cca618f72dcd86"
+    },
+    {
+      "file": "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png",
+      "sha256": "191bc25bc81a827706a48eda3270c7a17063588e8552003aa90dd4cf3adead30"
+    },
+    {
+      "file": "02_refs/caught_excuse_315/K_EXCUSE_HAND_v1_FOR_REVIEW.png",
+      "sha256": "1e0426274a5690b5ea40dfcda471ce4dd1393aa2132001ab687a3b16e2a8e09e"
+    }
+  ],
+  "scope": "Exact draft images for blocking/composition/performance direction; continue receive-transfer-ending reference preparation",
+  "not_approved": [
+    "Paid video generation",
+    "New voice or line changes",
+    "Final 720p framing",
+    "Native cut/motion/AV",
+    "C04 endpoint change",
+    "Whole film or new image outputs",
+    "Reserve opening or budget transfer"
+  ],
+  "Flow_credit_cost": 0
+}

@@ -1,0 +1,94 @@
+{
+  "record": "REC316",
+  "date": "2026-10-15",
+  "tool": "Built-in image_gen",
+  "generated_count": 5,
+  "pixel_edits_after_generation": false,
+  "native_dimensions": [
+    941,
+    1672
+  ],
+  "exact_9_16": false,
+  "Flow_credit_cost": 0,
+  "approved_prior_references": "00_decisions/caught-excuse-reference-approval-316.json",
+  "new_images_or_handshift_approved": false,
+  "strict_fixed_holding_hand_brief_pass": false,
+  "images": [
+    {
+      "file": "S1_RECEIVER_READY_v1_NOT_SELECTED.png",
+      "sha256": "df5b318c93ec5264e16e7b825bf465b0a92d67b2519a5b3802007ee11776f8d9",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-8e66b63f-4f71-411a-b844-ed95fda4b9a3.png",
+      "prompt_file": "S1_RECEIVER_READY_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png"
+      ],
+      "status": "STRICT_BRIEF_NOT_SELECTED",
+      "note": "Raised/extended Khoai holding arm unexpectedly"
+    },
+    {
+      "file": "S1_RECEIVER_READY_v2_NOT_SELECTED.png",
+      "sha256": "34174d9fd7f329bee98d1abcbf894f81e7f0da16908dcc5d7ea7cebf4eb85ac2",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-0526228b-5a4d-44ef-91ee-df62a030037e.png",
+      "prompt_file": "S1_RECEIVER_READY_v2_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/receive_ending_316/S1_RECEIVER_READY_v1_NOT_SELECTED.png",
+        "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png"
+      ],
+      "status": "STRICT_BRIEF_NOT_SELECTED",
+      "note": "Did not restore original holding-hand position; same bytes also proposed as explicitly changed-blocking variant"
+    },
+    {
+      "file": "S1_RECEIVER_READY_v3_NOT_SELECTED.png",
+      "sha256": "43e9ff11507db70ed559e5d7d43c5115845dd0706d5a5efe19be5780e41ce698",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-4fbe53d6-2a99-4cee-8e32-5e52363fb350.png",
+      "prompt_file": "S1_RECEIVER_READY_v3_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png"
+      ],
+      "status": "STRICT_BRIEF_NOT_SELECTED",
+      "note": "Holding pose closer to source but receiving bowl/supporting hand visually too close to Khoai resting hand; clearance not accepted"
+    },
+    {
+      "file": "S2_AFTER_DEPOSIT_v1_FOR_REVIEW.png",
+      "sha256": "97ea5c84eb0d84b99f5ac5a97ac337e26e42a0da67c645eb1a3f62bccaec5068",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-627acb6c-ed7f-4181-98ad-fd258d3d4227.png",
+      "prompt_file": "S2_AFTER_DEPOSIT_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/receive_ending_316/S1_READY_HANDSHIFT_VARIANT_FOR_REVIEW.png"
+      ],
+      "status": "VARIANT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "A inside Dao bowl, tips empty, glass still outer hand; depends on proposed handshift variant"
+    },
+    {
+      "file": "S3_NEW_B_ENDING_v1_FOR_REVIEW.png",
+      "sha256": "78795d1e5d4e2003a78d7d0edff183573dd322f2937b169e4c3694fa83831bce",
+      "generated_original": "C:/Users/PC/.codex/generated_images/01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744/exec-314e1af2-c879-4c78-8285-b5b3cbbe586f.png",
+      "prompt_file": "S3_NEW_B_ENDING_v1_prompt.txt",
+      "input_images_ordered": [
+        "02_refs/receive_ending_316/S2_AFTER_DEPOSIT_v1_FOR_REVIEW.png"
+      ],
+      "status": "VARIANT_STATIC_CANDIDATE_OWNER_PENDING",
+      "note": "A stays in Dao bowl, proposed new B held by Khoai on own side, closed-mouth mutual smiles; actual B pickup not shown by this still"
+    }
+  ],
+  "unchanged_copies": [
+    {
+      "file": "S0_PRE_RECEIVE_T315_UNEDITED.png",
+      "source": "02_refs/caught_excuse_315/T_CAUGHT_END_v1_FOR_REVIEW.png",
+      "sha256": "191bc25bc81a827706a48eda3270c7a17063588e8552003aa90dd4cf3adead30",
+      "role": "Same-state shared-camera design anchor, not native exit of K close-up"
+    },
+    {
+      "file": "S1_READY_HANDSHIFT_VARIANT_FOR_REVIEW.png",
+      "source": "02_refs/receive_ending_316/S1_RECEIVER_READY_v2_NOT_SELECTED.png",
+      "sha256": "34174d9fd7f329bee98d1abcbf894f81e7f0da16908dcc5d7ea7cebf4eb85ac2",
+      "role": "Byte-identical alternative blocking proposal only; NOT retroactive strict-brief pass or owner approval"
+    }
+  ],
+  "candidate_order": [
+    "S1_READY_HANDSHIFT_VARIANT_FOR_REVIEW.png",
+    "S2_AFTER_DEPOSIT_v1_FOR_REVIEW.png",
+    "S3_NEW_B_ENDING_v1_FOR_REVIEW.png"
+  ],
+  "scope": "Pose/state design only, including a not-yet-approved holding-hand shift. No native continuity, physical clearance, voice, lipsync, timing or whole-film certification."
+}

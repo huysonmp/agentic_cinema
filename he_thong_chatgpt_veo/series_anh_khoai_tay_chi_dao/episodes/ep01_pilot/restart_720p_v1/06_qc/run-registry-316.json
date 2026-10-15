@@ -1,0 +1,55 @@
+{
+  "record": "REC316",
+  "date": "2026-10-15",
+  "status": "PRIOR_REFS_APPROVED_RECEIVE_ENDING_VARIANT_OWNER_DECISION_REQUIRED",
+  "owner_reply_verbatim": "a",
+  "previous_approval": "00_decisions/caught-excuse-reference-approval-316.json",
+  "prior_exact_REC315_images_approved_for_direction": true,
+  "strict_fixed_holding_hand_brief_pass": false,
+  "proposed_handshift_variant_approved": false,
+  "new_specific_images_approved": false,
+  "image_generation_count": 5,
+  "extra_alias_copies": 1,
+  "extra_prior_reference_copies": 1,
+  "Flow_credit_cost": 0,
+  "proposed_candidates": [
+    "02_refs/receive_ending_316/S1_READY_HANDSHIFT_VARIANT_FOR_REVIEW.png",
+    "02_refs/receive_ending_316/S2_AFTER_DEPOSIT_v1_FOR_REVIEW.png",
+    "02_refs/receive_ending_316/S3_NEW_B_ENDING_v1_FOR_REVIEW.png"
+  ],
+  "review_scope": "Root full static images, dimensions/hash/lineage; no independent report, native motion/cut/physical clearance/voice/AV pass",
+  "new_video_generated": false,
+  "new_voice_generated": false,
+  "EDL_changed": false,
+  "pixel_lock": false,
+  "C09_glass_set_down_exception_inherited": false,
+  "all_reference_inputs_ready": false,
+  "whole_film_approved": false,
+  "final30_ready": false,
+  "paid_generation_authorized": false,
+  "budget": {
+    "basis": "REC312 last verified, not refreshed live on 2026-10-15",
+    "spent": 279,
+    "limit": 500,
+    "remaining": 221,
+    "buckets": {
+      "first_pass": 66,
+      "retake": 0,
+      "post": 45,
+      "reserve_closed": 110
+    },
+    "reserve_opened": false,
+    "bucket_transfer": 0
+  },
+  "open": [
+    "Owner choice: accept post-N06 handshift with packet, or keep holding arm fixed",
+    "S0->S1 actual bowl/arm bridge and physical clearance",
+    "S1->S2 one release to correct bowl",
+    "S2->S3 actual new-B pickup and bowl return",
+    "R01/R04 visual-source/food and C04 boundary reconciliation",
+    "New-camera audio/lipsync plan",
+    "Actual storyboard timing and final30",
+    "Request quote/bucket authorization",
+    "Exact-export independent/creative/AV reviews"
+  ]
+}

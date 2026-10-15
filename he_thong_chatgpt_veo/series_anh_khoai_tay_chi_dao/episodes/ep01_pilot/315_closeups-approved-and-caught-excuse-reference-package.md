@@ -2,6 +2,8 @@
 
 Ngày 14/10/2026. **Ba ảnh REC314 được owner duyệt về nhận diện, thần thái và hướng bố cục. Ba ảnh cụm mới dưới đây chưa được duyệt; không có video trả phí.**
 
+Cập nhật 15/10, REC316: owner trả lời “a”, duyệt đúng ba ảnh dưới đây về dàn cảnh/bố cục/thần thái. Phần dưới giữ hồ sơ lúc trình; scope và gói nhận/kết mới ở [REC316](316_receive-transfer-ending-variant-reference-package.md). Không tự duyệt video hoặc thay đổi biên C04.
+
 ## 1. Quyết định đã ghi
 
 Owner trả lời “ok nhé” cho câu hỏi duyệt đúng bộ K-entry v1, K-memory v2 và D-question v2. File/hash và phạm vi được ghi tại `restart_720p_v1/00_decisions/first-closeup-reference-approval-315.json`.

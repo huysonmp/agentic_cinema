@@ -1,5 +1,9 @@
 # Series Anh Khoai Tây & Chị Đào
 
+## Mới nhất — REC316 / 15-10-2026
+
+[316 — Cụm nhận/kết đề xuất biến thể, cần chốt dàn cảnh](episodes/ep01_pilot/316_receive-transfer-ending-variant-reference-package.md): đã ghi owner “a” duyệt đúng ba ảnh REC315 về dàn cảnh/bố cục/thần thái. Năm ảnh mới cho nhận–kết; brief giữ tay kẹp cố định chưa đạt đồng thời clearance. V2 giữ riêng như một biến thể dịch tay sau N06, không đổi nhãn thành đạt brief cũ. Bộ S1→S2→S3 và thay đổi này chưa duyệt; có A trong bát/tips trống, rồi A còn và B mới/nhìn nhau ở still. Chưa native motion, AV, final30 hoặc toàn bộ nguồn hình sẵn sàng; không thừa kế ngoại lệ đặt cốc rough312. Flow chi 0; sổ gần nhất còn 221/500, dự phòng 110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC315 / 14-10-2026
 
 [315 — Cận đầu đã duyệt, cụm bắt gặp/chữa cháy chờ duyệt](episodes/ep01_pilot/315_closeups-approved-and-caught-excuse-reference-package.md): owner chấp nhận đúng ba ảnh REC314 về nhận diện/thần thái/hướng bố cục. Cụm mới có ba ứng viên: Đào liếc vùng A, hai người nhìn nhau, cận Khoai vẫn thấy tay/đũa/A. Đã tạo năm ảnh, giữ một bản lỗi và một bản trung gian làm evidence. Root kiểm still/hash/RGB; không có review độc lập mới hoặc native AV. F143 làm mốc tư thế khác exit F123 của rough312, cần đối soát trước dựng. Chưa duyệt ảnh cụm mới, chưa cụm nhận/kết, chưa paid video hoặc final30. Flow chi 0; sổ gần nhất còn 221/500, dự phòng 110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.

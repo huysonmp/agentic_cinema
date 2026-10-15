@@ -1,0 +1,39 @@
+{
+  "record": "REC317",
+  "date": "2026-10-15",
+  "owner_replies_verbatim_in_order": ["ok", "a"],
+  "reply_to": "REC316 choice A: accept slight post-N06 holding-arm shift and develop storyboard plus source, dialogue, timing and seam audit",
+  "decision": "APPROVED_OPTION_A_BLOCKING_REFERENCE_DIRECTION_ONLY",
+  "holding_arm_shift": {
+    "allowed": true,
+    "timing": "After Khoai says Anh gắp cho em mà, as Dao raises her own bowl",
+    "limits": "A stays held until the receive/deposit beat; no early release, mouth contact or return to shared plate"
+  },
+  "approved_images": [
+    {
+      "file": "02_refs/receive_ending_316/S1_READY_HANDSHIFT_VARIANT_FOR_REVIEW.png",
+      "sha256": "34174d9fd7f329bee98d1abcbf894f81e7f0da16908dcc5d7ea7cebf4eb85ac2"
+    },
+    {
+      "file": "02_refs/receive_ending_316/S2_AFTER_DEPOSIT_v1_FOR_REVIEW.png",
+      "sha256": "97ea5c84eb0d84b99f5ac5a97ac337e26e42a0da67c645eb1a3f62bccaec5068"
+    },
+    {
+      "file": "02_refs/receive_ending_316/S3_NEW_B_ENDING_v1_FOR_REVIEW.png",
+      "sha256": "78795d1e5d4e2003a78d7d0edff183573dd322f2937b169e4c3694fa83831bce"
+    }
+  ],
+  "scope": "Blocking and reference direction of the three exact stills; continue whole-episode storyboard and gap audit without reopening prior image approvals",
+  "strict_fixed_holding_hand_brief_pass": false,
+  "historical_REC316_records_preserved": true,
+  "does_not_approve": [
+    "Paid video or voice generation",
+    "Production food likeness or pixel continuity",
+    "Camera geometry, motion, native cuts or lipsync",
+    "C04 range extension or new EDL",
+    "Final30 timing or whole-film release",
+    "C09 rough312 glass-set-down exception in new coverage",
+    "Budget transfer or reserve opening"
+  ],
+  "Flow_credit_cost": 0
+}

@@ -1,0 +1,48 @@
+{
+  "record": "REC317",
+  "date": "2026-10-15",
+  "status": "STORYBOARD_INTEGRATED_PRODUCTION_INPUTS_HOLD",
+  "owner_decision": "00_decisions/receive-ending-handshift-approval-317.json",
+  "owner_option_A_accepted": true,
+  "approved_scope": "S1-S3 pose/reference direction and post-N06 slight holding-arm shift",
+  "paper_artifact": "../317_whole-episode-storyboard-and-production-gap-audit.md",
+  "preparation_brief": "02_refs/coverage_completion_317/production-input-brief.md",
+  "provenance_timing_evidence": "06_qc/storyboard_provenance_timing_audit_317.json",
+  "technical_tests_passed": 8,
+  "technical_test_scope": "EDL arithmetic and invalid-range rejection, not AV or film quality",
+  "root_review": "Read-only hashes, ffprobe decoded counts, EDL arithmetic, approved stills plus historical endpoint evidence",
+  "independent_agent_review": false,
+  "new_images_generated": 0,
+  "new_video_generated": false,
+  "new_voice_generated": false,
+  "continuous_motion_review": false,
+  "audio_listening": false,
+  "new_EDL_written": false,
+  "food_photos_seen_and_hashed": [
+    {"path": "C:/Users/PC/Downloads/du_an_nem_bui/nembui.jpg", "sha256": "a51303f7100edd0944dc00daa19402fecfe24bb0e15a4143da8f8eae7b9e3a2d"},
+    {"path": "C:/Users/PC/Downloads/du_an_nem_bui/z7750931050074_6fa76793489e54e476846aad4d233684_806643377.jpg", "sha256": "1237956e99458385f95f1edf18e0a98e1bddb777030ac1d69fab05fa7a51d741"}
+  ],
+  "paid_generation_authorized": false,
+  "Flow_credit_cost": 0,
+  "historical_REC314_to_316_manifests_edited": false,
+  "production_inputs_ready": false,
+  "final30_ready": false,
+  "whole_film_approved": false,
+  "owner_handoff_directory": "C:/Users/PC/Downloads/du_an_nem_bui/317_STORYBOARD_GAP_AUDIT",
+  "budget": {
+    "basis": "REC312 last verified; not refreshed live in REC317",
+    "spent": 279,
+    "limit": 500,
+    "remaining": 221,
+    "first_pass": 66,
+    "retake": 0,
+    "post": 45,
+    "reserve_closed": 110,
+    "transfer": 0
+  },
+  "next": [
+    "R01 master and R04 food/source entry-exit preparation per brief",
+    "Actual audio-route capability and accepted-source inventory before paid speech shots",
+    "Measured timing and native seam gates, not a fabricated final30 EDL"
+  ]
+}

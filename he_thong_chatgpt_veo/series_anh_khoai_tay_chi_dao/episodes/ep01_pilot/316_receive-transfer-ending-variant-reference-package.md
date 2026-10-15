@@ -2,6 +2,8 @@
 
 Ngày 15/10/2026. **Đã ghi nhận duyệt bộ REC315; bộ mới và biến thể dịch tay dưới đây chưa duyệt. Không mở video trả phí.**
 
+Cập nhật REC317: owner trả lời “ok”, rồi “a”, chốt phương án A — dịch tay nhẹ sau N06 và bộ S1/S2/S3 về hướng tư thế/reference. [Storyboard toàn tập và audit317](317_whole-episode-storyboard-and-production-gap-audit.md) là trạng thái hiện hành. Phần dưới giữ lịch sử lúc trình; không biến approval thành nghiệm thu món/motion/AV hoặc quyền chạy trả phí.
+
 ## 1. Phạm vi đã chốt và quyết định mới
 
 Owner trả lời “a” cho câu hỏi gần nhất về duyệt ba ảnh REC315 theo dàn cảnh/bố cục/thần thái. Đã ghi nguyên văn, file/hash và phạm vi tại `00_decisions/caught-excuse-reference-approval-316.json`. Không suy thành duyệt video, voice mới, đổi biên C04 hoặc mở ngân sách.

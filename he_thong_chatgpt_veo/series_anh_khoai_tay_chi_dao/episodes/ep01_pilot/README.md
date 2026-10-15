@@ -1,5 +1,9 @@
 # EP01 — Pilot
 
+## Mới nhất — REC317 / 15-10-2026
+
+[317 — Storyboard tích hợp và audit trước sản xuất](317_whole-episode-storyboard-and-production-gap-audit.md): đã ghi owner chọn A cho bộS1/S2/S3/dịch tay sau N06. Chín nhịp có mục đích quay/diễn, đúng vai K20/D06, nguồn/range thật và gate điểm nối. Hash9ảnh/7nguồnEDL/C02/rough khớp; rough840F/35s, cần giảm120F nhưng chưa speech-minimum/EDL30. Có brief R01/R04, hai ảnh món thật đã xem/hash. Chưa đủ nguồn/route AV/motion/final30 để chạy loạt; không paid video, không review độc lập mới. Flow0; sổ gần nhất221/500, dự phòng110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC316 / 15-10-2026
 
 [316 — Cụm nhận/kết đề xuất biến thể, cần chốt dàn cảnh](316_receive-transfer-ending-variant-reference-package.md): đã ghi owner “a” duyệt đúng ba ảnh REC315 về dàn cảnh/bố cục/thần thái. Năm ảnh mới cho nhận–kết; brief giữ tay kẹp cố định chưa đạt đồng thời clearance. V2 giữ riêng như một biến thể dịch tay sau N06, không đổi nhãn thành đạt brief cũ. Bộ S1→S2→S3 và thay đổi này chưa duyệt; có A trong bát/tips trống, rồi A còn và B mới/nhìn nhau ở still. Chưa native motion, AV, final30 hoặc toàn bộ nguồn hình sẵn sàng; không thừa kế ngoại lệ đặt cốc rough312. Flow chi 0; sổ gần nhất còn 221/500, dự phòng 110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.

@@ -1,5 +1,9 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
+## Mới nhất — REC317 / 15-10-2026
+
+[317 — Chốt A và audit storyboard toàn tập](../317_whole-episode-storyboard-and-production-gap-audit.md): S1–S3/dịch tay nhẹ sau N06 đã duyệt hướng, không paid video. `00_decisions/receive-ending-handshift-approval-317.json` khóa exact hash/scope. `06_qc/storyboard_provenance_timing_audit_317.json` kiểm9ảnh/7nguồn/C02/rough và range; `02_refs/coverage_completion_317/production-input-brief.md` bù brief R01/R04 và cổng audio, hai ảnh món thật đã xem/hash. Rough35s không là final30; món/C04/camera/motion/AV vẫn HOLD. Không native/voice/EDL mới; 8 test công cụ không là AV PASS. Flow0; gần nhất221/500/reserve110đóng, chưa refresh live. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC316 / 15-10-2026
 
 [316 — Cụm nhận/kết đề xuất biến thể, cần chốt dàn cảnh](../316_receive-transfer-ending-variant-reference-package.md): đã ghi owner “a” duyệt đúng ba ảnh REC315 về dàn cảnh/bố cục/thần thái. Năm ảnh mới cho nhận–kết; brief giữ tay kẹp cố định chưa đạt đồng thời clearance. V2 giữ riêng như một biến thể dịch tay sau N06, không đổi nhãn thành đạt brief cũ. Bộ S1→S2→S3 và thay đổi này chưa duyệt; có A trong bát/tips trống, rồi A còn và B mới/nhìn nhau ở still. Chưa native motion, AV, final30 hoặc toàn bộ nguồn hình sẵn sàng; không thừa kế ngoại lệ đặt cốc rough312. Flow chi 0; sổ gần nhất còn 221/500, dự phòng 110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.

@@ -1,5 +1,9 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
+## Mới nhất — REC317 / 15-10-2026
+
+[317 — Chốt A, storyboard toàn tập và khoảng thiếu sản xuất](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/317_whole-episode-storyboard-and-production-gap-audit.md): owner “ok” rồi “a” duyệt hướng S1–S3/dịch tay nhẹ sau N06, không paid video. Đã tích hợp chín nhịp, khóa vai/thoại/voice, bản đồ range thật và sổ điểm nối. Kiểm hash chín ảnh/bảy nguồnEDL/C02/rough; rough840F/35s, chưa EDL30. Có brief R01/R04 và hai nguồn món thật đã xem/hash; nguồn món, camera, audio/lipsync, motion và final30 vẫn HOLD. 8 test kiểm số học đạt, không AV/agent độc lập PASS. Chi Flow0, sổ gần nhất còn221/500/dự phòng110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.
+
 ## Mới nhất — REC316 / 15-10-2026
 
 [316 — Cụm nhận/kết đề xuất biến thể, cần chốt dàn cảnh](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/316_receive-transfer-ending-variant-reference-package.md): đã ghi owner “a” duyệt đúng ba ảnh REC315 về dàn cảnh/bố cục/thần thái. Năm ảnh mới cho nhận–kết; brief giữ tay kẹp cố định chưa đạt đồng thời clearance. V2 giữ riêng như một biến thể dịch tay sau N06, không đổi nhãn thành đạt brief cũ. Bộ S1→S2→S3 và thay đổi này chưa duyệt; có A trong bát/tips trống, rồi A còn và B mới/nhìn nhau ở still. Chưa native motion, AV, final30 hoặc toàn bộ nguồn hình sẵn sàng; không thừa kế ngoại lệ đặt cốc rough312. Flow chi 0; sổ gần nhất còn 221/500, dự phòng 110 đóng, chưa refresh live. Các mục dưới giữ lịch sử.

@@ -1,0 +1,9 @@
+{
+  "record": "REC322",
+  "source_sha256": "68d595328bfd858b998583ee56584e20643393c6f3497b3aeb4c47c02afa57b0",
+  "start_seconds": 28.5,
+  "sample_values": 596000,
+  "nonzero_sample_values": 0,
+  "max_abs": 0.0,
+  "meaning": "Unprompted ASR subscribe sentence in this silent tail is a machine hallucination, not output dialogue"
+}

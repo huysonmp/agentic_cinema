@@ -1,0 +1,72 @@
+ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 16.2.0 (Rev3, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-cairo --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-openal --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      61.  1.102 / 61.  1.102
+  libavcodec     63.  1.102 / 63.  1.102
+  libavformat    63.  1.102 / 63.  1.102
+  libavdevice    63.  1.102 / 63.  1.102
+  libavfilter    12.  1.102 / 12.  1.102
+  libswscale     10.  1.102 / 10.  1.102
+  libswresample   7.  1.102 /  7.  1.102
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'D:\Workspace\agentic_cinema\he_thong_chatgpt_veo\series_anh_khoai_tay_chi_dao\episodes\ep01_pilot\restart_720p_v1\07_edits\EP01_REUSE_CUT_v1_322_FOR_REVIEW.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf63.1.102
+  Duration: 00:00:34.71, start: 0.000000, bitrate: 2316 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/iec61966-2-1, progressive), 720x1280 [SAR 1:1 DAR 9:16], 2190 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc63.1.102 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 120 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 0000011ed8f23e80] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf63.1.102
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+      handler_name    : SoundHandler
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 0
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 0.421417 | silence_duration: 0.421417
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 1.114875
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 2.193479 | silence_duration: 1.078604
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 4.016958
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 6.110042 | silence_duration: 2.093083
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 6.111208
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 6.461271 | silence_duration: 0.350062
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 8.412583
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 9.581833 | silence_duration: 1.16925
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 10.158042
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 10.727729 | silence_duration: 0.569688
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 11.472188
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 12.070208 | silence_duration: 0.598021
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 12.794437
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 13.699958 | silence_duration: 0.905521
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 14.413979
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 14.839396 | silence_duration: 0.425417
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 15.797333
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 21.998833 | silence_duration: 6.2015
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 23.319083
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 24.297667 | silence_duration: 0.978583
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 25.210354
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 25.985396 | silence_duration: 0.775042
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_start: 27.565562
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] n_samples: 3332000
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] mean_volume: -19.7 dB
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] max_volume: -0.2 dB
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] histogram_0db: 135
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] histogram_1db: 334
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] histogram_2db: 1057
+[Parsed_volumedetect_0 @ 0000011ed8eb6b40] histogram_3db: 2567
+[Parsed_silencedetect_1 @ 0000011ed8eb6c40] silence_end: 34.708333 | silence_duration: 7.142771
+[out#0/null @ 0000011ed715b340] video:0KiB audio:6508KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:34.70 bitrate=N/A speed= 797x elapsed=0:00:00.04

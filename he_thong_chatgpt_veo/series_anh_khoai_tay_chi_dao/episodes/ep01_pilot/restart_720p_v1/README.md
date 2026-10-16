@@ -1,6 +1,10 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
-## Mới nhất — REC321 / 16-10-2026
+## Mới nhất — REC322 / 16-10-2026
+
+[322 — Đã render bản xem chung](../322_consolidated-reuse-cut-for-review.md): `07_edits/EP01_REUSE_CUT_v1_322_FOR_REVIEW.mp4`, hash `68d59532…`,833F/34,708s. EDL/filter mới riêng, C02 từ320 chưa owner acceptance, không lồng tiếng cũ lên miệng mới. `06_qc/REUSE_CUT_322/verification_322.json` ghi technical/PCM/ảnh export; ASR local đủ lời, hallucination đuôi được kiểm silence riêng. Chưa AV/food seam23,792s/final30/finishing PASS. Bản312/nguồn giữ nguyên; Flow0, còn209/500.
+
+## Lịch sử — REC321 / 16-10-2026
 
 [321 — Audit bản nền312 để hoàn thiện, không làm lại cả phim](../321_baseline312-keep-edit-repair-audit.md): `06_qc/BASELINE312_AUDIT_321_V2/audit_321.json` xác minh840F/35s/bảy nguồn và trích142 ảnh chọn lọc; `native_handles_321.json` kiểm20F C04/8F kết còn chưa dùng và PCM đuôi không tiếng. `run-registry-321.json` ghi phạm vi root đã xem, không AV/independent PASS. Giữ nguồn cũ ưu tiên; cut24s cần sửa hình, chưa chứng minh buộc tạo mới. Chưa xuất video/cắt EDL/tiêu credit, C02 mới320 chưa chèn; target30 và chất lượng cuối còn mở. Sổ còn209/500, dự phòng110 đóng.
 

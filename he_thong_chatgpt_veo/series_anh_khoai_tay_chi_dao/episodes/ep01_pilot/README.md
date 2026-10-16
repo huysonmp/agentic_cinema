@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Mới nhất — REC321 / 16-10-2026
+## Mới nhất — REC322 / 16-10-2026
+
+[322 — Một lượt dựng sửa tổng thể để xem chung](322_consolidated-reuse-cut-for-review.md): file `EP01_REUSE_CUT_v1_322_FOR_REVIEW.mp4` đã xuất833F/34,708s, decode sạch. Cận320 được đưa vào trial với tiếng riêng nguồn đó, chưa coi đã duyệt; lời đủ theo ASR, tuyến tiếng khớp bằng PCM, chưa nghe/xem AV liên tục. Có ảnh kiểm11cut/đuôi; food seam23,792s chưa chữa, chưa final30/finishing. Bản312 giữ nguyên, không Flowcredit mới.
+
+## Lịch sử — REC321 / 16-10-2026
 
 [321 — Bản đồ giữ / sửa / cần xử lý nguồn từ312](321_baseline312-keep-edit-repair-audit.md): bản35s và bảy nguồn còn nguyên; kiểm11 cut có timecode, xác nhận food seam24s không sửa được chỉ bằng hiệu ứng cắt. Có native handles để thử nhưng chưa chọn range hoặc export mới. Ưu tiên tái sử dụng, không mở lại cả tập; C02 mới320 còn riêng/chưa duyệt. Chưa nghe/xem liên tục hoặc final30 PASS; Flow0, sổ209/500 giữ nguyên.
 

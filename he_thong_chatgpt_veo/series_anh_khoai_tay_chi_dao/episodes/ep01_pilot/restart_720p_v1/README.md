@@ -1,6 +1,10 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
-## Mới nhất — REC320 / 15-10-2026
+## Mới nhất — REC321 / 16-10-2026
+
+[321 — Audit bản nền312 để hoàn thiện, không làm lại cả phim](../321_baseline312-keep-edit-repair-audit.md): `06_qc/BASELINE312_AUDIT_321_V2/audit_321.json` xác minh840F/35s/bảy nguồn và trích142 ảnh chọn lọc; `native_handles_321.json` kiểm20F C04/8F kết còn chưa dùng và PCM đuôi không tiếng. `run-registry-321.json` ghi phạm vi root đã xem, không AV/independent PASS. Giữ nguồn cũ ưu tiên; cut24s cần sửa hình, chưa chứng minh buộc tạo mới. Chưa xuất video/cắt EDL/tiêu credit, C02 mới320 chưa chèn; target30 và chất lượng cuối còn mở. Sổ còn209/500, dự phòng110 đóng.
+
+## Lịch sử — REC320 / 15-10-2026
 
 [320 — C02 cận ký ức native](../320_C02-memory-closeup-native-and-owner-checkpoint.md): `04_requests/C02_COVERAGE_K20_T01_320_request.json` lưu input/preset/prompt và đối soát một debit 12; `06_qc/run-registry-320.json` ghi native hash/format/full decode/ASR và giới hạn kiểm ảnh mẫu. Chờ owner C02 AV checkpoint, không tự chạy lại, chưa đổi EDL. Sổ 291/500 đã chi, còn 209 = tạo mới 66 + tạo lại 0 + coverage 33 + dự phòng 110 đóng. [319](../319_EP01-continuity-reference-chain.md) có sáu ảnh ứng viên từ chín output, giữ hai bản món lỗi và intermediate riêng; món/geometry/motion/AV/final30 còn mở.
 

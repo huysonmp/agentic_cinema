@@ -1,0 +1,81 @@
+{
+  "record": "REC321",
+  "unused_source_handles": [
+    {
+      "source": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\05_native\\EP01_720_C04_T02_NATIVE.mp4",
+      "sha256": "8ad98f21c0c904b01055d6f579900cd60c107a152a9166a8cfa563165a47a209",
+      "frames_viewable": [
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143
+      ],
+      "selected_range_changed": false
+    },
+    {
+      "source": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\C09_PICK_B_FULL_SILENT_REVIEW_ONLY_311.mp4",
+      "sha256": "68589b58fcc342fc1d72c111828c9bf430d4713a2ba9ee78ed60f57bc09f5958",
+      "frames_viewable": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "selected_range_changed": false
+    }
+  ],
+  "rough_tail_pcm_check": {
+    "start_seconds": 29.25,
+    "sample_values": 552000,
+    "nonzero_values": 0,
+    "max_abs": 0.0,
+    "meaning": "Existing ASR subscribe sentence in silent tail is not evidence of actual dialogue"
+  },
+  "no_endpoint_selected": true,
+  "no_EDL_changed": true,
+  "no_generation": true
+}

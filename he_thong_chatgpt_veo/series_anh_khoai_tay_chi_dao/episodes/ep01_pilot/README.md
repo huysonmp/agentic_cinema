@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Mới nhất — REC320 / 15-10-2026
+## Mới nhất — REC321 / 16-10-2026
+
+[321 — Bản đồ giữ / sửa / cần xử lý nguồn từ312](321_baseline312-keep-edit-repair-audit.md): bản35s và bảy nguồn còn nguyên; kiểm11 cut có timecode, xác nhận food seam24s không sửa được chỉ bằng hiệu ứng cắt. Có native handles để thử nhưng chưa chọn range hoặc export mới. Ưu tiên tái sử dụng, không mở lại cả tập; C02 mới320 còn riêng/chưa duyệt. Chưa nghe/xem liên tục hoặc final30 PASS; Flow0, sổ209/500 giữ nguyên.
+
+## Lịch sử — REC320 / 15-10-2026
 
 [320 — C02 cận ký ức native](320_C02-memory-closeup-native-and-owner-checkpoint.md): đã chạy một lượt theo quyền coverage REC238, tải native 720×1280/24fps/8s, full decode sạch, ASR khớp hai câu. Root mới kiểm ảnh mẫu; chưa duyệt K20/diễn/khẩu hình hoặc điểm nối. Chi 12; sổ còn 209/500, coverage 33, dự phòng 110 đóng. [319 — Chuỗi tham chiếu](319_EP01-continuity-reference-chain.md) gồm sáu still candidates; không phải nguồn video320, chưa native continuity PASS. Nguồn/EDL cũ giữ nguyên.
 

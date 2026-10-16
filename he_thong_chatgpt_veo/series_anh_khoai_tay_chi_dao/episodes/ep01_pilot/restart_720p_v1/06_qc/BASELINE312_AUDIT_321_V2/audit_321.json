@@ -1,0 +1,383 @@
+{
+  "record": "REC321",
+  "date": "2026-10-16",
+  "status": "BASELINE_AUDIT_EVIDENCE_NOT_EDIT_OR_AV_PASS",
+  "baseline": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\EP01_ROUGH35_TRIAL_v1_NOT_FINAL_312.mp4",
+  "sha256": "44bd2c591a00f085b8d4c4e4e69c5a25fb9d4f4357e7dbc76263ca068fec1e66",
+  "sources_verified": [
+    {
+      "path": "07_edits/OPENING_C03A_15p5S_QC_NOT_FINAL.mp4",
+      "sha256": "47b779559c643770a4cd63eb7ca5c65836df408d148a9eddd8789e51a8fb343d",
+      "matches": true
+    },
+    {
+      "path": "07_edits/C03B_T01_F0_49_2p083S_FOR_REVIEW.mp4",
+      "sha256": "87a5d8639ce89ae6bfc4c99cc0f2e67ed7dd65737e57f5b2437634f5c091481c",
+      "matches": true
+    },
+    {
+      "path": "05_native/EP01_720_C04_T02_NATIVE.mp4",
+      "sha256": "8ad98f21c0c904b01055d6f579900cd60c107a152a9166a8cfa563165a47a209",
+      "matches": true
+    },
+    {
+      "path": "05_native/EP01_720_C05_T02_NATIVE.mp4",
+      "sha256": "3df61217ddf6d09792fe1e5991c3668d115ce5648c00802f196d87abe57d23df",
+      "matches": true
+    },
+    {
+      "path": "07_edits/C06_C07_LOCAL_MOUTH_JOIN_5s_REVIEW_ONLY_307.mp4",
+      "sha256": "e97dd894d5225d64953145008494854fa154c691373b243e16490fdf41269fef",
+      "matches": true
+    },
+    {
+      "path": "07_edits/C08_DEPOSIT_F0_F63_SILENT_REVIEW_309.mp4",
+      "sha256": "a152f5bf1b4070df58aede9c55d45226d8b5cd1ef91833e0807bd7a3d2f9a724",
+      "matches": true
+    },
+    {
+      "path": "07_edits/C09_PICK_B_FULL_SILENT_REVIEW_ONLY_311.mp4",
+      "sha256": "68589b58fcc342fc1d72c111828c9bf430d4713a2ba9ee78ed60f57bc09f5958",
+      "matches": true
+    }
+  ],
+  "measured": {
+    "width": 720,
+    "height": 1280,
+    "frames": 840,
+    "fps": 24,
+    "seconds": 35
+  },
+  "source_windows": [
+    {
+      "shot": "C01A_BM_BR",
+      "start_frame": 0,
+      "end_frame_exclusive": 149,
+      "start_seconds": 0.0,
+      "end_seconds": 6.208333333333333,
+      "duration_seconds": 6.208333333333333
+    },
+    {
+      "shot": "C02",
+      "start_frame": 149,
+      "end_frame_exclusive": 306,
+      "start_seconds": 6.208333333333333,
+      "end_seconds": 12.75,
+      "duration_seconds": 6.541666666666667
+    },
+    {
+      "shot": "C03A",
+      "start_frame": 306,
+      "end_frame_exclusive": 348,
+      "start_seconds": 12.75,
+      "end_seconds": 14.5,
+      "duration_seconds": 1.75
+    },
+    {
+      "shot": "C03B",
+      "start_frame": 348,
+      "end_frame_exclusive": 398,
+      "start_seconds": 14.5,
+      "end_seconds": 16.583333333333332,
+      "duration_seconds": 2.0833333333333335
+    },
+    {
+      "shot": "C04",
+      "start_frame": 398,
+      "end_frame_exclusive": 510,
+      "start_seconds": 16.583333333333332,
+      "end_seconds": 21.25,
+      "duration_seconds": 4.666666666666667
+    },
+    {
+      "shot": "C05",
+      "start_frame": 510,
+      "end_frame_exclusive": 576,
+      "start_seconds": 21.25,
+      "end_seconds": 24.0,
+      "duration_seconds": 2.75
+    },
+    {
+      "shot": "C06_C07_EXACT_ACCEPTED_BLOCK308",
+      "start_frame": 576,
+      "end_frame_exclusive": 696,
+      "start_seconds": 24.0,
+      "end_seconds": 29.0,
+      "duration_seconds": 5.0
+    },
+    {
+      "shot": "C08",
+      "start_frame": 696,
+      "end_frame_exclusive": 760,
+      "start_seconds": 29.0,
+      "end_seconds": 31.666666666666668,
+      "duration_seconds": 2.6666666666666665
+    },
+    {
+      "shot": "C09",
+      "start_frame": 760,
+      "end_frame_exclusive": 840,
+      "start_seconds": 31.666666666666668,
+      "end_seconds": 35.0,
+      "duration_seconds": 3.3333333333333335
+    }
+  ],
+  "cuts": [
+    {
+      "frame": 81,
+      "seconds": 3.375
+    },
+    {
+      "frame": 99,
+      "seconds": 4.125
+    },
+    {
+      "frame": 149,
+      "seconds": 6.208333333333333
+    },
+    {
+      "frame": 306,
+      "seconds": 12.75
+    },
+    {
+      "frame": 348,
+      "seconds": 14.5
+    },
+    {
+      "frame": 398,
+      "seconds": 16.583333333333332
+    },
+    {
+      "frame": 510,
+      "seconds": 21.25
+    },
+    {
+      "frame": 576,
+      "seconds": 24.0
+    },
+    {
+      "frame": 624,
+      "seconds": 26.0
+    },
+    {
+      "frame": 696,
+      "seconds": 29.0
+    },
+    {
+      "frame": 760,
+      "seconds": 31.666666666666668
+    }
+  ],
+  "extracted_frame_indices_zero_based": [
+    0,
+    24,
+    48,
+    72,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    120,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    168,
+    192,
+    216,
+    240,
+    264,
+    288,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    312,
+    336,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    360,
+    384,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    408,
+    432,
+    456,
+    480,
+    504,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    528,
+    552,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    600,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    627,
+    648,
+    672,
+    692,
+    693,
+    694,
+    695,
+    696,
+    697,
+    698,
+    699,
+    720,
+    744,
+    756,
+    757,
+    758,
+    759,
+    760,
+    761,
+    762,
+    763,
+    768,
+    792,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839
+  ],
+  "extraction": "fresh frames selected from exact rough export; evidence thumbnails 360x640, no pixel retouch",
+  "asr_existing_machine_segments_not_listening": [
+    {
+      "start": 0.0,
+      "end": 1.42,
+      "text": " Anh nhìn mãi."
+    },
+    {
+      "start": 2.02,
+      "end": 3.56,
+      "text": " Không hợp thì để em..."
+    },
+    {
+      "start": 3.56,
+      "end": 3.96,
+      "text": " Khoan!"
+    },
+    {
+      "start": 6.54,
+      "end": 8.66,
+      "text": " Mùi này làm anh nhớ đến bếp nhà anh."
+    },
+    {
+      "start": 9.32,
+      "end": 12.46,
+      "text": " Hồi bé, mẹ găng gạo, anh đứng chờ."
+    },
+    {
+      "start": 13.28,
+      "end": 14.08,
+      "text": " Anh chờ ăn à?"
+    },
+    {
+      "start": 14.7,
+      "end": 15.68,
+      "text": " Chờ mẹ quay lưng."
+    },
+    {
+      "start": 21.4,
+      "end": 22.96,
+      "text": " Chờ em quay lưng nữa à?"
+    },
+    {
+      "start": 24.52,
+      "end": 25.58,
+      "text": " Anh gấp cho em mà."
+    },
+    {
+      "start": 26.38,
+      "end": 28.1,
+      "text": " Thế em quay lại đúng lúc rồi."
+    },
+    {
+      "start": 33.58,
+      "end": 34.98,
+      "text": " Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn"
+    }
+  ],
+  "target30_reduction_frames": 120,
+  "target30_safe_trim_proven": false,
+  "continuous_motion_review": false,
+  "actual_listening": false,
+  "independent_agent_report": false,
+  "new_video_generated": false,
+  "Flow_credit_spend": 0,
+  "source_overwritten": false,
+  "EDL_changed": false,
+  "source_hash_after": "44bd2c591a00f085b8d4c4e4e69c5a25fb9d4f4357e7dbc76263ca068fec1e66"
+}

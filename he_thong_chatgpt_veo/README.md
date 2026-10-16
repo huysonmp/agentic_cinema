@@ -1,6 +1,10 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
-## Mới nhất — REC320 / 15-10-2026
+## Mới nhất — REC321 / 16-10-2026
+
+[321 — Hoàn thiện từ bản dựng312, không làm lại cả phim](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/321_baseline312-keep-edit-repair-audit.md): đã kiểm hash bản35s/bảy nguồn, trích ảnh mới và phân loại từng đoạn/11 cut. Cut24s cần xử lý hình món; chưa chứng minh phải tạo mới. Có20F C04/8F kết chưa dùng, chưa chèn hoặc chốt range30s. C02 mới320 vẫn riêng; không tạo video, sửa EDL hoặc tiêu credit. Sổ giữ209/500, dự phòng110 đóng. Chưa AV/final PASS.
+
+## Lịch sử — REC320 / 15-10-2026
 
 [320 — C02 cận ký ức đã có native 720p](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/320_C02-memory-closeup-native-and-owner-checkpoint.md): một lượt 12 credit từ quỹ coverage theo REC238; đã tải, giải mã toàn file và kiểm ảnh mẫu/ASR. Chờ owner duyệt đúng tiếng/diễn C02 mới, chưa AV hoặc toàn phim PASS. Sổ còn 209/500, coverage 33, dự phòng 110 đóng. [319 — Chuỗi tham chiếu](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/319_EP01-continuity-reference-chain.md) có sáu still candidates từ chín output imagegen, chưa khóa nguồn native hoặc continuity món. Không ghi đè nguồn/EDL cũ.
 

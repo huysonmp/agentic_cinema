@@ -1,6 +1,10 @@
 # EP01 — Hồ sơ làm lại trực tiếp ở 720p
 
-## Mới nhất — REC323 / 17-10-2026
+## Mới nhất — REC324 / 17-10-2026
+
+[324 — Kho media local đã copy/kiểm](../324_local-media-archive-and-cleanup-guidance.md): `06_qc/run-registry-324.json` ghi11.784unique/13.020source, active summaryV2/hash, source vẫn còn và không relink. Kho nằm ngoàiGit; có bản323 ở `00_BAN_DANG_CHON`. Không thay footage/EDL hoặc finalapproval, không xóaFlow và chưa backup ngoài máy; Flow0.
+
+## Lịch sử — REC323 / 17-10-2026
 
 [323 — Hai điểm nối đã có bản sửa v2](../323_two-join-repair-v2.md): `07_edits/EP01_TWO_JOIN_REPAIR_v2_323_FOR_REVIEW.mp4`, hash `d7f380e0…`,833F/34,708s. `06_qc/TWO_JOIN_REPAIR_323/` lưu nguồn/neo15khung/motionpatch/command/verification;1.628packet âm nguyên322. Root xem toàn bộ patch và23ô quanh cut trên encode, chưa continuousAV/owneracceptance. Không đổi các phần khác hoặc miễn blocker322; Flow0, sổ209/500 giữ nguyên.
 

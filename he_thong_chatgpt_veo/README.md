@@ -1,6 +1,10 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
-## Mới nhất — REC323 / 17-10-2026
+## Mới nhất — REC324 / 17-10-2026
+
+[324 — Đã gom kho media local, chưa xóa nguồn](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/324_local-media-archive-and-cleanup-guidance.md): kho riêng ngoài Git tại `D:/Workspace/agentic_cinema_media_archive/EP01_Nem_Bui_20261017`,11.784media unique/~9,45GB và1.494hồ sơ.13.020nguồn được ánh xạ bằng danh mụcV2; mọi copy/hash/đường dẫn đã kiểm. Không di chuyển/xóa/relink hoặc kiểm kê media chỉ trênFlow. Video đang chọn vẫn323; không thay trạng thái sản xuất/final. Chưa có backup ngoài máy hoặc quyền xóa hàng loạt.
+
+## Lịch sử — REC323 / 17-10-2026
 
 [323 — Đã sửa hai điểm nối theo phản hồi](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/323_two-join-repair-v2.md): xử lý hình tại15,875–16,208s và21,375–21,667s bằng nội suy chuyển động local, giữ34,708s. 1.628packet audio khớp322 nguyên vẹn; không đổi lời/giọng. Đã decode/kiểm ảnh/đối chiếu, chưa owner duyệt bản mới hoặc release. Flow0, bản322 giữ nguyên; các phần khác không mở lại.
 

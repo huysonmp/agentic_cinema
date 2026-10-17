@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Mới nhất — REC323 / 17-10-2026
+## Mới nhất — REC324 / 17-10-2026
+
+[324 — Media đã gom, chưa xóa gì](324_local-media-archive-and-cleanup-guidance.md): tại `D:/Workspace/agentic_cinema_media_archive/EP01_Nem_Bui_20261017`,11.784media/~9,45GB, kèm1.494hồ sơ và danh mụcV2 ánh xạ13.020nguồn. Copy/hash/đường dẫn đều kiểm; không xóa/move/relink nguồn, không tải hoặc xóaFlow. Giữ video323 đang chọn, không đổi finalstatus. Khuyến nghị backup ngoài máy trước dọn bản trùng có phạm vi.
+
+## Lịch sử — REC323 / 17-10-2026
 
 [323 — Đã xuất bản sửa hai điểm nối v2](323_two-join-repair-v2.md): video833F/34,708s, chỉ xử lý15 khung trong hai vùng phản hồi. Audio copy khớp322 toàn1.628packet; không đổi giọng/lời/timing. Có kiểm encode/ảnh và hash; chưa owner duyệt output mới hoặc gán final30/finishingPASS. Bản322 còn nguyên, không Flowcredit mới.
 

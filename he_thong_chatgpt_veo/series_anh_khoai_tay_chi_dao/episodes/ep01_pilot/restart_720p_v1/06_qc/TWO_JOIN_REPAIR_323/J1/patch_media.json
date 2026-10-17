@@ -1,0 +1,85 @@
+{
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High 4:4:4 Predictive",
+        "codec_type": "video",
+        "codec_tag_string": "[0][0][0][0]",
+        "codec_tag": "0x0000",
+        "mime_codec_string": "avc1.f4001f",
+        "width": 720,
+        "height": 1280,
+        "coded_width": 720,
+        "coded_height": 1280,
+        "has_b_frames": 0,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 3,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/1000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "8",
+        "nb_read_frames": "8",
+        "extradata_size": 49,
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "ENCODER": "Lavc63.1.102 libx264",
+          "DURATION": "00:00:00.334000000"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J1\\motion_patch.mkv",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "matroska,webm",
+      "format_long_name": "Matroska / WebM",
+      "start_time": "0.000000",
+      "duration": "0.334000",
+      "size": "1686856",
+      "bit_rate": "40403736",
+      "probe_score": 100,
+      "tags": {
+        "ENCODER": "Lavf63.1.102"
+      }
+    }
+  },
+  "sha256": "4a19188dce316f3e616de2509e4ca0024735212c9ad1644b32fc96d52bf9ee2e",
+  "frames": 8,
+  "owner_approval": false
+}

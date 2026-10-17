@@ -1,0 +1,21 @@
+{
+  "command": [
+    "-framerate",
+    "24/7",
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J1\\anchors\\%02d.png",
+    "-vf",
+    "minterpolate=fps=24:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1:scd=none,trim=start_frame=14:end_frame=22,setpts=PTS-STARTPTS,format=yuv420p",
+    "-an",
+    "-fps_mode",
+    "passthrough",
+    "-c:v",
+    "libx264",
+    "-crf",
+    "0",
+    "-preset",
+    "medium",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J1\\motion_patch.mkv"
+  ],
+  "filter": "minterpolate=fps=24:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1:scd=none,trim=start_frame=14:end_frame=22,setpts=PTS-STARTPTS,format=yuv420p"
+}

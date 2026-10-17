@@ -1,0 +1,65 @@
+{
+  "command": [
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\EP01_REUSE_CUT_v1_322_FOR_REVIEW.mp4",
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J1\\motion_patch.mkv",
+    "-i",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J2\\motion_patch.mkv",
+    "-filter_complex",
+    "[0:v]split=3[s0][s2][s4];\n[s0]trim=start_frame=0:end_frame=381,settb=1/12288,setpts=N*512[v0];\n[1:v]trim=start_frame=0:end_frame=8,settb=1/12288,setpts=N*512[v1];\n[s2]trim=start_frame=389:end_frame=513,settb=1/12288,setpts=N*512[v2];\n[2:v]trim=start_frame=0:end_frame=7,settb=1/12288,setpts=N*512[v3];\n[s4]trim=start_frame=520:end_frame=833,settb=1/12288,setpts=N*512[v4];\n[v0][v1][v2][v3][v4]concat=n=5:v=1:a=0[v]",
+    "-map",
+    "[v]",
+    "-map",
+    "0:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "medium",
+    "-crf",
+    "16",
+    "-pix_fmt",
+    "yuv420p",
+    "-fps_mode",
+    "passthrough",
+    "-c:a",
+    "copy",
+    "-movflags",
+    "+faststart",
+    "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\EP01_TWO_JOIN_REPAIR_v2_323_FOR_REVIEW.mp4"
+  ],
+  "filter": "[0:v]split=3[s0][s2][s4];\n[s0]trim=start_frame=0:end_frame=381,settb=1/12288,setpts=N*512[v0];\n[1:v]trim=start_frame=0:end_frame=8,settb=1/12288,setpts=N*512[v1];\n[s2]trim=start_frame=389:end_frame=513,settb=1/12288,setpts=N*512[v2];\n[2:v]trim=start_frame=0:end_frame=7,settb=1/12288,setpts=N*512[v3];\n[s4]trim=start_frame=520:end_frame=833,settb=1/12288,setpts=N*512[v4];\n[v0][v1][v2][v3][v4]concat=n=5:v=1:a=0[v]",
+  "windows": [
+    {
+      "id": "J1",
+      "cut": 385,
+      "start": 381,
+      "end": 389
+    },
+    {
+      "id": "J2",
+      "cut": 517,
+      "start": 513,
+      "end": 520
+    }
+  ],
+  "sources": [
+    {
+      "path": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\EP01_REUSE_CUT_v1_322_FOR_REVIEW.mp4",
+      "sha256": "68d595328bfd858b998583ee56584e20643393c6f3497b3aeb4c47c02afa57b0"
+    },
+    {
+      "path": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J1\\motion_patch.mkv",
+      "sha256": "4a19188dce316f3e616de2509e4ca0024735212c9ad1644b32fc96d52bf9ee2e"
+    },
+    {
+      "path": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\06_qc\\TWO_JOIN_REPAIR_323\\J2\\motion_patch.mkv",
+      "sha256": "2e3edbc9fbca839da05942741d0c267f33db8829f0acbe039a923eab0752474e"
+    }
+  ],
+  "audio": "copy original AAC packets from exact REC322; no mix/gain/pitch/speed or new voice",
+  "frames": 833,
+  "seconds": 34.708333333333336,
+  "new_generation": false,
+  "Flow_spend": 0
+}

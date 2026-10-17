@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Mới nhất — REC322 / 16-10-2026
+## Mới nhất — REC323 / 17-10-2026
+
+[323 — Đã xuất bản sửa hai điểm nối v2](323_two-join-repair-v2.md): video833F/34,708s, chỉ xử lý15 khung trong hai vùng phản hồi. Audio copy khớp322 toàn1.628packet; không đổi giọng/lời/timing. Có kiểm encode/ảnh và hash; chưa owner duyệt output mới hoặc gán final30/finishingPASS. Bản322 còn nguyên, không Flowcredit mới.
+
+## Lịch sử — REC322 / 16-10-2026
 
 [322 — Một lượt dựng sửa tổng thể để xem chung](322_consolidated-reuse-cut-for-review.md): file `EP01_REUSE_CUT_v1_322_FOR_REVIEW.mp4` đã xuất833F/34,708s, decode sạch. Cận320 được đưa vào trial với tiếng riêng nguồn đó, chưa coi đã duyệt; lời đủ theo ASR, tuyến tiếng khớp bằng PCM, chưa nghe/xem AV liên tục. Có ảnh kiểm11cut/đuôi; food seam23,792s chưa chữa, chưa final30/finishing. Bản312 giữ nguyên, không Flowcredit mới.
 

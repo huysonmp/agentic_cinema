@@ -1,6 +1,10 @@
 # Series Anh Khoai Tây & Chị Đào
 
-## Mới nhất — REC322 / 16-10-2026
+## Mới nhất — REC323 / 17-10-2026
+
+[323 — Bản v2 sửa hai điểm nối](episodes/ep01_pilot/323_two-join-repair-v2.md): chỉ hai vùng quanh16,04s/21,54s, không mở lại footage/voice hoặc đổi thời lượng. Local motion interpolation, giữ nguyên1.628gói AAC322; kiểm technical/ảnh đã có, chưa perceptual AV hoặc finalrelease. Bản322 giữ nguyên, Flow0; sổ209/500 không đổi.
+
+## Lịch sử — REC322 / 16-10-2026
 
 [322 — Bản dựng xem chung đã có video](episodes/ep01_pilot/322_consolidated-reuse-cut-for-review.md): 34,708s/720p, dùng lại footage, cận ký ức320 và các đuôi native sẵn có; không tạo mới hoặc tiêu credit. Kiểm kỹ thuật/PCM/ASR và ảnh export đã có; chưa duyệt whole-film, tiếng/diễn320 hoặc final30. Food seam23,792s/mix/phụ đề/AI còn mở; baseline312 còn nguyên. Sổ còn209/500, dự phòng110 đóng.
 

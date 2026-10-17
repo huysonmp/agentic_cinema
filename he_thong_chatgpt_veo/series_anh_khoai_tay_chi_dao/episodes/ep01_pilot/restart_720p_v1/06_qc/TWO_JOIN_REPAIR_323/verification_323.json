@@ -1,0 +1,288 @@
+{
+  "record": "REC323",
+  "sha256": "d7f380e05bdcafb3eb2768ce0cc4d011c6ee7570a4ec24788ce0cdf4305e2845",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001f",
+        "width": 720,
+        "height": 1280,
+        "coded_width": 720,
+        "coded_height": 1280,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "color_range": "tv",
+        "color_space": "smpte170m",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "refs": 4,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 426496,
+        "duration": "34.708333",
+        "bit_rate": "2206969",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "833",
+        "nb_read_frames": "833",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.102 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1666000,
+        "duration": "34.708333",
+        "bit_rate": "120461",
+        "nb_frames": "1628",
+        "nb_read_frames": "1627",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo\\series_anh_khoai_tay_chi_dao\\episodes\\ep01_pilot\\restart_720p_v1\\07_edits\\EP01_TWO_JOIN_REPAIR_v2_323_FOR_REVIEW.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "34.708333",
+      "size": "10123456",
+      "bit_rate": "2333377",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102"
+      }
+    }
+  },
+  "full_decode_exit": 0,
+  "audio_packets_and_PTS_DTS_duration_size_SHA256_identical": true,
+  "audio_packets_compared": 1628,
+  "outside_window_samples": [
+    {
+      "frame": 0,
+      "RGB_PSNR_dB": 54.32468108514921,
+      "mean_absolute_channel_difference": 0.15337276458740234
+    },
+    {
+      "frame": 80,
+      "RGB_PSNR_dB": 46.319057985533405,
+      "mean_absolute_channel_difference": 0.7529228329658508
+    },
+    {
+      "frame": 140,
+      "RGB_PSNR_dB": 46.35267787218317,
+      "mean_absolute_channel_difference": 0.7096491456031799
+    },
+    {
+      "frame": 320,
+      "RGB_PSNR_dB": 43.464176403236124,
+      "mean_absolute_channel_difference": 1.2202810049057007
+    },
+    {
+      "frame": 350,
+      "RGB_PSNR_dB": 47.702906144612804,
+      "mean_absolute_channel_difference": 0.6035189032554626
+    },
+    {
+      "frame": 380,
+      "RGB_PSNR_dB": 45.94660955243942,
+      "mean_absolute_channel_difference": 0.8281253576278687
+    },
+    {
+      "frame": 389,
+      "RGB_PSNR_dB": 44.23261333897453,
+      "mean_absolute_channel_difference": 1.088608980178833
+    },
+    {
+      "frame": 512,
+      "RGB_PSNR_dB": 44.87029802299386,
+      "mean_absolute_channel_difference": 1.0084892511367798
+    },
+    {
+      "frame": 520,
+      "RGB_PSNR_dB": 44.81793563040689,
+      "mean_absolute_channel_difference": 0.9957226514816284
+    },
+    {
+      "frame": 570,
+      "RGB_PSNR_dB": 45.22296276961478,
+      "mean_absolute_channel_difference": 0.9398401379585266
+    },
+    {
+      "frame": 612,
+      "RGB_PSNR_dB": 48.42510898636057,
+      "mean_absolute_channel_difference": 0.53079754114151
+    },
+    {
+      "frame": 680,
+      "RGB_PSNR_dB": 46.88944637062943,
+      "mean_absolute_channel_difference": 0.7214677333831787
+    },
+    {
+      "frame": 744,
+      "RGB_PSNR_dB": 46.559974589411596,
+      "mean_absolute_channel_difference": 0.7483553886413574
+    },
+    {
+      "frame": 832,
+      "RGB_PSNR_dB": 50.059919813236,
+      "mean_absolute_channel_difference": 0.38374239206314087
+    }
+  ],
+  "outside_patches_reencoded_not_pixel_identical": true,
+  "motion_diagnostics": [
+    {
+      "id": "J1",
+      "rough_window": [
+        381,
+        389
+      ],
+      "max_adjacent_ROI_MAD_before": 12.391345977783203,
+      "max_adjacent_ROI_MAD_after": 3.6964316368103027,
+      "all_before": [
+        0.6469660997390747,
+        0.6639158725738525,
+        1.568139910697937,
+        12.391345977783203,
+        2.294511556625366,
+        2.0848228931427,
+        1.7566896677017212
+      ],
+      "all_after": [
+        2.3643410205841064,
+        3.6964316368103027,
+        3.2116873264312744,
+        3.4269955158233643,
+        3.1498961448669434,
+        3.5988383293151855,
+        2.353544235229492
+      ],
+      "not_motion_or_face_quality_certification": true
+    },
+    {
+      "id": "J2",
+      "rough_window": [
+        513,
+        520
+      ],
+      "max_adjacent_ROI_MAD_before": 13.208829879760742,
+      "max_adjacent_ROI_MAD_after": 3.996732234954834,
+      "all_before": [
+        0.5522677302360535,
+        0.5754961967468262,
+        0.5023857951164246,
+        13.208829879760742,
+        1.645780324935913,
+        1.4966622591018677
+      ],
+      "all_after": [
+        3.183159589767456,
+        3.443833827972412,
+        3.996732234954834,
+        3.9644775390625,
+        3.3439900875091553,
+        3.0449256896972656
+      ],
+      "not_motion_or_face_quality_certification": true
+    }
+  ],
+  "baseline322_hash_unchanged": true,
+  "continuous_motion_or_perceptual_AV_approval": false,
+  "root_frame_review_pending": false,
+  "root_frame_review_scope": "Viewed all15 patch frames and all23 encoded join/neighbour cells, plus full-resolution patch F384 and F516; not continuous playback or perceptual AV approval",
+  "root_observations": ["Gradual face/gaze change in the inspected windows rather than one abrupt state change", "No obvious duplicated eyes or extra hands in inspected cells", "Motion-interpolated contours may soften locally; lower image-difference peaks do not prove perceptual smoothness"],
+  "Flow_spend": 0,
+  "target30_pass": false,
+  "food_seam_23p792_not_repaired": true,
+  "release_authorized": false
+}

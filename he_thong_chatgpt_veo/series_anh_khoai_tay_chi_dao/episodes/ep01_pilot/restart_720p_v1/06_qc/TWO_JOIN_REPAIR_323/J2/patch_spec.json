@@ -1,0 +1,17 @@
+{
+  "record": "REC323",
+  "source_sha256": "68d595328bfd858b998583ee56584e20643393c6f3497b3aeb4c47c02afa57b0",
+  "window_half_open": [
+    513,
+    520
+  ],
+  "source_cut": 517,
+  "anchors": [
+    513,
+    519
+  ],
+  "method": "FFmpeg motion-compensated intermediate frames, not crossfade/freeze or generative AI",
+  "frames": 7,
+  "audio_changed": false,
+  "subjective_quality_approved": false
+}

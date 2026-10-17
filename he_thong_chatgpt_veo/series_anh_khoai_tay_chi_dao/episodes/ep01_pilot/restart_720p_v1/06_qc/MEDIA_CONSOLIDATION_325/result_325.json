@@ -1,0 +1,25 @@
+{
+  "FreeAfter": {
+    "D": 85692977152,
+    "C": 16656252928
+  },
+  "OldAbsoluteMediaPathsNowUnavailable": true,
+  "SourceManifestSHA256": "07ece0c8bff5a98dd3caae2b09a9ec9e42c62fe41cccd8169697ac46e4d29ead",
+  "PlannedSources": 13020,
+  "TextOrCodeFilesRemoved": 0,
+  "Date": "2026-10-17",
+  "FreeBefore": {
+    "D": 83227234304,
+    "C": 8059150336
+  },
+  "Record": "REC325",
+  "Status": "CONSOLIDATED_INTO_ONE_RETAINED_ARCHIVE",
+  "ArchiveFilesRetained": 11784,
+  "ArchiveDeleted": false,
+  "LogicalBytesRemoved": 11056581980.0,
+  "CloudActions": 0,
+  "Archive": "D:\\Workspace\\agentic_cinema_media_archive\\EP01_Nem_Bui_20261017",
+  "SourceDirectoriesRemoved": 0,
+  "RestorePossibleFromArchiveAndManifest": true,
+  "SourceCopiesRemoved": 13020
+}

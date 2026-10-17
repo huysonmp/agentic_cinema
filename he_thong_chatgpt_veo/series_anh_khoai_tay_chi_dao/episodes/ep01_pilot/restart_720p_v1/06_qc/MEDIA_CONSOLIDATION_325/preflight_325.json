@@ -1,0 +1,16 @@
+{
+  "ArchiveRetained": "D:\\Workspace\\agentic_cinema_media_archive\\EP01_Nem_Bui_20261017",
+  "FreeBefore": {
+    "D": 83227234304,
+    "C": 8059150336
+  },
+  "Sources": 13020,
+  "Record": "REC325",
+  "AllSourceAndArchiveHashesReverified": true,
+  "SourceManifestSHA256": "07ece0c8bff5a98dd3caae2b09a9ec9e42c62fe41cccd8169697ac46e4d29ead",
+  "LogicalSourceBytes": 11056581980.0,
+  "DirectoriesOrDocumentsRemoved": false,
+  "UniqueArchiveFiles": 11784,
+  "Date": "2026-10-17",
+  "ExecuteRequested": true
+}

@@ -1,6 +1,10 @@
 # Hệ thống ChatGPT/Codex → Veo (mini)
 
-## Mới nhất — REC324 / 17-10-2026
+## Mới nhất — REC325 / 17-10-2026
+
+[325 — Media đã chuyển tập trung, giữ kho để owner tự xóa](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/325_media-consolidated-original-copies-removed.md): đã bỏ 13.020 bản nguồn sau khi tái kiểm checksum; giữ 11.784 nội dung duy nhất, khoảng 9,45 GB, tại `D:/Workspace/agentic_cinema_media_archive/EP01_Nem_Bui_20261017`. Đối soát không còn media trong bốn vùng đã gom. Tài liệu/mã nguồn và Flow không bị xóa; các đường dẫn media cũ không còn dùng trực tiếp. Owner chốt “Chỉ gom, để tôi tự xóa kho”; agent không xóa kho duy nhất.
+
+## Lịch sử — REC324 / 17-10-2026
 
 [324 — Đã gom kho media local, chưa xóa nguồn](series_anh_khoai_tay_chi_dao/episodes/ep01_pilot/324_local-media-archive-and-cleanup-guidance.md): kho riêng ngoài Git tại `D:/Workspace/agentic_cinema_media_archive/EP01_Nem_Bui_20261017`,11.784media unique/~9,45GB và1.494hồ sơ.13.020nguồn được ánh xạ bằng danh mụcV2; mọi copy/hash/đường dẫn đã kiểm. Không di chuyển/xóa/relink hoặc kiểm kê media chỉ trênFlow. Video đang chọn vẫn323; không thay trạng thái sản xuất/final. Chưa có backup ngoài máy hoặc quyền xóa hàng loạt.
 

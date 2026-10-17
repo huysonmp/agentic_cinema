@@ -1,6 +1,10 @@
 # EP01 — Pilot
 
-## Mới nhất — REC324 / 17-10-2026
+## Mới nhất — REC325 / 17-10-2026
+
+[325 — Media đã chuyển tập trung, giữ kho để owner tự xóa](325_media-consolidated-original-copies-removed.md): đã bỏ 13.020 bản nguồn sau khi tái kiểm checksum; giữ 11.784 nội dung duy nhất, khoảng 9,45 GB, tại `D:/Workspace/agentic_cinema_media_archive/EP01_Nem_Bui_20261017`. Đối soát không còn media trong bốn vùng đã gom. Tài liệu/mã nguồn và Flow không bị xóa; các đường dẫn media cũ không còn dùng trực tiếp. Owner chốt “Chỉ gom, để tôi tự xóa kho”; agent không xóa kho duy nhất.
+
+## Lịch sử — REC324 / 17-10-2026
 
 [324 — Media đã gom, chưa xóa gì](324_local-media-archive-and-cleanup-guidance.md): tại `D:/Workspace/agentic_cinema_media_archive/EP01_Nem_Bui_20261017`,11.784media/~9,45GB, kèm1.494hồ sơ và danh mụcV2 ánh xạ13.020nguồn. Copy/hash/đường dẫn đều kiểm; không xóa/move/relink nguồn, không tải hoặc xóaFlow. Giữ video323 đang chọn, không đổi finalstatus. Khuyến nghị backup ngoài máy trước dọn bản trùng có phạm vi.
 

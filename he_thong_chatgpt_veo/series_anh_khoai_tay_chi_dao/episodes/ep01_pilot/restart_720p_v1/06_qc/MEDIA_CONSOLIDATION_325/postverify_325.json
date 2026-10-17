@@ -1,0 +1,27 @@
+{
+  "Record": "REC325",
+  "ScopedRootMediaCounts": [
+    {
+      "Root": "D:\\Workspace\\agentic_cinema\\he_thong_chatgpt_veo",
+      "RemainingMedia": 0
+    },
+    {
+      "Root": "D:\\Workspace\\agentic_cinema\\artifacts",
+      "RemainingMedia": 0
+    },
+    {
+      "Root": "C:\\Users\\PC\\Downloads\\du_an_nem_bui",
+      "RemainingMedia": 0
+    },
+    {
+      "Root": "C:\\Users\\PC\\.codex\\generated_images\\01a0eb0e-6ec3-7121-a6a5-ea0ccdb77744",
+      "RemainingMedia": 0
+    }
+  ],
+  "OriginalPathsRemaining": 0,
+  "ReceiptSHA256": "f0c76963c60482187f20e23b1127874a0fbbd526fae8ebc0da3dfe33580e56c7",
+  "SelectedVideoSHA256": "d7f380e05bdcafb3eb2768ce0cc4d011c6ee7570a4ec24788ce0cdf4305e2845",
+  "AllArchiveSizesAndTimesMatchPreflight": true,
+  "PlanSHA256": "975f361b31fcb2ded333f1bcfc018a449c89c6621f45ee945c6291089d3e544e",
+  "RetainedUniqueArchiveFiles": 11784
+}
